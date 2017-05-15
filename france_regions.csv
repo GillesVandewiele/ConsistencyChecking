@@ -1,0 +1,27 @@
+id	Region	Dbpedia_URI	Eurostat_URI	Gadm_URI	unemployment_rate	label
+1	Bretagne	http://dbpedia.org/resource/Brittany_(administrative_region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Bretagne	http://gadm.geovocab.org/id/1_994	0.096543	low
+2	Pays de la Loire	http://dbpedia.org/resource/Pays_de_la_Loire	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Pays_De_La_Loire	http://gadm.geovocab.org/id/1_1006	0.097747	low
+3	Limousin	http://dbpedia.org/resource/Limousin_(region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Limousin	http://gadm.geovocab.org/id/1_1002	0.099603	low
+4	Rhône-Alpes	http://dbpedia.org/resource/Rh%C3%B4ne-Alpes	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Rh%C3%B4ne-alpes	http://gadm.geovocab.org/id/1_1010	0.10156	low
+5	Auvergne	http://dbpedia.org/resource/Auvergne_(region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Auvergne	http://gadm.geovocab.org/id/1_991	0.101963	low
+6	Centre	http://dbpedia.org/resource/Centre_(French_region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Centre	http://gadm.geovocab.org/id/1_995	0.106691	low
+7	Basse-Normandie	http://dbpedia.org/resource/Lower_Normandy	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Basse-normandie	http://gadm.geovocab.org/id/1_992	0.107552	low
+8	Bourgogne	http://dbpedia.org/resource/Burgundy_(French_region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Bourgogne	http://gadm.geovocab.org/id/1_993	0.107577	low
+9	Midi-Pyrénées	http://dbpedia.org/resource/Midi-Pyr%C3%A9n%C3%A9es	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Midi-pyr%C3%A9n%C3%A9es	http://gadm.geovocab.org/id/1_1004	0.109587	low
+10	Franche-Comté	http://dbpedia.org/resource/Franche-Comt%C3%A9	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Franche-comt%C3%A9	http://gadm.geovocab.org/id/1_998	0.109748	low
+11	Île-de-France	http://dbpedia.org/resource/%C3%8Ele-de-France_(region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/page/regions/%C3%8Ele_De_France	http://gadm.geovocab.org/id/1_1000	0.110428	low
+12	Alsace	http://dbpedia.org/resource/Alsace	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Alsace	http://gadm.geovocab.org/id/1_989	0.111661	low
+13	Aquitaine	http://dbpedia.org/resource/Aquitaine	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Aquitaine	http://gadm.geovocab.org/id/1_990	0.111728	low
+14	Poitou-Charentes	http://dbpedia.org/resource/Poitou-Charentes	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Poitou-charentes	http://gadm.geovocab.org/id/1_1008	0.113407	low
+15	Corse	http://dbpedia.org/resource/Corsica	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Corse	http://gadm.geovocab.org/id/1_997	0.113671	low
+16	Lorraine	http://dbpedia.org/resource/Lorraine_(region)	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Lorraine	http://gadm.geovocab.org/id/1_1003	0.122445	high
+17	Haute-Normandie	http://dbpedia.org/resource/Upper_Normandy	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Haute-normandie	http://gadm.geovocab.org/id/1_999	0.124161	high
+18	Champagne-Ardenne	http://dbpedia.org/resource/Champagne-Ardenne	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Champagne-ardenne	http://gadm.geovocab.org/id/1_996	0.125139	high
+19	Provence-Alpes-Côte d'Azur	http://dbpedia.org/resource/Provence-Alpes-C%C3%B4te_d'Azur	http://wifo5-04.informatik.uni-mannheim.de/eurostat/page/regions/Provence-alpes-c%C3%B4te_Dazur	http://gadm.geovocab.org/id/1_1009	0.131311	high
+20	Picardie	http://dbpedia.org/resource/Picardy	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Picardie	http://gadm.geovocab.org/id/1_1007	0.131786	high
+21	Nord-Pas-de-Calais	http://dbpedia.org/resource/Nord-Pas-de-Calais	http://wifo5-04.informatik.uni-mannheim.de/eurostat/page/regions/Nord_-_Pas-de-calais	http://gadm.geovocab.org/id/1_1005	0.154237	high
+22	Languedoc-Roussillon	http://dbpedia.org/resource/Languedoc-Roussillon	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Languedoc-roussillon	http://gadm.geovocab.org/id/1_1001	0.154924	high
+23	Martinique	http://dbpedia.org/resource/Martinique	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Martinique	http://gadm.geovocab.org/id/0_155	0.258842	high
+24	Guadeloupe	http://dbpedia.org/resource/Guadeloupe	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Guadeloupe	http://gadm.geovocab.org/id/0_86	0.283742	high
+25	Guyane	http://dbpedia.org/resource/French_Guiana	http://wifo5-04.informatik.uni-mannheim.de/eurostat/resource/regions/Guyane	http://gadm.geovocab.org/id/0_94	0.303206	high
+26	La Réunion	http://dbpedia.org/resource/R%C3%A9union	http://wifo5-04.informatik.uni-mannheim.de/eurostat/page/regions/R%C3%A9union	http://gadm.geovocab.org/id/0_188	0.3422	high
