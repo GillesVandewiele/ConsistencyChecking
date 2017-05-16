@@ -1,0 +1,676 @@
+digraph { 
+ node [ fontname="DejaVu Sans" ] ; 
+	node0 -> node1 [ color=BLACK, label=dbo_commander ] ;
+	node1 -> node2 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node3 [ color=BLACK, label=dct_subject ] ;
+	node4 -> node1 [ color=BLACK, label=dbo_basedOn ] ;
+	node5 -> node1 [ color=BLACK, label=dbo_author ] ;
+	node6 -> node1 [ color=BLACK, label=dbp_subject ] ;
+	node7 -> node1 [ color=BLACK, label=dbp_children ] ;
+	node1 -> node8 [ color=BLACK, label=dct_subject ] ;
+	node9 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node10 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node11 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node12 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node13 [ color=BLACK, label=dbp_deathPlace ] ;
+	node1 -> node14 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node15 [ color=BLACK, label=dbo_termPeriod ] ;
+	node16 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node17 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node18 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node19 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node20 [ color=BLACK, label=dbo_battle ] ;
+	node21 -> node1 [ color=BLACK, label=dbo_appointer ] ;
+	node22 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node23 [ color=BLACK, label=dbo_predecessor ] ;
+	node1 -> node24 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node25 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node26 [ color=BLACK, label=rdf_type ] ;
+	node27 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node28 [ color=BLACK, label=dbp_state ] ;
+	node29 -> node1 [ color=BLACK, label=dbp_influences ] ;
+	node30 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node31 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node32 [ color=BLACK, label=dct_subject ] ;
+	node33 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node34 [ color=BLACK, label=rdf_type ] ;
+	node35 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node36 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node37 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node38 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node39 [ color=BLACK, label=dbp_successor ] ;
+	node5 -> node1 [ color=BLACK, label=dbp_author ] ;
+	node40 -> node1 [ color=BLACK, label=dbp_predecessor ] ;
+	node1 -> node41 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node42 -> node1 [ color=BLACK, label=dbp_commander ] ;
+	node1 -> node43 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node44 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node45 [ color=BLACK, label=dbo_party ] ;
+	node46 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node47 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node25 [ color=BLACK, label=dbo_spouse ] ;
+	node1 -> node48 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node49 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node50 [ color=BLACK, label=dbo_militaryRank ] ;
+	node51 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node52 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node53 [ color=BLACK, label=dct_subject ] ;
+	node54 -> node1 [ color=BLACK, label=dbo_guest ] ;
+	node1 -> node55 [ color=BLACK, label=rdf_type ] ;
+	node56 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node57 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node58 [ color=BLACK, label=rdf_type ] ;
+	node59 -> node1 [ color=BLACK, label=dbp_commander ] ;
+	node60 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node61 -> node1 [ color=BLACK, label=dbo_nonFictionSubject ] ;
+	node62 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node63 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node64 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node65 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node1 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node66 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node67 [ color=BLACK, label=dbp_office ] ;
+	node68 -> node1 [ color=BLACK, label=dbo_child ] ;
+	node1 -> node69 [ color=BLACK, label=foaf_depiction ] ;
+	node1 -> node70 [ color=BLACK, label=dbo_restingPlace ] ;
+	node71 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node72 [ color=BLACK, label=dbp_restingplace ] ;
+	node73 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node74 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node75 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node76 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node77 [ color=BLACK, label=foaf_isPrimaryTopicOf ] ;
+	node78 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node22 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node79 -> node1 [ color=BLACK, label=dbp_commander ] ;
+	node1 -> node80 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node20 [ color=BLACK, label=dbp_battles ] ;
+	node61 -> node1 [ color=BLACK, label=dbp_subject ] ;
+	node1 -> node81 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node82 [ color=BLACK, label=rdf_type ] ;
+	node83 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node84 [ color=BLACK, label=rdf_type ] ;
+	node85 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node86 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node87 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node88 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node89 [ color=BLACK, label=rdf_type ] ;
+	node90 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node29 -> node1 [ color=BLACK, label=dbo_influencedBy ] ;
+	node1 -> node91 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node92 [ color=BLACK, label=rdf_type ] ;
+	node93 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node11 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node94 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node95 -> node1 [ color=BLACK, label=dbo_influencedBy ] ;
+	node1 -> node96 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node97 [ color=BLACK, label=rdf_type ] ;
+	node98 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node99 -> node1 [ color=BLACK, label=dbo_wikiPageDisambiguates ] ;
+	node100 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node4 -> node1 [ color=BLACK, label=dbp_basis ] ;
+	node101 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node102 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node103 [ color=BLACK, label=dbo_religion ] ;
+	node1 -> node104 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node105 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node106 [ color=BLACK, label=rdf_type ] ;
+	node107 -> node1 [ color=BLACK, label=dbo_appointer ] ;
+	node35 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node98 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node76 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node108 [ color=BLACK, label=dct_subject ] ;
+	node109 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node110 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node111 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node112 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node113 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node114 [ color=BLACK, label=owl_sameAs ] ;
+	node6 -> node1 [ color=BLACK, label=dbo_nonFictionSubject ] ;
+	node1 -> node115 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node28 [ color=BLACK, label=dbo_region ] ;
+	node116 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node117 -> node1 [ color=BLACK, label=dbo_knownFor ] ;
+	node1 -> node118 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node119 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node120 [ color=BLACK, label=dct_subject ] ;
+	node121 -> node1 [ color=BLACK, label=dbp_subject ] ;
+	node121 -> node1 [ color=BLACK, label=dbo_nonFictionSubject ] ;
+	node1 -> node122 [ color=BLACK, label=rdf_type ] ;
+	node123 -> node1 [ color=BLACK, label=dbo_influencedBy ] ;
+	node1 -> node124 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node125 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node126 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node127 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node128 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node129 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node130 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node131 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node25 -> node1 [ color=BLACK, label=dbo_spouse ] ;
+	node132 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node125 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node133 [ color=BLACK, label=dbo_restingPlace ] ;
+	node25 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node134 [ color=BLACK, label=dbo_child ] ;
+	node1 -> node40 [ color=BLACK, label=dbp_successor ] ;
+	node1 -> node135 [ color=BLACK, label=rdf_type ] ;
+	node136 -> node1 [ color=BLACK, label=dbp_appointer ] ;
+	node1 -> node39 [ color=BLACK, label=dbo_successor ] ;
+	node1 -> node137 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node138 [ color=BLACK, label=rdf_type ] ;
+	node139 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node140 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node141 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node142 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node143 [ color=BLACK, label=dct_subject ] ;
+	node144 -> node1 [ color=BLACK, label=dbo_nonFictionSubject ] ;
+	node1 -> node145 [ color=BLACK, label=dct_subject ] ;
+	node146 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node147 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node148 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node149 [ color=BLACK, label=rdf_type ] ;
+	node150 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node151 -> node1 [ color=BLACK, label=dbo_successor ] ;
+	node1 -> node152 [ color=BLACK, label=rdf_type ] ;
+	node33 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node153 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node154 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node40 [ color=BLACK, label=dbo_successor ] ;
+	node1 -> node151 [ color=BLACK, label=dbp_predecessor ] ;
+	node1 -> node155 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node156 [ color=BLACK, label=rdf_type ] ;
+	node90 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node157 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node158 [ color=BLACK, label=rdf_type ] ;
+	node159 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node51 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node160 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node161 [ color=BLACK, label=dbo_party ] ;
+	node162 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node163 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node164 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node165 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node166 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node167 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node168 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node169 [ color=BLACK, label=dct_subject ] ;
+	node141 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node170 [ color=BLACK, label=owl_sameAs ] ;
+	node171 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node172 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node173 [ color=BLACK, label=rdf_type ] ;
+	node73 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node77 -> node1 [ color=BLACK, label=foaf_primaryTopic ] ;
+	node1 -> node174 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node175 [ color=BLACK, label=dbo_termPeriod ] ;
+	node1 -> node176 [ color=BLACK, label=rdf_type ] ;
+	node159 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node177 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node178 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node179 [ color=BLACK, label=rdf_type ] ;
+	node21 -> node1 [ color=BLACK, label=dbp_appointer ] ;
+	node180 -> node1 [ color=BLACK, label=dbo_parent ] ;
+	node181 -> node1 [ color=BLACK, label=dbo_director ] ;
+	node1 -> node182 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node151 [ color=BLACK, label=dbo_predecessor ] ;
+	node183 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node184 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node185 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node186 [ color=BLACK, label=dbo_militaryRank ] ;
+	node1 -> node187 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node188 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node189 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node190 [ color=BLACK, label=dbp_wordnet_type ] ;
+	node191 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node192 [ color=BLACK, label=dbo_termPeriod ] ;
+	node1 -> node193 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node194 [ color=BLACK, label=dct_subject ] ;
+	node116 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node195 [ color=BLACK, label=owl_sameAs ] ;
+	node196 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node197 [ color=BLACK, label=dct_subject ] ;
+	node71 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node198 [ color=BLACK, label=owl_sameAs ] ;
+	node101 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node136 -> node1 [ color=BLACK, label=dbo_appointer ] ;
+	node1 -> node199 [ color=BLACK, label=rdf_type ] ;
+	node40 -> node1 [ color=BLACK, label=dbo_predecessor ] ;
+	node200 -> node1 [ color=BLACK, label=dbo_nonFictionSubject ] ;
+	node201 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node202 -> node1 [ color=BLACK, label=rdfs_seeAlso ] ;
+	node203 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node40 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node204 [ color=BLACK, label=dbo_region ] ;
+	node1 -> node205 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node13 [ color=BLACK, label=dbo_deathPlace ] ;
+	node1 -> node206 [ color=BLACK, label=dbo_thumbnail ] ;
+	node1 -> node207 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node208 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node25 [ color=BLACK, label=dbp_spouse ] ;
+	node1 -> node209 [ color=BLACK, label=dbo_deathPlace ] ;
+	node1 -> node210 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node211 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node212 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node213 [ color=BLACK, label=dbo_child ] ;
+	node1 -> node214 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node215 [ color=BLACK, label=rdf_type ] ;
+	node123 -> node1 [ color=BLACK, label=dbp_influences ] ;
+	node216 -> node1 [ color=BLACK, label=dbo_wikiPageDisambiguates ] ;
+	node1 -> node217 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node218 [ color=BLACK, label=prov_wasDerivedFrom ] ;
+	node1 -> node180 [ color=BLACK, label=dbo_child ] ;
+	node1 -> node219 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node220 [ color=BLACK, label=rdf_type ] ;
+	node107 -> node1 [ color=BLACK, label=dbp_appointer ] ;
+	node221 -> node1 [ color=BLACK, label=dbo_commander ] ;
+	node222 -> node1 [ color=BLACK, label=dbo_knownFor ] ;
+	node1 -> node223 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node224 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node225 [ color=BLACK, label=rdf_type ] ;
+	node36 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node12 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node93 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node226 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node227 [ color=BLACK, label=rdf_type ] ;
+	node228 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node78 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node180 -> node1 [ color=BLACK, label=dbp_parents ] ;
+	node1 -> node229 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node139 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node230 [ color=BLACK, label=rdf_type ] ;
+	node231 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node232 [ color=BLACK, label=owl_sameAs ] ;
+	node233 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node234 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node235 [ color=BLACK, label=rdf_type ] ;
+	node151 -> node1 [ color=BLACK, label=dbp_successor ] ;
+	node1 -> node236 [ color=BLACK, label=dct_subject ] ;
+	node237 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node238 -> node1 [ color=BLACK, label=dbo_influenced ] ;
+	node191 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node153 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node239 -> node1 [ color=BLACK, label=dbo_knownFor ] ;
+	node1 -> node240 [ color=BLACK, label=owl_sameAs ] ;
+	node241 -> node1 [ color=BLACK, label=dbo_parent ] ;
+	node1 -> node242 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node72 [ color=BLACK, label=dbo_restingPlace ] ;
+	node1 -> node243 [ color=BLACK, label=rdf_type ] ;
+	node30 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node237 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node238 -> node1 [ color=BLACK, label=dbp_influenced ] ;
+	node1 -> node244 [ color=BLACK, label=rdf_type ] ;
+	node245 -> node1 [ color=BLACK, label=dbo_relative ] ;
+	node1 -> node246 [ color=BLACK, label=dct_subject ] ;
+	node231 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node247 -> node1 [ color=BLACK, label=dbp_field ] ;
+	node1 -> node248 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node1 -> node249 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node250 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node251 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node252 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node253 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node254 [ color=BLACK, label=owl_sameAs ] ;
+	node255 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node256 [ color=BLACK, label=dbo_party ] ;
+	node1 -> node257 [ color=BLACK, label=rdf_type ] ;
+	node258 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node259 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node260 [ color=BLACK, label=rdf_type ] ;
+	node16 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node261 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node262 [ color=BLACK, label=rdf_type ] ;
+	node263 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node228 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node79 -> node1 [ color=BLACK, label=dbo_commander ] ;
+	node1 -> node264 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node265 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node266 [ color=BLACK, label=owl_sameAs ] ;
+	node1 -> node267 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node268 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node269 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node270 [ color=BLACK, label=owl_sameAs ] ;
+	node163 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node271 [ color=BLACK, label=rdf_type ] ;
+	node272 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node273 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node274 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node140 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node275 [ color=BLACK, label=rdf_type ] ;
+	node59 -> node1 [ color=BLACK, label=dbo_commander ] ;
+	node276 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node277 [ color=BLACK, label=rdf_type ] ;
+	node233 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node200 -> node1 [ color=BLACK, label=dbp_subject ] ;
+	node1 -> node23 [ color=BLACK, label=dbp_predecessor ] ;
+	node1 -> node278 [ color=BLACK, label=dct_subject ] ;
+	node279 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node146 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node280 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node281 [ color=BLACK, label=rdf_type ] ;
+	node102 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node282 [ color=BLACK, label=dbo_birthPlace ] ;
+	node1 -> node283 [ color=BLACK, label=dct_subject ] ;
+	node7 -> node1 [ color=BLACK, label=dbo_child ] ;
+	node1 -> node284 [ color=BLACK, label=dbo_wikiPageExternalLink ] ;
+	node162 -> node1 [ color=BLACK, label=dbo_president ] ;
+	node1 -> node285 [ color=BLACK, label=dct_subject ] ;
+	node1 -> node70 [ color=BLACK, label=dbp_restingplace ] ;
+	node247 -> node1 [ color=BLACK, label=dbo_field ] ;
+	node42 -> node1 [ color=BLACK, label=dbo_commander ] ;
+	node1 -> node286 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node287 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node288 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node289 [ color=BLACK, label=dct_subject ] ;
+	node9 -> node1 [ color=BLACK, label=dbp_president ] ;
+	node1 -> node241 [ color=BLACK, label=dbo_child ] ;
+	node213 -> node1 [ color=BLACK, label=dbo_knownFor ] ;
+	node1 -> node290 [ color=BLACK, label=owl_sameAs ] ;
+	node95 -> node1 [ color=BLACK, label=dbp_influences ] ;
+	node1 -> node291 [ color=BLACK, label=rdf_type ] ;
+	node1 -> node292 [ color=BLACK, label=rdfs_seeAlso ] ;
+	node293 -> node1 [ color=BLACK, label=dbo_nonFictionSubject ] ;
+	node294 -> node1 [ color=BLACK, label=dbo_wikiPageDisambiguates ] ;
+	node1 -> node295 [ color=BLACK, label=dbp_wordnet_type ] ;
+	node296 -> node1 [ color=BLACK, label=dbo_commander ] ;
+	node297 -> node1 [ color=BLACK, label=dbo_wikiPageRedirects ] ;
+	node1 -> node298 [ color=BLACK, label=rdf_type ] ;
+# http://xmlns.com/foaf/0.1/Person node208
+node208 [ shape=none, color=black label=Person ]# http://www.w3.org/2006/03/wn/wn20/instances/synset-president-noun-3 node190
+node190 [ shape=none, color=black label=synsetpresidentnoun3 ]# http://dbpedia.org/resource/William_H._Seward node102
+node102 [ shape=none, color=black label=WilliamHSeward ]# http://dbpedia.org/resource/Henry_Shelton_Sanford node71
+node71 [ shape=none, color=black label=HenrySheltonSanford ]# http://dbpedia.org/resource/Category:Union_political_leaders node167
+node167 [ shape=none, color=black label=Unionpoliticalleaders ]# http://dbpedia.org/class/yago/Representative110522035 node64
+node64 [ shape=none, color=black label=Representative110522035 ]# http://de.dbpedia.org/resource/Abraham_Lincoln node86
+node86 [ shape=none, color=black label=AbrahamLincoln ]# http://rdf.freebase.com/ns/m.0gzh node198
+node198 [ shape=none, color=black label=m0gzh ]# http://dbpedia.org/resource/The_Great_Emancipator node196
+node196 [ shape=none, color=black label=TheGreatEmancipator ]# http://dbpedia.org/class/yago/Disputant109615465 node298
+node298 [ shape=none, color=black label=Disputant109615465 ]# http://dbpedia.org/class/yago/Unfortunate109630641 node173
+node173 [ shape=none, color=black label=Unfortunate109630641 ]# http://dbpedia.org/resource/A._Lincoln node74
+node74 [ shape=none, color=black label=ALincoln ]# http://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_November_1863.jpg node69
+node69 [ shape=none, color=black label=AbrahamLincolnNovember1863jpg ]# http://el.dbpedia.org/resource/_ node49
+node49 [ shape=none, color=black label=empty ]# http://dbpedia.org/resource/Category:19th-century_Christians node194
+node194 [ shape=none, color=black label=thcenturyChristians ]# http://dbpedia.org/resource/Honest_Abe_Lincoln node60
+node60 [ shape=none, color=black label=HonestAbeLincoln ]# http://dbpedia.org/class/yago/Worker109632518 node130
+node130 [ shape=none, color=black label=Worker109632518 ]# http://dbpedia.org/resource/Category:American_postmasters node104
+node104 [ shape=none, color=black label=Americanpostmasters ]# http://dbpedia.org/resource/Whig_Party_(United_States) node161
+node161 [ shape=none, color=black label=httpdbpediaorgresourceWhigPartyUnitedStates ]# http://dbpedia.org/resource/Category:Abraham_Lincoln node169
+node169 [ shape=none, color=black label=AbrahamLincoln ]# http://www.illinois.gov/alplm/library/Pages/default.aspx node124
+node124 [ shape=none, color=black label=defaultaspx ]# http://dbpedia.org/class/yago/WikicatAmericanPoliticians node176
+node176 [ shape=none, color=black label=WikicatAmericanPoliticians ]# http://dbpedia.org/resource/Category:People_from_Spencer_County,_Indiana node53
+node53 [ shape=none, color=black label=Indiana ]# http://www.whitehouse.gov/1600/presidents/abrahamlincoln node219
+node219 [ shape=none, color=black label=abrahamlincoln ]# http://schema.org/Person node158
+node158 [ shape=none, color=black label=Person ]# http://dbpedia.org/class/yago/Communicator109610660 node268
+node268 [ shape=none, color=black label=Communicator109610660 ]# http://dbpedia.org/resource/Robert_Todd_Lincoln node134
+node134 [ shape=none, color=black label=RobertToddLincoln ]# http://fr.dbpedia.org/resource/Abraham_Lincoln node212
+node212 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/resource/The_Fiery_Trial:_Abraham_Lincoln_and_American_Slavery node6
+node6 [ shape=none, color=black label=AbrahamLincolnandAmericanSlavery ]# http://dbpedia.org/resource/16th_President_of_the_United_States node10
+node10 [ shape=none, color=black label=thPresidentoftheUnitedStates ]# http://dbpedia.org/resource/Battle_of_Fort_Stevens node59
+node59 [ shape=none, color=black label=BattleofFortStevens ]# http://dbpedia.org/resource/Presedent_Lincon node75
+node75 [ shape=none, color=black label=PresedentLincon ]# http://dbpedia.org/ontology/Agent node243
+node243 [ shape=none, color=black label=Agent ]# http://dbpedia.org/resource/William_Wallace_Lincoln node241
+node241 [ shape=none, color=black label=WilliamWallaceLincoln ]# http://en.wikipedia.org/wiki/Abraham_Lincoln node77
+node77 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/class/yago/WikicatAmericanMurderVictims node249
+node249 [ shape=none, color=black label=WikicatAmericanMurderVictims ]# http://dbpedia.org/class/yago/Employer110054657 node157
+node157 [ shape=none, color=black label=Employer110054657 ]# http://dbpedia.org/resource/James_Speed node140
+node140 [ shape=none, color=black label=JamesSpeed ]# http://dbpedia.org/resource/Abe_Lincoln node56
+node56 [ shape=none, color=black label=AbeLincoln ]# http://dbpedia.org/resource/Category:United_States_presidential_candidates,_1864 node250
+node250 [ shape=none, color=black label=1864 ]# http://dbpedia.org/resource/Abraham_lincoln node203
+node203 [ shape=none, color=black label=Abrahamlincoln ]# http://yago-knowledge.org/resource/Abraham_Lincoln node193
+node193 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/resource/President_Lincoln node297
+node297 [ shape=none, color=black label=PresidentLincoln ]# http://dbpedia.org/resource/President_Abraham node100
+node100 [ shape=none, color=black label=PresidentAbraham ]# http://dbpedia.org/class/yago/WikicatAmericanPeople node2
+node2 [ shape=none, color=black label=WikicatAmericanPeople ]# http://dbpedia.org/class/yago/MilitaryOfficer110317007 node152
+node152 [ shape=none, color=black label=MilitaryOfficer110317007 ]# http://dbpedia.org/resource/Thomas_Lincoln node68
+node68 [ shape=none, color=black label=ThomasLincoln ]# http://dbpedia.org/class/yago/YagoLegalActor node179
+node179 [ shape=none, color=black label=YagoLegalActor ]# http://eu.dbpedia.org/resource/Abraham_Lincoln node234
+node234 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/class/yago/WikicatPeopleMurderedInWashington,D.C. node14
+node14 [ shape=none, color=black label=DC ]# http://dbpedia.org/resource/Category:People_of_Illinois_in_the_American_Civil_War node8
+node8 [ shape=none, color=black label=PeopleofIllinoisintheAmericanCivilWar ]# http://www.amazon.com/Lincoln-Election-1860-Concise-Library/dp/0809330350/ node37
+node37 [ shape=none, color=black label=httpwwwamazoncomLincolnElection1860ConciseLibrarydp0809330350 ]# http://dbpedia.org/resource/Lincoln_at_Gettysburg node121
+node121 [ shape=none, color=black label=LincolnatGettysburg ]# http://data.europa.eu/euodp/jrc-names/Jonathan_Dillon node232
+node232 [ shape=none, color=black label=JonathanDillon ]# http://dbpedia.org/resource/National_Union_Party_(United_States) node256
+node256 [ shape=none, color=black label=httpdbpediaorgresourceNationalUnionPartyUnitedStates ]# http://dbpedia.org/class/yago/ArmyOfficer109809749 node52
+node52 [ shape=none, color=black label=ArmyOfficer109809749 ]# http://dbpedia.org/resource/Lincoln node99
+node99 [ shape=none, color=black label=Lincoln ]# http://dbpedia.org/resource/Category:Republican_Party_Presidents_of_the_United_States node252
+node252 [ shape=none, color=black label=RepublicanPartyPresidentsoftheUnitedStates ]# http://it.dbpedia.org/resource/Abraham_Lincoln node195
+node195 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/resource/Chasing_Vermeer node5
+node5 [ shape=none, color=black label=ChasingVermeer ]# http://dbpedia.org/resource/Category:Whig_Party_members_of_the_United_States_House_of_Representatives node246
+node246 [ shape=none, color=black label=WhigPartymembersoftheUnitedStatesHouseofRepresentatives ]# http://dbpedia.org/class/yago/WikicatPeopleFromColesCounty,Illinois node264
+node264 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/class/yago/Official110372373 node286
+node286 [ shape=none, color=black label=Official110372373 ]# https://www.questia.com/library/79055660/the-fate-of-liberty-abraham-lincoln-and-civil-liberties node41
+node41 [ shape=none, color=black label=thefateoflibertyabrahamlincolnandcivilliberties ]# http://dbpedia.org/resource/Washington,_D.C. node209
+node209 [ shape=none, color=black label=DC ]# http://dbpedia.org/class/yago/Serviceman110582746 node55
+node55 [ shape=none, color=black label=Serviceman110582746 ]# http://dbpedia.org/resource/Schuyler_Colfax node237
+node237 [ shape=none, color=black label=SchuylerColfax ]# http://dbpedia.org/resource/The_Rail_Splitter node276
+node276 [ shape=none, color=black label=TheRailSplitter ]# http://dbpedia.org/resource/Religious_views_of_Abraham_Lincoln node103
+node103 [ shape=none, color=black label=ReligiousviewsofAbrahamLincoln ]# http://dbpedia.org/resource/Springfield,_Illinois node133
+node133 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/class/yago/Organism100004475 node92
+node92 [ shape=none, color=black label=Organism100004475 ]# http://ko.dbpedia.org/resource/_ node147
+node147 [ shape=none, color=black label=empty ]# http://dbpedia.org/resource/Lincolnian node280
+node280 [ shape=none, color=black label=Lincolnian ]# http://dbpedia.org/resource/Captain_(United_States_O-3) node186
+node186 [ shape=none, color=black label=httpdbpediaorgresourceCaptainUnitedStatesO3 ]# http://dbpedia.org/class/yago/WikicatPeopleFromMaconCounty,Illinois node156
+node156 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/resource/Edgar_Lee_Masters node95
+node95 [ shape=none, color=black label=EdgarLeeMasters ]# http://dbpedia.org/class/yago/WikicatAmericanPostmasters node217
+node217 [ shape=none, color=black label=WikicatAmericanPostmasters ]# http://dbpedia.org/class/yago/Negotiator110351874 node260
+node260 [ shape=none, color=black label=Negotiator110351874 ]# http://dbpedia.org/class/yago/Scholar110557854 node142
+node142 [ shape=none, color=black label=Scholar110557854 ]# http://dbpedia.org/resource/Republican_Party_(United_States) node45
+node45 [ shape=none, color=black label=httpdbpediaorgresourceRepublicanPartyUnitedStates ]# http://dbpedia.org/resource/Ellen_Hamlin node98
+node98 [ shape=none, color=black label=EllenHamlin ]# http://dbpedia.org/class/yago/WikicatIllinoisLawyers node26
+node26 [ shape=none, color=black label=WikicatIllinoisLawyers ]# http://dbpedia.org/class/yago/Leader109623038 node119
+node119 [ shape=none, color=black label=Leader109623038 ]# http://dbpedia.org/class/yago/WikicatAmericanLawyers node188
+node188 [ shape=none, color=black label=WikicatAmericanLawyers ]# http://dbpedia.org/class/yago/WikicatPeopleOfTheAmericanCivilWar node18
+node18 [ shape=none, color=black label=WikicatPeopleOfTheAmericanCivilWar ]# http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1 node295
+node295 [ shape=none, color=black label=synsetincumbentnoun1 ]# http://dbpedia.org/class/yago/Postmaster110459575 node235
+node235 [ shape=none, color=black label=Postmaster110459575 ]# http://dbpedia.org/resource/Black_Hawk_War node20
+node20 [ shape=none, color=black label=BlackHawkWar ]# http://dbpedia.org/resource/Ward_Hill_Lamon node117
+node117 [ shape=none, color=black label=WardHillLamon ]# http://dbpedia.org/resource/Nancy_Lincoln node7
+node7 [ shape=none, color=black label=NancyLincoln ]# http://dbpedia.org/resource/American_Civil_War node0
+node0 [ shape=none, color=black label=AmericanCivilWar ]# http://dbpedia.org/class/yago/Adversary109773245 node288
+node288 [ shape=none, color=black label=Adversary109773245 ]# http://ja.dbpedia.org/resource/ node172
+node172 [ shape=none, color=black label=httpjadbpediaorgresource ]# http://dbpedia.org/resource/Abraham_(president) node27
+node27 [ shape=none, color=black label=httpdbpediaorgresourceAbrahampresident ]# http://dbpedia.org/class/yago/Abolitionist109756637 node244
+node244 [ shape=none, color=black label=Abolitionist109756637 ]# http://dbpedia.org/resource/Category:Presidents_of_the_United_States node120
+node120 [ shape=none, color=black label=PresidentsoftheUnitedStates ]# http://dbpedia.org/resource/Thomas_L._Harris node39
+node39 [ shape=none, color=black label=ThomasLHarris ]# http://dbpedia.org/resource/John_Palmer_Usher node51
+node51 [ shape=none, color=black label=JohnPalmerUsher ]# http://dbpedia.org/resource/Category:19th-century_American_politicians node108
+node108 [ shape=none, color=black label=thcenturyAmericanpoliticians ]# http://dbpedia.org/class/yago/YagoLegalActorGeo node220
+node220 [ shape=none, color=black label=YagoLegalActorGeo ]# http://dbpedia.org/resource/Lincoln,_Abraham node184
+node184 [ shape=none, color=black label=Abraham ]# http://dbpedia.org/resource/Abe_licnoln node263
+node263 [ shape=none, color=black label=Abelicnoln ]# http://dbpedia.org/resource/Petersen_House node13
+node13 [ shape=none, color=black label=PetersenHouse ]# http://dbpedia.org/resource/Gideon_Welles node22
+node22 [ shape=none, color=black label=GideonWelles ]# http://dbpedia.org/resource/Category:1809_births node289
+node289 [ shape=none, color=black label=births ]# http://dbpedia.org/ontology/OfficeHolder node110
+node110 [ shape=none, color=black label=OfficeHolder ]# http://dbpedia.org/resource/Union_blockade node296
+node296 [ shape=none, color=black label=Unionblockade ]# http://dbpedia.org/class/yago/WikicatRepublicanPartyPresidentsOfTheUnitedStates node47
+node47 [ shape=none, color=black label=WikicatRepublicanPartyPresidentsOfTheUnitedStates ]# http://dbpedia.org/resource/Abraham_Lincoln's_Life node258
+node258 [ shape=none, color=black label=sLife ]# http://dbpedia.org/resource/Carl_Schurz node162
+node162 [ shape=none, color=black label=CarlSchurz ]# http://dbpedia.org/resource/Lincoln's_Gamble node144
+node144 [ shape=none, color=black label=sGamble ]# http://dbpedia.org/class/yago/WikicatAssassinatedUnitedStatesPresidents node281
+node281 [ shape=none, color=black label=WikicatAssassinatedUnitedStatesPresidents ]# http://dbpedia.org/class/yago/Adult109605289 node174
+node174 [ shape=none, color=black label=Adult109605289 ]# http://dbpedia.org/resource/William_Dennison_Jr. node35
+node35 [ shape=none, color=black label=WilliamDennisonJr ]# http://pl.dbpedia.org/resource/Abraham_Lincoln node114
+node114 [ shape=none, color=black label=AbrahamLincoln ]# http://id.dbpedia.org/resource/Abraham_Lincoln node87
+node87 [ shape=none, color=black label=AbrahamLincoln ]# http://lincoln.lib.niu.edu/ node44
+node44 [ shape=none, color=black label=httplincolnlibniuedu ]# http://dbpedia.org/class/yago/Dueler110038929 node207
+node207 [ shape=none, color=black label=Dueler110038929 ]# http://pt.dbpedia.org/resource/Abraham_Lincoln node254
+node254 [ shape=none, color=black label=AbrahamLincoln ]# http://en.wikipedia.org/wiki/Abraham_Lincoln?oldid=708291397 node218
+node218 [ shape=none, color=black label=httpenwikipediaorgwikiAbrahamLincolnoldid708291397 ]# http://www.w3.org/2002/07/owl#Thing node148
+node148 [ shape=none, color=black label=Thing ]# http://dbpedia.org/resource/Abraham_Lincoln__1 node175
+node175 [ shape=none, color=black label=AbrahamLincoln1 ]# http://dbpedia.org/resource/Abraham_Lincoln__3 node192
+node192 [ shape=none, color=black label=AbrahamLincoln3 ]# http://dbpedia.org/resource/Henry_Adams node29
+node29 [ shape=none, color=black label=HenryAdams ]# http://dbpedia.org/class/yago/Holder110180178 node122
+node122 [ shape=none, color=black label=Holder110180178 ]# http://dbpedia.org/resource/Category:Members_of_the_Illinois_House_of_Representatives node19
+node19 [ shape=none, color=black label=MembersoftheIllinoisHouseofRepresentatives ]# http://dbpedia.org/resource/Thomas_DiLorenzo node247
+node247 [ shape=none, color=black label=ThomasDiLorenzo ]# http://www.c-span.org/video/?125640-1/life-portrait-abraham-lincoln node177
+node177 [ shape=none, color=black label=lifeportraitabrahamlincoln ]# http://dbpedia.org/resource/Category:Assassinated_Presidents_of_the_United_States node145
+node145 [ shape=none, color=black label=AssassinatedPresidentsoftheUnitedStates ]# http://dbpedia.org/class/yago/Officeholder110371450 node291
+node291 [ shape=none, color=black label=Officeholder110371450 ]# http://dbpedia.org/resource/Eliza_McCardle_Johnson node76
+node76 [ shape=none, color=black label=ElizaMcCardleJohnson ]# http://dbpedia.org/class/yago/WikicatUnitedStatesArmyOfficers node257
+node257 [ shape=none, color=black label=WikicatUnitedStatesArmyOfficers ]# http://dbpedia.org/class/yago/WikicatAmericanPeopleOfBritishDescent node149
+node149 [ shape=none, color=black label=WikicatAmericanPeopleOfBritishDescent ]# http://dbpedia.org/resource/Sidney_Edgerton node136
+node136 [ shape=none, color=black label=SidneyEdgerton ]# http://dbpedia.org/class/yago/SkilledWorker110605985 node251
+node251 [ shape=none, color=black label=SkilledWorker110605985 ]# http://dbpedia.org/class/yago/WikicatPeopleFromLaRueCounty,Kentucky node182
+node182 [ shape=none, color=black label=Kentucky ]# http://nl.dbpedia.org/resource/Abraham_Lincoln node17
+node17 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/class/yago/WikicatDuellists node48
+node48 [ shape=none, color=black label=WikicatDuellists ]# http://dbpedia.org/resource/Illinois's_7th_congressional_district node204
+node204 [ shape=none, color=black label=s7thcongressionaldistrict ]# http://dbpedia.org/resource/Oak_Ridge_Cemetery node70
+node70 [ shape=none, color=black label=OakRidgeCemetery ]# http://dbpedia.org/resource/George_Perkins_Marsh node21
+node21 [ shape=none, color=black label=GeorgePerkinsMarsh ]# http://dbpedia.org/class/yago/HeadOfState110164747 node168
+node168 [ shape=none, color=black label=HeadOfState110164747 ]# http://dbpedia.org/resource/Gustavus_Fox node16
+node16 [ shape=none, color=black label=GustavusFox ]# http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent node129
+node129 [ shape=none, color=black label=Agent ]# http://dbpedia.org/class/yago/Object100002684 node210
+node210 [ shape=none, color=black label=Object100002684 ]# http://dbpedia.org/resource/Abrahm_Lincoln node150
+node150 [ shape=none, color=black label=AbrahmLincoln ]# http://dbpedia.org/resource/Mary_Todd_Lincoln node25
+node25 [ shape=none, color=black label=MaryToddLincoln ]# http://dbpedia.org/resource/Abe_lincolin node185
+node185 [ shape=none, color=black label=Abelincolin ]# http://dbpedia.org/resource/Category:Political_party_founders node189
+node189 [ shape=none, color=black label=Politicalpartyfounders ]# http://dbpedia.org/resource/Ellen_Maria_Colfax node163
+node163 [ shape=none, color=black label=EllenMariaColfax ]# http://dbpedia.org/resource/Bibliography_of_Ulysses_S._Grant node101
+node101 [ shape=none, color=black label=BibliographyofUlyssesSGrant ]# http://dbpedia.org/resource/Warner_Underwood node33
+node33 [ shape=none, color=black label=WarnerUnderwood ]# http://dbpedia.org/resource/President_Abe_Lincoln node255
+node255 [ shape=none, color=black label=PresidentAbeLincoln ]# http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Lincoln_Abraham_1809-1865 node164
+node164 [ shape=none, color=black label=LincolnAbraham18091865 ]# http://dbpedia.org/resource/James_Buchanan node151
+node151 [ shape=none, color=black label=JamesBuchanan ]# http://dbpedia.org/resource/Abraham_Lincoln_(disambiguation) node216
+node216 [ shape=none, color=black label=httpdbpediaorgresourceAbrahamLincolndisambiguation ]# http://dbpedia.org/resource/Category:Assassinated_heads_of_state node224
+node224 [ shape=none, color=black label=Assassinatedheadsofstate ]# http://dbpedia.org/class/yago/WikicatPeopleFromKentucky node269
+node269 [ shape=none, color=black label=WikicatPeopleFromKentucky ]# http://www.wikidata.org/entity/Q215627 node215
+node215 [ shape=none, color=black label=Q215627 ]# http://dbpedia.org/class/yago/WikicatPresidentsOfTheUnitedStates node88
+node88 [ shape=none, color=black label=WikicatPresidentsOfTheUnitedStates ]# http://dbpedia.org/resource/George_M._Dallas node191
+node191 [ shape=none, color=black label=GeorgeMDallas ]# http://dbpedia.org/resource/Abaham_lincoln node31
+node31 [ shape=none, color=black label=Abahamlincoln ]# http://www.historycooperative.org/journals/jala/18.1/carwardine.html node24
+node24 [ shape=none, color=black label=carwardinehtml ]# http://dbpedia.org/resource/Abraham_Lincoln__2 node15
+node15 [ shape=none, color=black label=AbrahamLincoln2 ]# http://dbpedia.org/class/yago/WikicatSmallpoxSurvivors node275
+node275 [ shape=none, color=black label=WikicatSmallpoxSurvivors ]# http://dbpedia.org/resource/Abraham_Lincoln node1
+node1 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/resource/Category:Lincoln_family node96
+node96 [ shape=none, color=black label=Lincolnfamily ]# http://dbpedia.org/resource/Cultural_depictions_of_Abraham_Lincoln node292
+node292 [ shape=none, color=black label=CulturaldepictionsofAbrahamLincoln ]# https://www.questia.com/library/117296123/lincoln-and-the-decision-for-war-the-northern-response node105
+node105 [ shape=none, color=black label=lincolnandthedecisionforwarthenorthernresponse ]# http://dbpedia.org/resource/Rajiv_Satyal node123
+node123 [ shape=none, color=black label=RajivSatyal ]# http://dbpedia.org/resource/Abraham_Lincoln_and_the_American_Civil_War node126
+node126 [ shape=none, color=black label=AbrahamLincolnandtheAmericanCivilWar ]# http://dbpedia.org/class/yago/WikicatRepublicanParty(UnitedStates)Politicians node225
+node225 [ shape=none, color=black label=Politicians ]# http://dbpedia.org/resource/John_Henry_(representative) node23
+node23 [ shape=none, color=black label=httpdbpediaorgresourceJohnHenryrepresentative ]# http://dbpedia.org/resource/Galusha_A._Grow node12
+node12 [ shape=none, color=black label=GalushaAGrow ]# http://dbpedia.org/resource/Category:Illinois_lawyers node273
+node273 [ shape=none, color=black label=Illinoislawyers ]# http://umbel.org/umbel/rc/PersonWithOccupation node84
+node84 [ shape=none, color=black label=PersonWithOccupation ]# http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson node112
+node112 [ shape=none, color=black label=NaturalPerson ]# http://dbpedia.org/ontology/Person node154
+node154 [ shape=none, color=black label=Person ]# http://dbpedia.org/resource/The_Lincoln_Conspiracy_(book) node200
+node200 [ shape=none, color=black label=httpdbpediaorgresourceTheLincolnConspiracybook ]# http://dbpedia.org/class/yago/WikicatWhigParty(UnitedStates)Politicians node106
+node106 [ shape=none, color=black label=Politicians ]# http://dbpedia.org/resource/Hugh_McCulloch node228
+node228 [ shape=none, color=black label=HughMcCulloch ]# http://data.nytimes.com/43965769562908368213 node166
+node166 [ shape=none, color=black label=httpdatanytimescom43965769562908368213 ]# http://dbpedia.org/resource/President_Abraham_Lincoln node46
+node46 [ shape=none, color=black label=PresidentAbrahamLincoln ]# http://dbpedia.org/class/yago/Professional110480253 node227
+node227 [ shape=none, color=black label=Professional110480253 ]# http://dbpedia.org/resource/Category:1865_deaths node267
+node267 [ shape=none, color=black label=deaths ]# http://dbpedia.org/class/yago/WikicatPeopleFromSpencerCounty,Indiana node271
+node271 [ shape=none, color=black label=Indiana ]# http://dbpedia.org/resource/William_Jayne node90
+node90 [ shape=none, color=black label=WilliamJayne ]# http://dbpedia.org/resource/Slavery_Amendment node83
+node83 [ shape=none, color=black label=SlaveryAmendment ]# http://dbpedia.org/resource/Charles_Francis_Adams,_Sr. node116
+node116 [ shape=none, color=black label=Sr ]# http://dbpedia.org/resource/Fleetwood_Lindley node222
+node222 [ shape=none, color=black label=FleetwoodLindley ]# http://dbpedia.org/resource/Category:Hall_of_Fame_for_Great_Americans_inductees node187
+node187 [ shape=none, color=black label=HallofFameforGreatAmericansinductees ]# http://dbpedia.org/class/yago/PhysicalEntity100001930 node199
+node199 [ shape=none, color=black label=PhysicalEntity100001930 ]# http://dbpedia.org/resource/Honest_Abe node132
+node132 [ shape=none, color=black label=HonestAbe ]# http://dbpedia.org/class/yago/WikicatUnionPoliticalLeaders node261
+node261 [ shape=none, color=black label=WikicatUnionPoliticalLeaders ]# http://dbpedia.org/resource/Cassius_Marcellus_Clay_(politician) node159
+node159 [ shape=none, color=black label=httpdbpediaorgresourceCassiusMarcellusClaypolitician ]# http://dbpedia.org/resource/Early_life_and_career_of_Abraham_Lincoln node202
+node202 [ shape=none, color=black label=EarlylifeandcareerofAbrahamLincoln ]# http://dbpedia.org/class/yago/WikicatAmericanAbolitionists node89
+node89 [ shape=none, color=black label=WikicatAmericanAbolitionists ]# http://dbpedia.org/resource/Category:People_from_Macon_County,_Illinois node285
+node285 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/resource/James_McBride_(politician) node141
+node141 [ shape=none, color=black label=httpdbpediaorgresourceJamesMcBridepolitician ]# http://www.shapell.org/manuscript.aspx?the-government-is-about-to-fall-into-our-hands-1860-abraham-lincoln node178
+node178 [ shape=none, color=black label=thegovernmentisabouttofallintoourhands1860abrahamlincoln ]# http://dbpedia.org/resource/Caleb_Blood_Smith node36
+node36 [ shape=none, color=black label=CalebBloodSmith ]# http://dbpedia.org/resource/Lincoln's_cabinet node201
+node201 [ shape=none, color=black label=scabinet ]# http://dbpedia.org/resource/Category:American_classical_liberals node236
+node236 [ shape=none, color=black label=Americanclassicalliberals ]# http://es.dbpedia.org/resource/Abraham_Lincoln node170
+node170 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/resource/Hodgenville,_Kentucky node282
+node282 [ shape=none, color=black label=Kentucky ]# http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Washington,_D.C. node143
+node143 [ shape=none, color=black label=DC ]# http://dbpedia.org/resource/William_L._Dayton node107
+node107 [ shape=none, color=black label=WilliamLDayton ]# http://dbpedia.org/class/yago/WikicatAssassinatedAmericanPoliticians node82
+node82 [ shape=none, color=black label=WikicatAssassinatedAmericanPoliticians ]# http://cs.dbpedia.org/resource/Abraham_Lincoln node270
+node270 [ shape=none, color=black label=AbrahamLincoln ]# http://dbpedia.org/resource/James_B._Longacre node233
+node233 [ shape=none, color=black label=JamesBLongacre ]# http://dbpedia.org/resource/Category:Illinois_Republicans node165
+node165 [ shape=none, color=black label=IllinoisRepublicans ]# http://data.europa.eu/euodp/jrc-names/Abe_Lincoln node240
+node240 [ shape=none, color=black label=AbeLincoln ]# http://dbpedia.org/resource/Ulysses_S._Grant node78
+node78 [ shape=none, color=black label=UlyssesSGrant ]# http://dbpedia.org/resource/Simon_Cameron node231
+node231 [ shape=none, color=black label=SimonCameron ]# http://dbpedia.org/class/yago/Person100007846 node135
+node135 [ shape=none, color=black label=Person100007846 ]# http://dbpedia.org/resource/Tad_Lincoln node180
+node180 [ shape=none, color=black label=TadLincoln ]# http://dbpedia.org/resource/Edwin_Stanton node146
+node146 [ shape=none, color=black label=EdwinStanton ]# http://dbpedia.org/resource/John_Alexander_McClernand node139
+node139 [ shape=none, color=black label=JohnAlexanderMcClernand ]# http://dbpedia.org/resource/Chesapeake_Affair node42
+node42 [ shape=none, color=black label=ChesapeakeAffair ]# http://dbpedia.org/resource/Lincoln_Tomb node72
+node72 [ shape=none, color=black label=LincolnTomb ]# http://dbpedia.org/resource/Category:Republican_Party_(United_States)_presidential_nominees node3
+node3 [ shape=none, color=black label=presidentialnominees ]# http://dbpedia.org/resource/Category:Politicians_from_Springfield,_Illinois node211
+node211 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/class/yago/WikicatAssassinatedAmericanPeople node230
+node230 [ shape=none, color=black label=WikicatAssassinatedAmericanPeople ]# http://dbpedia.org/resource/Edward_Bates node9
+node9 [ shape=none, color=black label=EdwardBates ]# http://dbpedia.org/resource/Krishna_Pakshakkilikal node181
+node181 [ shape=none, color=black label=KrishnaPakshakkilikal ]# http://dbpedia.org/resource/Abe_(musical) node4
+node4 [ shape=none, color=black label=httpdbpediaorgresourceAbemusical ]# http://dbpedia.org/resource/Salmon_P._Chase node93
+node93 [ shape=none, color=black label=SalmonPChase ]# http://dbpedia.org/resource/Category:United_States_presidential_candidates,_1860 node197
+node197 [ shape=none, color=black label=1860 ]# http://dbpedia.org/resource/Illinois_House_of_Representatives node67
+node67 [ shape=none, color=black label=IllinoisHouseofRepresentatives ]# http://dbpedia.org/resource/Abraham_Lincon node63
+node63 [ shape=none, color=black label=AbrahamLincon ]# http://dbpedia.org/resource/Category:People_murdered_in_Washington,_D.C. node32
+node32 [ shape=none, color=black label=DC ]# http://dbpedia.org/class/yago/Lawyer110249950 node287
+node287 [ shape=none, color=black label=Lawyer110249950 ]# http://dbpedia.org/class/yago/WikicatPeopleFromSpringfield,Illinois node65
+node65 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/class/yago/WikicatAmericanPeopleOfWelshDescent node277
+node277 [ shape=none, color=black label=WikicatAmericanPeopleOfWelshDescent ]# http://dbpedia.org/resource/Hannibal_Hamlin node125
+node125 [ shape=none, color=black label=HannibalHamlin ]# http://dbpedia.org/resource/William_C._Price node11
+node11 [ shape=none, color=black label=WilliamCPrice ]# http://dbpedia.org/class/yago/WikicatAssassinatedPoliticians node115
+node115 [ shape=none, color=black label=WikicatAssassinatedPoliticians ]# http://www.wikidata.org/entity/Q5 node253
+node253 [ shape=none, color=black label=Q5 ]# http://www.wikidata.org/entity/Q91 node223
+node223 [ shape=none, color=black label=Q91 ]# http://dbpedia.org/resource/Abraham_Lincoln_(president) node85
+node85 [ shape=none, color=black label=httpdbpediaorgresourceAbrahamLincolnpresident ]# http://dbpedia.org/resource/Andrew_Johnson node40
+node40 [ shape=none, color=black label=AndrewJohnson ]# http://dbpedia.org/resource/Abe_Lincon node279
+node279 [ shape=none, color=black label=AbeLincon ]# http://dbpedia.org/resource/How_Few_Remain__The_War_of_Secession__1 node221
+node221 [ shape=none, color=black label=HowFewRemainTheWarofSecession1 ]# http://dbpedia.org/resource/Great_Emancipator node171
+node171 [ shape=none, color=black label=GreatEmancipator ]# http://dbpedia.org/class/yago/Intellectual109621545 node58
+node58 [ shape=none, color=black label=Intellectual109621545 ]# http://dbpedia.org/resource/Battle_of_Malvern_Hill node79
+node79 [ shape=none, color=black label=BattleofMalvernHill ]# http://dbpedia.org/resource/Category:People_from_LaRue_County,_Kentucky node283
+node283 [ shape=none, color=black label=Kentucky ]# http://dbpedia.org/resource/AL node294
+node294 [ shape=none, color=black label=AL ]# http://dbpedia.org/resource/James_Watson_Webb node30
+node30 [ shape=none, color=black label=JamesWatsonWebb ]# http://wikidata.dbpedia.org/resource/Q91 node290
+node290 [ shape=none, color=black label=Q91 ]# http://dbpedia.org/resource/Category:People_from_Coles_County,_Illinois node137
+node137 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/resource/William_P._Fessenden node153
+node153 [ shape=none, color=black label=WilliamPFessenden ]# https://web.archive.org/web/20091124091750/http:/www.historycooperative.org/journals/jala/18.1/carwardine.html node94
+node94 [ shape=none, color=black label=carwardinehtml ]# http://dbpedia.org/class/yago/CausalAgent100007347 node57
+node57 [ shape=none, color=black label=CausalAgent100007347 ]# http://dbpedia.org/class/yago/Politician110450303 node259
+node259 [ shape=none, color=black label=Politician110450303 ]# http://dbpedia.org/class/yago/Master110298647 node214
+node214 [ shape=none, color=black label=Master110298647 ]# http://dbpedia.org/class/yago/WikicatPeopleOfIllinoisInTheAmericanCivilWar node97
+node97 [ shape=none, color=black label=WikicatPeopleOfIllinoisInTheAmericanCivilWar ]# http://dbpedia.org/resource/Category:People_with_mood_disorders node81
+node81 [ shape=none, color=black label=Peoplewithmooddisorders ]# http://dbpedia.org/class/yago/Humanist110191192 node262
+node262 [ shape=none, color=black label=Humanist110191192 ]# http://dbpedia.org/resource/Abaraham_lincoln node183
+node183 [ shape=none, color=black label=Abarahamlincoln ]# http://dbpedia.org/resource/Category:Burials_at_Oak_Ridge_Cemetery node38
+node38 [ shape=none, color=black label=BurialsatOakRidgeCemetery ]# http://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_November_1863.jpg?width=300 node206
+node206 [ shape=none, color=black label=httpcommonswikimediaorgwikiSpecialFilePathAbrahamLincolnNovember1863jpgwidth300 ]# http://edsitement.neh.gov/teaching-abraham-lincoln#node-19470 node111
+node111 [ shape=none, color=black label=node19470 ]# http://dbpedia.org/resource/Illinois node28
+node28 [ shape=none, color=black label=Illinois ]# http://dbpedia.org/class/yago/Whole100003553 node34
+node34 [ shape=none, color=black label=Whole100003553 ]# http://viaf.org/viaf/76349832 node242
+node242 [ shape=none, color=black label=httpviaforgviaf76349832 ]# http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/civil_war_history/v050/50.4neely.html node131
+node131 [ shape=none, color=black label=neelyhtml ]# http://dbpedia.org/resource/Sarah_Bush_Lincoln node239
+node239 [ shape=none, color=black label=SarahBushLincoln ]# http://dbpedia.org/resource/Sarah_Lincoln_Grigsby node245
+node245 [ shape=none, color=black label=SarahLincolnGrigsby ]# http://www.lib.niu.edu/2006/ih060934.html node274
+node274 [ shape=none, color=black label=ih060934html ]# http://dbpedia.org/resource/Lincoln_the_Unknown node61
+node61 [ shape=none, color=black label=LincolntheUnknown ]# http://dbpedia.org/class/yago/WikicatAssassinatedHeadsOfState node91
+node91 [ shape=none, color=black label=WikicatAssassinatedHeadsOfState ]# http://dbpedia.org/resource/Category:American_people_of_English_descent node155
+node155 [ shape=none, color=black label=AmericanpeopleofEnglishdescent ]# http://dbpedia.org/resource/Edward_Baker_Lincoln node213
+node213 [ shape=none, color=black label=EdwardBakerLincoln ]# http://www.lincolnbicentennial.org/ node284
+node284 [ shape=none, color=black label=httpwwwlincolnbicentennialorg ]# http://dbpedia.org/class/yago/Owner110389398 node138
+node138 [ shape=none, color=black label=Owner110389398 ]# http://dbpedia.org/resource/Lincoln_and_Darwin node293
+node293 [ shape=none, color=black label=LincolnandDarwin ]# http://dbpedia.org/resource/Lincoln_(president) node62
+node62 [ shape=none, color=black label=httpdbpediaorgresourceLincolnpresident ]# https://books.google.com/?id=H84DAAAAMBAJ&pg=PA35 node248
+node248 [ shape=none, color=black label=PA35 ]# http://dbpedia.org/class/yago/President110467179 node118
+node118 [ shape=none, color=black label=President110467179 ]# http://dbpedia.org/resource/Thomas_Paine node238
+node238 [ shape=none, color=black label=ThomasPaine ]# http://dbpedia.org/resource/Francis_E._Spinner node73
+node73 [ shape=none, color=black label=FrancisESpinner ]# http://dbpedia.org/resource/Drew's_in_a_Coma node54
+node54 [ shape=none, color=black label=sinaComa ]# http://dbpedia.org/class/yago/Victim110752093 node265
+node265 [ shape=none, color=black label=Victim110752093 ]# http://dbpedia.org/class/yago/Survivor110681194 node43
+node43 [ shape=none, color=black label=Survivor110681194 ]# http://dbpedia.org/class/yago/Reformer110515194 node127
+node127 [ shape=none, color=black label=Reformer110515194 ]# http://dbpedia.org/resource/Category:Illinois_Whigs node128
+node128 [ shape=none, color=black label=IllinoisWhigs ]# http://dbpedia.org/class/yago/WikicatAmericanPeopleOfEnglishDescent node160
+node160 [ shape=none, color=black label=WikicatAmericanPeopleOfEnglishDescent ]# http://dbpedia.org/resource/Aberham_lincoln node109
+node109 [ shape=none, color=black label=Aberhamlincoln ]# http://dbpedia.org/resource/Category:Smallpox_survivors node278
+node278 [ shape=none, color=black label=Smallpoxsurvivors ]# http://dbpedia.org/resource/Private_(rank) node50
+node50 [ shape=none, color=black label=httpdbpediaorgresourcePrivaterank ]# http://dbpedia.org/class/yago/LivingThing100004258 node66
+node66 [ shape=none, color=black label=LivingThing100004258 ]# http://dbpedia.org/resource/Category:Members_of_the_United_States_House_of_Representatives_from_Illinois node205
+node205 [ shape=none, color=black label=MembersoftheUnitedStatesHouseofRepresentativesfromIllinois ]# http://www.loc.gov/rr/program/bib/presidents/lincoln/ node229
+node229 [ shape=none, color=black label=httpwwwlocgovrrprogrambibpresidentslincoln ]# http://dbpedia.org/class/yago/WikicatHumanists node80
+node80 [ shape=none, color=black label=WikicatHumanists ]# http://dbpedia.org/resource/A_Lincoln node272
+node272 [ shape=none, color=black label=ALincoln ]# http://dbpedia.org/class/yago/WikicatIllinoisPoliticians node226
+node226 [ shape=none, color=black label=WikicatIllinoisPoliticians ]# http://www.abrahamlincolnassociation.org/ node113
+node113 [ shape=none, color=black label=httpwwwabrahamlincolnassociationorg ]# http://sw.cyc.com/concept/Mx4rwQBiTZwpEbGdrcN5Y29ycA node266
+node266 [ shape=none, color=black label=Mx4rwQBiTZwpEbGdrcN5Y29ycA ]}
