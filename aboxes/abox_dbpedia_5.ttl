@@ -1,1 +1,1 @@
-<http://dbpedia.org/resource/Impacto> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_music> .
+<http://dbpedia.org/resource/Albert_Camus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Jean-Paul_Sartre> .

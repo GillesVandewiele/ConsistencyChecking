@@ -1,0 +1,24 @@
+digraph DT{
+node[fontname="Arial"];
+Node1 [label="http://dbpedia.org/ontology/team_http://dbpedia.org/ontology/SoccerClub <= 0.5"];
+Node2 [label="subject_http://dbpedia.org/ontology/Eukaryote <= 0.5"];
+Node3 [label="subject_http://dbpedia.org/ontology/SportsTeamMember <= 0.5"];
+Node4 [label="subject_http://dbpedia.org/ontology/SocietalEvent <= 0.5"];
+Node5 [label="http://dbpedia.org/ontology/associatedMusicalArtist_http://dbpedia.org/ontology/Band <= 0.5"];
+Node6 [label="True" shape="box"];
+Node5 -> Node6 [label="true"];
+Node7 [label="False" shape="box"];
+Node5->Node7 [label="false"];
+Node4 -> Node5 [label="true"];
+Node8 [label="False" shape="box"];
+Node4->Node8 [label="false"];
+Node3 -> Node4 [label="true"];
+Node10 [label="False" shape="box"];
+Node3->Node10 [label="false"];
+Node2 -> Node3 [label="true"];
+Node13 [label="False" shape="box"];
+Node2->Node13 [label="false"];
+Node1 -> Node2 [label="true"];
+Node17 [label="False" shape="box"];
+Node1->Node17 [label="false"];
+}

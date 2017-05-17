@@ -1,0 +1,36 @@
+digraph DT{
+node[fontname="Arial"];
+Node1 [label="type_SportsTeam <= 0.5"];
+Node2 [label="type_Eukaryote <= 0.5"];
+Node3 [label="currentMember_Nicklas_Bendtner <= 0.5"];
+Node4 [label="commander_Rodion_Malinovsky_type_Person <= 0.5"];
+Node5 [label="commander_Callimachus_(polemarch) <= 0.5"];
+Node6 [label="currentMember_Facundo_Roncaglia_type_Agent <= 0.5"];
+Node7 [label="associatedMusicalArtist_The_Roots_type_Band <= 0.5"];
+Node8 [label="True" shape="box"];
+Node7 -> Node8 [label="true"];
+Node9 [label="False" shape="box"];
+Node7->Node9 [label="false"];
+Node6 -> Node7 [label="true"];
+Node10 [label="False" shape="box"];
+Node6->Node10 [label="false"];
+Node5 -> Node6 [label="true"];
+Node12 [label="False" shape="box"];
+Node5->Node12 [label="false"];
+Node4 -> Node5 [label="true"];
+Node15 [label="False" shape="box"];
+Node4->Node15 [label="false"];
+Node3 -> Node4 [label="true"];
+Node19 [label="False" shape="box"];
+Node3->Node19 [label="false"];
+Node2 -> Node3 [label="true"];
+Node24 [label="False" shape="box"];
+Node2->Node24 [label="false"];
+Node1 -> Node2 [label="true"];
+Node30 [label="type_Settlement <= 0.5"];
+Node31 [label="False" shape="box"];
+Node30 -> Node31 [label="true"];
+Node32 [label="True" shape="box"];
+Node30->Node32 [label="false"];
+Node1->Node30 [label="false"];
+}

@@ -1,1 +1,1 @@
-<http://dbpedia.org/resource/Stara_Gora,_Sveti_Jurij_ob_%C5%A0%C4%8Davnici> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Sveti_Jurij_ob_%C5%A0%C4%8Davnici> .
+<http://dbpedia.org/resource/Abraham__Abraham__1> <http://dbpedia.org/ontology/veneratedIn> <http://dbpedia.org/resource/Christianity> .

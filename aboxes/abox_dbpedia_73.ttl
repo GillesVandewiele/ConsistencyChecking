@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/Benjamin_Tucker> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Max_Stirner> .

@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/Bill_Joy> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Network_File_System> .

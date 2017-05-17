@@ -1,1 +1,1 @@
-<http://dbpedia.org/resource/Hyalinobatrachium_bergeri> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Glass_frog> .
+<http://dbpedia.org/resource/Allen_Ginsberg> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Hunter_S._Thompson> .
