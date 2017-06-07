@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lada_Niva__Chevrolet_Niva__1> <http://dbpedia.org/ontology/assembly> <http://dbpedia.org/resource/Tolyatti> .
+<http://dbpedia.org/resource/Tolyatti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Tolyatti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Tolyatti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Tolyatti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

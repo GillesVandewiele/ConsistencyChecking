@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Central_Tibetan_Administration__1> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Lobsang_Sangay> .
+<http://dbpedia.org/resource/Central_Tibetan_Administration__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PersonFunction> .
+<http://dbpedia.org/resource/Lobsang_Sangay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Lobsang_Sangay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lobsang_Sangay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

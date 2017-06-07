@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Aurel_Stein> <http://dbpedia.org/ontology/citizenship> <http://dbpedia.org/resource/British_people> .
+<http://dbpedia.org/resource/Aurel_Stein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Aurel_Stein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Aurel_Stein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/British_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .

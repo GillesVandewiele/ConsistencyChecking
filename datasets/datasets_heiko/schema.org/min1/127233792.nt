@@ -1,0 +1,12 @@
+_:node42a52e1bbff6e17fa79d7582c5385e72 <http://schema.org/url> <http://forum.idg.pl/user/206284-into-the-rain/> .
+_:node42a52e1bbff6e17fa79d7582c5385e72 <http://schema.org/image> <http://forum.idg.pl/public/style_images/master/profile/default_large.png> .
+_:node42a52e1bbff6e17fa79d7582c5385e72 <http://schema.org/name> "into_the_rain"@en .
+_:nodeb3e9bf8dd2f1a9159ee88ae13b6672c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgAggregateRating> .
+_:node71529355845f559dbe639ace6dff5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node71529355845f559dbe639ace6dff5 <http://schema.org/dateCreated> "maj 01 2010 08:21 "@en .
+_:node71529355845f559dbe639ace6dff5 <http://schema.org/name> "jak utworzyc grupe robocza na windows7?"@en .
+_:node71529355845f559dbe639ace6dff5 <http://schema.org/name> "into_the_rain"@en .
+_:node71529355845f559dbe639ace6dff5 <http://schema.org/interactionCount> "UserComments:1"@en .
+_:node71529355845f559dbe639ace6dff5 <http://schema.org/creator> "into_the_rain"@en .
+_:node71529355845f559dbe639ace6dff5 <http://schema.org/aggregateRating> _:nodeb3e9bf8dd2f1a9159ee88ae13b6672c .
+_:node2c2763da762ce320b3c8eba0ef42b059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

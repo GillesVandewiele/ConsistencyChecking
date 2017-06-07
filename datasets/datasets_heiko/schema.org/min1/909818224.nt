@@ -1,0 +1,15 @@
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/thumbnailUrl> "http://i2.cdn.turner.com/cnn/dam/assets/130515164214-pinto-balotelli-milan-racism-england-00001404-story-top.jpg"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/author> "Pedro Pinto and James Masters, CNN"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/headline> "Mancini sacking no surprise for Balotelli"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/genre> "news"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/keywords> "Null"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/articleSection> "sport"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/dateModified> "2013-05-16T14:34:05Z"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/contentLocation> "Null"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/description> "Mario Balotelli tells CNN in an exclusive interview that he was \"not surprised\" at seeing Roberto Mancini lose his job as manager of Manchester City."@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/dateCreated> "2013-05-15T17:16:58Z"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/url> "http://edition.cnn.com/2013/05/15/sport/football/football-balotelli-mancini/index.html"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/inLanguage> "en-US"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/datePublished> "2013-05-15T17:16:58Z"@en-us .
+_:node38a56fa7b58335afdc417a2439eade2d <http://schema.org/sourceOrganization> "CNN"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

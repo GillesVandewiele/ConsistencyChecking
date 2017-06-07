@@ -1,0 +1,3 @@
+_:node4d8ae372f152bd8fb8a54eb48533780 <http://schema.org/name> "Detail view N.W. of Little Theatre [i.e. Playhouse] courtyard :: Century 21 Digital Collection" .
+_:node4d8ae372f152bd8fb8a54eb48533780 <http://schema.org/image> "http://cdm15015.contentdm.oclc.org/utils/getthumbnail/collection/p15015coll3/id/4760" .
+_:node203fbccfa53dbf66f24a1fc74439ab88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

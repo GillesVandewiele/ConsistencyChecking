@@ -1,0 +1,6 @@
+<http://yago-knowledge.org/resource/Shield_(geology)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Shield_(geology)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_physical_entity_100001930> .
+<http://yago-knowledge.org/resource/Shield_(geology)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_part_109385911> .
+<http://yago-knowledge.org/resource/Shield_(geology)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_thing_100002452> .
+<http://yago-knowledge.org/resource/Shield_(geology)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_craton_109259500> .
+<http://yago-knowledge.org/resource/Shield_(geology)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Cratons> .

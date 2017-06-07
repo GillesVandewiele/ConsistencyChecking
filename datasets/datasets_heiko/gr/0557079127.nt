@@ -1,0 +1,49 @@
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> <http://purl.org/goodrelations/v1#validFrom> "2014-12-21T10:47:24-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> <http://purl.org/goodrelations/v1#validThrough> "2015-03-21T10:47:24-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> <http://purl.org/goodrelations/v1#hasCurrencyValue> "290"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#TypeAndQuantityNode_834> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#description> "Classy and elegant are just a few words which describes the Scopik Floor Lamp. Modani showcased its refine craftsmanship with this piece of furniture. The black base and chrome finish gives a contemporary twist to the classic lampshade. Place the Scopik Floor Lamp next to the Modani Gavino Coffee table or the Missing Sail printed frame and instantly bring elegance and depth to your home."@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#name> "Scopik Floor Lamp"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3422e51efc9449b090db3c8814caf8a92dN67069 .
+_:genid2d3422e51efc9449b090db3c8814caf8a92dN67069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d3422e51efc9449b090db3c8814caf8a92dN67069 <http://purl.org/goodrelations/v1#hasMinValue> "493"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d3422e51efc9449b090db3c8814caf8a92dN67069 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.modani.com/furniture-stores/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/k/m/km028f-white.jpg> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#TypeAndQuantityNode_834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#TypeAndQuantityNode_834> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#TypeAndQuantityNode_834> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#TypeAndQuantityNode_834> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-21T00:00:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-21T10:47:24-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://xmlns.com/foaf/0.1/page> <http://www.modani.com/furniture-stores/sales/scopik-floor-lamp> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#offering> .
+_:genid2d3422e51efc9449b090db3c8814caf8a92dN67028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d3422e51efc9449b090db3c8814caf8a92dN67028 <http://purl.org/goodrelations/v1#hasMinValue> "493"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d3422e51efc9449b090db3c8814caf8a92dN67028 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "KM028F White"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#description> "Classy and elegant are just a few words which describes the Scopik Floor Lamp. Modani showcased its refine craftsmanship with this piece of furniture. The black base and chrome finish gives a contemporary twist to the classic lampshade. Place the Scopik Floor Lamp next to the Modani Gavino Coffee table or the Missing Sail printed frame and instantly bring elegance and depth to your home."@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Living"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Bedroom"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Lighting"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Living/Lighting"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Bedroom/Lighting"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Dining"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Dining/Lighting"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Sales/Sale"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Sales"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Clearance"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/Miami Clearance"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/LA Clearance"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/Houston Clearance"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/New York Clearance"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/Atlanta Clearance"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#name> "Scopik Floor Lamp"@en .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#product_data> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3422e51efc9449b090db3c8814caf8a92dN67028 .
+<http://www.okazii.ro/inele/inele-diamant/inel-din-aur-rusesc-de-14-kt-cu-diamant-de-0-30-ct-taietura-para-vintage--a129931938#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

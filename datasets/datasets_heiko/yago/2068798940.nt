@@ -1,0 +1,7 @@
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_abstraction_100002137> .
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_attribute_100024264> .
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_state_100024720> .
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_temper_107551052> .
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Grammatical_moods> .
+<http://yago-knowledge.org/resource/Permissive_mood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_feeling_100026192> .

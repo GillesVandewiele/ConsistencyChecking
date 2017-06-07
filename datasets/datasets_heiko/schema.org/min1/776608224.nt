@@ -1,0 +1,9 @@
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/sku> "70006333184\u00A0\u00A0\u00A0\n                            " .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/name> "3M\u2122 Repulpable Flying Splice Tape 906B Blue, 2 in x 60 yd 3.0 mil, 24 per case, Quarter Pack, Obsolete" .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/gtin14> "00021200995545\u00A0\u00A0\u00A0\n                            " .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/description> "Primarily designed for flying splices at the machine coater. A light-weight tissue coated on both sides with a high tack, high shear strength, repulpable adhesive." .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/description> "This 3 mil (0.075 mm) product has been an industry standard for flying splices by providing high initial wet grab and excellent shear strength. Not recommended for finished roll splicing. 906 tape is furnished on a repulpable easy-release paper liner. FDA" .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/image> <http://multimedia.3m.com/mws/media/654584P/3mtm-repulpable-flying-splice-tape-906b-2-inch.jpg?boundedSize=310> .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/image> <http://multimedia.3m.com/mws/media/654584P/3mtm-repulpable-flying-splice-tape-906b-2-inch.jpg?boundedSize=40> .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://schema.org/image> <http://multimedia.3m.com/mws/media/654584P/3mtm-repulpable-flying-splice-tape-906b-2-inch.jpg?boundedSize=40> .
+_:node3a1654cc173ad772d558627a0a015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

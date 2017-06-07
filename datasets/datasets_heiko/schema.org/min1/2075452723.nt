@@ -1,0 +1,6 @@
+_:node9c27181274fd6e638bd24b5698237b0 <http://schema.org/description> "\n    \t\t\tJohn Hoffman, the Anoka Hennepin School Board vice chairperson, was endorsed by Senate District 36 DFL delegates representing parts of Coon Rapids, Brooklyn Park and all of Champlin....Read More    \t\t"@en-us .
+_:node9c27181274fd6e638bd24b5698237b0 <http://schema.org/headline> "Hoffman endorsed by DFL for District 36"@en-us .
+_:node9c27181274fd6e638bd24b5698237b0 <http://schema.org/url> <http://abcnewspapers.com/2012/03/30/hoffman-endorsed-by-dfl-for-district-36/> .
+_:node9c27181274fd6e638bd24b5698237b0 <http://schema.org/articleSection> <http://abcnewspapers.com/tag/senate-district-36//category/> .
+_:node9c27181274fd6e638bd24b5698237b0 <http://schema.org/datePublished> "2012-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node9d5495b6bcf2757a070c1712987c048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

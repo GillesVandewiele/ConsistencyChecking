@@ -1,0 +1,5 @@
+<http://books.google.com/books/about/A_Natural_History_of_the_British_Lepidop.html?id=ueM4AAAAMAAJ&q=Sphinx> <http://schema.org/Book/image> <http://books.google.com/books/content?id=ueM4AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73vmZsDvX3dPXoU6HRpym458_Bg7vjaSGscHq5PKG4U2tYOG5Cv-pZFRIXNH1SZzkvybM_V2qGp628VVCkZpB9nZEzx2x6QXXG_Haey7zzRY2iOAJo> .
+<http://books.google.com/books/about/A_Natural_History_of_the_British_Lepidop.html?id=ueM4AAAAMAAJ&q=Sphinx> <http://schema.org/Book/url> "http://books.google.com/books/about/A_Natural_History_of_the_British_Lepidop.html?id=ueM4AAAAMAAJ&q=Sphinx&utm_source=gb-gplus-share" .
+<http://books.google.com/books/about/A_Natural_History_of_the_British_Lepidop.html?id=ueM4AAAAMAAJ&q=Sphinx> <http://schema.org/Book/name> "A Natural History of the British Lepidoptera" .
+<http://books.google.com/books/about/A_Natural_History_of_the_British_Lepidop.html?id=ueM4AAAAMAAJ&q=Sphinx> <http://schema.org/Book/description> "books.google.com" .
+_:node5d1cb14b9a8ea192aa1166180156c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

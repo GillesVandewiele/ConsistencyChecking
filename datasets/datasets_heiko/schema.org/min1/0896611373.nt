@@ -1,0 +1,82 @@
+_:nodeb2b289e8bdf4f39e01efa8b5771fcb <http://schema.org/ratingValue> "2.731" .
+_:nodeb2b289e8bdf4f39e01efa8b5771fcb <http://schema.org/reviewCount> "52" .
+_:nodee117ee5631f261d55f5b0471f8e151 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodee117ee5631f261d55f5b0471f8e151 <http://schema.org/reviewRating> _:node695adaa042b0b65d3fd7295ce115 .
+_:nodee117ee5631f261d55f5b0471f8e151 <http://schema.org/name> "Bendik" .
+_:nodee117ee5631f261d55f5b0471f8e151 <http://schema.org/description> "One star for locking smses away wien trial expired.. :(" .
+_:node7653f34a5ae3b9171f8e785b5a24c70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node7653f34a5ae3b9171f8e785b5a24c70 <http://schema.org/ratingValue> "4" .
+_:node99d253f010b4bd62751a5e4a1b5b3e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node99d253f010b4bd62751a5e4a1b5b3e9 <http://schema.org/ratingValue> "2" .
+_:noded8a2df843685379499d3d15d48d25b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:noded8a2df843685379499d3d15d48d25b15 <http://schema.org/reviewRating> _:node7653f34a5ae3b9171f8e785b5a24c70 .
+_:noded8a2df843685379499d3d15d48d25b15 <http://schema.org/name> "Khadra" .
+_:noded8a2df843685379499d3d15d48d25b15 <http://schema.org/description> "It is great but why have two different boxes from all msg... i think it should just lock all the txt.." .
+_:node558d5cfd97fac5adaebd314c3f5b36f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node558d5cfd97fac5adaebd314c3f5b36f9 <http://schema.org/ratingValue> "1" .
+_:nodeb81fc46d87ba56c936b7c897865f47e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeb81fc46d87ba56c936b7c897865f47e <http://schema.org/reviewRating> _:node558d5cfd97fac5adaebd314c3f5b36f9 .
+_:nodeb81fc46d87ba56c936b7c897865f47e <http://schema.org/name> "Lion Nawawi" .
+_:nodeb81fc46d87ba56c936b7c897865f47e <http://schema.org/description> "Force close pm HTC sense for magic..." .
+_:nodeea58b549f5f1105f7c429385cd6d710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeea58b549f5f1105f7c429385cd6d710 <http://schema.org/reviewRating> _:node4320a9531ec89d40b51175e7be456a6d .
+_:nodeea58b549f5f1105f7c429385cd6d710 <http://schema.org/name> "Michael" .
+_:nodeea58b549f5f1105f7c429385cd6d710 <http://schema.org/description> "This is good. You should make the texting area look more like the default 1 or let us pick color themes. And be able to send by pressing \"enter\"" .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:nodeea7c52693c9782c98c4bbf7e98bd58f5 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:node4c32792b97605df87ca5f6cdffed485f .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:node25fc2e14c8f2dd971c6ef5e75932c97 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:node61b04ec4ac034caea4c19f593f08d18 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:nodeb81fc46d87ba56c936b7c897865f47e .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:nodea1df9f373a7826c9c12cc11d82e84 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:noded8a2df843685379499d3d15d48d25b15 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:nodee117ee5631f261d55f5b0471f8e151 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:node95a8ad26ba9afb26bfb7245c988b71a .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/reviews> _:nodeea58b549f5f1105f7c429385cd6d710 .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/name> "Private Sms Trial -   FREE" .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/description> "This is the 48 hours TRIAL version of Private Sms\nThe app can protect your SMS by password and auto-protect your future msgs by senders which you added to the sender list.\n*group send function\n\nNOTE:please move ALL Private msgs to inbox first before uninstall the trial version.\n\nPlease email me if any issue." .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/image> <http://androlicious.com/details/com.Guardam.PrivateSmsTrial//images/Tools/c/com.Guardam.PrivateSmsTrial_icn.png> .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/aggregateRating> _:nodeb2b289e8bdf4f39e01efa8b5771fcb .
+_:noded05e45da183ca383b5ea877ffec695d9 <http://schema.org/brand> _:node51daacad26ab69c1fe44af6b374d6bd9 .
+_:nodecf15cfa8144bf0ad1f78654c427b1f73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodecf15cfa8144bf0ad1f78654c427b1f73 <http://schema.org/ratingValue> "1" .
+_:node4c32792b97605df87ca5f6cdffed485f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node4c32792b97605df87ca5f6cdffed485f <http://schema.org/reviewRating> _:node304c6dc014df268bdfe1c94ab5fd7 .
+_:node4c32792b97605df87ca5f6cdffed485f <http://schema.org/name> "Michelle" .
+_:node4c32792b97605df87ca5f6cdffed485f <http://schema.org/description> "Doesn't work for me." .
+_:nodea383167396fbd12bab6a8d35779373de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodea383167396fbd12bab6a8d35779373de <http://schema.org/ratingValue> "1" .
+_:node304c6dc014df268bdfe1c94ab5fd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node304c6dc014df268bdfe1c94ab5fd7 <http://schema.org/ratingValue> "1" .
+_:node51daacad26ab69c1fe44af6b374d6bd9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node51daacad26ab69c1fe44af6b374d6bd9 <http://schema.org/name> "Guardam" .
+_:node51daacad26ab69c1fe44af6b374d6bd9 <http://schema.org/url> <http://www.guardam.com> .
+_:node25fc2e14c8f2dd971c6ef5e75932c97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node25fc2e14c8f2dd971c6ef5e75932c97 <http://schema.org/reviewRating> _:node99d253f010b4bd62751a5e4a1b5b3e9 .
+_:node25fc2e14c8f2dd971c6ef5e75932c97 <http://schema.org/name> "TayTay" .
+_:node25fc2e14c8f2dd971c6ef5e75932c97 <http://schema.org/description> "i liked it at fust then i lost all my privet text" .
+_:node695adaa042b0b65d3fd7295ce115 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node695adaa042b0b65d3fd7295ce115 <http://schema.org/ratingValue> "1" .
+_:node7a9ae67df23645ea47558f75836985c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node7a9ae67df23645ea47558f75836985c <http://schema.org/ratingValue> "1" .
+_:node95a8ad26ba9afb26bfb7245c988b71a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node95a8ad26ba9afb26bfb7245c988b71a <http://schema.org/reviewRating> _:node7a9ae67df23645ea47558f75836985c .
+_:node95a8ad26ba9afb26bfb7245c988b71a <http://schema.org/name> "jessica" .
+_:node95a8ad26ba9afb26bfb7245c988b71a <http://schema.org/description> "This is stupid! Ppl can still see yur msgs if they goto the reg msging app!!! Fool! Correct this then ill buy!" .
+_:node4320a9531ec89d40b51175e7be456a6d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node4320a9531ec89d40b51175e7be456a6d <http://schema.org/ratingValue> "4" .
+_:nodea1df9f373a7826c9c12cc11d82e84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodea1df9f373a7826c9c12cc11d82e84 <http://schema.org/reviewRating> _:nodea383167396fbd12bab6a8d35779373de .
+_:nodea1df9f373a7826c9c12cc11d82e84 <http://schema.org/name> "eyal" .
+_:nodea1df9f373a7826c9c12cc11d82e84 <http://schema.org/description> "It sucks it deleted all of m important convos! DONT GET IT" .
+_:node8a01ecea1f77fc376d778ff7d5c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node8a01ecea1f77fc376d778ff7d5c6 <http://schema.org/ratingValue> "1" .
+_:node61b04ec4ac034caea4c19f593f08d18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node61b04ec4ac034caea4c19f593f08d18 <http://schema.org/reviewRating> _:nodecf15cfa8144bf0ad1f78654c427b1f73 .
+_:node61b04ec4ac034caea4c19f593f08d18 <http://schema.org/name> "shana" .
+_:node61b04ec4ac034caea4c19f593f08d18 <http://schema.org/description> "The trial sucks keeps force closing. Does not make u wanna buy the full version." .
+_:nodeea7c52693c9782c98c4bbf7e98bd58f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeea7c52693c9782c98c4bbf7e98bd58f5 <http://schema.org/reviewRating> _:node8a01ecea1f77fc376d778ff7d5c6 .
+_:nodeea7c52693c9782c98c4bbf7e98bd58f5 <http://schema.org/name> "Nypherria" .
+_:nodeea7c52693c9782c98c4bbf7e98bd58f5 <http://schema.org/description> "Horrible" .
+_:nodec075a42676d4a3eb6868ca6ca07ccf39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .

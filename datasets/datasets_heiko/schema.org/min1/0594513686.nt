@@ -1,0 +1,13 @@
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/keywords> "Baseball, MLB, AL East, New York Yankees"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/about> "Baseball, MLB, AL East, New York Yankees"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/name> "Scouting the Trade Market: Mike Morse"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/author> "\n     \n        \n            From\n            \n                RiverAveBlues.com\n            \n        \n    \n\n    \n        Jan 9, 2013\n    \n"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/headline> "Scouting the Trade Market: Mike Morse"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/articleBody> "\n              \n    Early yesterday afternoon, we learned the Nationals agreed to re-sign Adam LaRoche to a new two-year contract. The move essentially pushed Mike Morse out of the team\u2019s plans, as his primary positions \u2014 outfield (Denard Span, Bryce Harper, Jayson Werth) and first base (LaRoche) \u2014 are now occupied by players who aren\u2019t going anywhere. Shortly after the LaRoche news broke, Ken Rosenthal reported Washington was discussing Morse in trades with several teams. Shortly after that, we learned the Yankees have interest in acquiring him...\n    \n        Continue Reading on RiverAveBlues.com \u00BB\n    \n\n            "@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/interactionCount> "UserComments:0"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/interactionCount> "Null"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/interactionCount> "Null"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/isFamilyFriendly> "true"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/description> "The latest New York Yankees news, trade rumors, scores, live coverage, free agent updates, power rankings, mock drafts and more"@en .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://schema.org/associatedMedia> "\n      \n                  \n              \n          \n\n          \n              \n          \n        \n        \n          \n            Patrick McDermott/Getty Images \n            \n          \n        \n\n        \n      \n    "@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

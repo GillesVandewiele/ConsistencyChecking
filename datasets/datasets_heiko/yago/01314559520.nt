@@ -1,0 +1,4 @@
+<http://yago-knowledge.org/resource/Broad_Street_Bullies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Broad_Street_Bullies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_abstraction_100002137> .
+<http://yago-knowledge.org/resource/Broad_Street_Bullies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_group_100031264> .
+<http://yago-knowledge.org/resource/Broad_Street_Bullies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Nicknamed_groups_of_ice_hockey_players> .

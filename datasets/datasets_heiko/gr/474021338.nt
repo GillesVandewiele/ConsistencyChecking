@@ -1,0 +1,74 @@
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66474 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/restaurants.html> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66474 <http://rdf.data-vocabulary.org/#title> "Restaurants"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66474 <http://rdf.data-vocabulary.org/#child> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67578 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67578 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$$"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://purl.org/goodrelations/v1#ProductOrService> "Mexican"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://purl.org/goodrelations/v1#ProductOrService> "Mariscos/Mexican Seafood"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#category> "Mexican"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#category> "Mariscos/Mexican Seafood"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Lunch Tue\u2013Thu 11am\u20132:30pm Fri 11am\u20132:30pm & Sat 11am\u20133:30pm Dinner Tue-Thu 5pm\u20139pm Fri 5pm\u201310pm Sat 5pm\u201310pm Sun 3pm\u20139pm"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#pricerange> "$$$"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Mexican"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Mariscos/Mexican Seafood"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Booze Served"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Lunch Tue\u2013Thu 11am\u20132:30pm Fri 11am\u20132:30pm & Sat 11am\u20133:30pm Dinner Tue-Thu 5pm\u20139pm Fri 5pm\u201310pm Sat 5pm\u201310pm Sun 3pm\u20139pm"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 <http://rdf.data-vocabulary.org/#child> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66518 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/restaurants.html> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 <http://rdf.data-vocabulary.org/#title> "Albuquerque"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 <http://rdf.data-vocabulary.org/#child> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66496 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#geo> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67661 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#geo> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67661 .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#description> "Los Equipales (Mexican, Mariscos/Mexican Seafood) at 4500 Silver SE: 1 critical review. The seafaring mateys at Los Equipales make a fine, fine bowl of soup..."@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#url> "http://alibi.com/restaurants/entity/396/Los-Equipales.html"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#longitude> "-106.5942655"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#image> "http://alibi.com/image/pix_id/7244/From-a-defunct-bank-building-to-a-fine-dining-esta.jpg"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#street-address> "4500 Silver SE"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#locality> "Albuquerque"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#latitude> "35.077034"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#type> "restaurant"@en .
+<http://alibi.com/restaurants/entity/396/Los-Equipales.html> <http://ogp.me/ns#title> "Los Equipales"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66518 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/375/restaurants.html> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66518 <http://rdf.data-vocabulary.org/#title> "Mariscos/Mexican Seafood"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66496 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66496 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/32/15/restaurants.html> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66496 <http://rdf.data-vocabulary.org/#title> "Upper Nob Hill"@en .
+<http://alibi.com/image/pix_id/7244/From-a-defunct-bank-building-to-a-fine-dining-esta.jpg?image_height=94&image_width=94&orig_crop_left=134&orig_crop_right=135> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/7244/From-a-defunct-bank-building-to-a-fine-dining-esta.jpg"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://purl.org/goodrelations/v1#legalName> "Los Equipales"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#address> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#address> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://rdf.data-vocabulary.org/#name> "Los Equipales"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 <http://rdf.data-vocabulary.org/#street-address> "4500 Silver SE"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67617 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66507 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66507 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/270/restaurants.html> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66507 <http://rdf.data-vocabulary.org/#title> "Mexican"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66485 <http://rdf.data-vocabulary.org/#child> _:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN66507 .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67661 <http://rdf.data-vocabulary.org/#latitude> "35.077034"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dINSIDE5fN67661 <http://rdf.data-vocabulary.org/#longitude> "-106.5942655"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67956 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67956 <http://rdf.data-vocabulary.org/#description> "The seafaring mateys at Los Equipales make a fine, fine bowl of soup. The fish tacos will make you forget you live inland, and the ceviche will have you screaming \u201Chere, fishy, fishy!\u201D So forget the lobster bites and have some authentic Mexican seafood, voted the best in Albuquerque in our restaurant poll. While you\u2019re at it, the glass jars of housemade  \nhorchata \n are so huge, you could practically swim in them. If you prefer to stay dry, try the flan instead."@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67956 <http://rdf.data-vocabulary.org/#itemreviewed> "Los Equipales"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67592 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67578 <http://rdf.data-vocabulary.org/#votes> "21"@en .
+_:genid2d80adcd99ae7f4a3f8ae68f06cd2f80412dN67578 <http://rdf.data-vocabulary.org/#rating> "4.72"@en .
+_:genid2d7c388de0adb64446b29a653f5bef59402dN68304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

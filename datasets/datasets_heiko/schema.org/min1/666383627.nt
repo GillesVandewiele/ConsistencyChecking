@@ -1,0 +1,240 @@
+_:node4349c2964411be3a542be9ab6a2a402a <http://schema.org/address> _:node98b728c29ddf502b2f75ab4e7ec3a8c3 .
+_:node4349c2964411be3a542be9ab6a2a402a <http://schema.org/name> "97TH ST" .
+_:node4349c2964411be3a542be9ab6a2a402a <http://schema.org/description> " $799,000" .
+_:node4349c2964411be3a542be9ab6a2a402a <http://schema.org/photo> _:nodea39311857746a9255dc2c1a4f0ab6d .
+_:node49a962b1dcbd13f7fd7ac8530292633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeedc281ec8d546022846e8ec3f915a34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodeedc281ec8d546022846e8ec3f915a34 <http://schema.org/address> _:nodef8ac96b3c31b856a5c81fa0fbdfa35e .
+_:nodeedc281ec8d546022846e8ec3f915a34 <http://schema.org/name> "23RD AVE" .
+_:nodeedc281ec8d546022846e8ec3f915a34 <http://schema.org/description> " $699,999" .
+_:nodeedc281ec8d546022846e8ec3f915a34 <http://schema.org/photo> _:node95c2fb27291e8883b4298b82b17d9d .
+_:node6ec94046cac1d831a397f3c5b2fc5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec85a23d162598aa25462eef18cad88f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodecb20e8aaaece4afe4c43588ef55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node599d35821bb9b60bb6a3746465fad0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node599d35821bb9b60bb6a3746465fad0 <http://schema.org/addressRegion> "NY" .
+_:node599d35821bb9b60bb6a3746465fad0 <http://schema.org/postalCode> "11370" .
+_:node599d35821bb9b60bb6a3746465fad0 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node599d35821bb9b60bb6a3746465fad0 <http://schema.org/addressCountry> "United States" .
+_:node599d35821bb9b60bb6a3746465fad0 <http://schema.org/streetAddress> "78TH ST" .
+_:node6020d06da2d07950696eb2472672c86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node6020d06da2d07950696eb2472672c86 <http://schema.org/addressRegion> "NY" .
+_:node6020d06da2d07950696eb2472672c86 <http://schema.org/postalCode> "11369" .
+_:node6020d06da2d07950696eb2472672c86 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node6020d06da2d07950696eb2472672c86 <http://schema.org/addressCountry> "United States" .
+_:node6020d06da2d07950696eb2472672c86 <http://schema.org/streetAddress> "88TH ST" .
+_:node13cffd70ec6613d43d5f21cd0ff522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb6b1550e4f374d09b595985cee683 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodeb6b1550e4f374d09b595985cee683 <http://schema.org/address> _:node87cd3c1542149b679bc8bb7742a3580 .
+_:nodeb6b1550e4f374d09b595985cee683 <http://schema.org/name> "78TH ST" .
+_:nodeb6b1550e4f374d09b595985cee683 <http://schema.org/description> " $389,000" .
+_:nodeb6b1550e4f374d09b595985cee683 <http://schema.org/photo> _:nodec54c885ae9de395b774b5f9a3be1204f .
+_:node3a7a8710244cc26929447634b99eca3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node3a7a8710244cc26929447634b99eca3f <http://schema.org/address> _:node599d35821bb9b60bb6a3746465fad0 .
+_:node3a7a8710244cc26929447634b99eca3f <http://schema.org/name> "78TH ST" .
+_:node3a7a8710244cc26929447634b99eca3f <http://schema.org/description> " $392,000" .
+_:node3a7a8710244cc26929447634b99eca3f <http://schema.org/photo> _:node8116419f867dcc30a82011a36c1779 .
+_:node9628918674f967fc836f6e2d233497e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node9628918674f967fc836f6e2d233497e4 <http://schema.org/address> _:node87d1579ee23b1701487bcdddea71659 .
+_:node9628918674f967fc836f6e2d233497e4 <http://schema.org/name> "29TH AVE" .
+_:node9628918674f967fc836f6e2d233497e4 <http://schema.org/description> " $729,000" .
+_:node9628918674f967fc836f6e2d233497e4 <http://schema.org/photo> _:node6fd0e8a05f817b5e8a0b3c85b813e8 .
+_:node13d422f82accbcb16edfde6ede9b3943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node3f7d40e9fbb3f6191292c8df98bdaaf7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node3f7d40e9fbb3f6191292c8df98bdaaf7 <http://schema.org/address> _:nodea316a5d4b30892b2c1215cb3bc4cc .
+_:node3f7d40e9fbb3f6191292c8df98bdaaf7 <http://schema.org/name> "92ND ST" .
+_:node3f7d40e9fbb3f6191292c8df98bdaaf7 <http://schema.org/description> " $449,000" .
+_:node3f7d40e9fbb3f6191292c8df98bdaaf7 <http://schema.org/photo> _:node504d1dab3adc85d3846861ffe250bdfd .
+_:node1714389a98172c114e1fffdd1c3859a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1714389a98172c114e1fffdd1c3859a <http://schema.org/addressRegion> "NY" .
+_:node1714389a98172c114e1fffdd1c3859a <http://schema.org/postalCode> "11370" .
+_:node1714389a98172c114e1fffdd1c3859a <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node1714389a98172c114e1fffdd1c3859a <http://schema.org/addressCountry> "United States" .
+_:node1714389a98172c114e1fffdd1c3859a <http://schema.org/streetAddress> "77TH ST" .
+_:node54e9c52a1f1f768dab8fe852ea88e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node46284d85cf3986d62ba4b261b32248 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node46284d85cf3986d62ba4b261b32248 <http://schema.org/address> _:nodef9b13493e59a8abbd06cf1df46dac3 .
+_:node46284d85cf3986d62ba4b261b32248 <http://schema.org/name> "32ND AVE" .
+_:node46284d85cf3986d62ba4b261b32248 <http://schema.org/description> " $599,000" .
+_:node46284d85cf3986d62ba4b261b32248 <http://schema.org/photo> _:nodec85a23d162598aa25462eef18cad88f .
+_:nodee8d3b76fd061b432b8574643607fea8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee8d3b76fd061b432b8574643607fea8 <http://schema.org/addressRegion> "NY" .
+_:nodee8d3b76fd061b432b8574643607fea8 <http://schema.org/postalCode> "11370" .
+_:nodee8d3b76fd061b432b8574643607fea8 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodee8d3b76fd061b432b8574643607fea8 <http://schema.org/addressCountry> "United States" .
+_:nodee8d3b76fd061b432b8574643607fea8 <http://schema.org/streetAddress> "82ND ST" .
+_:node551c40748267efa39af3885b9e2f1a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec489695fb69579a1a7fd1d406936cef2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodec489695fb69579a1a7fd1d406936cef2 <http://schema.org/address> _:nodea266679dd1bfafae86e588c49da8cc31 .
+_:nodec489695fb69579a1a7fd1d406936cef2 <http://schema.org/name> "19TH RD" .
+_:nodec489695fb69579a1a7fd1d406936cef2 <http://schema.org/description> " $420,000" .
+_:nodec489695fb69579a1a7fd1d406936cef2 <http://schema.org/photo> _:nodecc619978159ecef7b657f08c659f .
+_:nodef5f95197376d840854c66e574ab681 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodef5f95197376d840854c66e574ab681 <http://schema.org/address> _:node59e88c1fea757c2c8c790c186503489 .
+_:nodef5f95197376d840854c66e574ab681 <http://schema.org/name> "91ST ST" .
+_:nodef5f95197376d840854c66e574ab681 <http://schema.org/description> " $669,000" .
+_:nodef5f95197376d840854c66e574ab681 <http://schema.org/photo> _:node335eebcad3cc586e207c4182c287948 .
+_:nodedbd651d1ef4643961ba8a55499478f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodedbd651d1ef4643961ba8a55499478f3 <http://schema.org/address> _:node9e7d0f1a57c2046da5525768f1a435b .
+_:nodedbd651d1ef4643961ba8a55499478f3 <http://schema.org/name> "ASTORIA BLVD" .
+_:nodedbd651d1ef4643961ba8a55499478f3 <http://schema.org/description> " $59,900" .
+_:nodedbd651d1ef4643961ba8a55499478f3 <http://schema.org/photo> _:node9617c2a0bf95ba3cf6cd6c99446b4 .
+_:node8e64ec803037197e25690957eea5c8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node8e64ec803037197e25690957eea5c8f <http://schema.org/address> _:node1714389a98172c114e1fffdd1c3859a .
+_:node8e64ec803037197e25690957eea5c8f <http://schema.org/name> "77TH ST" .
+_:node8e64ec803037197e25690957eea5c8f <http://schema.org/description> " $250,000" .
+_:node8e64ec803037197e25690957eea5c8f <http://schema.org/photo> _:node49a962b1dcbd13f7fd7ac8530292633 .
+_:nodeca99eb21466f175de2ba6cb6085915e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodeca99eb21466f175de2ba6cb6085915e <http://schema.org/address> _:node67ac94dec5d3edeecfe81173bd2578 .
+_:nodeca99eb21466f175de2ba6cb6085915e <http://schema.org/name> "25TH AVE" .
+_:nodeca99eb21466f175de2ba6cb6085915e <http://schema.org/description> " $777,000" .
+_:nodeca99eb21466f175de2ba6cb6085915e <http://schema.org/photo> _:node96481dcfe6a2e1f717cb6ef58e081d3 .
+_:node30863b7a0cdf8c993efe65d733487e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodea316a5d4b30892b2c1215cb3bc4cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodea316a5d4b30892b2c1215cb3bc4cc <http://schema.org/addressRegion> "NY" .
+_:nodea316a5d4b30892b2c1215cb3bc4cc <http://schema.org/postalCode> "11369" .
+_:nodea316a5d4b30892b2c1215cb3bc4cc <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodea316a5d4b30892b2c1215cb3bc4cc <http://schema.org/addressCountry> "United States" .
+_:nodea316a5d4b30892b2c1215cb3bc4cc <http://schema.org/streetAddress> "92ND ST" .
+_:nodef9b13493e59a8abbd06cf1df46dac3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodef9b13493e59a8abbd06cf1df46dac3 <http://schema.org/addressRegion> "NY" .
+_:nodef9b13493e59a8abbd06cf1df46dac3 <http://schema.org/postalCode> "11369" .
+_:nodef9b13493e59a8abbd06cf1df46dac3 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodef9b13493e59a8abbd06cf1df46dac3 <http://schema.org/addressCountry> "United States" .
+_:nodef9b13493e59a8abbd06cf1df46dac3 <http://schema.org/streetAddress> "32ND AVE" .
+_:node49fe69822a5bcc3d92b3c17d65a3f77d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node49fe69822a5bcc3d92b3c17d65a3f77d <http://schema.org/address> _:node8c33db445345ceea91ef2a60ad6a084 .
+_:node49fe69822a5bcc3d92b3c17d65a3f77d <http://schema.org/name> "77TH ST" .
+_:node49fe69822a5bcc3d92b3c17d65a3f77d <http://schema.org/description> " $365,000" .
+_:node49fe69822a5bcc3d92b3c17d65a3f77d <http://schema.org/photo> _:node5cdb9b2f62bf1e6fb5ff14afe74e19f5 .
+_:nodea266679dd1bfafae86e588c49da8cc31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodea266679dd1bfafae86e588c49da8cc31 <http://schema.org/addressRegion> "NY" .
+_:nodea266679dd1bfafae86e588c49da8cc31 <http://schema.org/postalCode> "11370" .
+_:nodea266679dd1bfafae86e588c49da8cc31 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodea266679dd1bfafae86e588c49da8cc31 <http://schema.org/addressCountry> "United States" .
+_:nodea266679dd1bfafae86e588c49da8cc31 <http://schema.org/streetAddress> "19TH RD" .
+_:node504d1dab3adc85d3846861ffe250bdfd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodea39311857746a9255dc2c1a4f0ab6d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node335eebcad3cc586e207c4182c287948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodedc33d8bdb9dd8de11625f804af0909f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodedc33d8bdb9dd8de11625f804af0909f <http://schema.org/addressRegion> "NY" .
+_:nodedc33d8bdb9dd8de11625f804af0909f <http://schema.org/postalCode> "11369" .
+_:nodedc33d8bdb9dd8de11625f804af0909f <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodedc33d8bdb9dd8de11625f804af0909f <http://schema.org/addressCountry> "United States" .
+_:nodedc33d8bdb9dd8de11625f804af0909f <http://schema.org/streetAddress> "25TH AVE" .
+_:nodeb7dd438c33beb6877f4753c61168ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeb7dd438c33beb6877f4753c61168ad <http://schema.org/addressRegion> "NY" .
+_:nodeb7dd438c33beb6877f4753c61168ad <http://schema.org/postalCode> "11369" .
+_:nodeb7dd438c33beb6877f4753c61168ad <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodeb7dd438c33beb6877f4753c61168ad <http://schema.org/addressCountry> "United States" .
+_:nodeb7dd438c33beb6877f4753c61168ad <http://schema.org/streetAddress> "31ST AVE" .
+_:node8116419f867dcc30a82011a36c1779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node6426b98fc1b63d6c7fda764135f2514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node6426b98fc1b63d6c7fda764135f2514 <http://schema.org/address> _:nodee8d3b76fd061b432b8574643607fea8 .
+_:node6426b98fc1b63d6c7fda764135f2514 <http://schema.org/name> "82ND ST" .
+_:node6426b98fc1b63d6c7fda764135f2514 <http://schema.org/description> "<span>Contact Agente</span>" .
+_:node6426b98fc1b63d6c7fda764135f2514 <http://schema.org/photo> _:node6ec94046cac1d831a397f3c5b2fc5b .
+_:node697d32b97393d4e64fa99fa28336f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node697d32b97393d4e64fa99fa28336f <http://schema.org/addressRegion> "NY" .
+_:node697d32b97393d4e64fa99fa28336f <http://schema.org/postalCode> "11369" .
+_:node697d32b97393d4e64fa99fa28336f <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node697d32b97393d4e64fa99fa28336f <http://schema.org/addressCountry> "United States" .
+_:node697d32b97393d4e64fa99fa28336f <http://schema.org/streetAddress> "107TH ST" .
+_:node6fd0e8a05f817b5e8a0b3c85b813e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5cdb9b2f62bf1e6fb5ff14afe74e19f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9e7d0f1a57c2046da5525768f1a435b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node9e7d0f1a57c2046da5525768f1a435b <http://schema.org/addressRegion> "NY" .
+_:node9e7d0f1a57c2046da5525768f1a435b <http://schema.org/postalCode> "11369" .
+_:node9e7d0f1a57c2046da5525768f1a435b <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node9e7d0f1a57c2046da5525768f1a435b <http://schema.org/addressCountry> "United States" .
+_:node9e7d0f1a57c2046da5525768f1a435b <http://schema.org/streetAddress> "ASTORIA BLVD" .
+_:node79443a39bf4ea393fceed1beccec6dae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node79443a39bf4ea393fceed1beccec6dae <http://schema.org/address> _:node7e9169f6fa3c4974013cbbbd3bf6e45 .
+_:node79443a39bf4ea393fceed1beccec6dae <http://schema.org/name> "91ST ST" .
+_:node79443a39bf4ea393fceed1beccec6dae <http://schema.org/description> " $499,999" .
+_:node79443a39bf4ea393fceed1beccec6dae <http://schema.org/photo> _:node13cffd70ec6613d43d5f21cd0ff522 .
+_:node98b728c29ddf502b2f75ab4e7ec3a8c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node98b728c29ddf502b2f75ab4e7ec3a8c3 <http://schema.org/addressRegion> "NY" .
+_:node98b728c29ddf502b2f75ab4e7ec3a8c3 <http://schema.org/postalCode> "11369" .
+_:node98b728c29ddf502b2f75ab4e7ec3a8c3 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node98b728c29ddf502b2f75ab4e7ec3a8c3 <http://schema.org/addressCountry> "United States" .
+_:node98b728c29ddf502b2f75ab4e7ec3a8c3 <http://schema.org/streetAddress> "97TH ST" .
+_:nodecc619978159ecef7b657f08c659f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node87d1579ee23b1701487bcdddea71659 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node87d1579ee23b1701487bcdddea71659 <http://schema.org/addressRegion> "NY" .
+_:node87d1579ee23b1701487bcdddea71659 <http://schema.org/postalCode> "11369" .
+_:node87d1579ee23b1701487bcdddea71659 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node87d1579ee23b1701487bcdddea71659 <http://schema.org/addressCountry> "United States" .
+_:node87d1579ee23b1701487bcdddea71659 <http://schema.org/streetAddress> "29TH AVE" .
+_:nodeb72fe1f6d69ce8af5e1a79824d8617e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeb72fe1f6d69ce8af5e1a79824d8617e4 <http://schema.org/addressRegion> "NY" .
+_:nodeb72fe1f6d69ce8af5e1a79824d8617e4 <http://schema.org/postalCode> "11369" .
+_:nodeb72fe1f6d69ce8af5e1a79824d8617e4 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodeb72fe1f6d69ce8af5e1a79824d8617e4 <http://schema.org/addressCountry> "United States" .
+_:nodeb72fe1f6d69ce8af5e1a79824d8617e4 <http://schema.org/streetAddress> "GILLMORE ST" .
+_:node67ac94dec5d3edeecfe81173bd2578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node67ac94dec5d3edeecfe81173bd2578 <http://schema.org/addressRegion> "NY" .
+_:node67ac94dec5d3edeecfe81173bd2578 <http://schema.org/postalCode> "11369" .
+_:node67ac94dec5d3edeecfe81173bd2578 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node67ac94dec5d3edeecfe81173bd2578 <http://schema.org/addressCountry> "United States" .
+_:node67ac94dec5d3edeecfe81173bd2578 <http://schema.org/streetAddress> "25TH AVE" .
+_:nodef8ac96b3c31b856a5c81fa0fbdfa35e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodef8ac96b3c31b856a5c81fa0fbdfa35e <http://schema.org/addressRegion> "NY" .
+_:nodef8ac96b3c31b856a5c81fa0fbdfa35e <http://schema.org/postalCode> "11369" .
+_:nodef8ac96b3c31b856a5c81fa0fbdfa35e <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:nodef8ac96b3c31b856a5c81fa0fbdfa35e <http://schema.org/addressCountry> "United States" .
+_:nodef8ac96b3c31b856a5c81fa0fbdfa35e <http://schema.org/streetAddress> "23RD AVE" .
+_:nodedc8481957b126d712c95e77df321e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodedc8481957b126d712c95e77df321e2 <http://schema.org/address> _:node6020d06da2d07950696eb2472672c86 .
+_:nodedc8481957b126d712c95e77df321e2 <http://schema.org/name> "88TH ST" .
+_:nodedc8481957b126d712c95e77df321e2 <http://schema.org/description> " $685,000" .
+_:nodedc8481957b126d712c95e77df321e2 <http://schema.org/photo> _:nodecb20e8aaaece4afe4c43588ef55 .
+_:node59e88c1fea757c2c8c790c186503489 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node59e88c1fea757c2c8c790c186503489 <http://schema.org/addressRegion> "NY" .
+_:node59e88c1fea757c2c8c790c186503489 <http://schema.org/postalCode> "11369" .
+_:node59e88c1fea757c2c8c790c186503489 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node59e88c1fea757c2c8c790c186503489 <http://schema.org/addressCountry> "United States" .
+_:node59e88c1fea757c2c8c790c186503489 <http://schema.org/streetAddress> "91ST ST" .
+_:node87cd3c1542149b679bc8bb7742a3580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node87cd3c1542149b679bc8bb7742a3580 <http://schema.org/addressRegion> "NY" .
+_:node87cd3c1542149b679bc8bb7742a3580 <http://schema.org/postalCode> "11370" .
+_:node87cd3c1542149b679bc8bb7742a3580 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node87cd3c1542149b679bc8bb7742a3580 <http://schema.org/addressCountry> "United States" .
+_:node87cd3c1542149b679bc8bb7742a3580 <http://schema.org/streetAddress> "78TH ST" .
+_:node5d737e436f231980a59b4812fc45f81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:node5d737e436f231980a59b4812fc45f81 <http://schema.org/address> _:nodeb72fe1f6d69ce8af5e1a79824d8617e4 .
+_:node5d737e436f231980a59b4812fc45f81 <http://schema.org/name> "GILLMORE ST" .
+_:node5d737e436f231980a59b4812fc45f81 <http://schema.org/description> " $459,000" .
+_:node5d737e436f231980a59b4812fc45f81 <http://schema.org/photo> _:node30863b7a0cdf8c993efe65d733487e .
+_:node9617c2a0bf95ba3cf6cd6c99446b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node95c2fb27291e8883b4298b82b17d9d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8c33db445345ceea91ef2a60ad6a084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node8c33db445345ceea91ef2a60ad6a084 <http://schema.org/addressRegion> "NY" .
+_:node8c33db445345ceea91ef2a60ad6a084 <http://schema.org/postalCode> "11370" .
+_:node8c33db445345ceea91ef2a60ad6a084 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node8c33db445345ceea91ef2a60ad6a084 <http://schema.org/addressCountry> "United States" .
+_:node8c33db445345ceea91ef2a60ad6a084 <http://schema.org/streetAddress> "77TH ST" .
+_:nodef76e3bb1f363e930e9e125c4bc1099d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodef76e3bb1f363e930e9e125c4bc1099d3 <http://schema.org/address> _:nodeb7dd438c33beb6877f4753c61168ad .
+_:nodef76e3bb1f363e930e9e125c4bc1099d3 <http://schema.org/name> "31ST AVE" .
+_:nodef76e3bb1f363e930e9e125c4bc1099d3 <http://schema.org/description> " $280,000" .
+_:nodef76e3bb1f363e930e9e125c4bc1099d3 <http://schema.org/photo> _:node551c40748267efa39af3885b9e2f1a9 .
+_:nodec54c885ae9de395b774b5f9a3be1204f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node7e9169f6fa3c4974013cbbbd3bf6e45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node7e9169f6fa3c4974013cbbbd3bf6e45 <http://schema.org/addressRegion> "NY" .
+_:node7e9169f6fa3c4974013cbbbd3bf6e45 <http://schema.org/postalCode> "11369" .
+_:node7e9169f6fa3c4974013cbbbd3bf6e45 <http://schema.org/addressLocality> "EAST-ELMHURST" .
+_:node7e9169f6fa3c4974013cbbbd3bf6e45 <http://schema.org/addressCountry> "United States" .
+_:node7e9169f6fa3c4974013cbbbd3bf6e45 <http://schema.org/streetAddress> "91ST ST" .
+_:node96481dcfe6a2e1f717cb6ef58e081d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodefae9df892cfe1ffc2fe6d15b51369df5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodefae9df892cfe1ffc2fe6d15b51369df5 <http://schema.org/address> _:node697d32b97393d4e64fa99fa28336f .
+_:nodefae9df892cfe1ffc2fe6d15b51369df5 <http://schema.org/name> "107TH ST" .
+_:nodefae9df892cfe1ffc2fe6d15b51369df5 <http://schema.org/description> " $129,000" .
+_:nodefae9df892cfe1ffc2fe6d15b51369df5 <http://schema.org/photo> _:node54e9c52a1f1f768dab8fe852ea88e .
+_:nodeb4ffe8d21ebc60dadcb7565db4ae6345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .
+_:nodeb4ffe8d21ebc60dadcb7565db4ae6345 <http://schema.org/address> _:nodedc33d8bdb9dd8de11625f804af0909f .
+_:nodeb4ffe8d21ebc60dadcb7565db4ae6345 <http://schema.org/name> "25TH AVE" .
+_:nodeb4ffe8d21ebc60dadcb7565db4ae6345 <http://schema.org/description> " $449,000" .
+_:nodeb4ffe8d21ebc60dadcb7565db4ae6345 <http://schema.org/photo> _:node13d422f82accbcb16edfde6ede9b3943 .
+_:nodea4653c53b8ef5fcdd8da75279d6a3fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Child_Soldiers_International> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Terre_des_hommes_(disambiguation)> .
+<http://dbpedia.org/resource/Child_Soldiers_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Child_Soldiers_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Child_Soldiers_International> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Non-ProfitOrganisation> .

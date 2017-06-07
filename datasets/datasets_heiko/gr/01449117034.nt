@@ -1,0 +1,11 @@
+_:genid2dd94ebcac77fd4b329b63be058f6a6bf22dN68236 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dd94ebcac77fd4b329b63be058f6a6bf22dINSIDE5fN68236 .
+<http://www.joke.co.uk/letter-m-costumes/fever-female-mad-hatter-costume~71111/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/letter-m-costumes/fever-female-mad-hatter-costume~71111/#main> <http://purl.org/goodrelations/v1#name> "Fever Female Mad Hatter Costume"@en .
+<http://www.joke.co.uk/letter-m-costumes/fever-female-mad-hatter-costume~71111/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/letter-m-costumes/fever-female-mad-hatter-costume~71111/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dd94ebcac77fd4b329b63be058f6a6bf22dINSIDE5fN68285 .
+_:genid2dd94ebcac77fd4b329b63be058f6a6bf22dINSIDE5fN68285 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2dd94ebcac77fd4b329b63be058f6a6bf22dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2dd94ebcac77fd4b329b63be058f6a6bf22dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrencyValue> "30.99"@en .
+<http://www.joke.co.uk/letter-m-costumes/fever-female-mad-hatter-costume~71111/#main> <http://purl.org/goodrelations/v1#description> "Step into Wonderland with our Fever Female Mad Hatter Costume!  This stunning outfit is printed with black and white checks to give it a contemporary look.\n\nIncludes: Dress, Jacket and Tie.\n\nThe Fever Female Mad Hatter Costume includes a white and purple dress with a satin-look green panel on the skirt and checks around the bust and hips.\n\nAlso included is a green cropped jacket with white cuffs and a black and white checked bow tie."@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=71111> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=71111> .
+_:genid2d5f4eacaaf70d4658ac619b8eaa67306d2dN68232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

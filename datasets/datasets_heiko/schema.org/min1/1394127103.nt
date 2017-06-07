@@ -1,0 +1,100 @@
+_:nodeccf03777a36f19c30ce4d44d03afcd7 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:node3b1fd3e0d5fa5e76c2c2c9d648132a68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node3b1fd3e0d5fa5e76c2c2c9d648132a68 <http://schema.org/address> _:nodeccf03777a36f19c30ce4d44d03afcd7 .
+_:node34f8d18c187e90d2658c9b106a80c253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node34f8d18c187e90d2658c9b106a80c253 <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=6c99fa5646fec663> .
+_:node34f8d18c187e90d2658c9b106a80c253 <http://schema.org/hiringOrganization> "RED SHORES" .
+_:node34f8d18c187e90d2658c9b106a80c253 <http://schema.org/description> "\nWord processing software; The surveillance officer monitors the gaming floor at Red Shores Casino. Radio Operator Specific Skills....\n" .
+_:node34f8d18c187e90d2658c9b106a80c253 <http://schema.org/jobLocation> _:nodeb2b9154d7fbb1a5c203e687baa96d .
+_:node34f8d18c187e90d2658c9b106a80c253 <http://schema.org/name> "RED SHORES" .
+_:node45f36a856d76722173e12f460d9364b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node45f36a856d76722173e12f460d9364b <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:nodece7aeeedc0df7e58d6d3c9baf99a6365 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodece7aeeedc0df7e58d6d3c9baf99a6365 <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=fca6e17aa0a0bdc2> .
+_:nodece7aeeedc0df7e58d6d3c9baf99a6365 <http://schema.org/hiringOrganization> "LIDS" .
+_:nodece7aeeedc0df7e58d6d3c9baf99a6365 <http://schema.org/description> "\nParticipate in managing store inventory including processing shipments and resetting merchandise. Participate in store maintenance per the current visual...\n" .
+_:nodece7aeeedc0df7e58d6d3c9baf99a6365 <http://schema.org/jobLocation> _:node8830a0f9ae9597e973fa4bf91f9aa87a .
+_:nodece7aeeedc0df7e58d6d3c9baf99a6365 <http://schema.org/name> "LIDS" .
+_:nodeffe4a17787dcccefd21c05428e91790 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeffe4a17787dcccefd21c05428e91790 <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=fc15a42a2b7e95d0> .
+_:nodeffe4a17787dcccefd21c05428e91790 <http://schema.org/hiringOrganization> "Home Depot" .
+_:nodeffe4a17787dcccefd21c05428e91790 <http://schema.org/description> "\nBuilding relationships with customers by being the first and last contact the customer has when shopping the store....\n" .
+_:nodeffe4a17787dcccefd21c05428e91790 <http://schema.org/jobLocation> _:node8a4fe02d7b6b7424311666b145e7ace8 .
+_:nodeffe4a17787dcccefd21c05428e91790 <http://schema.org/name> "Home Depot" .
+_:node8830a0f9ae9597e973fa4bf91f9aa87a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node8830a0f9ae9597e973fa4bf91f9aa87a <http://schema.org/address> _:node45f36a856d76722173e12f460d9364b .
+_:nodece778fbbd64535b3b6a5af7ccf92934 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodece778fbbd64535b3b6a5af7ccf92934 <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=28e5809b08708efa> .
+_:nodece778fbbd64535b3b6a5af7ccf92934 <http://schema.org/hiringOrganization> "CIBC" .
+_:nodece778fbbd64535b3b6a5af7ccf92934 <http://schema.org/description> "\nAs the first person our clients see, you are the face of CIBC and as a result will be relied upon to develop a rapport with customers and provide excellent...\n" .
+_:nodece778fbbd64535b3b6a5af7ccf92934 <http://schema.org/jobLocation> _:node3c87434ff43c480e2b3497c2fa79170 .
+_:nodece778fbbd64535b3b6a5af7ccf92934 <http://schema.org/name> "CIBC" .
+_:nodeaaeb41af9b66c8fd6ac6963796edc6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodeaaeb41af9b66c8fd6ac6963796edc6 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:node827533b86d64d1a5312ee15df917fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node827533b86d64d1a5312ee15df917fd <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:node7583133e95e761feaa74d62c47f640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node7583133e95e761feaa74d62c47f640 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:nodec11282a76728df382def58136d1284b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodec11282a76728df382def58136d1284b <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:nodeb6fd3bc4d5aa531be7ac46fd974fe95e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeb6fd3bc4d5aa531be7ac46fd974fe95e <http://schema.org/address> _:node9214f3558b666e8caa629fc7b79be9c2 .
+_:nodeb2b9154d7fbb1a5c203e687baa96d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeb2b9154d7fbb1a5c203e687baa96d <http://schema.org/address> _:nodeecd4254212336bb9f5da31fe133a9b0 .
+_:node99d3dceff41cd7582dbf3d51954c94a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node99d3dceff41cd7582dbf3d51954c94a <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=57e083f1596f4b36> .
+_:node99d3dceff41cd7582dbf3d51954c94a <http://schema.org/hiringOrganization> "We Care Home Health Services" .
+_:node99d3dceff41cd7582dbf3d51954c94a <http://schema.org/description> "\nFirst Aid Certificate; Valid driver's licence; Cardiopulmonary Resuscitation (CPR) Certificate . Supervise and care for children;...\n" .
+_:node99d3dceff41cd7582dbf3d51954c94a <http://schema.org/jobLocation> _:nodeb6fd3bc4d5aa531be7ac46fd974fe95e .
+_:node99d3dceff41cd7582dbf3d51954c94a <http://schema.org/name> "We Care Home Health Services" .
+_:nodef4e1a4f825afa13680d41234a4e1cba5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodef4e1a4f825afa13680d41234a4e1cba5 <http://schema.org/address> _:node827533b86d64d1a5312ee15df917fd .
+_:nodeb8210fb1914848ffaa72ff9ed3b4c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeb8210fb1914848ffaa72ff9ed3b4c5 <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=8dc98b7d914f5d01> .
+_:nodeb8210fb1914848ffaa72ff9ed3b4c5 <http://schema.org/hiringOrganization> "WIS International" .
+_:nodeb8210fb1914848ffaa72ff9ed3b4c5 <http://schema.org/description> "\nThis opportunity is perfect for retired worker or person looking for a few shifts a week. Inventory Clerk Specific Skills....\n" .
+_:nodeb8210fb1914848ffaa72ff9ed3b4c5 <http://schema.org/jobLocation> _:node3b1fd3e0d5fa5e76c2c2c9d648132a68 .
+_:nodeb8210fb1914848ffaa72ff9ed3b4c5 <http://schema.org/name> "WIS International" .
+_:node9214f3558b666e8caa629fc7b79be9c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node9214f3558b666e8caa629fc7b79be9c2 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:nodef565ca8e8a4680f5d89c677c1deb5fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodef565ca8e8a4680f5d89c677c1deb5fb <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=502e3954158dcc47> .
+_:nodef565ca8e8a4680f5d89c677c1deb5fb <http://schema.org/hiringOrganization> "Andrews of Charlottetown" .
+_:nodef565ca8e8a4680f5d89c677c1deb5fb <http://schema.org/description> "\nTake customers' orders; Serve customers at counters or buffet tables; Receive, unpack and store supplies in refrigerators, freezers, cupboards and other storage...\n" .
+_:nodef565ca8e8a4680f5d89c677c1deb5fb <http://schema.org/jobLocation> _:node26388f6d2fc65e4efc31ca4341a98ae .
+_:nodef565ca8e8a4680f5d89c677c1deb5fb <http://schema.org/name> "Andrews of Charlottetown" .
+_:node393e98b06818a09612a3677594ee9722 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node393e98b06818a09612a3677594ee9722 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:node5e8bc113dc94626bad141119acc96dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node5e8bc113dc94626bad141119acc96dc <http://schema.org/address> _:node393e98b06818a09612a3677594ee9722 .
+_:node8a4fe02d7b6b7424311666b145e7ace8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node8a4fe02d7b6b7424311666b145e7ace8 <http://schema.org/address> _:nodeaaeb41af9b66c8fd6ac6963796edc6 .
+_:nodeecd4254212336bb9f5da31fe133a9b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodeecd4254212336bb9f5da31fe133a9b0 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:node3c87434ff43c480e2b3497c2fa79170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node3c87434ff43c480e2b3497c2fa79170 <http://schema.org/address> _:nodec11282a76728df382def58136d1284b .
+_:node3d644434ff81cfe375bc1e4329fbb36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node3d644434ff81cfe375bc1e4329fbb36 <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=326f6fbc26f27aa6> .
+_:node3d644434ff81cfe375bc1e4329fbb36 <http://schema.org/hiringOrganization> "National Defence/HMCS Queen Charlotte" .
+_:node3d644434ff81cfe375bc1e4329fbb36 <http://schema.org/description> "\nMust be 16 years of age(parental consent require for under 18),Canadian citizen and have completed grade 12.This position requires the successful applicant to...\n" .
+_:node3d644434ff81cfe375bc1e4329fbb36 <http://schema.org/jobLocation> _:node852fab44782db2529dc4c08ecd1eb3 .
+_:node3d644434ff81cfe375bc1e4329fbb36 <http://schema.org/name> "National Defence/HMCS Queen Charlotte" .
+_:node11139f148db5f8261471f1989cab5e16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node11139f148db5f8261471f1989cab5e16 <http://schema.org/addressLocality> "Charlottetown, PE" .
+_:node26388f6d2fc65e4efc31ca4341a98ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node26388f6d2fc65e4efc31ca4341a98ae <http://schema.org/address> _:node7583133e95e761feaa74d62c47f640 .
+_:node852fab44782db2529dc4c08ecd1eb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node852fab44782db2529dc4c08ecd1eb3 <http://schema.org/address> _:node11139f148db5f8261471f1989cab5e16 .
+_:node714670adec5df4efff8ec4d9c15747c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node714670adec5df4efff8ec4d9c15747c <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=1f8cc4dc1f317ba6> .
+_:node714670adec5df4efff8ec4d9c15747c <http://schema.org/hiringOrganization> "National Defence/HMCS Queen Charlotte" .
+_:node714670adec5df4efff8ec4d9c15747c <http://schema.org/description> "\nAnswer customer inquiries . Receive, unpack and sort incoming parts, supplies and materials; Typing (Words Per Minute). 0 - 40 wpm ....\n" .
+_:node714670adec5df4efff8ec4d9c15747c <http://schema.org/jobLocation> _:node5e8bc113dc94626bad141119acc96dc .
+_:node714670adec5df4efff8ec4d9c15747c <http://schema.org/name> "National Defence/HMCS Queen Charlotte" .
+_:node32c9575baa6a80635ee1cec8281d623a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node32c9575baa6a80635ee1cec8281d623a <http://schema.org/title> <http://ca.indeed.com/jobs?l=Prince+Edward+Island&jt=parttime//rc/clk?jk=d1e7ad27e521ba6c> .
+_:node32c9575baa6a80635ee1cec8281d623a <http://schema.org/hiringOrganization> "Sears Canada" .
+_:node32c9575baa6a80635ee1cec8281d623a <http://schema.org/description> "\nWe offer a competitive compensation package including a flexible benefits program and a generous associate discount on most Sears merchandise and services....\n" .
+_:node32c9575baa6a80635ee1cec8281d623a <http://schema.org/jobLocation> _:nodef4e1a4f825afa13680d41234a4e1cba5 .
+_:node32c9575baa6a80635ee1cec8281d623a <http://schema.org/name> "Sears Canada" .
+_:nodeeeb8456fa2162d2d5e6c312f3c59392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

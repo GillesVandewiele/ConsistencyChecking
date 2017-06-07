@@ -1,0 +1,67 @@
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#url> "http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#longitude> "-105.9607045"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#image> "http://images.alibi.com/chowtown2/gfx/spork.png"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#street-address> "821 W. San Mateo"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#locality> "Santa Fe"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#latitude> "35.6615885"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#type> "restaurant"@en .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#title> "Chocolate Maven Bakery and Caf\u00E9"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66510 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Santa+Fe/31/281/restaurants.html> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66510 <http://rdf.data-vocabulary.org/#title> "Bakery/Sweets"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 <http://rdf.data-vocabulary.org/#locality> "Santa Fe"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 <http://rdf.data-vocabulary.org/#street-address> "821 W. San Mateo"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67864 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67864 <http://rdf.data-vocabulary.org/#description> "It has chocolate in the name ... how could it not be delicious? The Chocolate Maven  is tucked nicely into the same warehouse where bakers produce fresh scones, cakes and other delectables found at local coffee shops and grocers. The caf\u00E9 is soft and quiet, with an Italian-country villa feel. If you sit on the ground floor, you can watch the bakers make cinnamon rolls and knead bread as you tear into wonderful dishes like the Maven BLT (a classic BLT sandwich with chipotle aioli and avocado) or roast beef and blue cheese on freshly baked sourdough bread. Even if you\u2019re too stuffed to eat dessert after lunch, make sure to look at all the fine creations and take some home for later."@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67864 <http://rdf.data-vocabulary.org/#itemreviewed> "Chocolate Maven Bakery and Caf\u00E9"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66477 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66477 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/restaurants.html> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66477 <http://rdf.data-vocabulary.org/#title> "Restaurants"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66477 <http://rdf.data-vocabulary.org/#child> _:genid2d697f03235e55445eb4f84046fb2356c52dN66488 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://purl.org/goodrelations/v1#ProductOrService> "American"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://purl.org/goodrelations/v1#ProductOrService> "Bakery/Sweets"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#category> "American"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#category> "Bakery/Sweets"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Fri: 7am-3pm Sat-Sun: 9am-3pm"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#pricerange> "$$"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "American"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Bakery/Sweets"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Fri: 7am-3pm Sat-Sun: 9am-3pm"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Brunch"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66499 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Santa+Fe/31/276/restaurants.html> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66499 <http://rdf.data-vocabulary.org/#title> "American"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67570 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67570 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d697f03235e55445eb4f84046fb2356c52dN67584 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#geo> _:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67632 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#geo> _:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67632 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67570 <http://rdf.data-vocabulary.org/#votes> "6"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67570 <http://rdf.data-vocabulary.org/#rating> "2.67"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://purl.org/goodrelations/v1#legalName> "Chocolate Maven Bakery and Caf\u00E9"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#address> _:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#address> _:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67596 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN67584 <http://rdf.data-vocabulary.org/#name> "Chocolate Maven Bakery and Caf\u00E9"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67632 <http://rdf.data-vocabulary.org/#latitude> "35.6615885"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dINSIDE5fN67632 <http://rdf.data-vocabulary.org/#longitude> "-105.9607045"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66488 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66488 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Santa+Fe/restaurants.html> .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66488 <http://rdf.data-vocabulary.org/#title> "Santa Fe"@en .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d697f03235e55445eb4f84046fb2356c52dN66499 .
+_:genid2d697f03235e55445eb4f84046fb2356c52dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d697f03235e55445eb4f84046fb2356c52dN66510 .
+<http://www.submergecamera.com/ikelite-focus-clamp-for-all-slr-slr-af-and-slr-af-md-housings-replacement-2625.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

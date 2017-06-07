@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Mary_Rose> <http://dbpedia.org/ontology/homeport> <http://dbpedia.org/resource/Kingdom_of_England> .
+<http://dbpedia.org/resource/Mary_Rose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .
+<http://dbpedia.org/resource/Mary_Rose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Ship> .
+<http://dbpedia.org/resource/Kingdom_of_England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> .
+<http://dbpedia.org/resource/Kingdom_of_England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Kingdom_of_England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Kingdom_of_England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

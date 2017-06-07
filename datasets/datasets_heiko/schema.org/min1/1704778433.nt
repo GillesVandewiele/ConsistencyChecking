@@ -1,0 +1,6 @@
+_:nodedc61cb70a156acc79eff53449515e812 <http://schema.org/url> "http://blog.sffs.org/hopeforfilm/"@en-us .
+_:nodedc61cb70a156acc79eff53449515e812 <http://schema.org/name> "Hope For Film"@en-us .
+_:nodedc61cb70a156acc79eff53449515e812 <http://schema.org/description> "A home for my most recent blog posts. For more, please click links directly \nbelow."@en-us .
+_:nodedc61cb70a156acc79eff53449515e812 <http://schema.org/image> "http://static.squarespace.com/static/50859abae4b0f4598aabab2b/5106c500e4b040a2bc78ec9d/5106e22ae4b0807d1f055d67/?format=1000w"@en-us .
+_:nodedc61cb70a156acc79eff53449515e812 <http://schema.org/thumbnailUrl> "http://static.squarespace.com/static/50859abae4b0f4598aabab2b/5106c500e4b040a2bc78ec9d/5106e22ae4b0807d1f055d67/?format=1000w"@en-us .
+_:nodeb7371529c22b589aede3dcc475917d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

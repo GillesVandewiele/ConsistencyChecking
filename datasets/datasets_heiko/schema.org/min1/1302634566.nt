@@ -1,0 +1,13 @@
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/operatingSystems> "\n                                Platform:\n                Windows\n            " .
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/aggregateRating> _:noded51bdaa026eea3ce684e667ad1d79750 .
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/fileSize> "\n                                File Size:\n\n    12.32MB\n            " .
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/reviews> _:node7c9d9f642e55fca95de1549cfafe8a2f .
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/name> "GSA Image Spider" .
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/interactionCount> "\n                                Total Downloads:\n\n    2,663\n            " .
+_:node8f708fe1f76c4d63cc8d86a495b541 <http://schema.org/interactionCount> "\n                                Downloads Last Week:\n\n    2\n            " .
+_:noded51bdaa026eea3ce684e667ad1d79750 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node1c1bb18fc3ebff9492889f7e4ba34c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1c1bb18fc3ebff9492889f7e4ba34c6 <http://schema.org/name> "\n                From  GSA: \n    " .
+_:node7c9d9f642e55fca95de1549cfafe8a2f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node7c9d9f642e55fca95de1549cfafe8a2f <http://schema.org/author> _:node1c1bb18fc3ebff9492889f7e4ba34c6 .
+_:node91381d234ff19985edc350378120cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

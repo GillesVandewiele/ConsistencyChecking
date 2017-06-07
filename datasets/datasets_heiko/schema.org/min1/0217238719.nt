@@ -1,0 +1,7 @@
+_:node61e4a2863df57717bf2b556b51301e1a <http://schema.org/keywords> "madison news, madison weather, madison wisconsin weather" .
+_:node61e4a2863df57717bf2b556b51301e1a <http://schema.org/name> "Roosevelt Elementary-316 S. Ringold St. Janesville, WI 53548" .
+_:node61e4a2863df57717bf2b556b51301e1a <http://schema.org/publisher> _:nodeaedf4a6374d91d9afe904fee9d283f9a .
+_:node61e4a2863df57717bf2b556b51301e1a <http://schema.org/url> "http://m.channel3000.com/21853164" .
+_:nodeaedf4a6374d91d9afe904fee9d283f9a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeaedf4a6374d91d9afe904fee9d283f9a <http://schema.org/name> "mmm-c3k-mobile" .
+_:nodee72ee01575317fce43173a7c320aae6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

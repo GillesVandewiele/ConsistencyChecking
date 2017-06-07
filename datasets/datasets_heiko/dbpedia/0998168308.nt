@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Albert_Camus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Jean-Paul_Sartre> .
+<http://dbpedia.org/resource/Albert_Camus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Albert_Camus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Jean-Paul_Sartre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jean-Paul_Sartre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Albert_Camus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Jean-Paul_Sartre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .

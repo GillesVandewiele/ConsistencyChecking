@@ -1,0 +1,10 @@
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/name> "Rich Roll Cookies"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/ingredients> "1 cup (2 sticks) butter"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/ingredients> "Two-thirds cup sugar"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/ingredients> "1 egg"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/ingredients> "Two and one-half cups sifted all-purpose flour"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/ingredients> "1 teaspoon pure vanilla extract"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/ingredients> "Pinch of salt"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/recipeYield> "Yield:"@en .
+_:nodee8c616476ddb02d6dc923733ac731c5 <http://schema.org/recipeInstructions> "\n          \n                          1 cup (2 sticks) butter                          Two-thirds cup sugar                          1 egg                          Two and one-half cups sifted all-purpose flour                          1 teaspoon pure vanilla extract                          Pinch of salt                       \n        "@en .
+_:nodee6a6b51ed85b72c835caead3f8fe7e68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

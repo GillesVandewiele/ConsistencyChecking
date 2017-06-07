@@ -1,0 +1,3 @@
+_:nodef1685297812bb973e5a757b51eccb1fb <http://schema.org/name> "\n\t\t\t\t\tCaf\u00E9 A Brasileira\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef1685297812bb973e5a757b51eccb1fb <http://schema.org/url> <http://www.meetup.com/Cafe-Brasileira/> .
+_:node1a2d15abbffcb732ed9a8ce6d6cd53a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

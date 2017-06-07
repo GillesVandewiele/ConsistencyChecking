@@ -1,0 +1,11 @@
+<http://www.blackcatconsulting.co.nz/#company> <http://xmlns.com/foaf/0.1/page> <http://www.blackcatconsulting.co.nz/> .
+_:genid2d13c4bb0ebe0f438fb24491dc557227922dN65604 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d13c4bb0ebe0f438fb24491dc557227922dN65604 <http://www.w3.org/2006/vcard/ns#postal-code> "0630" .
+_:genid2d13c4bb0ebe0f438fb24491dc557227922dN65604 <http://www.w3.org/2006/vcard/ns#locality> "Auckland" .
+_:genid2d13c4bb0ebe0f438fb24491dc557227922dN65604 <http://www.w3.org/2006/vcard/ns#street-address> "81a Archers Road" .
+_:genid2d13c4bb0ebe0f438fb24491dc557227922dN65604 <http://www.w3.org/2006/vcard/ns#country-name> "New Zealand" .
+<http://www.blackcatconsulting.co.nz/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.blackcatconsulting.co.nz/#company> <http://purl.org/goodrelations/v1#legalName> "Just Results Limited" .
+<http://www.blackcatconsulting.co.nz/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d13c4bb0ebe0f438fb24491dc557227922dN65604 .
+<http://www.blackcatconsulting.co.nz/#company> <http://www.w3.org/2006/vcard/ns#tel> "021 416 845" .
+<http://www.surveillance-video.com/accessory-eh1512-1lmts.html/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

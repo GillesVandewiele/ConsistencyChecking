@@ -1,0 +1,12 @@
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/isBasedOnUrl> <http://myfearsourlies.tumblr.com/post/15738337042> .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/interactionCount> "UserPageVisits:1823" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/interactionCount> "UserLikes:2" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/interactionCount> "UserComments:0" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/contentUrl> <http://s3.favim.com/orig/44/amy-lee-beautiful-clip-dark-evanescence-Favim.com-367450.gif> .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/uploadDate> "2012-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/width> "500 px" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/height> "281 px" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/caption> "amy lee, beautiful, clip, dark, evanescence, evanescence video, gif, my heart" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/caption> "amy lee, beautiful, clip, dark, evanescence" .
+_:nodeedbb4acc5f2d293c98121495c22a21 <http://schema.org/keywords> "amy lee, beautiful, clip, dark, evanescence, evanescence video, gif, my heart is broken, rock, singer, video" .
+_:nodeaaacce28166c7d4d13b49397e5e3bce1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,6 @@
+_:node2380de6bf0fb72a68b927be86b4f6c8f <http://schema.org/url> <http://blogs.registerguard.com/oregon-mens-basketball> .
+_:node2380de6bf0fb72a68b927be86b4f6c8f <http://schema.org/givenName> "Bob" .
+_:node2380de6bf0fb72a68b927be86b4f6c8f <http://schema.org/familyName> "Clark" .
+_:node2380de6bf0fb72a68b927be86b4f6c8f <http://schema.org/image> <http://blogs.registerguard.com/wp-content/uploads/2013/08/bob-clark.png> .
+_:node2380de6bf0fb72a68b927be86b4f6c8f <http://schema.org/name> "\n\t\t\t\t\n\t\t\t\tBob\t\t\t\t\n\t\t\t\tClark\t\t\t\t\n\t\t\t" .
+_:noded30b169127e756511992857c624d8b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

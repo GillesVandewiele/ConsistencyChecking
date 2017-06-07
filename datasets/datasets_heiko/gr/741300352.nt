@@ -1,0 +1,34 @@
+<http://www.temperleylondon.com/shop/deneuve-top.html#Review-aggregate_30716> <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Review-aggregate_30716> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#validFrom> "2014-12-20 03:47:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.temperleylondon.com/shop/deneuve-top.html#UnitPriceSpecification_30716> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#validThrough> "2015-12-20 03:47:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#description> "The Deneuve Top from Temperley London\u2019s Pre-Fall collection is a sophisticated choice for any evening occasion. This pleated silk top features tulle panels with floral embroidery and fluted sleeves. The design is finished with buttoned cuffs and a keyhole button fastening at the back. Fabric composition: 82% silk, 18% polyester True to sizeModel is 5ft 10 and is wearing a size UK8" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#name> "Deneuve Top" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "14PDEE4113A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://xmlns.com/foaf/0.1/depiction> _:genid2dcf13a0e21b094902b7dd5f0055a837fb2dN67436 .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://purl.org/goodrelations/v1#description> "The Deneuve Top from Temperley London\u2019s Pre-Fall collection is a sophisticated choice for any evening occasion. This pleated silk top features tulle panels with floral embroidery and fluted sleeves. The design is finished with buttoned cuffs and a keyhole button fastening at the back. Fabric composition: 82% silk, 18% polyester True to sizeModel is 5ft 10 and is wearing a size UK8" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://purl.org/goodrelations/v1#name> "Deneuve Top" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2dcf13a0e21b094902b7dd5f0055a837fb2dN67428 .
+_:genid2dcf13a0e21b094902b7dd5f0055a837fb2dINSIDE5fN67449 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2dcf13a0e21b094902b7dd5f0055a837fb2dINSIDE5fN67449 <http://rdf.data-vocabulary.org/#hasReview> <http://www.temperleylondon.com/shop/deneuve-top.html#Review-aggregate_30716> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#includesObject> <http://www.temperleylondon.com/shop/deneuve-top.html#TypeAndQuantityNode_30716> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#QuantitativeValue_30716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#QuantitativeValue_30716> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#QuantitativeValue_30716> <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#ByBankTransferInAdvance> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.temperleylondon.com/shop/deneuve-top.html#QuantitativeValue_30716> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Offering_30716> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dcf13a0e21b094902b7dd5f0055a837fb2dINSIDE5fN67449 .
+<http://www.temperleylondon.com/shop/deneuve-top.html#TypeAndQuantityNode_30716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#TypeAndQuantityNode_30716> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#TypeAndQuantityNode_30716> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.temperleylondon.com/shop/deneuve-top.html#SomeItems_30716> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#UnitPriceSpecification_30716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#UnitPriceSpecification_30716> <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#UnitPriceSpecification_30716> <http://purl.org/goodrelations/v1#hasCurrencyValue> "360"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/deneuve-top.html#UnitPriceSpecification_30716> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.ridershack.com/freestyle-shark-classic-watch-green.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

@@ -1,0 +1,46 @@
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T00:33:31-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://purl.org/goodrelations/v1#validThrough> "2015-12-19T00:33:31-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://purl.org/goodrelations/v1#hasCurrencyValue> "295.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#TypeAndQuantityNode_550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#TypeAndQuantityNode_550> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#TypeAndQuantityNode_550> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#TypeAndQuantityNode_550> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> .
+<http://www.bestvacuum.com/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#description> "The Sanitaire SC899 commercial vacuum cleaner features an extra-wide 16-inch cleaning path plus Sanitaire's Quick Kleen fan chamber and shake-out bag system for fast cleaning and easy maintenance. With an all metal beater bar brushroll, the heavy-duty Sanitaire SC899 vacuum cleaner is ready for heavy duty use, an ideal upright ideal for hotel, education, government and building services applications. 7 Amp Suction Motor Shake-Out Bag System Six-Position Height Adjustment 16&quot; All Metal VGI Beater Bar Brushroll 50' Power Cord Quick Kleen Removable Fan Chamber Brilliant Headlight One-Year Warranty"@en .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#name> "Sanitaire SC899 Upright (X-Wide)"@en .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModePickUp> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeOwnFleet> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Cash> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#CheckInAdvance> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#GoogleCheckout> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d8371c750fdfe49ad83bcf787b63bbc2c2dN66599 .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "SC899"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.bestvacuum.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/2/4/2498.jpg> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://purl.org/goodrelations/v1#description> "The Sanitaire SC899 commercial vacuum cleaner features an extra-wide 16-inch cleaning path plus Sanitaire's Quick Kleen fan chamber and shake-out bag system for fast cleaning and easy maintenance. With an all metal beater bar brushroll, the heavy-duty Sanitaire SC899 vacuum cleaner is ready for heavy duty use, an ideal upright ideal for hotel, education, government and building services applications. 7 Amp Suction Motor Shake-Out Bag System Six-Position Height Adjustment 16&quot; All Metal VGI Beater Bar Brushroll 50' Power Cord Quick Kleen Removable Fan Chamber Brilliant Headlight One-Year Warranty"@en .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://purl.org/goodrelations/v1#category> "Commercial Products/Sanitaire Vacuum Cleaners"@en .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://purl.org/goodrelations/v1#name> "Sanitaire SC899 Upright (X-Wide)"@en .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#product_data> <http://purl.org/goodrelations/v1#hasManufacturer> <http://www.bestvacuum.com/#manufacturer_34> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.bestvacuum.com/#shop> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.bestvacuum.com/sanitaire-sc899-upright.html#TypeAndQuantityNode_550> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T00:00:00-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-12-19T00:33:31-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://xmlns.com/foaf/0.1/page> <http://www.bestvacuum.com/sanitaire-sc899-upright.html> .
+_:genid2d8371c750fdfe49ad83bcf787b63bbc2c2dN66599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d8371c750fdfe49ad83bcf787b63bbc2c2dN66599 <http://purl.org/goodrelations/v1#hasMinValue> "1000"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d8371c750fdfe49ad83bcf787b63bbc2c2dN66599 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2daf408ce76fac49a5a8cfe2c117c3e2a62dN66756 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

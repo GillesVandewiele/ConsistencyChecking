@@ -1,0 +1,9 @@
+_:node735dba74ed2eac2f6724e4d294ca443 <http://schema.org/manufacturer> "Make: Other Make" .
+_:node735dba74ed2eac2f6724e4d294ca443 <http://schema.org/price> "Price: $56,995.00 " .
+_:node735dba74ed2eac2f6724e4d294ca443 <http://schema.org/model> "Model: 28 Express" .
+_:node735dba74ed2eac2f6724e4d294ca443 <http://schema.org/depth> "Length: 28 ft. 0 in." .
+_:node735dba74ed2eac2f6724e4d294ca443 <http://schema.org/releaseDate> "Year: 1999" .
+_:node735dba74ed2eac2f6724e4d294ca443 <http://schema.org/sameAs> "http://en.wikipedia.org/wiki/Boat" .
+_:node5fe5a933d38bb3d06ed238db463c5536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:node8a84eb341f71ed242ed5bddf6fa65d6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:nodec73a23eda68d2cf8e4df974e6f892b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

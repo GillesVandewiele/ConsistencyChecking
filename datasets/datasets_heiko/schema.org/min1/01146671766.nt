@@ -1,0 +1,7 @@
+_:nodef8d515a9923285734494a5f91c22c32 <http://schema.org/keywords> "2011 Chevrolet Malibu LS Sedan loan, 2011 Chevrolet Malibu LS Sedan loans"@en-us .
+_:nodef8d515a9923285734494a5f91c22c32 <http://schema.org/image> "http://image.automotive.com/f/2011_chevrolet_malibu/38034569+w200/front-driver-side-view.jpg"@en-us .
+_:nodef8d515a9923285734494a5f91c22c32 <http://schema.org/name> "\n            2011 Chevrolet Malibu Loan Calculator"@en-us .
+_:nodef8d515a9923285734494a5f91c22c32 <http://schema.org/description> "You can't go wrong. Use our simple car loan calculator to compute used 2011 Chevrolet Malibu loan payments at Automotive.com."@en-us .
+_:nodef8d515a9923285734494a5f91c22c32 <http://schema.org/primaryImageOfPage> <http://image.automotive.com/f/2011_chevrolet_malibu/38034569+w200/front-driver-side-view.jpg> .
+_:nodef8d515a9923285734494a5f91c22c32 <http://schema.org/url> "http://cars.automotive.com/chevrolet/malibu/2011/loan-calculator/t3-12-2-1/"@en-us .
+_:nodeab975195eb70bcb6ecab4cfe7de845cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.schema.org/WPSideBar> .

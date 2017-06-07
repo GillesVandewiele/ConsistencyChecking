@@ -1,0 +1,38 @@
+_:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 <http://rdf.data-vocabulary.org/#street-address> "125 Lincoln Avenue"@en .
+_:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 <http://rdf.data-vocabulary.org/#postal-code> "87501"@en .
+_:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66450 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/index.php?desired_page=venues> .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66450 <http://rdf.data-vocabulary.org/#title> "venues"@en .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66450 <http://rdf.data-vocabulary.org/#child> _:genid2d2848a8f4a2704be092df47c517acf2432dN66461 .
+_:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67113 <http://rdf.data-vocabulary.org/#latitude> "35.6886645951"@en .
+_:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67113 <http://rdf.data-vocabulary.org/#longitude> "-105.93828382"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://rdf.data-vocabulary.org/#geo> _:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67113 .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://rdf.data-vocabulary.org/#geo> _:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67113 .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#description> "Allan Houser Gallery at 125 Lincoln Avenue:"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#postal-code> "87501"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#url> "http://alibi.com/index.php?desired_page=venues&entity=14122"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#longitude> "-105.93828382"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#image> "http://alibi.com/images/alibi-a-57x57.png"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#street-address> "125 Lincoln Avenue"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#locality> "Santa Fe"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#latitude> "35.6886645951"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://ogp.me/ns#title> "Allan Houser Gallery"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://purl.org/goodrelations/v1#legalName> "Allan Houser Gallery"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://rdf.data-vocabulary.org/#address> _:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://rdf.data-vocabulary.org/#address> _:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2848a8f4a2704be092df47c517acf2432dINSIDE5fN67075 .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://rdf.data-vocabulary.org/#name> "Allan Houser Gallery"@en .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66461 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/index.php?desired_page=venues&city=Santa+Fe> .
+_:genid2d2848a8f4a2704be092df47c517acf2432dN66461 <http://rdf.data-vocabulary.org/#title> "Santa Fe"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=14122> <http://rdf.data-vocabulary.org/#description> ""@en .
+<http://nantucketbrand.com/shop/3-button-blue-seersucker-jacket.html#UnitPriceSpecification_6966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

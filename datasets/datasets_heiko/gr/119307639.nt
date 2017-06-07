@@ -1,0 +1,74 @@
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/restaurants.html> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 <http://rdf.data-vocabulary.org/#title> "Albuquerque"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 <http://rdf.data-vocabulary.org/#child> _:genid2dd8aab8e71b664527b007f6fed2ee11922dN66501 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#geo> _:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67666 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#geo> _:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67666 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66479 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66479 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/restaurants.html> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66479 <http://rdf.data-vocabulary.org/#title> "Restaurants"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66479 <http://rdf.data-vocabulary.org/#child> _:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67942 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67942 <http://rdf.data-vocabulary.org/#description> "This is honest, no-frills American diner food without the diner. The ambience feels a bit like a large, ranch-style living room that\u2019s been converted into a neighborhood restaurant. Chicken-fried steak and biscuits and gravy abound in massive portions and are every bit as good as your childhood memories. And if you skip dessert, you\u2019re only cheating yourself out of seriously delish homemade pies and cakes, lovingly made by Granny."@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67942 <http://rdf.data-vocabulary.org/#itemreviewed> "Murphy\u2019s Mule Barn"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://purl.org/goodrelations/v1#ProductOrService> "American"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://purl.org/goodrelations/v1#ProductOrService> "Diner"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Delivery"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#category> "American"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#category> "Diner"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Sat: 6am-8pm Sun: 7am-2:30pm"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#pricerange> "$"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "American"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Diner"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Sat: 6am-8pm Sun: 7am-2:30pm"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67666 <http://rdf.data-vocabulary.org/#latitude> "35.19081935"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67666 <http://rdf.data-vocabulary.org/#longitude> "-106.612699"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67583 <http://rdf.data-vocabulary.org/#votes> "19"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67583 <http://rdf.data-vocabulary.org/#rating> "4.16"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://purl.org/goodrelations/v1#legalName> "Murphy\u2019s Mule Barn"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#address> _:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#address> _:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://purl.org/goodrelations/v1#hasPOS> _:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://purl.org/goodrelations/v1#hasPOS> _:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 <http://rdf.data-vocabulary.org/#name> "Murphy\u2019s Mule Barn"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66501 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66501 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/32/10/restaurants.html> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66501 <http://rdf.data-vocabulary.org/#title> "North Valley"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 <http://rdf.data-vocabulary.org/#child> _:genid2dd8aab8e71b664527b007f6fed2ee11922dN66523 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 <http://rdf.data-vocabulary.org/#street-address> "9700 Second Street NW"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dINSIDE5fN67622 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+<http://alibi.com/image/pix_id/11225/The-stuff-that-dreams-are-made-of-chicken-fried-s.jpg?image_height=94&image_width=94&orig_crop_left=107&orig_crop_right=107> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/11225/The-stuff-that-dreams-are-made-of-chicken-fried-s.jpg"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66523 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/263/restaurants.html> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66523 <http://rdf.data-vocabulary.org/#title> "Diner"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67583 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67583 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN67583 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2dd8aab8e71b664527b007f6fed2ee11922dN67597 .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66512 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/276/restaurants.html> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66512 <http://rdf.data-vocabulary.org/#title> "American"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#description> "Murphy\u2019s Mule Barn (American, Diner) at 9700 Second Street NW: 1 critical review. This is honest, no-frills American diner food without the diner..."@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#url> "http://alibi.com/restaurants/entity/132/Murphys-Mule-Barn.html"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#longitude> "-106.612699"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#image> "http://alibi.com/image/pix_id/11225/The-stuff-that-dreams-are-made-of-chicken-fried-s.jpg"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#street-address> "9700 Second Street NW"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#locality> "Albuquerque"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#latitude> "35.19081935"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#type> "restaurant"@en .
+<http://alibi.com/restaurants/entity/132/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#title> "Murphy\u2019s Mule Barn"@en .
+<http://www.charlestonnaturally.com/dr-hauschka/dr-hauschka-toned-day-cream.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

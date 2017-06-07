@@ -1,0 +1,8 @@
+_:node7198d0399f176c7d0d841635b11c <http://schema.org/price> "\n25\n"@en .
+_:node7198d0399f176c7d0d841635b11c <http://schema.org/availability> "http://schema.org/InStock"@en .
+_:node7198d0399f176c7d0d841635b11c <http://schema.org/priceCurrency> "USD"@en .
+_:node88319bb072f68922d1b85139cb80b7dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node88319bb072f68922d1b85139cb80b7dc <http://schema.org/offers> _:node7198d0399f176c7d0d841635b11c .
+_:node88319bb072f68922d1b85139cb80b7dc <http://schema.org/name> "Tiro 13 Shorts"@en .
+_:node88319bb072f68922d1b85139cb80b7dc <http://schema.org/image> <http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/Sites-adidas-US-Site/Sites-adidas-products/en_US/v1419673932698/zoom/Z20308_01.jpg?sw=500&sfrm=jpg> .
+_:node10e4ebc92aa0cfc3641b9dc844332494 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

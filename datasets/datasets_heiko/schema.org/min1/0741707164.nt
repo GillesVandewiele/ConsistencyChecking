@@ -1,0 +1,288 @@
+_:node10efd01bdb1732435e9377ec4e3208b <http://schema.org/name> "San Francisco Intl"@en .
+_:node10efd01bdb1732435e9377ec4e3208b <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSFO> .
+_:node11c16e356cbbf485b0f0a93274f86af8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node11c16e356cbbf485b0f0a93274f86af8 <http://schema.org/name> "Detroit Metro Wayne Co"@en .
+_:node11c16e356cbbf485b0f0a93274f86af8 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDTW> .
+_:node102de542308494ff1e4040de8a1d5e17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node102de542308494ff1e4040de8a1d5e17 <http://schema.org/name> "Boston Logan Intl"@en .
+_:node102de542308494ff1e4040de8a1d5e17 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBOS> .
+_:node944c6d999839e5e7fa70845cdf1419f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node944c6d999839e5e7fa70845cdf1419f5 <http://schema.org/name> "Seattle-Tacoma Intl"@en .
+_:node944c6d999839e5e7fa70845cdf1419f5 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSEA> .
+_:nodeeca274c79d77a91fd35023759ae5c3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeeca274c79d77a91fd35023759ae5c3c <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:nodeeca274c79d77a91fd35023759ae5c3c <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node73fd422f5892566c7d60fe896e4946f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node73fd422f5892566c7d60fe896e4946f <http://schema.org/name> "Colorado Sprgs Muni"@en .
+_:node73fd422f5892566c7d60fe896e4946f <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KCOS> .
+_:node436c623aba09fc825b542f8ebb8cabc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node436c623aba09fc825b542f8ebb8cabc <http://schema.org/name> "Reagan National"@en .
+_:node436c623aba09fc825b542f8ebb8cabc <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDCA> .
+_:nodef2f0ed234a994a6ed61bea3c82c8dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef2f0ed234a994a6ed61bea3c82c8dc <http://schema.org/name> "Minneapolis/St Paul Intl"@en .
+_:nodef2f0ed234a994a6ed61bea3c82c8dc <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KMSP> .
+_:node22c86cb1f86bc0498149298f591ba118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node22c86cb1f86bc0498149298f591ba118 <http://schema.org/name> "John F Kennedy Intl"@en .
+_:node22c86cb1f86bc0498149298f591ba118 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:nodeb53be49d2670ffe55e76ebd4d0576b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb53be49d2670ffe55e76ebd4d0576b8 <http://schema.org/name> "Gowen Field"@en .
+_:nodeb53be49d2670ffe55e76ebd4d0576b8 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBOI> .
+_:node60655d26103c73e7308542785548a29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node60655d26103c73e7308542785548a29 <http://schema.org/name> "Don Miguel Hidalgo y Costilla Int'l"@en .
+_:node60655d26103c73e7308542785548a29 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MMGL> .
+_:nodea4846df378cf277172583d2beec96d66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea4846df378cf277172583d2beec96d66 <http://schema.org/name> "Reagan National"@en .
+_:nodea4846df378cf277172583d2beec96d66 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDCA> .
+_:node288de6d3d56faff3d697e1876fa08f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node288de6d3d56faff3d697e1876fa08f <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node288de6d3d56faff3d697e1876fa08f <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node2a915962ed55354fc7197ecb91c7cd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2a915962ed55354fc7197ecb91c7cd5 <http://schema.org/name> "Boston Logan Intl"@en .
+_:node2a915962ed55354fc7197ecb91c7cd5 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBOS> .
+_:nodeb212ef3e983db3db6e45959b1679698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb212ef3e983db3db6e45959b1679698 <http://schema.org/name> "Los Angeles Intl"@en .
+_:nodeb212ef3e983db3db6e45959b1679698 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node4c5c41aa4d55b6bbbc54c0ae9e319d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4c5c41aa4d55b6bbbc54c0ae9e319d <http://schema.org/name> "Cibao Int'l (Santiago Municipal)"@en .
+_:node4c5c41aa4d55b6bbbc54c0ae9e319d <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MDST> .
+_:node945a7bbb17c48c1ecd43b7d3d1dceacc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node945a7bbb17c48c1ecd43b7d3d1dceacc <http://schema.org/name> "Austin-Bergstrom Intl"@en .
+_:node945a7bbb17c48c1ecd43b7d3d1dceacc <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KAUS> .
+_:node688ce8157cf0ada193d376de61cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node688ce8157cf0ada193d376de61cd <http://schema.org/name> "McCarran Intl"@en .
+_:node688ce8157cf0ada193d376de61cd <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAS> .
+_:nodeee2b32d8aefbd83c171a9e47f63114f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeee2b32d8aefbd83c171a9e47f63114f <http://schema.org/name> "San Diego Intl"@en .
+_:nodeee2b32d8aefbd83c171a9e47f63114f <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSAN> .
+_:node154eef45cb4c3a2ffe504680563264c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node154eef45cb4c3a2ffe504680563264c <http://schema.org/name> "Los Angeles Intl"@en .
+_:node154eef45cb4c3a2ffe504680563264c <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node353ff52a6642f74eac4e6dd620258916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node353ff52a6642f74eac4e6dd620258916 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node353ff52a6642f74eac4e6dd620258916 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node811fb6e2ef568e6d14e3fee711713d1d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node811fb6e2ef568e6d14e3fee711713d1d <http://schema.org/name> "John F Kennedy Intl"@en .
+_:node811fb6e2ef568e6d14e3fee711713d1d <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:node519cc11b35b43c80f54261da4b9381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node519cc11b35b43c80f54261da4b9381 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node519cc11b35b43c80f54261da4b9381 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node8e53659ba1444aded8c14e8f37decd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8e53659ba1444aded8c14e8f37decd <http://schema.org/name> "Nashville Intl"@en .
+_:node8e53659ba1444aded8c14e8f37decd <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBNA> .
+_:node322ef2833adbdea5fa3dcae331a6ccd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node322ef2833adbdea5fa3dcae331a6ccd <http://schema.org/name> "San Francisco Intl"@en .
+_:node322ef2833adbdea5fa3dcae331a6ccd <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSFO> .
+_:node80afae8c4891b0a567cb67231bb7634 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node80afae8c4891b0a567cb67231bb7634 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node80afae8c4891b0a567cb67231bb7634 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node369eddafefcebf77417e6224dd7b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node369eddafefcebf77417e6224dd7b38 <http://schema.org/name> "Los Angeles Intl"@en .
+_:node369eddafefcebf77417e6224dd7b38 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:nodefe7e683783f1d47c8c2262a7069f68b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefe7e683783f1d47c8c2262a7069f68b <http://schema.org/name> "Gowen Field"@en .
+_:nodefe7e683783f1d47c8c2262a7069f68b <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBOI> .
+_:node14549ab243b358b078f74bd6a040c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node14549ab243b358b078f74bd6a040c5 <http://schema.org/name> "Los Angeles Intl"@en .
+_:node14549ab243b358b078f74bd6a040c5 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node5445bdf294cdbb34196a123bd3924ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5445bdf294cdbb34196a123bd3924ec <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node5445bdf294cdbb34196a123bd3924ec <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node96c3499616c459f43397b77c8efb4a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node96c3499616c459f43397b77c8efb4a4 <http://schema.org/name> "McCarran Intl"@en .
+_:node96c3499616c459f43397b77c8efb4a4 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAS> .
+_:node9793c8a8ebdfb83b7581d63494dd83ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9793c8a8ebdfb83b7581d63494dd83ec <http://schema.org/name> "Del Bajio Guanajuato Int'l"@en .
+_:node9793c8a8ebdfb83b7581d63494dd83ec <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MMLO> .
+_:node7f399fe776a2c6ddff33183674dddf5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7f399fe776a2c6ddff33183674dddf5 <http://schema.org/name> "Los Angeles Intl"@en .
+_:node7f399fe776a2c6ddff33183674dddf5 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node6d7d9fe5879049937e7ef65c5ffbe87d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6d7d9fe5879049937e7ef65c5ffbe87d <http://schema.org/name> "Detroit Metro Wayne Co"@en .
+_:node6d7d9fe5879049937e7ef65c5ffbe87d <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDTW> .
+_:node68f7c595dcae49f13c3be4988f6640de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node68f7c595dcae49f13c3be4988f6640de <http://schema.org/name> "Don Miguel Hidalgo y Costilla Int'l"@en .
+_:node68f7c595dcae49f13c3be4988f6640de <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MMGL> .
+_:node875ea057d14f69417b9bbdff6b6715f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node875ea057d14f69417b9bbdff6b6715f4 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node875ea057d14f69417b9bbdff6b6715f4 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:noded7dcb5533b5db4979a49d1742a80ae20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded7dcb5533b5db4979a49d1742a80ae20 <http://schema.org/name> "Detroit Metro Wayne Co"@en .
+_:noded7dcb5533b5db4979a49d1742a80ae20 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDTW> .
+_:noded56eedf0efa7591b747650df155b5af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded56eedf0efa7591b747650df155b5af <http://schema.org/name> "John F Kennedy Intl"@en .
+_:noded56eedf0efa7591b747650df155b5af <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:node56603f668a5b4a514d967d705ed6a1f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node56603f668a5b4a514d967d705ed6a1f7 <http://schema.org/name> "Los Angeles Intl"@en .
+_:node56603f668a5b4a514d967d705ed6a1f7 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node1af59baf120e69e86ccc3d4ce43ecd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node1af59baf120e69e86ccc3d4ce43ecd <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node1af59baf120e69e86ccc3d4ce43ecd <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node2520187b37ffd7a1bfc4494c808cf685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2520187b37ffd7a1bfc4494c808cf685 <http://schema.org/name> "Detroit Metro Wayne Co"@en .
+_:node2520187b37ffd7a1bfc4494c808cf685 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDTW> .
+_:node939e7ee7dcf413ffcf731045bad47d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node939e7ee7dcf413ffcf731045bad47d <http://schema.org/name> "Sangster Int'l"@en .
+_:node939e7ee7dcf413ffcf731045bad47d <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MKJS> .
+_:node70c93c74e47d49f119ca56da64abf5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node70c93c74e47d49f119ca56da64abf5 <http://schema.org/name> "Los Angeles Intl"@en .
+_:node70c93c74e47d49f119ca56da64abf5 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node48973bbf76a6f62b9fb84274ae4de6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node48973bbf76a6f62b9fb84274ae4de6 <http://schema.org/name> "McCarran Intl"@en .
+_:node48973bbf76a6f62b9fb84274ae4de6 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAS> .
+_:nodef0401b4749d57f38a316cced4fa19948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef0401b4749d57f38a316cced4fa19948 <http://schema.org/name> "Tampa Intl"@en .
+_:nodef0401b4749d57f38a316cced4fa19948 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KTPA> .
+_:nodee262513614e61581ff9d7cb4c382cd1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee262513614e61581ff9d7cb4c382cd1 <http://schema.org/name> "San Diego Intl"@en .
+_:nodee262513614e61581ff9d7cb4c382cd1 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSAN> .
+_:node30b0962c511a24fae7499ad374a658e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node30b0962c511a24fae7499ad374a658e3 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node30b0962c511a24fae7499ad374a658e3 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:nodec388632d2146802e3c9921be67c6f614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec388632d2146802e3c9921be67c6f614 <http://schema.org/name> "Luis Munoz Marin Intl"@en .
+_:nodec388632d2146802e3c9921be67c6f614 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/TJSJ> .
+_:node31ced0358441ff437277ea6f3d3546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node31ced0358441ff437277ea6f3d3546 <http://schema.org/name> "Del Bajio Guanajuato Int'l"@en .
+_:node31ced0358441ff437277ea6f3d3546 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MMLO> .
+_:node074faa28ff7e98a58870f6cec5f2cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node074faa28ff7e98a58870f6cec5f2cd <http://schema.org/name> "Detroit Metro Wayne Co"@en .
+_:node074faa28ff7e98a58870f6cec5f2cd <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDTW> .
+_:node3a8a813bf1f162c47ab1c5d0678fce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3a8a813bf1f162c47ab1c5d0678fce <http://schema.org/name> "Sangster Int'l"@en .
+_:node3a8a813bf1f162c47ab1c5d0678fce <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MKJS> .
+_:node3757e7137e94e71992211da0e92d3c58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3757e7137e94e71992211da0e92d3c58 <http://schema.org/name> "John F Kennedy Intl"@en .
+_:node3757e7137e94e71992211da0e92d3c58 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:nodef682a23dc7a4f84dece7cc7474a8a5fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef682a23dc7a4f84dece7cc7474a8a5fe <http://schema.org/name> "Detroit Metro Wayne Co"@en .
+_:nodef682a23dc7a4f84dece7cc7474a8a5fe <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDTW> .
+_:nodedca1792abba81f5f14a8ed80272dfe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodedca1792abba81f5f14a8ed80272dfe <http://schema.org/name> "Los Angeles Intl"@en .
+_:nodedca1792abba81f5f14a8ed80272dfe <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node33e41be23588506c9a9a2ee269f393 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node33e41be23588506c9a9a2ee269f393 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node33e41be23588506c9a9a2ee269f393 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node58c4ca771dff81ecf9c57226944bbb0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node58c4ca771dff81ecf9c57226944bbb0 <http://schema.org/name> "Cancun Int'l"@en .
+_:node58c4ca771dff81ecf9c57226944bbb0 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MMUN> .
+_:nodefed8973243ea5a6e3e7025b9228ebca3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefed8973243ea5a6e3e7025b9228ebca3 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:nodefed8973243ea5a6e3e7025b9228ebca3 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node472fc9168959ec5117ac3e392d32d0ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node472fc9168959ec5117ac3e392d32d0ec <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node472fc9168959ec5117ac3e392d32d0ec <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:nodecc563a2e4d937297ab2e1aef3d0996c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodecc563a2e4d937297ab2e1aef3d0996c <http://schema.org/name> "Reagan National"@en .
+_:nodecc563a2e4d937297ab2e1aef3d0996c <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDCA> .
+_:node8d112a4ab7d6e73dec496154d479d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8d112a4ab7d6e73dec496154d479d2 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node8d112a4ab7d6e73dec496154d479d2 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node61f3ce5aa4cdbe9f7013e1af125f12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node61f3ce5aa4cdbe9f7013e1af125f12 <http://schema.org/name> "Cibao Int'l (Santiago Municipal)"@en .
+_:node61f3ce5aa4cdbe9f7013e1af125f12 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MDST> .
+_:node22523d1b9b09e10c4835aa0ac5ead75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node22523d1b9b09e10c4835aa0ac5ead75 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node22523d1b9b09e10c4835aa0ac5ead75 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node4ddbf6fea935825c1871d54a8136d39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4ddbf6fea935825c1871d54a8136d39 <http://schema.org/name> "John F Kennedy Intl"@en .
+_:node4ddbf6fea935825c1871d54a8136d39 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:nodef31bf18617e380ff3aa3b31949cec3a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef31bf18617e380ff3aa3b31949cec3a1 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:nodef31bf18617e380ff3aa3b31949cec3a1 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node11ef404bbe1bb194463a378bdb4fadde <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node11ef404bbe1bb194463a378bdb4fadde <http://schema.org/name> "McCarran Intl"@en .
+_:node11ef404bbe1bb194463a378bdb4fadde <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAS> .
+_:node3c2568a95f6d28dec363b354c64b98ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3c2568a95f6d28dec363b354c64b98ab <http://schema.org/name> "Minneapolis/St Paul Intl"@en .
+_:node3c2568a95f6d28dec363b354c64b98ab <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KMSP> .
+_:noded885a842cd722fea15395a38ee3ad6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded885a842cd722fea15395a38ee3ad6 <http://schema.org/name> "Seattle-Tacoma Intl"@en .
+_:noded885a842cd722fea15395a38ee3ad6 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSEA> .
+_:nodef5b8f27c7ce8019c817b9a7f1e164f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef5b8f27c7ce8019c817b9a7f1e164f <http://schema.org/name> "Reagan National"@en .
+_:nodef5b8f27c7ce8019c817b9a7f1e164f <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KDCA> .
+_:nodea2bd79ba19b91c286c24342cd1c849b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea2bd79ba19b91c286c24342cd1c849b <http://schema.org/name> "Austin-Bergstrom Intl"@en .
+_:nodea2bd79ba19b91c286c24342cd1c849b <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KAUS> .
+_:node2cfb75d6ac98d6f63eada3196c431241 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2cfb75d6ac98d6f63eada3196c431241 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node2cfb75d6ac98d6f63eada3196c431241 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:noded59ec3a96f891b79aa21c573fe64306b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded59ec3a96f891b79aa21c573fe64306b <http://schema.org/name> "Seattle-Tacoma Intl"@en .
+_:noded59ec3a96f891b79aa21c573fe64306b <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSEA> .
+_:nodeb24faa38122d8925eedb7bd6f45cb45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb24faa38122d8925eedb7bd6f45cb45 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:nodeb24faa38122d8925eedb7bd6f45cb45 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node4dd9306179d73dd4297b3ef4b5b1cc35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4dd9306179d73dd4297b3ef4b5b1cc35 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node4dd9306179d73dd4297b3ef4b5b1cc35 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node793ccc2c64fa185a286832387598d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node793ccc2c64fa185a286832387598d3 <http://schema.org/name> "Los Angeles Intl"@en .
+_:node793ccc2c64fa185a286832387598d3 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:nodee757fe4c23d1a7ac7a42123cb95a052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee757fe4c23d1a7ac7a42123cb95a052 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:nodee757fe4c23d1a7ac7a42123cb95a052 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node37f956803fb14bd46e9cd3ce218ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node37f956803fb14bd46e9cd3ce218ee <http://schema.org/name> "Minneapolis/St Paul Intl"@en .
+_:node37f956803fb14bd46e9cd3ce218ee <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KMSP> .
+_:noded7807955e1dfb0ae20111b8b1ff2219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded7807955e1dfb0ae20111b8b1ff2219 <http://schema.org/name> "Boston Logan Intl"@en .
+_:noded7807955e1dfb0ae20111b8b1ff2219 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBOS> .
+_:node5c57af03761edb049308ba9af46639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5c57af03761edb049308ba9af46639 <http://schema.org/name> "John F Kennedy Intl"@en .
+_:node5c57af03761edb049308ba9af46639 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:nodead47ed7fe41ae87ae49e92e26702726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodead47ed7fe41ae87ae49e92e26702726 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:nodead47ed7fe41ae87ae49e92e26702726 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:node78c36b2ce43024c6b91122409ef35d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node78c36b2ce43024c6b91122409ef35d2 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node78c36b2ce43024c6b91122409ef35d2 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node7ec111b4ece1c6329cb2176f66e7b34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7ec111b4ece1c6329cb2176f66e7b34 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node7ec111b4ece1c6329cb2176f66e7b34 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:nodea8dbbbfb1915de21ea7b25664f248de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea8dbbbfb1915de21ea7b25664f248de <http://schema.org/name> "Los Angeles Intl"@en .
+_:nodea8dbbbfb1915de21ea7b25664f248de <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KLAX> .
+_:node63db5ae33a961bfe2153e1a09cc660a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node63db5ae33a961bfe2153e1a09cc660a <http://schema.org/name> "Minneapolis/St Paul Intl"@en .
+_:node63db5ae33a961bfe2153e1a09cc660a <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KMSP> .
+_:nodeda77ef9bf351bd4863a81e7155eb5f82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeda77ef9bf351bd4863a81e7155eb5f82 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:nodeda77ef9bf351bd4863a81e7155eb5f82 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node55b1aed6fc32ffde526a96cebef8f54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node55b1aed6fc32ffde526a96cebef8f54 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node55b1aed6fc32ffde526a96cebef8f54 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node14fd89f66689a3e0d38498162e781 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node14fd89f66689a3e0d38498162e781 <http://schema.org/name> "Tampa Intl"@en .
+_:node14fd89f66689a3e0d38498162e781 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KTPA> .
+_:node78203eb369d9fa8b52eaacd3cd37edac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node78203eb369d9fa8b52eaacd3cd37edac <http://schema.org/name> "Portland Intl"@en .
+_:node78203eb369d9fa8b52eaacd3cd37edac <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KPDX> .
+_:node82b5d4e7ddd337dc672129d3c872fb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node82b5d4e7ddd337dc672129d3c872fb1 <http://schema.org/name> "Salt Lake City Intl"@en .
+_:node82b5d4e7ddd337dc672129d3c872fb1 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KSLC> .
+_:nodea3ccfe938c1d5c458d92b5f143464fe7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea3ccfe938c1d5c458d92b5f143464fe7 <http://schema.org/name> "Cancun Int'l"@en .
+_:nodea3ccfe938c1d5c458d92b5f143464fe7 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/MMUN> .
+_:nodecb75107dc3c04f7ccd4b3187c5eca1b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodecb75107dc3c04f7ccd4b3187c5eca1b7 <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:nodecb75107dc3c04f7ccd4b3187c5eca1b7 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:nodef073c76a2fc58a62f42b4e3be8e17fdb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef073c76a2fc58a62f42b4e3be8e17fdb <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:nodef073c76a2fc58a62f42b4e3be8e17fdb <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:node449709cae80b91adf891aaeb905a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node449709cae80b91adf891aaeb905a3f <http://schema.org/name> "Hartsfield-Jackson Intl"@en .
+_:node449709cae80b91adf891aaeb905a3f <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KATL> .
+_:noded398ba472ec163ca6eb1351757476 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded398ba472ec163ca6eb1351757476 <http://schema.org/name> "John F Kennedy Intl"@en .
+_:noded398ba472ec163ca6eb1351757476 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KJFK> .
+_:node232d1bd96681f23dc69132a6bf6daed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node232d1bd96681f23dc69132a6bf6daed <http://schema.org/name> "Nashville Intl"@en .
+_:node232d1bd96681f23dc69132a6bf6daed <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KBNA> .
+_:node974ce6ee2da625d7c6fea1ca4add438c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node974ce6ee2da625d7c6fea1ca4add438c <http://schema.org/name> "Luis Munoz Marin Intl"@en .
+_:node974ce6ee2da625d7c6fea1ca4add438c <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/TJSJ> .
+_:noded8e371fa856c329cf774815b4a771237 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded8e371fa856c329cf774815b4a771237 <http://schema.org/name> "Colorado Sprgs Muni"@en .
+_:noded8e371fa856c329cf774815b4a771237 <http://schema.org/url> <http://flightaware.com/live/flight/N3745B/history/20130428/2307Z/KJFK/KSEA//live/airport/KCOS> .
+_:node4fde275ef8f956c079e7c4843b757131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .

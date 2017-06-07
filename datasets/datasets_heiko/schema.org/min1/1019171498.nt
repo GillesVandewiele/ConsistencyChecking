@@ -1,0 +1,11 @@
+_:node762cb3d5115a8148bf6957091bdb7 <http://schema.org/addressRegion> "MA"@en .
+_:node762cb3d5115a8148bf6957091bdb7 <http://schema.org/name> "Kachel Motor Company"@en .
+_:node762cb3d5115a8148bf6957091bdb7 <http://schema.org/postalCode> "01840"@en .
+_:node762cb3d5115a8148bf6957091bdb7 <http://schema.org/addressLocality> "South Lawrence"@en .
+_:node762cb3d5115a8148bf6957091bdb7 <http://schema.org/streetAddress> "425 Canal Street"@en .
+_:node4170972d695e1a67edd7da4b33cd43d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node4170972d695e1a67edd7da4b33cd43d9 <http://schema.org/telephone> " 617 759 8973"@en .
+_:node4170972d695e1a67edd7da4b33cd43d9 <http://schema.org/logo> "KMC Auto"@en .
+_:node4170972d695e1a67edd7da4b33cd43d9 <http://schema.org/address> _:node762cb3d5115a8148bf6957091bdb7 .
+_:node4170972d695e1a67edd7da4b33cd43d9 <http://schema.org/email> " info@kmcauto.com"@en .
+_:nodebf47f995b51e588a886d9e03d9dabe5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

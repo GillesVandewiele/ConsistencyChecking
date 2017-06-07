@@ -1,0 +1,5 @@
+_:node43a88ce5f2ac1e7ef3a7225d05dabec <http://schema.org/url> "http://doanddesign.com/design/"@en-us .
+_:node43a88ce5f2ac1e7ef3a7225d05dabec <http://schema.org/name> "DESIGN"@en-us .
+_:node43a88ce5f2ac1e7ef3a7225d05dabec <http://schema.org/image> "http://static.squarespace.com/static/500f159fc4aa5f5d4ca0a8e4/t/500f408684aeb87ed6cc5b9f/1418761362596/?format=1000w"@en-us .
+_:node43a88ce5f2ac1e7ef3a7225d05dabec <http://schema.org/thumbnailUrl> "http://static.squarespace.com/static/500f159fc4aa5f5d4ca0a8e4/t/500f408684aeb87ed6cc5b9f/1418761362596/?format=1000w"@en-us .
+_:node33eb357a351a2e5bbac99d4183afeb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

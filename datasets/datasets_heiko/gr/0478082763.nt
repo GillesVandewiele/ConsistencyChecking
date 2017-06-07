@@ -1,0 +1,34 @@
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#TypeAndQuantityNode_26455> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#TypeAndQuantityNode_26455> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#QuantitativeValue_26455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#QuantitativeValue_26455> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#QuantitativeValue_26455> <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "12YBRX3313A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://xmlns.com/foaf/0.1/depiction> _:genid2d221d18afa9904bcd82deafeec18a41902dN67388 .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://purl.org/goodrelations/v1#description> "The Beatrice Hair Comb is encrusted with mounted crystals, pearls and tiny beads creating a beautiful, glamorous piece for your wedding day." .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://purl.org/goodrelations/v1#name> "Beatrice Hair Comb" .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#SomeItems_26455> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2d221d18afa9904bcd82deafeec18a41902dN67380 .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#includesObject> <http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#TypeAndQuantityNode_26455> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#validFrom> "2014-12-20 06:22:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#UnitPriceSpecification_26455> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#validThrough> "2015-12-20 06:22:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#description> "The Beatrice Hair Comb is encrusted with mounted crystals, pearls and tiny beads creating a beautiful, glamorous piece for your wedding day." .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#name> "Beatrice Hair Comb" .
+_:genid2d221d18afa9904bcd82deafeec18a41902dINSIDE5fN67401 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2d221d18afa9904bcd82deafeec18a41902dINSIDE5fN67401 <http://rdf.data-vocabulary.org/#hasReview> <http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Review-aggregate_26455> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#UnitPriceSpecification_26455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#UnitPriceSpecification_26455> <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#UnitPriceSpecification_26455> <http://purl.org/goodrelations/v1#hasCurrencyValue> "225"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#UnitPriceSpecification_26455> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#ByBankTransferInAdvance> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#QuantitativeValue_26455> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Offering_26455> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d221d18afa9904bcd82deafeec18a41902dINSIDE5fN67401 .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Review-aggregate_26455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Review-aggregate_26455> <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-hair-comb-26707.html#Review-aggregate_26455> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.warmyourfloor.com/floor-heating-mats/suntouch-tapemat-kits/240v-kits/suntouch-tapemat-kit-260-sf-24013024-kit-ma.html#Review-aggregate_1213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

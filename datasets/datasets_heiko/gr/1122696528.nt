@@ -1,0 +1,15 @@
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/771906.jpg" .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://ogp.me/ns#description> "Enjoy homemade pasta anytime with this KitchenAid 2-pc. Pasta Cutter Attachment Set. Find the best attachments for your KitchenAid mixer now at Cooking.com." .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/2-pc.%20pasta%20cutter%20attachment%20set%20by%20kitchenaid_771906_11/" .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://ogp.me/ns#title> "2-pc. Pasta Cutter Attachment Set by KitchenAid at Cooking.com" .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/2-pc.%20pasta%20cutter%20attachment%20set%20by%20kitchenaid_771906_11/> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d2aeaa42424a84189bdadc001e6bf5fe22dN66760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

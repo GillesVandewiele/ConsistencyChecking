@@ -1,0 +1,48 @@
+_:genid2d3f808d24ff724625a53c358fe49269b62dN92310 <http://purl.org/goodrelations/v1#hasMinValue> "200"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d3f808d24ff724625a53c358fe49269b62dN92310 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "FAIMG"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.diydoctor.org.uk/DIY-superstore/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/F/A/FAIMG.jpg> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#description> "A metal frame mastic or skeleton gun which will accept both C20 and C30 size adhesive and sealant tubes. Suitable for all trades and home use. The rounded shaped trigger mechanism ensures user comfort reducing the fatigue from repetitive use.A handy nozzle cleaning pin is provided on the handle.Size: 425ml."@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "Abrasives, Fillers, Sealants & Lubricants/Sealants/Sealant, Mastic & Skeleton Guns"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/wintercheck"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/bathrepairs"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/removingsealant"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/sound_proofing_in_the_home"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/showertray"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/sealantgun"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/damppatches"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/fittingkitchensink"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/woodburner"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/powershower"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/connectingtaps"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/waterproofingguide"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/rising-damp"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/wet-walls"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#name> "Faithfull Mastic (Skeleton) Gun 425ml"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> <http://purl.org/goodrelations/v1#hasManufacturer> <http://www.diydoctor.org.uk/DIY-superstore/#manufacturer_260> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T00:00:00+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T13:02:29+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://xmlns.com/foaf/0.1/page> <http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T13:02:29+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T13:02:29+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://purl.org/goodrelations/v1#hasCurrencyValue> "2.68"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#UnitPriceSpecification_9756> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#TypeAndQuantityNode_9756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#TypeAndQuantityNode_9756> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#TypeAndQuantityNode_9756> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#TypeAndQuantityNode_9756> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#product_data> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#TypeAndQuantityNode_9756> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3f808d24ff724625a53c358fe49269b62dN92310 .
+<http://www.diydoctor.org.uk/DIY-superstore/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#description> "A metal frame mastic or skeleton gun which will accept both C20 and C30 size adhesive and sealant tubes. Suitable for all trades and home use. The rounded shaped trigger mechanism ensures user comfort reducing the fatigue from repetitive use.A handy nozzle cleaning pin is provided on the handle.Size: 425ml."@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://purl.org/goodrelations/v1#name> "Faithfull Mastic (Skeleton) Gun 425ml"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/mastic-skeleton-gun-425ml.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d5849d3c3f5d246df824e6acbab78424a2dN66922 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Australopithecus> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Animal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Animal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Animal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .

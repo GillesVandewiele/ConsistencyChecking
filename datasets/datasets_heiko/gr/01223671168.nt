@@ -1,0 +1,39 @@
+<http://www.pooldawg.com/catalog/product/view/id/41790/#UnitPriceSpecification_41790> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#UnitPriceSpecification_41790> <http://purl.org/goodrelations/v1#hasCurrencyValue> "3.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#UnitPriceSpecification_41790> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:genid2de8d9e89e115c4811afe552098bdae0f12dINSIDE5fN69735 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2de8d9e89e115c4811afe552098bdae0f12dINSIDE5fN69735 <http://rdf.data-vocabulary.org/#hasReview> <http://www.pooldawg.com/catalog/product/view/id/41790/#Review-aggregate_41790> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#TypeAndQuantityNode_41790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#TypeAndQuantityNode_41790> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#TypeAndQuantityNode_41790> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Review-aggregate_41790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Review-aggregate_41790> <http://rdf.data-vocabulary.org/#count> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Review-aggregate_41790> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "16-1410"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://xmlns.com/foaf/0.1/depiction> _:genid2de8d9e89e115c4811afe552098bdae0f12dN69702 .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://purl.org/goodrelations/v1#description> "Eliminate arguments over where to stand in a dart game by setting up a quality throw line like this one by Triumph Sports USA. Made of durable materials to withstand a multitude of shooters, the line is easily attached to the floor with a sticky backing." .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://purl.org/goodrelations/v1#name> "Triumph Darts Throw Line" .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#SomeItems_41790> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2de8d9e89e115c4811afe552098bdae0f12dN69694 .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#QuantitativeValue_41790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#QuantitativeValue_41790> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#QuantitativeValue_41790> <http://purl.org/goodrelations/v1#hasMaxValue> "9"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.pooldawg.com/catalog/product/view/id/41790/#QuantitativeValue_41790> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2de8d9e89e115c4811afe552098bdae0f12dINSIDE5fN69735 .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#includesObject> <http://www.pooldawg.com/catalog/product/view/id/41790/#TypeAndQuantityNode_41790> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18 05:27:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.pooldawg.com/catalog/product/view/id/41790/#UnitPriceSpecification_41790> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#validThrough> "2015-12-18 05:27:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#description> "Eliminate arguments over where to stand in a dart game by setting up a quality throw line like this one by Triumph Sports USA. Made of durable materials to withstand a multitude of shooters, the line is easily attached to the floor with a sticky backing." .
+<http://www.pooldawg.com/catalog/product/view/id/41790/#Offering_41790> <http://purl.org/goodrelations/v1#name> "Triumph Darts Throw Line" .
+<http://www.beyondnice.com/review/product/list/id/1120/spa-cover-ul-astm-certificate#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .

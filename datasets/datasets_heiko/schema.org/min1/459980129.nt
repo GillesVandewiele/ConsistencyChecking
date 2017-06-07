@@ -1,0 +1,3 @@
+_:nodedc1253ba2e78c8186b39dbdea1fdec4 <http://schema.org/name> "Residence No. 6116B: Sketch :: Architectural Drawings" .
+_:nodedc1253ba2e78c8186b39dbdea1fdec4 <http://schema.org/image> "http://digital.houstonlibrary.org/utils/getthumbnail/collection/ArchDrawing/id/456" .
+_:node42954e8a821ea3f0e993336167d31dca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

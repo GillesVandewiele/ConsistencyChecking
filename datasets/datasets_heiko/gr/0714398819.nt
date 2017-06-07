@@ -1,0 +1,10 @@
+<http://www.rightstuf.com/order/shopping-cart/93321/4/0/0/review/0#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.rightstuf.com/order/shopping-cart/93321/4/0/0/review/0#company> <http://purl.org/goodrelations/v1#legalName> "Right Stuf, Inc." .
+<http://www.rightstuf.com/order/shopping-cart/93321/4/0/0/review/0#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d04aaca67e3d643f0b10f32a01fee39fc2dN66927 .
+<http://www.rightstuf.com/order/shopping-cart/93321/4/0/0/review/0#company> <http://www.w3.org/2006/vcard/ns#tel> "1-515-986-1028" .
+_:genid2d04aaca67e3d643f0b10f32a01fee39fc2dN66927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d04aaca67e3d643f0b10f32a01fee39fc2dN66927 <http://www.w3.org/2006/vcard/ns#postal-code> "50111" .
+_:genid2d04aaca67e3d643f0b10f32a01fee39fc2dN66927 <http://www.w3.org/2006/vcard/ns#locality> "Grimes" .
+_:genid2d04aaca67e3d643f0b10f32a01fee39fc2dN66927 <http://www.w3.org/2006/vcard/ns#street-address> "512 NE Main Street" .
+_:genid2d04aaca67e3d643f0b10f32a01fee39fc2dN66927 <http://www.w3.org/2006/vcard/ns#country-name> "US" .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68778 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .

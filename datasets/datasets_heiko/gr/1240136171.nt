@@ -1,0 +1,11 @@
+_:genid2dc512755bcfb64cce84d3e04611cce9a82dN66505 <http://www.w3.org/2006/vcard/ns#postal-code> "77702" .
+_:genid2dc512755bcfb64cce84d3e04611cce9a82dN66505 <http://www.w3.org/2006/vcard/ns#locality> "Beaumont, TX" .
+_:genid2dc512755bcfb64cce84d3e04611cce9a82dN66505 <http://www.w3.org/2006/vcard/ns#street-address> "2615 Calder Ste 140" .
+_:genid2dc512755bcfb64cce84d3e04611cce9a82dN66505 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+<http://www.americommerce.com/technical-support#company> <http://xmlns.com/foaf/0.1/logo> <http://www.americommerce.com/technical-support> .
+<http://www.americommerce.com/technical-support#company> <http://xmlns.com/foaf/0.1/page> <http://www.americommerce.com/about> .
+<http://www.americommerce.com/technical-support#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.americommerce.com/technical-support#company> <http://purl.org/goodrelations/v1#legalName> "AmeriCommerce" .
+<http://www.americommerce.com/technical-support#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dc512755bcfb64cce84d3e04611cce9a82dN66505 .
+<http://www.americommerce.com/technical-support#company> <http://www.w3.org/2006/vcard/ns#tel> "1-800-936-9006" .
+<http://www.beyondnice.com/> <http://rdf.data-vocabulary.org/#name> "BeyondNice"@en .

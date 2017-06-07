@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71651 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71651 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71651 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71651 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$7.96"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#description> "<p> The\u00A0Sporti Kid's Swim Gear Gift Set is the perfect gift for your little swimmer this holiday season.</p> <ul> <li> Set includes: <ol> <li> <a href=''http://www.swimoutlet.com/product_p/22377.htm?color=18342''>Sporti Cartoon Clownfish Silicone Swim Cap Jr.</a></li> <li> <a href=''http://www.swimoutlet.com/product_p/22376.htm?color=10852''>Sporti Cartoon Shark Silicone Swim Cap Jr.</a></li> <li> <a href=''http://www.swimoutlet.com/product_p/22400.htm?color=10794#color=10881''>Sporti Antifog Snapper Jr. Goggle</a>.</li> <li> <a href=''http://www.swimoutlet.com/product_p/22399.htm?color=10794''>Sporti Antifog Penguin Jr. Goggle</a>.</li> </ol> </li> </ul> <p> \u00A0</p> <ul> <li> **PLEASE NOTE: Product color may vary**.</li> </ul>" .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#name> "Sporti Kid's Swim Gear Gift Set" .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71603 .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71603 <http://rdf.data-vocabulary.org/#count> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71603 <http://rdf.data-vocabulary.org/#rating> "3.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/sporti-kids-swim-gear-gift-set-7539287/?color=10890#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71651 .
+_:genid2dc9654c687a9c479ca1eb0e3089a09a122dN71641 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d771773ecdf35450295081e88276cbff82dINSIDE5fN67067 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .

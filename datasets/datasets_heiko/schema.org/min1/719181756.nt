@@ -1,0 +1,6 @@
+_:nodea2762783e0408f7be291dfaca2a95dfa <http://schema.org/name> "Steam not displaying text on wine 1.5 running on Ubuntu 12.04" .
+_:nodea2762783e0408f7be291dfaca2a95dfa <http://schema.org/title> "Steam not displaying text on wine 1.5 running on Ubuntu 12.04" .
+_:nodea2762783e0408f7be291dfaca2a95dfa <http://schema.org/description> "Hello fellow dwellers of askubuntu, as the title says I'm having difficulties with getting Steam to run properly. I think I have the solution but I am pretty incompetent with Ubuntu (just started u..." .
+_:nodea2762783e0408f7be291dfaca2a95dfa <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodea2762783e0408f7be291dfaca2a95dfa <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node5eb3852b54d725194789dc51ec7b2af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

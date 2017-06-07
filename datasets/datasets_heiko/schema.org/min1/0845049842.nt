@@ -1,0 +1,74 @@
+_:node9029fbc0f0f9901ca58fdcd615a2dc27 <http://schema.org/name> "Gold Daily And Silver Weekly Charts - Once We Were Good" .
+_:node9029fbc0f0f9901ca58fdcd615a2dc27 <http://schema.org/datePublished> "December 16, 2014" .
+_:node9029fbc0f0f9901ca58fdcd615a2dc27 <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:node9029fbc0f0f9901ca58fdcd615a2dc27 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28919438/gold_daily_and_silver_weekly_charts_> .
+_:node8171581812b2baa1ed9a92c8564b95c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node8171581812b2baa1ed9a92c8564b95c8 <http://schema.org/name> "Cold War 2.0: The Old Maid Card Option" .
+_:node8171581812b2baa1ed9a92c8564b95c8 <http://schema.org/datePublished> "December 17, 2014" .
+_:node8171581812b2baa1ed9a92c8564b95c8 <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:node8171581812b2baa1ed9a92c8564b95c8 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28925155/cold_war_2.0> .
+_:node6b728401fdceddfe163d31b5f11236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node6b728401fdceddfe163d31b5f11236 <http://schema.org/name> "John Williams: A Downhill Run For The Dollar in 2015" .
+_:node6b728401fdceddfe163d31b5f11236 <http://schema.org/datePublished> "December 17, 2014" .
+_:node6b728401fdceddfe163d31b5f11236 <http://schema.org/publisher> "ETF DAILY NEWS" .
+_:node6b728401fdceddfe163d31b5f11236 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28928255/john_williams> .
+_:nodefbde97d39a6345eb2081a930b88ddecc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodefbde97d39a6345eb2081a930b88ddecc <http://schema.org/name> "Opposing Forces At Play In The Precious Metals Complex" .
+_:nodefbde97d39a6345eb2081a930b88ddecc <http://schema.org/datePublished> "December 17, 2014" .
+_:nodefbde97d39a6345eb2081a930b88ddecc <http://schema.org/publisher> "ETF DAILY NEWS" .
+_:nodefbde97d39a6345eb2081a930b88ddecc <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28927048/opposing_forces_at_play_in_the_precious_metals_complex> .
+_:nodeda475dc991688143e74d4222d92252 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodeda475dc991688143e74d4222d92252 <http://schema.org/name> "Gold ETFs Weaken on Concerns Russia Could Dump Reserves" .
+_:nodeda475dc991688143e74d4222d92252 <http://schema.org/datePublished> "Today  7:30 EST" .
+_:nodeda475dc991688143e74d4222d92252 <http://schema.org/publisher> "ETF Trends" .
+_:nodeda475dc991688143e74d4222d92252 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28931596/gold_etfs_weaken_on_concerns_russia_could_dump_reserves> .
+_:node51de86344fc573fb2844f9629cc5ddb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node51de86344fc573fb2844f9629cc5ddb <http://schema.org/name> "Craig Roberts: Is Ruble Collapse Act Of War-Paul" .
+_:node51de86344fc573fb2844f9629cc5ddb <http://schema.org/datePublished> "December 17, 2014" .
+_:node51de86344fc573fb2844f9629cc5ddb <http://schema.org/publisher> "ETF DAILY NEWS" .
+_:node51de86344fc573fb2844f9629cc5ddb <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28927047/craig_roberts> .
+_:nodea27befac316efac77860da5e4d9a2a3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodea27befac316efac77860da5e4d9a2a3a <http://schema.org/name> "SPDR Gold Trust ETF \u2013 Gold Price Could Be Crushed This Week" .
+_:nodea27befac316efac77860da5e4d9a2a3a <http://schema.org/datePublished> "December 16, 2014" .
+_:nodea27befac316efac77860da5e4d9a2a3a <http://schema.org/publisher> "Retirement Investments -- MyPlanIQ \u00BB Headline" .
+_:nodea27befac316efac77860da5e4d9a2a3a <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28919902/spdr_gold_trust_etf_%E2%80%93_gold_price_could_be_crushed_this_week> .
+_:nodecaca764afa4311be2e79795471025a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodecaca764afa4311be2e79795471025a3 <http://schema.org/name> "Elliott Wave Charts Point to Shocking Countertrend for Gold: Steven Hochberg" .
+_:nodecaca764afa4311be2e79795471025a3 <http://schema.org/datePublished> "December 17, 2014" .
+_:nodecaca764afa4311be2e79795471025a3 <http://schema.org/publisher> "Trefis" .
+_:nodee4bcdf4352ef91a081a524e2c6a8c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodee4bcdf4352ef91a081a524e2c6a8c7 <http://schema.org/name> "Gold Daily And Silver Weekly Charts - Patience Patients, The Clinical Monetary Trials Will Continue" .
+_:nodee4bcdf4352ef91a081a524e2c6a8c7 <http://schema.org/datePublished> "December 17, 2014" .
+_:nodee4bcdf4352ef91a081a524e2c6a8c7 <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:nodee4bcdf4352ef91a081a524e2c6a8c7 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28928853/gold_daily_and_silver_weekly_charts_> .
+_:node928439536e1da54a1a30edb89a39dcc3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node928439536e1da54a1a30edb89a39dcc3 <http://schema.org/name> "Fed Confusion Sparks Crude Chaos; Stocks, Bonds, Bullion Whiplash" .
+_:node928439536e1da54a1a30edb89a39dcc3 <http://schema.org/datePublished> "December 17, 2014" .
+_:node928439536e1da54a1a30edb89a39dcc3 <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:node928439536e1da54a1a30edb89a39dcc3 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28927870/fed_confusion_sparks_crude_chaos> .
+_:nodecf9abc3ebef91f23f707d57664a0f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodecf9abc3ebef91f23f707d57664a0f7 <http://schema.org/name> "What Is The Gold-Oil Ratio Telling Us?" .
+_:nodecf9abc3ebef91f23f707d57664a0f7 <http://schema.org/datePublished> "Today  3:29 EST" .
+_:nodecf9abc3ebef91f23f707d57664a0f7 <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:nodecf9abc3ebef91f23f707d57664a0f7 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28930272/what_is_the_gold> .
+_:node1edf9c52a86f644a6b257d4be09c4e5e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node1edf9c52a86f644a6b257d4be09c4e5e <http://schema.org/name> "Gold Ends Higher After Volatile Day" .
+_:node1edf9c52a86f644a6b257d4be09c4e5e <http://schema.org/datePublished> "December 17, 2014" .
+_:node1edf9c52a86f644a6b257d4be09c4e5e <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:node1edf9c52a86f644a6b257d4be09c4e5e <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28920815/gold_ends_higher_after_volatile_day> .
+_:nodeb1aab884b1ceb1b1635fd75a67817f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodeb1aab884b1ceb1b1635fd75a67817f6 <http://schema.org/name> "Stock Defies Gravity In Hated Market: Jim Rogers Interview Part II" .
+_:nodeb1aab884b1ceb1b1635fd75a67817f6 <http://schema.org/datePublished> "December 16, 2014" .
+_:nodeb1aab884b1ceb1b1635fd75a67817f6 <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:nodeb1aab884b1ceb1b1635fd75a67817f6 <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28919070/stock_defies_gravity_in_hated_market> .
+_:node349c26467683d0b8740e5ff9eafa9e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node349c26467683d0b8740e5ff9eafa9e <http://schema.org/name> "Gold Ends Lower After FOMC" .
+_:node349c26467683d0b8740e5ff9eafa9e <http://schema.org/datePublished> "Today  4:28 EST" .
+_:node349c26467683d0b8740e5ff9eafa9e <http://schema.org/publisher> "Blogs - TalkMarkets" .
+_:node349c26467683d0b8740e5ff9eafa9e <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28930567/gold_ends_lower_after_fomc> .
+_:nodef0a75317bd3abe09ddc5763efff59e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodef0a75317bd3abe09ddc5763efff59e <http://schema.org/name> "Enhancing The Permanent Portfolio With Simple Quantitative Techniques" .
+_:nodef0a75317bd3abe09ddc5763efff59e <http://schema.org/datePublished> "December 17, 2014" .
+_:nodef0a75317bd3abe09ddc5763efff59e <http://schema.org/publisher> "Retirement Investments -- MyPlanIQ \u00BB Headline" .
+_:nodef0a75317bd3abe09ddc5763efff59e <http://schema.org/description> <http://finance.minyanville.com/minyanville/news/read/28923795/enhancing_the_permanent_portfolio_with_simple_quantitative_techniques> .
+_:node99c781883d39dd9be224d7daccb59455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

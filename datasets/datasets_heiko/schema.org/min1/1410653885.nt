@@ -1,0 +1,5 @@
+_:node243dbae28896f6d9acda616a86f66d <http://schema.org/url> <http://californiafonts.com/fonts/3383/coffee//download/font/3383> .
+_:node243dbae28896f6d9acda616a86f66d <http://schema.org/image> <http://typesetting.californiafonts.com/fonts/coffee/coffee.jpg> .
+_:node243dbae28896f6d9acda616a86f66d <http://schema.org/name> "coffee" .
+_:node243dbae28896f6d9acda616a86f66d <http://schema.org/keywords> "decorative,fontbat,inlined,square,fixed width,led,blocks,heat,hot,caffeine,coffee,cups,drinks,food,mugs,monospaced,dot matrix,glass,liquid,tea,beans,energy,morning,steam," .
+<http://books.google.es/books/about/Angel_Air_Is_10.html?id=dHM5AQAAIAAJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

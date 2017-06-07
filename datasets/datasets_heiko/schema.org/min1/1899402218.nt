@@ -1,0 +1,4 @@
+_:node88de90eee529e4ea4a60847a80eb57dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node88de90eee529e4ea4a60847a80eb57dd <http://schema.org/name> "Sweetwaters"@en .
+_:node88de90eee529e4ea4a60847a80eb57dd <http://schema.org/address> _:node3ba878d17d4859aa6240d3fc5525ba1a .
+_:node503d3cefe3709835235d369e5b6871d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

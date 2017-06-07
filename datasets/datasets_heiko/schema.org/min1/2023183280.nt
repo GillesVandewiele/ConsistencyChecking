@@ -1,0 +1,6 @@
+_:nodeb662c2651fd6ac519ec1132a222df9b <http://schema.org/name> "Retrieving command line history" .
+_:nodeb662c2651fd6ac519ec1132a222df9b <http://schema.org/title> "Retrieving command line history" .
+_:nodeb662c2651fd6ac519ec1132a222df9b <http://schema.org/description> "I use ubuntu 11.04, and the question must be common to any bash shell. Pressing the up arrow key on your terminal will retrieve the previous command you had executed at your terminal.\n\nMy question is " .
+_:nodeb662c2651fd6ac519ec1132a222df9b <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodeb662c2651fd6ac519ec1132a222df9b <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node3c716f48e32515a036dc929f343b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

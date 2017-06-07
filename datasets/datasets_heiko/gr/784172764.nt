@@ -1,0 +1,16 @@
+<http://www.joke.co.uk/venetian-masks/blue-silver-masquerade-mask~74972/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68302 .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68235 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68235 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68235 .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68235 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=74972> .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68165 <http://purl.org/goodrelations/v1#description> "Our Blue & Silver Masquerade Mask is attached to a black stick and is decorated with blue feathers and black beads."@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=74972> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=74972> .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68165 <http://purl.org/goodrelations/v1#name> "Blue & Silver Masquerade Mask"@en .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68302 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68235 <http://rdf.data-vocabulary.org/#count> "2"@en .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68235 <http://rdf.data-vocabulary.org/#rating> "5"@en .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68265 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68265 <http://purl.org/goodrelations/v1#hasCurrencyValue> "8.49"@en .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68265 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d26fba2512fd242df9e797c907cdfb1e62dN68265 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d26fba2512fd242df9e797c907cdfb1e62dINSIDE5fN68265 .
+<http://www.tvszone.com/peerless-acc919-i109001.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

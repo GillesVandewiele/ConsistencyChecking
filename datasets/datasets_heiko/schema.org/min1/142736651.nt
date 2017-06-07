@@ -1,0 +1,15 @@
+_:noded56d41a77dd6d3d216ec0e294a19fd4 <http://schema.org/ratingCount> "15"@en .
+_:noded56d41a77dd6d3d216ec0e294a19fd4 <http://schema.org/ratingValue> "4.07"@en .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/5533613/thumbnail.jpg> .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/image> <https://0.s3.envato.com/files/103535355/8-PREMIUM-Photoshop-Styles-3of4.jpg> .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/offers> _:node1fa2a57c7869260d6335cc97495a3e2 .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/aggregateRating> _:noded56d41a77dd6d3d216ec0e294a19fd4 .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/genre> <http://graphicriver.net/category/add-ons/photoshop/styles/text-effects> .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/description> "\n         INSTRUCTIONS :\nTo add the style pack, make double click in the 8-PREMIUM-Photoshop-Styles-3of4.asl file and go to the \u201Cstyles palette\u201D in Photoshop.\nTo apply the styles, just select the layer or text to use and make click one of the 16 styles on the \u201Cstyles palette\u201D\n\n\n\t NOTE :\nThese styles don\u2019t need multiple layers to work, they work individually.\nTo Use a Rollover Effects, Just duplicate the layer in question and apply the \u201Crollover style\u201D you wish, for example \u201Csword Rollover\u201D.\n\n\n\tFont names and links to free download or buy inside the pack!\n\n\n\tThis style pack is the third part of 4 Follow me to get the next updates.\n\n\n \n\n\n\t\n8 Premium Photoshop Styles 1 of 4\n8 Premium Photoshop Styles 2 of 4\n8 Premium Photoshop Styles 3 of 4\n8 Premium Photoshop Styles 4 of 4\n\n\n\t\n\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\nWeb Elements\n\n BUNDLES \n\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\n      "@en .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/discussionUrl> <http://graphicriver.net/item/8-premium-photoshop-styles/139012//item/8-premium-photoshop-styles/139012/comments> .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/name> "  8 PREMIUM Photoshop Styles\n"@en .
+_:nodec532c2ece427d3192c6f43f82d92c18 <http://schema.org/interactionCount> "UserDownloads:61"@en .
+_:node1fa2a57c7869260d6335cc97495a3e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node1fa2a57c7869260d6335cc97495a3e2 <http://schema.org/price> "5.00"@en .
+<http://gcmd.nasa.gov/learn/datasets.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> .

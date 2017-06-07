@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Old_English> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/Anglo-Frisian_languages> .
+<http://dbpedia.org/resource/Old_English> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language> .

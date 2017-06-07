@@ -1,0 +1,11 @@
+_:genid2dd5e1333cc842476f973906f082d9da782dN66873 <http://www.w3.org/2006/vcard/ns#postal-code> "10006" .
+_:genid2dd5e1333cc842476f973906f082d9da782dN66873 <http://www.w3.org/2006/vcard/ns#locality> "New York" .
+_:genid2dd5e1333cc842476f973906f082d9da782dN66873 <http://www.w3.org/2006/vcard/ns#street-address> "1 Liberty Plaza 13th Floor" .
+_:genid2dd5e1333cc842476f973906f082d9da782dN66873 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+<http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1#company> <http://purl.org/goodrelations/v1#legalName> "MandAsoft.com" .
+<http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dd5e1333cc842476f973906f082d9da782dN66873 .
+<http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1#company> <http://www.w3.org/2006/vcard/ns#tel> "+1-212-668-3022" .
+<http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1#company> <http://xmlns.com/foaf/0.1/logo> <http://mandasoft.com/Images/global/MandAsoftlogo.png> .
+<http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1#company> <http://xmlns.com/foaf/0.1/page> <http://mandasoft.com/MyAccount/Login.aspx?ReturnUrl=segmentview.aspx&Reason=1> .
+_:genid2d3aa8308cc6284bc988d471db8441258e2dN68163 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

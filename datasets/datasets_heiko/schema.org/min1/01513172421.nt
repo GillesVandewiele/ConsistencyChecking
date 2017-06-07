@@ -1,0 +1,9 @@
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/name> <http://au.hotels.com/de1768046/accommodation-near-voula-beach-vari-voula-vouliagmeni-greece//> .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/name> <http://au.hotels.com/co85/accommodation-in-greece/> .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/name> <http://au.hotels.com/de1716925/accommodation-vari-voula-vouliagmeni-greece/> .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/name> "Hotels near Voula Beach"@en-au .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/breadcrumb> "HotelsGreece AccommodationAccommodation in Vari-Voula-VouliagmeniHotels near Voula Beach"@en-au .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/url> <http://au.hotels.com/de1768046/accommodation-near-voula-beach-vari-voula-vouliagmeni-greece//> .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/url> <http://au.hotels.com/co85/accommodation-in-greece/> .
+_:node2a367279bf6d745533b924deb91a3c4 <http://schema.org/url> <http://au.hotels.com/de1716925/accommodation-vari-voula-vouliagmeni-greece/> .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

@@ -1,0 +1,6 @@
+_:node90cd36f926662557faf33b231247494 <http://schema.org/name> "Northwest Florida Beaches Intl"@fr .
+_:node90cd36f926662557faf33b231247494 <http://schema.org/url> <http://fr.flightaware.com/live/flight/SWA1841/history/20130416/0010Z/KHOU/KECP//live/airport/KECP> .
+_:nodec52959d5bac30a45b337ae51a3e3ec4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec52959d5bac30a45b337ae51a3e3ec4 <http://schema.org/name> "William P Hobby"@fr .
+_:nodec52959d5bac30a45b337ae51a3e3ec4 <http://schema.org/url> <http://fr.flightaware.com/live/flight/SWA1841/history/20130416/0010Z/KHOU/KECP//live/airport/KHOU> .
+_:nodef2f1ed0b2719ea657f976e3eaa34ad9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

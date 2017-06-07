@@ -1,0 +1,17 @@
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/genre> "Law, Government & Military"@en .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/inLanguage> "en"@en .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/publisher> _:nodefb4ae8e39c4ffdb1ec7bb1095b341c8 .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/copyrightYear> "2014"@en .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/headline> "girl power - definition, meaning, audio pronunciation, synonyms and more. What is girl power? the idea that women and girls should be confident, make decisions, and achieve things independently of men, or the social and political movement that is based on this idea: See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201Cgirl power\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t girl powernoun [U] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t us \n\t\t\t\u00A0\n\t\t\n\t\t\t \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t\n\t\t\t\t\t\t\u203A the idea that women and girls should be confident, make decisions, and achieve things independently of men, or the social and political movement that is based on this idea\n\t\t\t\t\t"@en .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:nodecfc58e1d6de4c63748a1fbde22fcd72e <http://schema.org/author> _:node94bd013ed61dc49787c9fa93cd4494d .
+_:node9f61b725af1ac6566d86d15721c9f6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node9f61b725af1ac6566d86d15721c9f6c <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node94bd013ed61dc49787c9fa93cd4494d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node94bd013ed61dc49787c9fa93cd4494d <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node94bd013ed61dc49787c9fa93cd4494d <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:nodefb4ae8e39c4ffdb1ec7bb1095b341c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefb4ae8e39c4ffdb1ec7bb1095b341c8 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:nodefb4ae8e39c4ffdb1ec7bb1095b341c8 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:noded242c7a291e76741a778c0c01c5125fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

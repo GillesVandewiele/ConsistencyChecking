@@ -1,0 +1,6 @@
+_:node8163aef166a49c084ec5b24da751977 <http://schema.org/potentialAction> _:node9f119efa2942b614c51573c2674f244a .
+_:node8163aef166a49c084ec5b24da751977 <http://schema.org/url> "http://www.vandal.net/"@es .
+_:node9f119efa2942b614c51573c2674f244a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SearchAction> .
+_:node9f119efa2942b614c51573c2674f244a <http://schema.org/target> "http://www.vandal.net/cgi-bin/buscar.pl?buscar={buscar}"@es .
+_:node9f119efa2942b614c51573c2674f244a <http://schema.org/query-input> <http://blogs.vandal.net/Null> .
+_:node3e8d314443d293a64548dfcda1dd654b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

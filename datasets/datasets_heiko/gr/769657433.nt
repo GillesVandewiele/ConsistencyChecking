@@ -1,0 +1,12 @@
+_:genid2dac073b6b5b3f407299dadfb3fc2975552dN68341 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dac073b6b5b3f407299dadfb3fc2975552dN68341 .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "TP104-IKM-MZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm> .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://purl.org/goodrelations/v1#description> "Our essential hooded maternity tunic top in fleece jersey. The ultimate in loungewear dressing, this is a looser style with a relaxed fit and luxe.." .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver Maternity Loungewear Hooded Tunic" .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.isabellaoliver.com/uk/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm> .
+_:genid2dac073b6b5b3f407299dadfb3fc2975552dN68280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2dac073b6b5b3f407299dadfb3fc2975552dN68280 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity UK" .
+_:genid2da8d39d9f38f44bb1850c06fb90ea80892dN71248 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

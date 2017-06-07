@@ -1,0 +1,168 @@
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://schema.org/thumbnail> <http://s5.favim.com/mini/141125/chicken-wings-delicious-fast-food-junk-food-Favim.com-2263125.jpg> .
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://schema.org/interactionCount> "UserPageVisits:55"@en .
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://schema.org/uploadDate> "2014-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2263125/> .
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://schema.org/caption> "Spicy chicken wings"@en .
+_:nodec2bf4b34181ac8de512275166d51e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec2bf4b34181ac8de512275166d51e <http://schema.org/thumbnail> <http://s9.favim.com/mini/141019/bacon-delicious-fast-food-food-Favim.com-2163439.jpg> .
+_:nodec2bf4b34181ac8de512275166d51e <http://schema.org/interactionCount> "UserPageVisits:113"@en .
+_:nodec2bf4b34181ac8de512275166d51e <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:nodec2bf4b34181ac8de512275166d51e <http://schema.org/uploadDate> "2014-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec2bf4b34181ac8de512275166d51e <http://schema.org/discussionUrl> <http://favim.com/meat//image/2163439/> .
+_:nodec2bf4b34181ac8de512275166d51e <http://schema.org/caption> "Food Porn - Timeline Photos | via Facebook"@en .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://schema.org/thumbnail> <http://s3.favim.com/mini/141106/cheese-chicken-cook-cream-Favim.com-2213580.jpg> .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://schema.org/interactionCount> "UserPageVisits:103"@en .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://schema.org/interactionCount> "UserLikes:2"@en .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://schema.org/uploadDate> "2014-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2213580/> .
+_:node471751a9fa53ef2454cfb481e37b4dd4 <http://schema.org/caption> "cheese, chicken, cook, cream, delicious, dinner, eat, food, hungry, love, lunch, meal, meat, pasta, yumm, recipies"@en .
+_:node4167aca3b3b91b45767db57b91a450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node4167aca3b3b91b45767db57b91a450 <http://schema.org/thumbnail> <http://s9.favim.com/mini/141022/bread-cheese-food-meat-Favim.com-2171609.png> .
+_:node4167aca3b3b91b45767db57b91a450 <http://schema.org/interactionCount> "UserPageVisits:89"@en .
+_:node4167aca3b3b91b45767db57b91a450 <http://schema.org/interactionCount> "UserLikes:3"@en .
+_:node4167aca3b3b91b45767db57b91a450 <http://schema.org/uploadDate> "2014-10-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node4167aca3b3b91b45767db57b91a450 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2171609/> .
+_:node4167aca3b3b91b45767db57b91a450 <http://schema.org/caption> "Tumblr"@en .
+_:node8a98468b43ded170797906eb371a262 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8a98468b43ded170797906eb371a262 <http://schema.org/thumbnail> <http://s5.favim.ru/mini/141108/kuritsa-eda-zelen-mjaso-Favim.ru-2218837.jpg> .
+_:node8a98468b43ded170797906eb371a262 <http://schema.org/interactionCount> "UserPageVisits:53"@en .
+_:node8a98468b43ded170797906eb371a262 <http://schema.org/interactionCount> "UserLikes:2"@en .
+_:node8a98468b43ded170797906eb371a262 <http://schema.org/uploadDate> "2014-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8a98468b43ded170797906eb371a262 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2218837/> .
+_:node8a98468b43ded170797906eb371a262 <http://schema.org/caption> "chicken, food, greenery, meat, photo, photographer, potato, table"@en .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://schema.org/thumbnail> <http://s2.favim.com/mini/141024/delicious-green-healthy-lemon-Favim.com-2176962.jpg> .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://schema.org/interactionCount> "UserPageVisits:69"@en .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://schema.org/uploadDate> "2014-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2176962/> .
+_:nodec2182e152163ca50ae56d45f71a1c398 <http://schema.org/caption> "The pleasure | via Tumblr"@en .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://schema.org/thumbnail> <http://s5.favim.ru/mini/141112/goluboj-mjaso-vilka-Favim.ru-2230015.jpg> .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://schema.org/interactionCount> "UserPageVisits:30"@en .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://schema.org/uploadDate> "2014-11-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://schema.org/discussionUrl> <http://favim.com/meat//image/2230015/> .
+_:node57494b73c4b94f8dc15d6fe8e278f <http://schema.org/caption> "\u0417\u0431\u0435\u0440\u0435\u0436\u0435\u043D\u0456 \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0456\u0457 | 2 207 \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0456\u0439"@en .
+_:node508243f62d7351e032a229e4ecb54e76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node508243f62d7351e032a229e4ecb54e76 <http://schema.org/thumbnail> <http://s6.favim.com/mini/141211/cheese-delicious-food-lasagna-Favim.com-2301116.jpg> .
+_:node508243f62d7351e032a229e4ecb54e76 <http://schema.org/interactionCount> "UserPageVisits:23"@en .
+_:node508243f62d7351e032a229e4ecb54e76 <http://schema.org/interactionCount> "UserLikes:2"@en .
+_:node508243f62d7351e032a229e4ecb54e76 <http://schema.org/uploadDate> "2014-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node508243f62d7351e032a229e4ecb54e76 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2301116/> .
+_:node508243f62d7351e032a229e4ecb54e76 <http://schema.org/caption> "Untitled"@en .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://schema.org/thumbnail> <http://s3.favim.com/mini/141102/bread-burger-cheese-food-Favim.com-2205033.jpg> .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://schema.org/interactionCount> "UserPageVisits:56"@en .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://schema.org/uploadDate> "2014-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2205033/> .
+_:nodeeab5792d76ab782d7e4a48dd8a55c6a3 <http://schema.org/caption> "Cheese Jalapeno Popper Grilled"@en .
+_:noded84d3e39e18fd93f30385675c641b282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:noded84d3e39e18fd93f30385675c641b282 <http://schema.org/thumbnail> <http://s5.favim.com/mini/141028/beans-cheese-chili-delicious-Favim.com-2187725.jpg> .
+_:noded84d3e39e18fd93f30385675c641b282 <http://schema.org/interactionCount> "UserPageVisits:45"@en .
+_:noded84d3e39e18fd93f30385675c641b282 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:noded84d3e39e18fd93f30385675c641b282 <http://schema.org/uploadDate> "2014-10-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded84d3e39e18fd93f30385675c641b282 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2187725/> .
+_:noded84d3e39e18fd93f30385675c641b282 <http://schema.org/caption> "PRETTY FOODS | via Tumblr"@en .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://schema.org/thumbnail> <http://s5.favim.com/mini/141212/food-french-fries-meat-mmh-Favim.com-2305555.jpg> .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://schema.org/interactionCount> "UserPageVisits:31"@en .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://schema.org/interactionCount> "UserLikes:2"@en .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://schema.org/uploadDate> "2014-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2305555/> .
+_:node22ee1bad8ef1b523d503e7c18fa7 <http://schema.org/caption> "food, french fries, meat, mmh, pommes, yummy"@en .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://schema.org/thumbnail> <http://s3.favim.com/mini/141212/cheese-cheesy-food-food-porn-Favim.com-2305473.jpg> .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://schema.org/interactionCount> "UserPageVisits:51"@en .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://schema.org/interactionCount> "UserLikes:2"@en .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://schema.org/uploadDate> "2014-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://schema.org/discussionUrl> <http://favim.com/meat//image/2305473/> .
+_:node8cbb518ec8cf7fabd1089c960e79eb <http://schema.org/caption> "cheese, cheesy, food, food porn, foodporn, meat, mmh, noodles, sauce, spaghetti, tomato, yummy, basilico"@en .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://schema.org/thumbnail> <http://s6.favim.com/mini/141012/beer-burger-cheese-cheesy-Favim.com-2145738.jpg> .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://schema.org/interactionCount> "UserPageVisits:72"@en .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://schema.org/interactionCount> "UserLikes:3"@en .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://schema.org/uploadDate> "2014-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2145738/> .
+_:node69118a544cdf692813bb6854fc2c59e8 <http://schema.org/caption> "Chipotle Cheddar Burgers with Corn Fritters | HBHarvest"@en .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://schema.org/thumbnail> <http://s3.favim.com/mini/140930/delicious-food-green-meat-Favim.com-2111950.jpg> .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://schema.org/interactionCount> "UserPageVisits:74"@en .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://schema.org/uploadDate> "2014-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://schema.org/discussionUrl> <http://favim.com/meat//image/2111950/> .
+_:nodeb120937948f5d29f148ebed22dea5ceb <http://schema.org/caption> "Daily Glamorous"@en .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://schema.org/thumbnail> <http://s6.favim.com/mini/141103/chips-eat-food-hungry-Favim.com-2207018.jpg> .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://schema.org/interactionCount> "UserPageVisits:72"@en .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://schema.org/interactionCount> "UserLikes:3"@en .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://schema.org/uploadDate> "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2207018/> .
+_:nodeaa738223cbd3a133d46ac88fbe2129 <http://schema.org/caption> "Food"@en .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://schema.org/thumbnail> <http://s6.favim.com/mini/141028/beef-burger-burgers-cheese-Favim.com-2186746.jpg> .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://schema.org/interactionCount> "UserPageVisits:64"@en .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://schema.org/uploadDate> "2014-10-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2186746/> .
+_:node8741af7a6e1b2baf710eaf765d8d4d0 <http://schema.org/caption> "beef, burger, burgers, cheese, cool, cute, diy, food, fried, funny, halloween, meat, scary"@en .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://schema.org/thumbnail> <http://s7.favim.com/mini/141113/food-meat-Favim.com-2232527.jpg> .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://schema.org/interactionCount> "UserPageVisits:94"@en .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://schema.org/uploadDate> "2014-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2232527/> .
+_:node341fc38157e73ecfe53ed28bec470f6 <http://schema.org/caption> "Jamie Oliver | via Facebook"@en .
+_:noded1567d7e14da38778154ed9304f42ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:noded1567d7e14da38778154ed9304f42ca <http://schema.org/thumbnail> <http://s4.favim.com/mini/140930/delicious-food-fries-meat-Favim.com-2112584.jpg> .
+_:noded1567d7e14da38778154ed9304f42ca <http://schema.org/interactionCount> "UserPageVisits:78"@en .
+_:noded1567d7e14da38778154ed9304f42ca <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:noded1567d7e14da38778154ed9304f42ca <http://schema.org/uploadDate> "2014-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded1567d7e14da38778154ed9304f42ca <http://schema.org/discussionUrl> <http://favim.com/meat//image/2112584/> .
+_:noded1567d7e14da38778154ed9304f42ca <http://schema.org/caption> "Daily Glamorous"@en .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://schema.org/thumbnail> <http://s6.favim.ru/mini/141108/kuritsa-eda-zelen-mjaso-Favim.ru-2218838.jpg> .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://schema.org/interactionCount> "UserPageVisits:56"@en .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://schema.org/uploadDate> "2014-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2218838/> .
+_:node3156e4914f98ab714151bc9fe21b74f6 <http://schema.org/caption> "chicken, food, greenery, meat, photo, photographer, potato, table"@en .
+_:node343e24951bb398334e8fbaa526ed7517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node343e24951bb398334e8fbaa526ed7517 <http://schema.org/thumbnail> <http://s2.favim.com/mini/141202/food-meat-pork-ribs-Favim.com-2280362.jpg> .
+_:node343e24951bb398334e8fbaa526ed7517 <http://schema.org/interactionCount> "UserPageVisits:19"@en .
+_:node343e24951bb398334e8fbaa526ed7517 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node343e24951bb398334e8fbaa526ed7517 <http://schema.org/uploadDate> "2014-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node343e24951bb398334e8fbaa526ed7517 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2280362/> .
+_:node343e24951bb398334e8fbaa526ed7517 <http://schema.org/caption> "Hoarding Recipes | via Tumblr"@en .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://schema.org/thumbnail> <http://s2.favim.com/mini/140929/chili-food-meat-pulled-pork-Favim.com-2111862.jpg> .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://schema.org/interactionCount> "UserPageVisits:52"@en .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://schema.org/uploadDate> "2014-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2111862/> .
+_:node5189d541509edc21f04fd4cd1ba981b3 <http://schema.org/caption> "Smoky Pulled Pork Chili \u00BB The Messy Baker ..."@en .
+_:node84332838e0e3da2b3537ca3438629e7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node84332838e0e3da2b3537ca3438629e7f <http://schema.org/thumbnail> <http://s6.favim.com/mini/141212/balkan-cheese-cheesy-food-Favim.com-2305446.jpg> .
+_:node84332838e0e3da2b3537ca3438629e7f <http://schema.org/interactionCount> "UserPageVisits:41"@en .
+_:node84332838e0e3da2b3537ca3438629e7f <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node84332838e0e3da2b3537ca3438629e7f <http://schema.org/uploadDate> "2014-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node84332838e0e3da2b3537ca3438629e7f <http://schema.org/discussionUrl> <http://favim.com/meat//image/2305446/> .
+_:node84332838e0e3da2b3537ca3438629e7f <http://schema.org/caption> "balkan, cheese, cheesy, food, food porn, foodporn, meat, paprika, yummy, macedonian"@en .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://schema.org/thumbnail> <http://s8.favim.com/mini/141212/food-meat-mexican-mexico-Favim.com-2305738.jpg> .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://schema.org/interactionCount> "UserPageVisits:43"@en .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://schema.org/interactionCount> "UserLikes:3"@en .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://schema.org/uploadDate> "2014-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2305738/> .
+_:nodeb05244f82fbf81886d5c23147256e3d1 <http://schema.org/caption> "food, meat, mexican, mexico, mmh, salad, tomato, yummy, tacco, taccos"@en .
+_:node2db61e72694cd3314def849face5e8f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2db61e72694cd3314def849face5e8f4 <http://schema.org/thumbnail> <http://s5.favim.com/mini/141001/bacon-bbq-beef-burger-Favim.com-2115885.jpg> .
+_:node2db61e72694cd3314def849face5e8f4 <http://schema.org/interactionCount> "UserPageVisits:65"@en .
+_:node2db61e72694cd3314def849face5e8f4 <http://schema.org/interactionCount> "UserLikes:1"@en .
+_:node2db61e72694cd3314def849face5e8f4 <http://schema.org/uploadDate> "2014-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2db61e72694cd3314def849face5e8f4 <http://schema.org/discussionUrl> <http://favim.com/meat//image/2115885/> .
+_:node2db61e72694cd3314def849face5e8f4 <http://schema.org/caption> "Barbecue Bacon Cheeseburger"@en .
+_:node52dad895037b7944580489055536ca2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

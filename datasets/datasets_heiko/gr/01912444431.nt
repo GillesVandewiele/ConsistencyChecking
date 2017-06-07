@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71287 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71287 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71287 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71335 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71335 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71335 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71335 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$29.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> .
+_:genid2d332e1d072519418a9e938fe88e126c9a2dN71316 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#description> "Rock the waves in Bede Durbidge's signature Format Boardshort from Fox\u2122. <br><br>\u0095 Bede Durbidge signature boardshort. <br>\u0095 Wi-fly gusset uses Lycra\u00AE gusset for a comfortable, zipper-free fly opening. <br>\u0095 Q4 Quickdry\u2122 dries 10% faster.<br> \u00A0 \u00A0 - 4-way stretch.<br> \u00A0 \u00A0 - Stretches up to 118% of the original length. <br>\u0095 Secure fit: Micro rigid tape is sewn in the soft, lines waistband to stay on the waist.<br>\u0095 All over sublimated graphics.<br> \u00A0 \u00A0 - Side patch pocket.<br>\u0095 Outseam: 22.5''. <br> \u00A0 \u00A0 - Classic fit to fit just below the knees.<br>\u0095 85% Polyester / 15% Elastane.<br>\u0095 Imported." .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#name> "Fox Men's Format Boardshort" .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d332e1d072519418a9e938fe88e126c9a2dN71287 .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/fox-mens-format-boardshort-41490/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d332e1d072519418a9e938fe88e126c9a2dN71335 .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

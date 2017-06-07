@@ -1,0 +1,19 @@
+_:nodececf1a65e4d8dd18fac5e67f1f8494 <http://schema.org/description> "\n            Bob Collins has been with Minnesota Public Radio since 1992, emigrating to Minnesota from Massachusetts where he was vice president of programming for Berkshire Broadcasting Company. Previously, he was an editor at the RKO Radio network in New York, and WHDH Radio in Boston. He was the founder of MPR News\u2019 website.       \t\t"@en-us .
+_:nodececf1a65e4d8dd18fac5e67f1f8494 <http://schema.org/image> "Null"@en-us .
+_:nodececf1a65e4d8dd18fac5e67f1f8494 <http://schema.org/email> <mailto:bcollins@mpr.org> .
+_:nodececf1a65e4d8dd18fac5e67f1f8494 <http://schema.org/name> <http://blogs.mprnews.org/newscut/author/bcollins/> .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/image> "http://publicradio1.wpengine.netdna-cdn.com/newscut/wp-content/themes/mpr-news-blogs/images/newscut-opengraph.png?v=2"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/image> "http://publicradio1.wpengine.netdna-cdn.com/newscut/wp-content/themes/mpr-news-blogs/images/newscut-opengraph.png?v=2"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/image> <http://blogs.mprnews.org/newscut> .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/keywords> "\n\t\tCrime and Justice \n\t\t"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/interactionCount> <http://blogs.mprnews.org/newscut/2009/04/zero_tolerance/#comments> .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/description> "When it is OK to strip search a 13 year old girl?"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/url> "http://blogs.mprnews.org/newscut/2009/04/zero_tolerance/"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/url> "http://blogs.mprnews.org/newscut/2009/04/zero_tolerance/"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/datePublished> "April 17, 2009, 1:01 PM"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/articleBody> "\n\t\tWhen it is OK to strip search a 13 year old girl? In school? When she\u2019s suspected of having prescription strength ibuprofen? The issue \u2014 what are the limits of a school official\u2019s power  and what are the rights of students \u2013 goes to the U.S. Supreme Court next week. The case involves eighth-grader Savana Redding of Arizona. It may give more guidance to schools who enact \u201Czero tolerance\u201D policies on drugs. \t\t\t"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/headline> "Zero tolerance?"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/name> "Zero tolerance?"@en-us .
+_:node7fecdbede6fa941da9efd232ebfd130 <http://schema.org/author> _:nodececf1a65e4d8dd18fac5e67f1f8494 .
+_:nodef66578d59234fe6e39bfe6d1e9fabec4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

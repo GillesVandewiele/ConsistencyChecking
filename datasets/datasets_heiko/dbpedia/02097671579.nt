@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Wilhelm_Dilthey> .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Wilhelm_Dilthey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Wilhelm_Dilthey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Wilhelm_Dilthey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .

@@ -1,0 +1,96 @@
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#title> "Albuquerque"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66499 .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#description> "San Pedro Mart Middle East Grocery & Restaurant (Middle Eastern, Organic/Locally Grown, Vegetarian/Health Foods, Greek/Mediterranean, Specialty Food Store) at 4001 San Pedro Dr NE: 1 critical review. The tiny restaurant in this grocery store may not look like much, but don\u2019t be fooled: The menu boasts some of the best falafel and shawarma sandwiches around, as well as hummus that would be worth crossing a desert for..."@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#url> "http://alibi.com/restaurants/entity/6066/San-Pedro-Mart-Middle-East-Grocery-Restaurant.html"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#longitude> "-106.5777185"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#image> "http://alibi.com/image/pix_id/30019/Baklava-and-Arabic-coffee-from-San-Pedro-Middle-Ea.jpg"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#street-address> "4001 San Pedro Dr NE"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#locality> "Albuquerque"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#latitude> "35.129961"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#type> "restaurant"@en .
+<http://alibi.com/restaurants/entity/6066/restaurant.html> <http://ogp.me/ns#title> "San Pedro Mart Middle East Grocery & Restaurant"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#legalName> "San Pedro Mart Middle East Grocery & Restaurant"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#address> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#address> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#name> "San Pedro Mart Middle East Grocery & Restaurant"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67614 <http://rdf.data-vocabulary.org/#votes> "13"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67614 <http://rdf.data-vocabulary.org/#rating> "4.62"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66543 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67697 <http://rdf.data-vocabulary.org/#latitude> "35.129961"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67697 <http://rdf.data-vocabulary.org/#longitude> "-106.5777185"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66510 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/300/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66510 <http://rdf.data-vocabulary.org/#title> "Middle Eastern"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66510 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66532 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/286/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66532 <http://rdf.data-vocabulary.org/#title> "Vegetarian/Health Foods"@en .
+<http://alibi.com/image/pix_id/30019/Baklava-and-Arabic-coffee-from-San-Pedro-Middle-Ea.jpg?image_height=94&image_width=94&orig_crop_left=85&orig_crop_right=85> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/30019/Baklava-and-Arabic-coffee-from-San-Pedro-Middle-Ea.jpg"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66554 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66554 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66554 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/284/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66554 <http://rdf.data-vocabulary.org/#title> "Specialty Food Store"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN68001 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN68001 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN68001 <http://rdf.data-vocabulary.org/#description> "The tiny restaurant in this grocery store may not look like much, but don\u2019t be fooled:  The menu boasts some of the best falafel and shawarma sandwiches around, as well as hummus that would be worth crossing a desert for. Not only that, but the grocery has an excellent selection of halal meats, and the in-house bakery produces fresh breads daily."@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN68001 <http://rdf.data-vocabulary.org/#itemreviewed> "San Pedro Mart Middle East Grocery & Restaurant"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67614 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67614 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66477 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66477 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66477 <http://rdf.data-vocabulary.org/#title> "Restaurants"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66477 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#geo> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67697 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#geo> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67697 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66532 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#ProductOrService> "Middle Eastern"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#ProductOrService> "Organic/Locally Grown"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#ProductOrService> "Vegetarian/Health Foods"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#ProductOrService> "Greek/Mediterranean"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#ProductOrService> "Specialty Food Store"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Catering"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#category> "Middle Eastern"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#category> "Organic/Locally Grown"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#category> "Vegetarian/Health Foods"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#category> "Greek/Mediterranean"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#category> "Specialty Food Store"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Grocery: M-S - 7am to 10pm Restaurant: M - S 11am to 9 pm, sunday 11am-8pm"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://rdf.data-vocabulary.org/#pricerange> "$$"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Middle Eastern"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Organic/Locally Grown"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian/Health Foods"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Greek/Mediterranean"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Specialty Food Store"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Grocery: M-S - 7am to 10pm Restaurant: M - S 11am to 9 pm, sunday 11am-8pm"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Brunch"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66521 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/294/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66521 <http://rdf.data-vocabulary.org/#title> "Organic/Locally Grown"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66499 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/32/5/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66499 <http://rdf.data-vocabulary.org/#title> "Northeast Heights"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66543 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/285/restaurants.html> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66543 <http://rdf.data-vocabulary.org/#title> "Greek/Mediterranean"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN67628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d50196df8c3a14b4d9a424a99c3f68fb22dN66521 .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 <http://rdf.data-vocabulary.org/#street-address> "4001 San Pedro Dr NE"@en .
+_:genid2d50196df8c3a14b4d9a424a99c3f68fb22dINSIDE5fN67653 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+<http://www.eastwood.com/phillips-oval-head-screws-12-skus-380-pcs.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.eastwood.com/phillips-oval-head-screws-12-skus-380-pcs.html#TypeAndQuantityNode_26981> .

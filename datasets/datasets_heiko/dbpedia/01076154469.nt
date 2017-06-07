@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mikoyan-Gurevich_MiG-19> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Nanchang_Q-5> .
+<http://dbpedia.org/resource/Mikoyan-Gurevich_MiG-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Aircraft> .
+<http://dbpedia.org/resource/Mikoyan-Gurevich_MiG-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .
+<http://dbpedia.org/resource/Nanchang_Q-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Aircraft> .
+<http://dbpedia.org/resource/Nanchang_Q-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .

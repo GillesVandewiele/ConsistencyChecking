@@ -1,0 +1,36 @@
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://rdf.data-vocabulary.org/#geo> _:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67115 .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#longitude> "-106.6459023"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#image> "http://alibi.com/images/alibi-a-57x57.png"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#street-address> "1025 Broadway SE"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#description> "South Broadway Library at 1025 Broadway SE:"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#locality> "Albuquerque"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#url> "http://alibi.com/index.php?desired_page=venues&entity=6211"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#latitude> "35.07307905"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://ogp.me/ns#title> "South Broadway Library"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 <http://rdf.data-vocabulary.org/#street-address> "1025 Broadway SE"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66454 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66454 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/index.php?desired_page=venues> .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66454 <http://rdf.data-vocabulary.org/#title> "venues"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66454 <http://rdf.data-vocabulary.org/#child> _:genid2df8c5d95744a9448d9b65206aed1ecf122dN66465 .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://rdf.data-vocabulary.org/#description> ""@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66465 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/index.php?desired_page=venues&city=Albuquerque> .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dN66465 <http://rdf.data-vocabulary.org/#title> "Albuquerque"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://purl.org/goodrelations/v1#legalName> "South Broadway Library"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://rdf.data-vocabulary.org/#address> _:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://rdf.data-vocabulary.org/#address> _:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://purl.org/goodrelations/v1#hasPOS> _:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://purl.org/goodrelations/v1#hasPOS> _:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67079 .
+<http://alibi.com/index.php?desired_page=venues&entity=6211> <http://rdf.data-vocabulary.org/#name> "South Broadway Library"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67115 <http://rdf.data-vocabulary.org/#latitude> "35.07307905"@en .
+_:genid2df8c5d95744a9448d9b65206aed1ecf122dINSIDE5fN67115 <http://rdf.data-vocabulary.org/#longitude> "-106.6459023"@en .
+_:genid2d608b763b2e21461b966951f9a1328e332dINSIDE5fN68525 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .

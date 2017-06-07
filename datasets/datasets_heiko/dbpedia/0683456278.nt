@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Sinclair_QL> <http://dbpedia.org/ontology/operatingSystem> <http://dbpedia.org/resource/Sinclair_QDOS> .
+<http://dbpedia.org/resource/Sinclair_QL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> .
+<http://dbpedia.org/resource/Sinclair_QL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/InformationAppliance> .

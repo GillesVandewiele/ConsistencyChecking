@@ -1,0 +1,7 @@
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_abstraction_100002137> .
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_communication_100033020> .
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_award_106696483> .
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_signal_106791372> .
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_symbol_106806469> .
+<http://yago-knowledge.org/resource/Naval_crown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Military_awards_and_decorations_of_ancient_Rome> .

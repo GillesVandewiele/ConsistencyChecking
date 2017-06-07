@@ -1,0 +1,4 @@
+_:nodea3e53e451583da1986fa5d3b7239cf <http://schema.org/name> "Softpedia"@en-us .
+_:nodea3e53e451583da1986fa5d3b7239cf <http://schema.org/logo> "SOFTPEDIA\u00AE"@en-us .
+_:nodea3e53e451583da1986fa5d3b7239cf <http://schema.org/url> <http://www.softpedia.com/> .
+_:node6a3b663991ea9da432d6128ac4b1fb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

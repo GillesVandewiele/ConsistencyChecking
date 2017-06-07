@@ -1,0 +1,102 @@
+_:node6fa1a766f14d2d2f6bed2808942193 <http://schema.org/name> "Quahadi Ranch"@he .
+_:node6fa1a766f14d2d2f6bed2808942193 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:node9b82f19747d3ca3cd337f28abc86f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9b82f19747d3ca3cd337f28abc86f8 <http://schema.org/name> "Denver Intl"@he .
+_:node9b82f19747d3ca3cd337f28abc86f8 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node6cce375b833869757dfbf11049264a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6cce375b833869757dfbf11049264a <http://schema.org/name> "Sloulin Fld Intl"@he .
+_:node6cce375b833869757dfbf11049264a <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KISN> .
+_:node83968eebf9a53c6a4067c11dbca168e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node83968eebf9a53c6a4067c11dbca168e <http://schema.org/name> "Lincoln"@he .
+_:node83968eebf9a53c6a4067c11dbca168e <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KLNK> .
+_:node72aec63461afbbb76acb54f658ce7975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node72aec63461afbbb76acb54f658ce7975 <http://schema.org/name> "Quahadi Ranch"@he .
+_:node72aec63461afbbb76acb54f658ce7975 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:nodea419934d4473854325d0fa157524409f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea419934d4473854325d0fa157524409f <http://schema.org/name> "Sloulin Fld Intl"@he .
+_:nodea419934d4473854325d0fa157524409f <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KISN> .
+_:nodedc1ba8b2d387f28d5513b1a6f6f52f53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodedc1ba8b2d387f28d5513b1a6f6f52f53 <http://schema.org/name> "Oconee County Rgnl"@he .
+_:nodedc1ba8b2d387f28d5513b1a6f6f52f53 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KCEU> .
+_:nodeb81a82230e23c61af6bcad6752fa761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb81a82230e23c61af6bcad6752fa761 <http://schema.org/name> "Drake Field"@he .
+_:nodeb81a82230e23c61af6bcad6752fa761 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KFYV> .
+_:node7fb95fc5a272a7146c666da9cd227632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7fb95fc5a272a7146c666da9cd227632 <http://schema.org/name> "Provo Muni"@he .
+_:node7fb95fc5a272a7146c666da9cd227632 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KPVU> .
+_:nodeeef767c8bc1971edfde3fd01eb85d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeeef767c8bc1971edfde3fd01eb85d5 <http://schema.org/name> "Drake Field"@he .
+_:nodeeef767c8bc1971edfde3fd01eb85d5 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KFYV> .
+_:node716af9bb48ef38b8a81e8866efad9e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node716af9bb48ef38b8a81e8866efad9e2 <http://schema.org/name> "Will Rogers World"@he .
+_:node716af9bb48ef38b8a81e8866efad9e2 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KOKC> .
+_:node3975835f9b3566ec704b609fe4a48f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3975835f9b3566ec704b609fe4a48f <http://schema.org/name> "Will Rogers World"@he .
+_:node3975835f9b3566ec704b609fe4a48f <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KOKC> .
+_:node8d7a702c80b01bddf2cae992bd7f033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8d7a702c80b01bddf2cae992bd7f033 <http://schema.org/name> "Denver Intl"@he .
+_:node8d7a702c80b01bddf2cae992bd7f033 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node20a696bc2797119af0a2f23b61275896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node20a696bc2797119af0a2f23b61275896 <http://schema.org/name> "Denver Intl"@he .
+_:node20a696bc2797119af0a2f23b61275896 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node6d4925d32d7c5a9bf9a3786d3e8ec2bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6d4925d32d7c5a9bf9a3786d3e8ec2bc <http://schema.org/name> "Denver Intl"@he .
+_:node6d4925d32d7c5a9bf9a3786d3e8ec2bc <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:nodebdb3b66df3901b1fd21d754c8fe3f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodebdb3b66df3901b1fd21d754c8fe3f3 <http://schema.org/name> "Denver Intl"@he .
+_:nodebdb3b66df3901b1fd21d754c8fe3f3 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node9922f4816c51d04a9aca2dcac93b354d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9922f4816c51d04a9aca2dcac93b354d <http://schema.org/name> "Seattle-Tacoma Intl"@he .
+_:node9922f4816c51d04a9aca2dcac93b354d <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KSEA> .
+_:node8126c3eb47772881e47ebd8ac95b57a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8126c3eb47772881e47ebd8ac95b57a <http://schema.org/name> "Quahadi Ranch"@he .
+_:node8126c3eb47772881e47ebd8ac95b57a <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:nodede574794e8d1d9629784c0264c76b66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodede574794e8d1d9629784c0264c76b66 <http://schema.org/name> "Denver Intl"@he .
+_:nodede574794e8d1d9629784c0264c76b66 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node7e7c7518f2d7d2dc8937d31489afac44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7e7c7518f2d7d2dc8937d31489afac44 <http://schema.org/name> "Sloulin Fld Intl"@he .
+_:node7e7c7518f2d7d2dc8937d31489afac44 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KISN> .
+_:node4fddd332730f7b9f3753728103c690 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4fddd332730f7b9f3753728103c690 <http://schema.org/name> "Quahadi Ranch"@he .
+_:node4fddd332730f7b9f3753728103c690 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:node4d97d5ea94f7f975bb6fab620d166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4d97d5ea94f7f975bb6fab620d166 <http://schema.org/name> "Denver Intl"@he .
+_:node4d97d5ea94f7f975bb6fab620d166 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node1fab9e385091aab1a5fd9b7fd0bc7e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node1fab9e385091aab1a5fd9b7fd0bc7e8 <http://schema.org/name> "Quahadi Ranch"@he .
+_:node1fab9e385091aab1a5fd9b7fd0bc7e8 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:nodefccef63adf844d61f98c2842fd57c487 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefccef63adf844d61f98c2842fd57c487 <http://schema.org/name> "Quahadi Ranch"@he .
+_:nodefccef63adf844d61f98c2842fd57c487 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:nodeca11d6533419316fe57016b34988ea5d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeca11d6533419316fe57016b34988ea5d <http://schema.org/name> "Seattle-Tacoma Intl"@he .
+_:nodeca11d6533419316fe57016b34988ea5d <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KSEA> .
+_:node8f65aaf32ff9ea6bbeb01cca3af7c081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8f65aaf32ff9ea6bbeb01cca3af7c081 <http://schema.org/name> "Denver Intl"@he .
+_:node8f65aaf32ff9ea6bbeb01cca3af7c081 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:nodec3aec3b05b8ab59af8b96ac5bfd50df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec3aec3b05b8ab59af8b96ac5bfd50df <http://schema.org/name> "Sloulin Fld Intl"@he .
+_:nodec3aec3b05b8ab59af8b96ac5bfd50df <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KISN> .
+_:node8b64a24256c2e9b7f5ee806012d2c9dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8b64a24256c2e9b7f5ee806012d2c9dd <http://schema.org/name> "Denver Intl"@he .
+_:node8b64a24256c2e9b7f5ee806012d2c9dd <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:nodebdab83d72bae9ac19618bf82d675a8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodebdab83d72bae9ac19618bf82d675a8b <http://schema.org/name> "Lincoln"@he .
+_:nodebdab83d72bae9ac19618bf82d675a8b <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KLNK> .
+_:node61c475f265cb8820275cf9e2c1684893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node61c475f265cb8820275cf9e2c1684893 <http://schema.org/name> "Gowen Field"@he .
+_:node61c475f265cb8820275cf9e2c1684893 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KBOI> .
+_:node48b2928836ab7df22b272f47e3448947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node48b2928836ab7df22b272f47e3448947 <http://schema.org/name> "Gowen Field"@he .
+_:node48b2928836ab7df22b272f47e3448947 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KBOI> .
+_:node082c5ad73717c91a2f6458ea0ec2af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node082c5ad73717c91a2f6458ea0ec2af <http://schema.org/name> "Provo Muni"@he .
+_:node082c5ad73717c91a2f6458ea0ec2af <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KPVU> .
+_:node3faecf8b3cb9f9728fc537ec4dc5b8e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3faecf8b3cb9f9728fc537ec4dc5b8e6 <http://schema.org/name> "Denver Intl"@he .
+_:node3faecf8b3cb9f9728fc537ec4dc5b8e6 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/KDEN> .
+_:node71eca38c7ad1bce926613eb1da06d45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node71eca38c7ad1bce926613eb1da06d45 <http://schema.org/name> "Quahadi Ranch"@he .
+_:node71eca38c7ad1bce926613eb1da06d45 <http://schema.org/url> <http://he.flightaware.com/live/flight/N813BB//live/airport/17XS> .
+_:nodec51ea8982dfc90c665305464c3e39282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

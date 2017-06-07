@@ -1,0 +1,20 @@
+<http://semenata.com/#BusinessEntity> <http://purl.org/goodrelations/v1#legalName> "Semenata"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://semenata.com/#BusinessEntity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://semenata.com/#BusinessEntity> <http://www.w3.org/2006/vcard/ns#adr> <http://semenata.com/#address> .
+<http://semenata.com/#address> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#url> <http://semenata.com/> .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#postal-code> "2700"@bg .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#locality> "Sandanski"@bg .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#email> "info@semenata.com"@bg .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#tel> "00359988958053"@bg .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#street-address> "\u0443\u043B. \"\u0426\u0430\u0440 \u0421\u0438\u043C\u0435\u043E\u043D \u0412\u0435\u043B\u0438\u043A\u0438\" \u211623"@bg .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#country-name> "Bulgaria"@bg .
+<http://semenata.com/#address> <http://www.w3.org/2006/vcard/ns#region> "Blagoevgrad"@bg .
+<http://semenata.com/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://semenata.com/> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/2006/vcard/ns> .
+<http://semenata.com/> <http://www.w3.org/2002/07/owl#imports> <http://purl.org/goodrelations/v1> .
+<http://semenata.com/> <http://www.w3.org/2000/01/rdf-schema#label> "RDF/XML data for Semenata, based on http://purl.org/goodrelations/"@bg .
+<http://semenata.com/#address_1_geo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Location> .
+<http://semenata.com/#address_1_geo> <http://www.w3.org/2006/vcard/ns#longitude> "23.2803538"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://semenata.com/#address_1_geo> <http://www.w3.org/2006/vcard/ns#latitude> "41.5678434"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.bestwestern.de/hotels/Nuernberg/BEST-WESTERN-Hotel-Nuernberg-am-Hauptbahnhof/angebote-arrangements#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .

@@ -1,0 +1,12 @@
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/thumbnailURL> "http://cdn.kaltura.com/p/557781/thumbnail/entry_id/1_takij0ut/width/160/height/120/type/1" .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/thumbnailURL> "http://cdn.kaltura.com/p/557781/thumbnail/entry_id/1_takij0ut/width/160/height/120/type/1" .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/width> "640px" .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/width> "640px" .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/description> "Falmouth won 1-0 and handed NYA their first loss of the season." .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/description> "Falmouth won 1-0 and handed NYA their first loss of the season." .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/height> "390px" .
+_:node9b82ca2da2b8b01daf7a352e9e93f5f3 <http://schema.org/height> "390px" .
+_:node4e685e1cec3c1d6e1c708c2af763d83d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node4e685e1cec3c1d6e1c708c2af763d83d <http://schema.org/video> _:node9b82ca2da2b8b01daf7a352e9e93f5f3 .
+_:node4e685e1cec3c1d6e1c708c2af763d83d <http://schema.org/mainContentOfPage> _:node9b82ca2da2b8b01daf7a352e9e93f5f3 .
+_:node1f566e9453d558f8c913c0fe98c2c67b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

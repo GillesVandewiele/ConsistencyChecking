@@ -1,0 +1,6 @@
+_:node6e1e8304c865ba891a913779db0fe99 <http://schema.org/name> "Oracle JDK 7 with Maven and Eclipse" .
+_:node6e1e8304c865ba891a913779db0fe99 <http://schema.org/title> "Oracle JDK 7 with Maven and Eclipse" .
+_:node6e1e8304c865ba891a913779db0fe99 <http://schema.org/description> "\n  Possible Duplicate:\n  How do I install Oracle Java JDK 7?  \n\n\n\n\nI'm running Ubuntu 12.04\n\nI know this has been asked many times but I just recently switched to linux and I'm having a hard time p..." .
+_:node6e1e8304c865ba891a913779db0fe99 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node6e1e8304c865ba891a913779db0fe99 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node8d80e25d882c26cb27d796226c2ca42f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

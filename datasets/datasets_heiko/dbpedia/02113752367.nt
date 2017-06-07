@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/County_Cork> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Cork_South%E2%80%93Central_(D%C3%A1il_%C3%89ireann_constituency)> .
+<http://dbpedia.org/resource/County_Cork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/County_Cork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/County_Cork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/County_Cork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .

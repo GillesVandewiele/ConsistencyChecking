@@ -1,0 +1,16 @@
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrencyValue> "20.49"@en .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#rating> "4"@en .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dN68197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dN68197 <http://rdf.data-vocabulary.org/#hasReview> _:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68197 .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dN68197 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=69487> .
+<http://www.joke.co.uk/hen-night-fancy-dress-costumes/batgirl-t-shirt~69487/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/hen-night-fancy-dress-costumes/batgirl-t-shirt~69487/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68312 .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dN68263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dN68263 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68263 .
+<http://www.joke.co.uk/hen-night-fancy-dress-costumes/batgirl-t-shirt~69487/#main> <http://purl.org/goodrelations/v1#description> "Our Batgirl T-Shirt is printed with a toned body, a yellow Batgirl logo and a matching utility belt.Also included is a blue detachable cape, and a black eyemask.\n\nImportant Note:The detachable cape included in this costume does not fasten around the neck as shown in the above photograph. The cape is attached to the back of the t-shirt."@en .
+<http://www.joke.co.uk/hen-night-fancy-dress-costumes/batgirl-t-shirt~69487/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/hen-night-fancy-dress-costumes/batgirl-t-shirt~69487/#main> <http://purl.org/goodrelations/v1#name> "Batgirl T-Shirt"@en .
+_:genid2dbfbfb979a9e8409fb1c73017c98c3d922dINSIDE5fN68312 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.swimoutlet.com/p/speedo-adjustable-dive-fin-17268/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df4ccf6b9b4474d14b12e5c0fdb51a13b2dN71390 .

@@ -1,0 +1,7 @@
+_:nodeffd2aedcae3819ce23868985ce4a2a <http://schema.org/name> "Horoskopu pasaule"@lv .
+_:nodebe2e37bab8a4ff23286112938b54c50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodebe2e37bab8a4ff23286112938b54c50 <http://schema.org/name> "Dienas horoskops: 6.augusts"@lv .
+_:nodebe2e37bab8a4ff23286112938b54c50 <http://schema.org/author> _:nodeffd2aedcae3819ce23868985ce4a2a .
+_:nodebe2e37bab8a4ff23286112938b54c50 <http://schema.org/datePublished> "2012-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodebe2e37bab8a4ff23286112938b54c50 <http://schema.org/interactionCount> "UserComments:5"@lv .
+_:node80cec8c65130f97b3549957c12258a38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

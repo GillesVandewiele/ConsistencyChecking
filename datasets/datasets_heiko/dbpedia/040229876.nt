@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/GNU_Mach> <http://dbpedia.org/ontology/operatingSystem> <http://dbpedia.org/resource/Unix-like> .
+<http://dbpedia.org/resource/GNU_Mach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/GNU_Mach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Unix-like> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Unix-like> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

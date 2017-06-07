@@ -1,0 +1,12 @@
+_:nodebbad84dd9e179ac0a4ad7a821d48cb56 <http://schema.org/ratingValue> "\u00A0"@en-us .
+_:nodedaece43192486cc87de64ec69844eff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodedaece43192486cc87de64ec69844eff1 <http://schema.org/reviewRating> _:nodebbad84dd9e179ac0a4ad7a821d48cb56 .
+_:nodedaece43192486cc87de64ec69844eff1 <http://schema.org/datePublished> "Dec, 2014"@en-us .
+_:nodedaece43192486cc87de64ec69844eff1 <http://schema.org/name> "Amazon.com review summary for Sony ECMXYST1M - Stereo Microphone"@en-us .
+_:nodedaece43192486cc87de64ec69844eff1 <http://schema.org/description> "alaTest has collected and analyzed 1 user review of Sony ECMXYST1M - Stereo Microphone from Amazon.com. The average user rating for this product is 5.0/5, compared to an average user rating of 3.8/5 for other Headsets on Amazon.com."@en-us .
+_:nodedaece43192486cc87de64ec69844eff1 <http://schema.org/author> "(amazon.com)"@en-us .
+_:node29d41c2b532bd58c326693e44f388be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node29d41c2b532bd58c326693e44f388be <http://schema.org/name> "Sony ECMXYST1M - Stereo Microphone"@en-us .
+_:node29d41c2b532bd58c326693e44f388be <http://schema.org/image> <http://ii.alatest.com/product/190x190/3/d/Sony-ECMXYST1M-Stereo-Microphone-338598096.jpg> .
+_:node29d41c2b532bd58c326693e44f388be <http://schema.org/review> _:nodedaece43192486cc87de64ec69844eff1 .
+_:nodeb4911d96b7ac79966ed8e8b8dff4792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

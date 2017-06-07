@@ -1,0 +1,6 @@
+_:nodec5b7fd956859c2498a9d7480ff8537a7 <http://schema.org/name> "When should you give up top tower for Dragon?" .
+_:nodec5b7fd956859c2498a9d7480ff8537a7 <http://schema.org/title> "When should you give up top tower for Dragon?" .
+_:nodec5b7fd956859c2498a9d7480ff8537a7 <http://schema.org/description> "Here's a rather deep question for those of you who play a lot of ranked. Without teleport, I have no real way of reaching my team short of physically going there from top lane. My question is this:..." .
+_:nodec5b7fd956859c2498a9d7480ff8537a7 <http://schema.org/image> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:nodec5b7fd956859c2498a9d7480ff8537a7 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:nodeb8bd7642853293e2c5927145704288e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .

@@ -1,0 +1,5 @@
+_:nodec66afc24e8faf1477125f4e19d86c <http://schema.org/dateCreated> "2009-06-04T15:08:00-04:00" .
+_:nodec66afc24e8faf1477125f4e19d86c <http://schema.org/headline> "[Image - 3033] | I am aware of all Internet traditions" .
+_:nodec66afc24e8faf1477125f4e19d86c <http://schema.org/interactionCount> "UserPageVisits:35" .
+_:nodec66afc24e8faf1477125f4e19d86c <http://schema.org/thumbnailUrl> "http://i1.kym-cdn.com/photos/images/original/000/003/033/obi-wan-internet-traditions.jpg" .
+_:node8d39d69df52ce1d0f633f4f9d74345d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

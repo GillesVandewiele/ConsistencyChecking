@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Salem,_Illinois> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Salem,_Illinois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Salem,_Illinois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Salem,_Illinois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Salem,_Illinois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .

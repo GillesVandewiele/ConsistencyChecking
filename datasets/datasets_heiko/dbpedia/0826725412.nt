@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Mitsubishi_A6M_Zero> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Mitsubishi_Heavy_Industries> .
+<http://dbpedia.org/resource/Mitsubishi_A6M_Zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Aircraft> .
+<http://dbpedia.org/resource/Mitsubishi_A6M_Zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .
+<http://dbpedia.org/resource/Mitsubishi_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/Mitsubishi_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Mitsubishi_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

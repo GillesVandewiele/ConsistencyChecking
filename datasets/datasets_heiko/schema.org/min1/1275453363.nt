@@ -1,0 +1,36 @@
+_:node328f702cea0e57843b8e884bf30f2ec <http://schema.org/sku> "VM533"@en .
+_:node328f702cea0e57843b8e884bf30f2ec <http://schema.org/name> "Armani Code 30ml EDP"@en .
+_:node328f702cea0e57843b8e884bf30f2ec <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/hs/hs007/f16vm533500c.jpg> .
+_:node4fd091fb597b4eb37379722e19b74cc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node4fd091fb597b4eb37379722e19b74cc2 <http://schema.org/sku> "RQ372"@en .
+_:node4fd091fb597b4eb37379722e19b74cc2 <http://schema.org/name> "Emporio Armani Diamonds Intense 50ml"@en .
+_:node4fd091fb597b4eb37379722e19b74cc2 <http://schema.org/image> <http://products.drct2u.com/content/images/products//rq/rq372/b01rq37250wthumb.jpg> .
+_:node24da4e7233d3a4499f18d5546ffcb52b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node24da4e7233d3a4499f18d5546ffcb52b <http://schema.org/sku> "XG004"@en .
+_:node24da4e7233d3a4499f18d5546ffcb52b <http://schema.org/name> "Armani Diamonds Summer 100ml EDT"@en .
+_:node24da4e7233d3a4499f18d5546ffcb52b <http://schema.org/image> <http://productimages.drct2u.com/thumb/products//xg/xg004/f16xg004500s.jpg> .
+_:nodefbb1a1514a5cfcdf08ce3ec8e20f2f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodefbb1a1514a5cfcdf08ce3ec8e20f2f2 <http://schema.org/sku> "UO580"@en .
+_:nodefbb1a1514a5cfcdf08ce3ec8e20f2f2 <http://schema.org/name> "JLo Love and Glamour 30ml EDP"@en .
+_:nodefbb1a1514a5cfcdf08ce3ec8e20f2f2 <http://schema.org/image> <http://products.drct2u.com/content/images/products//uo/uo580/d16uo58050wthumb.jpg> .
+_:node2b39b0fb1ce74251a576d536aea4012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node2b39b0fb1ce74251a576d536aea4012 <http://schema.org/sku> "BV865"@en .
+_:node2b39b0fb1ce74251a576d536aea4012 <http://schema.org/name> "Armani Womens Mini Set"@en .
+_:node2b39b0fb1ce74251a576d536aea4012 <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/bv/bv865/h16bv865501s.jpg> .
+_:nodee43dc0a5e8b6291a59962baf82dcb26f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodee43dc0a5e8b6291a59962baf82dcb26f <http://schema.org/sku> "XG882"@en .
+_:nodee43dc0a5e8b6291a59962baf82dcb26f <http://schema.org/name> "Emporio Armani Diamonds 100ml EDP"@en .
+_:nodee43dc0a5e8b6291a59962baf82dcb26f <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/bv/bv744/f16xg882500s.jpg> .
+_:nodea796b58ad17250115da635f81a7c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodea796b58ad17250115da635f81a7c <http://schema.org/sku> "HS007"@en .
+_:nodea796b58ad17250115da635f81a7c <http://schema.org/name> "Armani Code 50ml EDP"@en .
+_:nodea796b58ad17250115da635f81a7c <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/hs/hs007/f16vm533500c.jpg> .
+_:nodeb1c6834d30cbc8cb34552453731f9bfd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeb1c6834d30cbc8cb34552453731f9bfd <http://schema.org/sku> "NN593"@en .
+_:nodeb1c6834d30cbc8cb34552453731f9bfd <http://schema.org/name> "Armani Code Luna 50ml EDT"@en .
+_:nodeb1c6834d30cbc8cb34552453731f9bfd <http://schema.org/image> <http://productimages.drct2u.com/thumb/products//nn/nn593/f16nn593500s.jpg> .
+_:node8497f43bd1297b6149019a165aa24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node8497f43bd1297b6149019a165aa24 <http://schema.org/sku> "WP043"@en .
+_:node8497f43bd1297b6149019a165aa24 <http://schema.org/name> "Jennifer Lopez Deseo Forever 50ml EDT"@en .
+_:node8497f43bd1297b6149019a165aa24 <http://schema.org/image> <http://products.drct2u.com/content/images/products//wp/wp043/904wp04350athumb.jpg> .
+_:node0348f257eb162829869e8a42e0d320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

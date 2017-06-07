@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hercules:_The_Legendary_Journeys> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Young_Hercules> .
+<http://dbpedia.org/resource/Hercules:_The_Legendary_Journeys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Hercules:_The_Legendary_Journeys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Young_Hercules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Young_Hercules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

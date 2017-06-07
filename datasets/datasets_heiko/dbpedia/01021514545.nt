@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lingala_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Central_African_Republic> .
+<http://dbpedia.org/resource/Central_African_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> .
+<http://dbpedia.org/resource/Central_African_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Central_African_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Central_African_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

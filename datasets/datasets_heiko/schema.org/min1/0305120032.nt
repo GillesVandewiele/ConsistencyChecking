@@ -1,0 +1,6 @@
+_:node8ca47c4a6872e72dc634dd5e1ab470 <http://schema.org/name> "C++ Multiple Condition Statements - Merging" .
+_:node8ca47c4a6872e72dc634dd5e1ab470 <http://schema.org/title> "C++ Multiple Condition Statements - Merging" .
+_:node8ca47c4a6872e72dc634dd5e1ab470 <http://schema.org/description> "I have written a program according to a specification.\nThe Specification has about 3 types and each type gets handled differently on every single point.\n\nThat means more or less for code readabilit..." .
+_:node8ca47c4a6872e72dc634dd5e1ab470 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node8ca47c4a6872e72dc634dd5e1ab470 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node42a52e1bbff6e17fa79d7582c5385e72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

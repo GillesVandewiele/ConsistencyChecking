@@ -1,0 +1,16 @@
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/height> "L 30\u201D W 34\u201D H 25\u201D "@en-us .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/offers> _:node2132817f19446e1c8cbcabe812754159 .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/name> "Zebra Club Chair Gray"@en-us .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/url> <http://fab.com/product/zebra-club-chair-gray-315463?fref=fb-like> .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/description> "\n                  Since when should style eclipse comfort? The Club Chair may have a sophisticated silhouette, but it\u2019s a big softie on the inside. With the cushy, carefree vibe of a beanbag chair and a durable cover that\u2019s outdoor-ready and easy-to-wash, this patterned perch is the best of both worlds.\n                "@en-us .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/image> <http://fab.com/product/zebra-club-chair-gray-315463///dnok91peocsw3.cloudfront.net/product/315463-610x610-1358571175-primary.png> .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/image> "//dnok91peocsw3.cloudfront.net/product/315463-610x610-1358571175-primary.png"@en-us .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/weight> "7 lbs"@en-us .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/color> "Gray, White"@en-us .
+_:node26cd88b0ab56b5dcc6a04641911f96ac <http://schema.org/brand> "Heaslip Designs "@en-us .
+_:node894a18f463831584b98a26a398ea976e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node894a18f463831584b98a26a398ea976e <http://schema.org/url> <http://fab.com/product/zebra-club-chair-gray-315463///fab.com/> .
+_:node2132817f19446e1c8cbcabe812754159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node2132817f19446e1c8cbcabe812754159 <http://schema.org/price> "\n        $219\n      "@en-us .
+_:node2132817f19446e1c8cbcabe812754159 <http://schema.org/priceCurrency> "USD"@en-us .
+_:node5bfec8ce9d6e58c51229a6acb34974f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

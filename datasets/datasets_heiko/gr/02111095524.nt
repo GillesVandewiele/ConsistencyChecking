@@ -1,0 +1,14 @@
+_:genid2d52f835bf4f654176a97eccd547fd37232dN69227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN69227 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN69227 <http://purl.org/goodrelations/v1#hasCurrencyValue> "95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pactimo.com/shop/day-of-the-dead-jersey-by-arlene-pedersen-women-s.html> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d52f835bf4f654176a97eccd547fd37232dN69227 .
+<http://www.pactimo.com/shop/day-of-the-dead-jersey-by-arlene-pedersen-women-s.html> <http://xmlns.com/foaf/0.1/depiction> <http://www.pactimo.com/shop/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/r/arlene_dayofdead_120216_women_s_ascent_jersey_front.png> .
+<http://www.pactimo.com/shop/day-of-the-dead-jersey-by-arlene-pedersen-women-s.html> <http://purl.org/goodrelations/v1#description> "<p>The Ascent jersey has been tested and race proven by pro teams all around the globe!</p> <p>Offering unsurpassed performance and comfort thanks to Pactimo\u2019s exclusive TotalFit\u2122 anatomical design. Technical fabrics are strategically placed to facilitate a superb, performance fit. Sure to become your go to jersey.</p> <ul> <li>Women's specific design</li> <li>Quattro-Lite fabric (100% polyester; 145g)\u00A0</li> <li>Pactimo TotalFit\u2122 design for excellent anatomical fit\u00A0</li> <li>Full length YKK zipper\u00A0</li> <li>Breathable lightweight mesh side panels\u00A0</li> <li>Hidden elastic sleeve opening</li> <li>Ultra-soft silicone gripper at waist</li> <li>3 full rear pockets\u00A0</li> <li>Race radio earpiece opening in rear pocket/cord loop in collar\u00A0</li> <li>Rear reflective trim</li> </ul>" .
+<http://www.pactimo.com/shop/day-of-the-dead-jersey-by-arlene-pedersen-women-s.html> <http://purl.org/goodrelations/v1#name> "\"Day of the Dead\" Jersey by Arlene Pedersen Women's" .
+<http://www.pactimo.com/shop/day-of-the-dead-jersey-by-arlene-pedersen-women-s.html> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN68518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN68518 <http://rdf.data-vocabulary.org/#reviewer> "Gina" .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN68518 <http://rdf.data-vocabulary.org/#reviewer> "Cat" .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN68518 <http://rdf.data-vocabulary.org/#itemreviewed> "LOVE LOVE LOVE" .
+_:genid2d52f835bf4f654176a97eccd547fd37232dN68518 <http://rdf.data-vocabulary.org/#itemreviewed> "Cute and Functional!" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .

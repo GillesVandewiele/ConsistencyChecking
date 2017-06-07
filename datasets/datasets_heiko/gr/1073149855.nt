@@ -1,0 +1,22 @@
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://purl.org/goodrelations/v1#legalName> "GetGeared" .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d60b8a391dda7429fa5ce39262c7bed192dN70157 .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://www.w3.org/2006/vcard/ns#tel> "+44-1372-225100" .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://purl.org/goodrelations/v1#legalName> "GetGeared" .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d60b8a391dda7429fa5ce39262c7bed192dN70216 .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://www.w3.org/2006/vcard/ns#tel> "+44-113-8313223" .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://xmlns.com/foaf/0.1/logo> <http://www.getgeared.co.uk/site/css_styles/GGcirclelogo.jpg> .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://xmlns.com/foaf/0.1/page> <http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306> .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://xmlns.com/foaf/0.1/logo> <http://www.getgeared.co.uk/site/css_styles/GGcirclelogo.jpg> .
+<http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306#company> <http://xmlns.com/foaf/0.1/page> <http://www.getgeared.co.uk/GETGEARED_Motorcycle_Cover_Light_S_M_L?sc=27&category=495306> .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70216 <http://www.w3.org/2006/vcard/ns#postal-code> "LS2 7QA" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70216 <http://www.w3.org/2006/vcard/ns#locality> "Leeds" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70216 <http://www.w3.org/2006/vcard/ns#street-address> "5" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70216 <http://www.w3.org/2006/vcard/ns#country-name> "GB" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70157 <http://www.w3.org/2006/vcard/ns#postal-code> "KT22 7QE" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70157 <http://www.w3.org/2006/vcard/ns#locality> "Leatherhead" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70157 <http://www.w3.org/2006/vcard/ns#street-address> "290" .
+_:genid2d60b8a391dda7429fa5ce39262c7bed192dN70157 <http://www.w3.org/2006/vcard/ns#country-name> "GB" .
+_:genid2d7f30f0a6f46144f9a4ea7b16573f85552dN68334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .

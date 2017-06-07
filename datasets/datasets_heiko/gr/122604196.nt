@@ -1,0 +1,27 @@
+_:genid2d6a12e4f19a5d472eb7c91dd814f35c9f2dN66807 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d6a12e4f19a5d472eb7c91dd814f35c9f2dN66807 <http://purl.org/goodrelations/v1#hasCurrencyValue> "7.5100"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/esp-showcase-lock-15rl-15rl-kd-0000> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/23206-228x228.jpg> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://purl.org/goodrelations/v1#description> "Universal ratchet style showcase lock supplied with two different ratchet bars. The 7RL type ratchet bar works on doors up to 1/4" .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "23206"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Showcase Lock, #15RL" .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://purl.org/goodrelations/v1#name> "Showcase Lock, #15RL" .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/esp-showcase-lock-15rl-15rl-kd-0000> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d6a12e4f19a5d472eb7c91dd814f35c9f2dN66807 .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/23206-228x228.jpg> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#description> "Universal ratchet style showcase lock supplied with two different ratchet bars. The 7RL type ratchet bar works on doors up to 1/4" .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "23206"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#name> "Showcase Lock, #15RL" .
+<http://www.mrlock.com/23206.html?mv_form_charset=UTF-8&id=WUNf7KX3&collapse=1#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .

@@ -1,0 +1,27 @@
+_:node1057ad1971cbfc6863e2add1d4dfa999 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/character/azjolnerub/Elmarc/simple> .
+_:node1057ad1971cbfc6863e2add1d4dfa999 <http://schema.org/name> "Elmarc @ Azjol-Nerub"@en-gb .
+_:node7424977e46fdb09a30dc73b6823e4593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node7424977e46fdb09a30dc73b6823e4593 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/> .
+_:node7424977e46fdb09a30dc73b6823e4593 <http://schema.org/name> "Home"@en-gb .
+_:nodea4e036cb6cfa5ff832b61cc4a09060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodea4e036cb6cfa5ff832b61cc4a09060 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/media/> .
+_:nodea4e036cb6cfa5ff832b61cc4a09060 <http://schema.org/name> "Media"@en-gb .
+_:node3cca458f124b591c577e2b4c87dd246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node3cca458f124b591c577e2b4c87dd246 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/community/> .
+_:node3cca458f124b591c577e2b4c87dd246 <http://schema.org/name> "Community"@en-gb .
+_:node2ef98f73bba88766773b3ab46ab83934 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node2ef98f73bba88766773b3ab46ab83934 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/shop/> .
+_:node2ef98f73bba88766773b3ab46ab83934 <http://schema.org/name> "Shop"@en-gb .
+_:node3c8b621eabfb4ca81da65a51e65b618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node3c8b621eabfb4ca81da65a51e65b618 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/game/> .
+_:node3c8b621eabfb4ca81da65a51e65b618 <http://schema.org/name> "Game Guide"@en-gb .
+_:node89a22379d0bf1a447d26ad55fdca3f96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node89a22379d0bf1a447d26ad55fdca3f96 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/> .
+_:node89a22379d0bf1a447d26ad55fdca3f96 <http://schema.org/name> "World of Warcraft"@en-gb .
+_:node2aaa95244dcda4b904b6f3794ed8b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node2aaa95244dcda4b904b6f3794ed8b0 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/community/> .
+_:node2aaa95244dcda4b904b6f3794ed8b0 <http://schema.org/name> "Community"@en-gb .
+_:nodedbc7d7f115cafed85bb4e0998f162487 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodedbc7d7f115cafed85bb4e0998f162487 <http://schema.org/url> <http://eu.battle.net/wow/en/character/azjolnerub/Elmarc/simple//wow/en/forum/> .
+_:nodedbc7d7f115cafed85bb4e0998f162487 <http://schema.org/name> "Forums"@en-gb .
+_:nodecccb53da2524d07d133698f4e2746 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

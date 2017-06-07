@@ -1,0 +1,5 @@
+_:node6c803594d652ffc69db77994f79c4c84 <http://schema.org/description> "The Anoka-Hennepin school district in Minnesota does not allow teachers to discuss homosexuality in school. Gay, or perceived to be gay, students say the so-called \u201Cneutrality\u201D policy creates a toxic environment for them in school."@en .
+_:node6c803594d652ffc69db77994f79c4c84 <http://schema.org/image> "http://newspulse.cnn.com/images/no_image_cnn_90x51.jpg"@en .
+_:node6c803594d652ffc69db77994f79c4c84 <http://schema.org/name> "Video: Bullied students sue over controversial policy"@en .
+_:node6c803594d652ffc69db77994f79c4c84 <http://schema.org/url> "http://ac360.blogs.cnn.com/2011/10/12/video-bullied-students-sue-over-controversial-policy/"@en .
+_:nodeb8a96b054259fc46fd79b1b69b87fdc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

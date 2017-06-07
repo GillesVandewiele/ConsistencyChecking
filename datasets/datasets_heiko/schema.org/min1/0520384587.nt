@@ -1,0 +1,9 @@
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/name> <http://et.hotels.com/de1719049/hotellid-central-park-avalik-park-lahedal-ciudad-juarez-mehhiko//> .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/name> <http://et.hotels.com/co139/hotellid-riigis-mehhiko/> .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/name> <http://et.hotels.com/de836691/hotellid-asukohas-ciudad-juarez-mehhiko/> .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/name> "Ciudad Juarez hotellid orientiiride j\u00E4rgi Central Park (avalik park)"@et .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/breadcrumb> "HotellidMehhiko hotellidHotellid Ciudad JuarezCiudad Juarez hotellid orientiiride j\u00E4rgi Central Park (avalik park)"@et .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/url> <http://et.hotels.com/de1719049/hotellid-central-park-avalik-park-lahedal-ciudad-juarez-mehhiko//> .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/url> <http://et.hotels.com/co139/hotellid-riigis-mehhiko/> .
+_:nodef2bd497ee1338c6cb92abedd9af47680 <http://schema.org/url> <http://et.hotels.com/de836691/hotellid-asukohas-ciudad-juarez-mehhiko/> .
+_:node87d49d486d5fb397e830691f7fa2f67f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

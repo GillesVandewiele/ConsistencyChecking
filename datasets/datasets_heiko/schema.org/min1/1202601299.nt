@@ -1,0 +1,30 @@
+_:nodea6d4667c1196cef47720dba110b9eb2 <http://schema.org/address> _:node5af96b7f239c85af8d7aaf48e47e9 .
+_:node74e21dc365abae903aefd3e3381817 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node74e21dc365abae903aefd3e3381817 <http://schema.org/address> _:nodea8fff528fad8338a9d1453584c74bd0 .
+_:nodef9d7bdafb8d7d5aa2caf51e4fdd2c6b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodef9d7bdafb8d7d5aa2caf51e4fdd2c6b <http://schema.org/address> _:node65c1c4e7c1519876bf24fdf197b95c .
+_:node76ecd6d7de1a7924a6171765085e770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node76ecd6d7de1a7924a6171765085e770 <http://schema.org/breadcrumb> "Estero Local Business Directory > Search Stein Mart in Estero, FL" .
+_:node76ecd6d7de1a7924a6171765085e770 <http://schema.org/location> _:node74e21dc365abae903aefd3e3381817 .
+_:node76ecd6d7de1a7924a6171765085e770 <http://schema.org/location> _:nodef9d7bdafb8d7d5aa2caf51e4fdd2c6b .
+_:node76ecd6d7de1a7924a6171765085e770 <http://schema.org/location> _:nodea6d4667c1196cef47720dba110b9eb2 .
+_:node76ecd6d7de1a7924a6171765085e770 <http://schema.org/name> "stein mart" .
+_:nodea8fff528fad8338a9d1453584c74bd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodea8fff528fad8338a9d1453584c74bd0 <http://schema.org/addressRegion> "FL" .
+_:nodea8fff528fad8338a9d1453584c74bd0 <http://schema.org/telephone> " (239) 949-8534" .
+_:nodea8fff528fad8338a9d1453584c74bd0 <http://schema.org/postalCode> "34134" .
+_:nodea8fff528fad8338a9d1453584c74bd0 <http://schema.org/addressLocality> "Bonita Springs" .
+_:nodea8fff528fad8338a9d1453584c74bd0 <http://schema.org/streetAddress> "25191 S Tamiami Trl," .
+_:node65c1c4e7c1519876bf24fdf197b95c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node65c1c4e7c1519876bf24fdf197b95c <http://schema.org/addressRegion> "FL" .
+_:node65c1c4e7c1519876bf24fdf197b95c <http://schema.org/telephone> " (239) 433-2121" .
+_:node65c1c4e7c1519876bf24fdf197b95c <http://schema.org/postalCode> "33907" .
+_:node65c1c4e7c1519876bf24fdf197b95c <http://schema.org/addressLocality> "Fort Myers" .
+_:node65c1c4e7c1519876bf24fdf197b95c <http://schema.org/streetAddress> "13300 S Cleveland Ave Ste 30," .
+_:node5af96b7f239c85af8d7aaf48e47e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node5af96b7f239c85af8d7aaf48e47e9 <http://schema.org/addressRegion> "FL" .
+_:node5af96b7f239c85af8d7aaf48e47e9 <http://schema.org/telephone> " (239) 514-0535" .
+_:node5af96b7f239c85af8d7aaf48e47e9 <http://schema.org/postalCode> "34108" .
+_:node5af96b7f239c85af8d7aaf48e47e9 <http://schema.org/addressLocality> "Naples" .
+_:node5af96b7f239c85af8d7aaf48e47e9 <http://schema.org/streetAddress> "8811 Tamiami Trl N," .
+_:node9789abe528509d15c79c686c7e8cce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

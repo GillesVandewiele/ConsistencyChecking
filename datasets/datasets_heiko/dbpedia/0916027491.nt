@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bill_Joy> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Network_File_System> .
+<http://dbpedia.org/resource/Bill_Joy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bill_Joy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Bill_Joy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .

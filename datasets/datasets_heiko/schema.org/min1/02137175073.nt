@@ -1,0 +1,6 @@
+_:node5f6f3556a4bf8aefb2b3eb8c14d7f794 <http://schema.org/price> "$50.00" .
+_:node5f6f3556a4bf8aefb2b3eb8c14d7f794 <http://schema.org/price> "$50.00" .
+_:node4fc0c8cb4e33fca8bd911b8217a2e2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node4fc0c8cb4e33fca8bd911b8217a2e2b <http://schema.org/offers> _:node5f6f3556a4bf8aefb2b3eb8c14d7f794 .
+_:node4fc0c8cb4e33fca8bd911b8217a2e2b <http://schema.org/currency> "USD" .
+_:noded4a49fdc3a9b2777e4e6b64a12342469 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

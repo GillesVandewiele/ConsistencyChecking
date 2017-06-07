@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/National_Front_(France)> <http://dbpedia.org/ontology/colour> <http://dbpedia.org/resource/Red> .
+<http://dbpedia.org/resource/National_Front_(France)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/National_Front_(France)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/National_Front_(France)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Colour> .

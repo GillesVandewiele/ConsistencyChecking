@@ -1,0 +1,5 @@
+_:nodee9265645864ef2c71cfbdee10bce7 <http://schema.org/name> "\n\t\tBroadside of the Week \u2013 April 7, 2014\t\t"@en-us .
+_:nodee9265645864ef2c71cfbdee10bce7 <http://schema.org/author> "Jeff Bacon"@en-us .
+_:nodee9265645864ef2c71cfbdee10bce7 <http://schema.org/articleBody> "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\nVisit the Broadside Archives! (click here) \n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"@en-us .
+_:nodee9265645864ef2c71cfbdee10bce7 <http://schema.org/datePublished> "2014-04-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node24d178644d1b28aba56c29ca4e182d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

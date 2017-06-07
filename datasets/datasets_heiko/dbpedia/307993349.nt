@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Murray_Rothbard> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/John_Locke> .
+<http://dbpedia.org/resource/Murray_Rothbard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Murray_Rothbard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/John_Locke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/John_Locke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Locke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Murray_Rothbard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Economist> .

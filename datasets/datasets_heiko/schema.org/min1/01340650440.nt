@@ -1,0 +1,92 @@
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/model> "Model: Runabout Used" .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/offers> _:nodea927185b78f042de6d10c32aff4f76e6 .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/name> "1996 Maxum Runabout Used Kalispell MT" .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/depth> "Length: 18 ft." .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/releaseDate> "Year: 1996" .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/manufacturer> "Make: Maxum " .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://schema.org/address> _:nodea0921b30afeda8e020e36149aebbd623 .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/model> "Model: 215 Bowrider" .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/offers> _:node3569e1fb54a68f29ed5d493ecf43a78b .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/name> "2014 Bayliner 215 Bowrider Kalispell MT" .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/depth> "Length: 21 ft." .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/releaseDate> "Year: 2014" .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/manufacturer> "Make: Bayliner " .
+_:nodecf7f828081657b39d2d0734f3bf178f1 <http://schema.org/address> _:nodec0315534a1d3e281bec5a451446a0aa .
+_:nodedbb730f5a8638d0544cfbad736b2cfd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:nodea480fd1a3dbdeee361ddda881fba7544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodea480fd1a3dbdeee361ddda881fba7544 <http://schema.org/addressRegion> "MT" .
+_:nodea480fd1a3dbdeee361ddda881fba7544 <http://schema.org/addressLocality> "Missoula" .
+_:node2d49ae93d294c11ef18480be67849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/model> "Model: 244 Extreme" .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/offers> _:node1984ff43c19fe13b7d6f5bff4174896 .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/name> "2013 - Chaparral Boats - 244 Extreme" .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/depth> "Length: 24 ft. 4 in." .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/releaseDate> "Year: 2013" .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/manufacturer> "Make: Chaparral " .
+_:node2d49ae93d294c11ef18480be67849 <http://schema.org/address> _:node67ede7f3cacb91e8a572a4bd2df641f .
+_:node67ede7f3cacb91e8a572a4bd2df641f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node67ede7f3cacb91e8a572a4bd2df641f <http://schema.org/addressRegion> "MT" .
+_:node67ede7f3cacb91e8a572a4bd2df641f <http://schema.org/addressLocality> "Missoula" .
+_:node3569e1fb54a68f29ed5d493ecf43a78b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node3569e1fb54a68f29ed5d493ecf43a78b <http://schema.org/price> "Null" .
+_:node3569e1fb54a68f29ed5d493ecf43a78b <http://schema.org/telephone> "888-304-1629" .
+_:node3569e1fb54a68f29ed5d493ecf43a78b <http://schema.org/availability> "Call for price" .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/model> "Model: 18 Sport" .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/offers> _:node7a875951ed6a353bbb696f49794c551 .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/name> "2013 - Chaparral Boats - 18 Sport" .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/depth> "Length: 18 ft. 4 in." .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/releaseDate> "Year: 2013" .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/manufacturer> "Make: Chaparral " .
+_:nodedd35e17d79a6763295b9456fa359fef4 <http://schema.org/address> _:nodea480fd1a3dbdeee361ddda881fba7544 .
+_:nodea0921b30afeda8e020e36149aebbd623 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodea0921b30afeda8e020e36149aebbd623 <http://schema.org/addressRegion> "MT" .
+_:nodea0921b30afeda8e020e36149aebbd623 <http://schema.org/addressLocality> "Kalispell" .
+_:node1b47dbcb67a55ea5f9b28112dc7e1029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1b47dbcb67a55ea5f9b28112dc7e1029 <http://schema.org/addressRegion> "MT" .
+_:node1b47dbcb67a55ea5f9b28112dc7e1029 <http://schema.org/addressLocality> "Missoula" .
+_:nodeb93777af384442245e0894845b84f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/model> "Model: 21 Sport H2O" .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/offers> _:node2f321998ad76f18b71ee26cc77bd225 .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/name> "2014 - Chaparral Boats - 21 Sport H2O" .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/depth> "Length: 21 ft." .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/releaseDate> "Year: 2014" .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/manufacturer> "Make: Chaparral " .
+_:nodeb93777af384442245e0894845b84f <http://schema.org/address> _:node80c5d7c45e2fa093b5ba1c859b8168 .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/model> "Model: 224 Sunesta" .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/offers> _:nodea6176c7f7c7379a62a8f9986437e498c .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/name> "2014 - Chaparral Boats - 224 Sunesta WT Sportdeck" .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/depth> "Length: 22 ft. 4 in." .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/releaseDate> "Year: 2014" .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/manufacturer> "Make: Chaparral " .
+_:node4cf83d9a2d7335701a410ea28af6553 <http://schema.org/address> _:node1b47dbcb67a55ea5f9b28112dc7e1029 .
+_:nodea927185b78f042de6d10c32aff4f76e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodea927185b78f042de6d10c32aff4f76e6 <http://schema.org/price> "Null" .
+_:nodea927185b78f042de6d10c32aff4f76e6 <http://schema.org/telephone> "888-304-1629" .
+_:nodea927185b78f042de6d10c32aff4f76e6 <http://schema.org/availability> "Call for price" .
+_:node80c5d7c45e2fa093b5ba1c859b8168 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node80c5d7c45e2fa093b5ba1c859b8168 <http://schema.org/addressRegion> "MT" .
+_:node80c5d7c45e2fa093b5ba1c859b8168 <http://schema.org/addressLocality> "Missoula" .
+_:nodea6176c7f7c7379a62a8f9986437e498c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodea6176c7f7c7379a62a8f9986437e498c <http://schema.org/price> "$89,995.00" .
+_:nodea6176c7f7c7379a62a8f9986437e498c <http://schema.org/telephone> "866-454-3431" .
+_:nodea6176c7f7c7379a62a8f9986437e498c <http://schema.org/availability> "Null" .
+_:nodec0315534a1d3e281bec5a451446a0aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodec0315534a1d3e281bec5a451446a0aa <http://schema.org/addressRegion> "MT" .
+_:nodec0315534a1d3e281bec5a451446a0aa <http://schema.org/addressLocality> "Kalispell" .
+_:nodef21e10c9de40aac3fefe5e47fa8b35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:node2f321998ad76f18b71ee26cc77bd225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node2f321998ad76f18b71ee26cc77bd225 <http://schema.org/price> "Null" .
+_:node2f321998ad76f18b71ee26cc77bd225 <http://schema.org/telephone> "866-454-3431" .
+_:node2f321998ad76f18b71ee26cc77bd225 <http://schema.org/availability> "Call for price" .
+_:node7a875951ed6a353bbb696f49794c551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node7a875951ed6a353bbb696f49794c551 <http://schema.org/price> "$31,534.00" .
+_:node7a875951ed6a353bbb696f49794c551 <http://schema.org/telephone> "866-454-3431" .
+_:node7a875951ed6a353bbb696f49794c551 <http://schema.org/availability> "Null" .
+_:node1984ff43c19fe13b7d6f5bff4174896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node1984ff43c19fe13b7d6f5bff4174896 <http://schema.org/price> "$89,995.00" .
+_:node1984ff43c19fe13b7d6f5bff4174896 <http://schema.org/telephone> "866-454-3431" .
+_:node1984ff43c19fe13b7d6f5bff4174896 <http://schema.org/availability> "Reduced" .
+_:node686b6a34c39f5174bc97c366f95592 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

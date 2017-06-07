@@ -1,0 +1,15 @@
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/195670.jpg" .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://ogp.me/ns#description> "You'll feel like a master chef when you're cooking with this Calphalon 10-pc. Tri-Ply Copper Stainless Steel Cookware Set from Cooking.com. Discover professional quality cookware now at Cooking.com." .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/10-pc-tri-ply-copper-stainless-steel-cookware-set-by-calphalon_195670_11/0/0/" .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://ogp.me/ns#title> "10-pc. Tri-Ply Copper Stainless Steel Cookware Set by Calphalon at Cooking.com" .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/10-pc-tri-ply-copper-stainless-steel-cookware-set-by-calphalon_195670_11/0/0/> .
+_:genid2da7f23af4d3f048f1b1c75faba96bd7732dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-5-pc-flare-nut-wrench-set-metric/p-00942013000P?prdNo=2#offering> .

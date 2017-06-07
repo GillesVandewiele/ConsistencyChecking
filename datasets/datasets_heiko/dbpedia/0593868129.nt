@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pacific_Overtures> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/John_Weidman> .
+<http://dbpedia.org/resource/Pacific_Overtures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/John_Weidman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Weidman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Pacific_Overtures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musical> .

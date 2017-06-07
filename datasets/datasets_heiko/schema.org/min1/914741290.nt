@@ -1,0 +1,8 @@
+_:node81fa5c91046427ec0d1a15ca58291 <http://schema.org/dateCreated> "Mar 15 2013 07:15 AM"@en .
+_:node81fa5c91046427ec0d1a15ca58291 <http://schema.org/name> "Tournament Software?  Pairings, Tiebreakers, etc"@en .
+_:node81fa5c91046427ec0d1a15ca58291 <http://schema.org/interactionCount> "UserComments:1"@en .
+_:node81fa5c91046427ec0d1a15ca58291 <http://schema.org/creator> "\n\tHomerJ\n"@en .
+_:node98b75fa3ced8d978d1430d8e0a9a9a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node98b75fa3ced8d978d1430d8e0a9a9a6 <http://schema.org/image> <http://community.fantasyflightgames.com/public/style_images/fantasy/profile/default_large.png> .
+_:node98b75fa3ced8d978d1430d8e0a9a9a6 <http://schema.org/name> "HomerJ"@en .
+<http://books.google.com/books/about/A_Natural_History_of_the_British_Lepidop.html?id=ueM4AAAAMAAJ&q=Sphinx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

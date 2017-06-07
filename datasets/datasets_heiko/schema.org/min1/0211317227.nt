@@ -1,0 +1,14 @@
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/offers> _:node5114a0acb075e2a5c6894a79ec4fccac .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/name> "Dirk Lace Up Shoe Black"@en-us .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/url> <http://fab.com/product/dirk-lace-up-shoe-black-323957?fref=fb-like> .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/description> "\n                  If you\u2019re too self-conscious about your bunions to go back to a pedicurist (don\u2019t be ashamed, mamma\u2019s proud of you), then do the\u00A0next best thing for your feet\u2014wrap\u00A0them in luxury. The\u00A0Dirk Shoe is a dressy leather-lined slip-on with an\u00A0extra cushy insole for added comfort.\u00A0Besides, that Microplane was way too rough on your tender tootsies anyway.\n                "@en-us .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/image> <http://fab.com/product/dirk-lace-up-shoe-black-323957///dnok91peocsw3.cloudfront.net/product/323957-610x610-1359405963-primary.png> .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/image> "//dnok91peocsw3.cloudfront.net/product/323957-610x610-1359405963-primary.png"@en-us .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/color> "Black"@en-us .
+_:node82e7b6a7aaff89b355f10c38cb8f015 <http://schema.org/brand> "RW by Robert Wayne "@en-us .
+_:node7778aad46c503618e67dc15e4369bcf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7778aad46c503618e67dc15e4369bcf <http://schema.org/url> <http://fab.com/product/dirk-lace-up-shoe-black-323957///fab.com/> .
+_:node5114a0acb075e2a5c6894a79ec4fccac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node5114a0acb075e2a5c6894a79ec4fccac <http://schema.org/price> "\n        $59.95\n      "@en-us .
+_:node5114a0acb075e2a5c6894a79ec4fccac <http://schema.org/priceCurrency> "USD"@en-us .
+_:nodef12c432d3151dd9c838b54140ccb849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

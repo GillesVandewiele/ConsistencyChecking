@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Green_Mountain_Boys> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/American_Civil_War> .
+<http://dbpedia.org/resource/Green_Mountain_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Green_Mountain_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Green_Mountain_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> .
+<http://dbpedia.org/resource/American_Civil_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/American_Civil_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/American_Civil_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .

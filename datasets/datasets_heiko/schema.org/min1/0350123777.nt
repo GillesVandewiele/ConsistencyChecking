@@ -1,0 +1,6 @@
+_:node3cdd6c3c494033159b99a56ee41e6337 <http://schema.org/name> "Change background color of selected text" .
+_:node3cdd6c3c494033159b99a56ee41e6337 <http://schema.org/title> "Change background color of selected text" .
+_:node3cdd6c3c494033159b99a56ee41e6337 <http://schema.org/description> "I use Ubuntu 12.04 with Unity and when I select a text (for example to copy something from browser), it has ugly orange background. I want to make it something normal like blue. I tried " .
+_:node3cdd6c3c494033159b99a56ee41e6337 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node3cdd6c3c494033159b99a56ee41e6337 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+<http://books.google.co.uk/books/about/An_epitome_of_the_natural_history_of_the.html?id=gG0FAAAAQAAJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

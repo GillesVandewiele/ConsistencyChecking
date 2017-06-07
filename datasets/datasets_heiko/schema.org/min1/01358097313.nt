@@ -1,0 +1,77 @@
+_:nodede575f34a8a44136892dbdd5e3495a3 <http://schema.org/url> <http://activerain.trulia.com/blogs/mikevaroz//profile/mikevaroz> .
+_:nodede575f34a8a44136892dbdd5e3495a3 <http://schema.org/name> "\n                    Mike  Varoz\n                " .
+_:node7cfd84af52c466a223503b8a1a74988f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node7cfd84af52c466a223503b8a1a74988f <http://schema.org/interactionCount> "UserComments:0" .
+_:node7cfd84af52c466a223503b8a1a74988f <http://schema.org/description> "\n    As I get this blog thing going it has come to my attention that I have to expound on the daily life of living in Park City, Utah, I mean what else can I tell you, but this is one special place to live. That is if, these days you like snow. Because we have it! Book your vacation now because for th...\n  " .
+_:node7cfd84af52c466a223503b8a1a74988f <http://schema.org/url> <http://activerain.trulia.com/blogsview/368819/just-keep-it-coming---> .
+_:node7cfd84af52c466a223503b8a1a74988f <http://schema.org/datePublished> "2008-02-06T16:07:30" .
+_:node7cfd84af52c466a223503b8a1a74988f <http://schema.org/name> "\n        \n        Just Keep It Coming...\n      " .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/description> "Null" .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:nodee06dd90c6074d18c12194dbd97de1f .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:nodea3e4cb7daff7c0720d4a9e0d4d1de83 .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:nodec07e1f93c46fea7bd7d56aea1ae885ac .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:node463a5943162f89d7c8ffb49aea2433e .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:nodecb1f38d33949e4a070cfeea0f4d61937 .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:nodeab438686539b43dd5f333f7b3793eaed .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:node11ce23d887219ba9a010e7bed78963a1 .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:node7cfd84af52c466a223503b8a1a74988f .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:node54fa62658a6474935d5a5f48e2af5d .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/blogPost> _:node13303717cb935824b387245cb64516e3 .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/author> _:nodede575f34a8a44136892dbdd5e3495a3 .
+_:nodec6e27451364ea237ff107fb4963cd0 <http://schema.org/name> "\n      Mike  Varoz's (mikevaroz) Blog\n    " .
+_:nodea3e4cb7daff7c0720d4a9e0d4d1de83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea3e4cb7daff7c0720d4a9e0d4d1de83 <http://schema.org/interactionCount> "UserComments:0" .
+_:nodea3e4cb7daff7c0720d4a9e0d4d1de83 <http://schema.org/description> "\n    For the last seven years I have been associated with the Park City Board of REALTORS Luxury Home Tour and Auction. This event is the biggest event of its kind and each year strives to give back to one our areas most worthy organizations the Peace House. As the Co-Chair of this worthy event, along...\n  " .
+_:nodea3e4cb7daff7c0720d4a9e0d4d1de83 <http://schema.org/url> <http://activerain.trulia.com/blogsview/461394/giving-back-> .
+_:nodea3e4cb7daff7c0720d4a9e0d4d1de83 <http://schema.org/datePublished> "2008-04-09T13:43:45" .
+_:nodea3e4cb7daff7c0720d4a9e0d4d1de83 <http://schema.org/name> "\n        \n        Giving Back \n      " .
+_:node13303717cb935824b387245cb64516e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node13303717cb935824b387245cb64516e3 <http://schema.org/interactionCount> "UserComments:3" .
+_:node13303717cb935824b387245cb64516e3 <http://schema.org/description> "\n    Have you ever experienced controlled chaos and lived to enjoy it? Welcome to Park City, Utah\u00C2\u00A0during Sundance! The real estate market closes down, everyone is only interested in film\u00C2\u00A0in one way or the other, and really the town is booked so it is almost impossible to\u00C2\u00A0get a buyer in a property they...\n  " .
+_:node13303717cb935824b387245cb64516e3 <http://schema.org/url> <http://activerain.trulia.com/blogsview/360754/park-city-real-estate---open-355-days-a-year--> .
+_:node13303717cb935824b387245cb64516e3 <http://schema.org/datePublished> "2008-01-31T16:39:44" .
+_:node13303717cb935824b387245cb64516e3 <http://schema.org/name> "\n        \n        Park City Real Estate - Open 355 Days a Year!!\n      " .
+_:nodee06dd90c6074d18c12194dbd97de1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodee06dd90c6074d18c12194dbd97de1f <http://schema.org/interactionCount> "UserComments:0" .
+_:nodee06dd90c6074d18c12194dbd97de1f <http://schema.org/description> "\n    Greetings from Park City and Hughes Martin!As the snow slowing recedes from the mountains I thought I would give you all an update on a part of the Park City spring that is dear to my heart!For kids, the opportunity to grow up here in Park City means skiing, everyone starts out skiing! But with t...\n  " .
+_:nodee06dd90c6074d18c12194dbd97de1f <http://schema.org/url> <http://activerain.trulia.com/blogsview/502093/hughes-martin-s---park-city-spring-update> .
+_:nodee06dd90c6074d18c12194dbd97de1f <http://schema.org/datePublished> "2008-05-08T13:23:47" .
+_:nodee06dd90c6074d18c12194dbd97de1f <http://schema.org/name> "\n        \n        Hughes Martin's - Park City Spring Update\n      " .
+_:node463a5943162f89d7c8ffb49aea2433e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node463a5943162f89d7c8ffb49aea2433e <http://schema.org/interactionCount> "UserComments:0" .
+_:node463a5943162f89d7c8ffb49aea2433e <http://schema.org/description> "\n    Ok, I first want to apologize to all the local skiers and riders in the Park City area, but facts are facts. People come here for the winters but stay for the summers. Even though this winter\u00C2\u00A0has been such a\u00C2\u00A0spectacular event that\u00C2\u00A0Stien Erickson, on our local radio station's \"Randy Barton Show\" l...\n  " .
+_:node463a5943162f89d7c8ffb49aea2433e <http://schema.org/url> <http://activerain.trulia.com/blogsview/430173/music-in-the-mountains---park-city-style> .
+_:node463a5943162f89d7c8ffb49aea2433e <http://schema.org/datePublished> "2008-03-19T13:13:46" .
+_:node463a5943162f89d7c8ffb49aea2433e <http://schema.org/name> "\n        \n        Music in the Mountains - Park City Style\n      " .
+_:node11ce23d887219ba9a010e7bed78963a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node11ce23d887219ba9a010e7bed78963a1 <http://schema.org/interactionCount> "UserComments:0" .
+_:node11ce23d887219ba9a010e7bed78963a1 <http://schema.org/description> "\n    Ok after three weeks of winter it looks like spring is here! Right - but I can hope. Beautiful Blue Bird Ski Day today but winter is still here. Big week coming up - Presidents Day has always been a big week in getting Park City back into the festival mood. Though this time it is about the skiing...\n  " .
+_:node11ce23d887219ba9a010e7bed78963a1 <http://schema.org/url> <http://activerain.trulia.com/blogsview/375474/winter-recreation> .
+_:node11ce23d887219ba9a010e7bed78963a1 <http://schema.org/datePublished> "2008-02-11T16:24:15" .
+_:node11ce23d887219ba9a010e7bed78963a1 <http://schema.org/name> "\n        \n        Winter Recreation\n      " .
+_:nodecb1f38d33949e4a070cfeea0f4d61937 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodecb1f38d33949e4a070cfeea0f4d61937 <http://schema.org/interactionCount> "UserComments:2" .
+_:nodecb1f38d33949e4a070cfeea0f4d61937 <http://schema.org/description> "\n    Park City is such a special place with mild powder filled winters, a breath-taking spring basked in fresh mountain air that\u00C2\u00A0 rejuvenates the soul and sun filled summers filled with local music ----\u00C2\u00A0but in the end what makes this town the best place on earth is the people!On December 23rd of last ...\n  " .
+_:nodecb1f38d33949e4a070cfeea0f4d61937 <http://schema.org/url> <http://activerain.trulia.com/blogsview/411927/heroes-among-us---> .
+_:nodecb1f38d33949e4a070cfeea0f4d61937 <http://schema.org/datePublished> "2008-03-07T15:10:55" .
+_:nodecb1f38d33949e4a070cfeea0f4d61937 <http://schema.org/name> "\n        \n        Heroes among us...\n      " .
+_:nodeab438686539b43dd5f333f7b3793eaed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeab438686539b43dd5f333f7b3793eaed <http://schema.org/interactionCount> "UserComments:0" .
+_:nodeab438686539b43dd5f333f7b3793eaed <http://schema.org/description> "\n    Park City residents woke today to sun shine - glorious sun shine and temperatures in the 40's --- doesn't seem like big news to you? Try standing on top of 8 feet of snow!Yep, this has been a great winter. Snow, snow and more snow - and now sunshine! It (the wonderful weather today) reminds me wh...\n  " .
+_:nodeab438686539b43dd5f333f7b3793eaed <http://schema.org/url> <http://activerain.trulia.com/blogsview/398273/the-sun-shines-on-park-city---> .
+_:nodeab438686539b43dd5f333f7b3793eaed <http://schema.org/datePublished> "2008-02-27T15:33:08" .
+_:nodeab438686539b43dd5f333f7b3793eaed <http://schema.org/name> "\n        \n        The sun shines on Park City...\n      " .
+_:node54fa62658a6474935d5a5f48e2af5d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node54fa62658a6474935d5a5f48e2af5d <http://schema.org/interactionCount> "UserComments:3" .
+_:node54fa62658a6474935d5a5f48e2af5d <http://schema.org/description> "\n    So someone in the first week of December sits quietly in their home, looking at the brown mountains in the distance and prays for snow...Ok - you got your wish!! We got snow!!Check out the snow report from Ski Utah http://www.skiutah.com/snow_report/ for Feb 4th 2008 --- CRAZY GOOD!Now our hope i...\n  " .
+_:node54fa62658a6474935d5a5f48e2af5d <http://schema.org/url> <http://activerain.trulia.com/blogsview/365217/watch-what-you-wish-for---> .
+_:node54fa62658a6474935d5a5f48e2af5d <http://schema.org/datePublished> "2008-02-04T10:56:04" .
+_:node54fa62658a6474935d5a5f48e2af5d <http://schema.org/name> "\n        \n        Watch what you wish for...\n      " .
+_:nodec07e1f93c46fea7bd7d56aea1ae885ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodec07e1f93c46fea7bd7d56aea1ae885ac <http://schema.org/interactionCount> "UserComments:0" .
+_:nodec07e1f93c46fea7bd7d56aea1ae885ac <http://schema.org/description> "\n    As we near the end of the 1st quarter of 2008 I thought it would be a good time to reflect back on the recent past in Park City Real Estate. National\u00C2\u00A0media reports of\u00C2\u00A0gloom and doom for real estate in our country are a reality, but maybe there is a light at the end of the tunnel. Earlier on this ...\n  " .
+_:nodec07e1f93c46fea7bd7d56aea1ae885ac <http://schema.org/url> <http://activerain.trulia.com/blogsview/440842/market-overview-park-city---in-town-real-estate--> .
+_:nodec07e1f93c46fea7bd7d56aea1ae885ac <http://schema.org/datePublished> "2008-03-26T16:56:57" .
+_:nodec07e1f93c46fea7bd7d56aea1ae885ac <http://schema.org/name> "\n        \n        Market Overview Park City - in town real estate. \n      " .
+_:node9e3e5e254d588ba726806150b59140e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

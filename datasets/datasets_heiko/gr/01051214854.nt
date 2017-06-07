@@ -1,0 +1,15 @@
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/548883.jpg" .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://ogp.me/ns#description> "Buy 9-in. Nonstick Bakeware Nonstick Springform Pan by Farberware by Farberware at Cooking.com. Get Bakeware and Farberware, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/9-in-nonstick-bakeware-nonstick-springform-pan-by-farberware_548883_11/" .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://ogp.me/ns#title> "9-in. Nonstick Bakeware Nonstick Springform Pan by Farberware at Cooking.com" .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/9-in-nonstick-bakeware-nonstick-springform-pan-by-farberware_548883_11/> .
+_:genid2dfbebc541d88143c4bdf1c20dc5157ffd2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d91fb0d7354e54f679d5c559260dae0792dN74291 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .

@@ -1,0 +1,10 @@
+_:genid2d827ddb110d09465581f5888e4aa371662dN71113 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d827ddb110d09465581f5888e4aa371662dN71113 <http://purl.org/goodrelations/v1#hasCurrencyValue> "48"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d827ddb110d09465581f5888e4aa371662dN71113 .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.surveillance-video.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/W/-/W-SPK500.jpg> .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://purl.org/goodrelations/v1#description> "<p><span style=\"color: #808080;\">Winic W-SPK500 Speaker Wire 16AWG/2 500ft.</span></p>"@en .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://purl.org/goodrelations/v1#name> "Winic W-SPK500 Speaker Wire 16AWG/2 500 Feet"@en .
+<http://www.surveillance-video.com/accessory-w-spk500.html/?askq=y#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d3edfefd73e74489f9dc4c663f65eaecd2dN67614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

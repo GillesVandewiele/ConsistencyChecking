@@ -1,0 +1,15 @@
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/594254.jpg" .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://ogp.me/ns#description> "Release your inner chef during mealtime prep with the Le Creuset 8-qt. Soleil Enamel on Steel Stockpot from Cooking.com. Its heavy-gauge steel construction is ideally suited for making family-favorite soups, stews or sauces." .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/soleil-8-qt-enamel-on-steel-stockpot-by-le-creuset_594254_11/0/0/" .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://ogp.me/ns#title> "Soleil 8-qt. Enamel on Steel Stockpot by Le Creuset at Cooking.com" .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/soleil-8-qt-enamel-on-steel-stockpot-by-le-creuset_594254_11/0/0/> .
+_:genid2d1cedc73c6eac42429bd5e73e23a7158d2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.osho.com/shop/de/e-books/englische-osho-titel/belief-doubt-and-fanaticism/#SomeItems_189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

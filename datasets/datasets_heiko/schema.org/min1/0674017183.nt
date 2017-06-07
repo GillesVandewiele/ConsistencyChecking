@@ -1,0 +1,762 @@
+_:node686b6a34c39f5174bc97c366f95592 <http://schema.org/price> "$5,500.00" .
+_:node686b6a34c39f5174bc97c366f95592 <http://schema.org/telephone> "888-353-1546" .
+_:node686b6a34c39f5174bc97c366f95592 <http://schema.org/availability> "Null" .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/model> "Model: Sloop" .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/offers> _:nodeacc4ccaa43cc4238b9ad52db5fdfbcc .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/name> "1983 C&C Sloop Toronto ON" .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/depth> "Length: 32 ft." .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/releaseDate> "Year: 1983" .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/manufacturer> "Make: C & C Yachts" .
+_:nodefc4ff9192cc99eeaef63b54d90c4 <http://schema.org/address> _:node82412e4393d43dc919a5bcd1a9865a7b .
+_:nodede4d18b9be91c484d39cdac50ace84e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodede4d18b9be91c484d39cdac50ace84e <http://schema.org/price> "$3,500.00" .
+_:nodede4d18b9be91c484d39cdac50ace84e <http://schema.org/telephone> "888-353-1546" .
+_:nodede4d18b9be91c484d39cdac50ace84e <http://schema.org/availability> "Null" .
+_:nodeae4e48b7b9ce3532c8dc6ea27e2828bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeae4e48b7b9ce3532c8dc6ea27e2828bf <http://schema.org/addressRegion> "CT" .
+_:nodeae4e48b7b9ce3532c8dc6ea27e2828bf <http://schema.org/addressLocality> "Westbrook" .
+_:node5fa117b5954efa94758b7493a9d08864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node5fa117b5954efa94758b7493a9d08864 <http://schema.org/price> "$27,000.00" .
+_:node5fa117b5954efa94758b7493a9d08864 <http://schema.org/telephone> "877-523-1162" .
+_:node5fa117b5954efa94758b7493a9d08864 <http://schema.org/availability> "Null" .
+_:node8685f5f0ccf8eafa625c6c14b59a9c1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node8685f5f0ccf8eafa625c6c14b59a9c1b <http://schema.org/addressRegion> "WA" .
+_:node8685f5f0ccf8eafa625c6c14b59a9c1b <http://schema.org/addressLocality> "Ridgway" .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/model> "Model: 285 First" .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/offers> _:node30dc28ab4fd9fe94ffe2f8b9cdecbccc .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/name> "1989 Beneteau 285 First Wickford RI" .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/depth> "Length: 28 ft." .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/releaseDate> "Year: 1989" .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/manufacturer> "Make: Beneteau Yachts" .
+_:node74d8d710bbea1b8fa5d34c6ad4f93f4 <http://schema.org/address> _:node9eebb84672d2d17b6fdfc3f866e8e4a9 .
+_:node90b8a0a0dd95a234c2efcceb995ad7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node90b8a0a0dd95a234c2efcceb995ad7 <http://schema.org/price> "$34,900.00" .
+_:node90b8a0a0dd95a234c2efcceb995ad7 <http://schema.org/telephone> "888-353-1546" .
+_:node90b8a0a0dd95a234c2efcceb995ad7 <http://schema.org/availability> "Null" .
+_:nodeb4b942385b1b904ca3932661239f41fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeb4b942385b1b904ca3932661239f41fb <http://schema.org/price> "$10,900.00" .
+_:nodeb4b942385b1b904ca3932661239f41fb <http://schema.org/telephone> "877-523-1162" .
+_:nodeb4b942385b1b904ca3932661239f41fb <http://schema.org/availability> "Null" .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/model> "Model: Moss Composites - Zero" .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/offers> _:node6d351f6cfc8cf933f5e5dd6b92caae .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/name> "2006 Mini 650 Open Moss Composites - Zero Toronto ON" .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/depth> "Length: 21 ft." .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/releaseDate> "Year: 2006" .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/manufacturer> "Make: Other Make" .
+_:nodec79d416d1b77996cc8c582e87a5e8b <http://schema.org/address> _:node1d998d26afd02f7bffd5cb85f88944c0 .
+_:node8e1b2d9b9aec20fd51f9d1ff1de687e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node8e1b2d9b9aec20fd51f9d1ff1de687e <http://schema.org/addressRegion> "FL" .
+_:node8e1b2d9b9aec20fd51f9d1ff1de687e <http://schema.org/addressLocality> "Merritt Island" .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/model> "Model: FIRST 25" .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/offers> _:nodeab4dec6ef72718a2c639f01c32718b .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/name> "2015 Beneteau FIRST 25 Pt. Richmond CA" .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/depth> "Length: 25 ft." .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/releaseDate> "Year: 2015" .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/manufacturer> "Make: Beneteau Yachts" .
+_:node4d757a9317982a1fb0e98ea2f7dfe1 <http://schema.org/address> _:nodef0cb68d31f3dcd4f514891b5e74ab16a .
+_:nodec8535c31a244a5d0da3a9d3ca9fd2b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodec8535c31a244a5d0da3a9d3ca9fd2b4 <http://schema.org/price> "$9,995.00" .
+_:nodec8535c31a244a5d0da3a9d3ca9fd2b4 <http://schema.org/availability> "Null" .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://schema.org/model> "Model: 185K Daysailer" .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://schema.org/offers> _:nodec8535c31a244a5d0da3a9d3ca9fd2b4 .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://schema.org/name> "1996 Precision 185K Daysailer Port Clinton OH" .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://schema.org/depth> "Length: 18 ft." .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://schema.org/releaseDate> "Year: 1996" .
+_:node7cc0958bc323ade5f1171b226fbb46d5 <http://schema.org/manufacturer> "Make: Precision Boat Works " .
+_:node102e9b15d11db9525090df38e0e49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node102e9b15d11db9525090df38e0e49 <http://schema.org/price> "$10,900.00" .
+_:node102e9b15d11db9525090df38e0e49 <http://schema.org/telephone> "888-353-1546" .
+_:node102e9b15d11db9525090df38e0e49 <http://schema.org/availability> "Null" .
+_:nodef55a4d8482f591e587252428fb2db195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/model> "Model: 31.1" .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/offers> _:node99d0ce676da2a1face937e2125601f .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/name> "1983 Bristol 31.1 Westbrook CT" .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/depth> "Length: 31 ft." .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/releaseDate> "Year: 1983" .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/manufacturer> "Make: Bristol " .
+_:nodef55a4d8482f591e587252428fb2db195 <http://schema.org/address> _:node28a5a87f316ab81feafee8c319d8fac .
+_:node11e434b22f99f42240c9843ab61b91da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node11e434b22f99f42240c9843ab61b91da <http://schema.org/addressRegion> "CT" .
+_:node11e434b22f99f42240c9843ab61b91da <http://schema.org/addressLocality> "Westbrook" .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/model> "Model: 30" .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/offers> _:node5fa117b5954efa94758b7493a9d08864 .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/name> "1989 Catalina 30 Bristol CT" .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/depth> "Length: 30 ft." .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/releaseDate> "Year: 1989" .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:nodecd771b4895de26bc35e4cc74ff3c47 <http://schema.org/address> _:node4590605d8183bbd1ad46c268251f0ca .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/model> "Model: 30" .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/offers> _:node3b3d9aac27b33a831338787a2193d31 .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/name> "1982 Islander 30 Westbrook CT" .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/depth> "Length: 30 ft." .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/releaseDate> "Year: 1982" .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/manufacturer> "Make: Islander " .
+_:noded724e974cba2b73c4fd4d3c0ebe8928b <http://schema.org/address> _:node2563efee99686bcacb5199c37c5739d .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/model> "Model: 302" .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/offers> _:noded35abcf7fc1fc44d5f131f6b351218c0 .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/name> "1987 O'Day 302 Merritt Island FL" .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/depth> "Length: 30 ft." .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/releaseDate> "Year: 1987" .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/manufacturer> "Make: ODay Sail" .
+_:node2e9e9e5fb9393e2f60711bd4aacce <http://schema.org/address> _:node984a7a61f30e56cd1295272d363b .
+_:node831ae186fff92585cf721442babacc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node831ae186fff92585cf721442babacc0 <http://schema.org/addressRegion> "CT" .
+_:node831ae186fff92585cf721442babacc0 <http://schema.org/addressLocality> "Westbrook" .
+_:node38eb4677ad85d52e75b29e27c29ba0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node38eb4677ad85d52e75b29e27c29ba0 <http://schema.org/price> "$12,500.00" .
+_:node38eb4677ad85d52e75b29e27c29ba0 <http://schema.org/telephone> "877-644-6271" .
+_:node38eb4677ad85d52e75b29e27c29ba0 <http://schema.org/availability> "Null" .
+_:node2a23d2c4d8cb9715d15af8ffe2d8719 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node2a23d2c4d8cb9715d15af8ffe2d8719 <http://schema.org/addressRegion> "NY" .
+_:node2a23d2c4d8cb9715d15af8ffe2d8719 <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/model> "Model: Cruiser" .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/offers> _:node7b7e79cfb3849784f799fabcfa44e53 .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/name> "1976 Oday Cruiser Mystic CT" .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/depth> "Length: 27 ft." .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/releaseDate> "Year: 1976" .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/manufacturer> "Make: ODay Sail" .
+_:nodec4cb23788d839d12ad9bb0af9d921 <http://schema.org/address> _:node1cfefb1459ccad156c3a2d547c30ea .
+_:nodee14057e056885c4ef8f848bd34445781 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/model> "Model: 30 Sloop" .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/offers> _:noded4c5b78952c811b21a5ac0c9d8fa2dbe .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/name> "1991 Catalina 30 Sloop Greenport NY" .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/depth> "Length: 30 ft." .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/releaseDate> "Year: 1991" .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:nodee14057e056885c4ef8f848bd34445781 <http://schema.org/address> _:nodeb51fba8887b9bd94e605bc436da5475 .
+_:node27a4de3b2f3edc5f308d6b2467964847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node27a4de3b2f3edc5f308d6b2467964847 <http://schema.org/price> "$33,900.00" .
+_:node27a4de3b2f3edc5f308d6b2467964847 <http://schema.org/telephone> "877-644-6271" .
+_:node27a4de3b2f3edc5f308d6b2467964847 <http://schema.org/availability> "Null" .
+_:node4bfdcb2a445b1b23871555ca98b15014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node4bfdcb2a445b1b23871555ca98b15014 <http://schema.org/addressRegion> "CT" .
+_:node4bfdcb2a445b1b23871555ca98b15014 <http://schema.org/addressLocality> "Westbrook" .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/model> "Model: 33 Republic Built" .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/offers> _:nodea4c2c844910fb673072d182b3763e6 .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/name> "1984 Soverel 33 Republic Built Norwalk CT" .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/depth> "Length: 33 ft." .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/releaseDate> "Year: 1984" .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/manufacturer> "Make: Soverel " .
+_:node7dfac2d1843c5ed819effbe89b13eb <http://schema.org/address> _:node7f2833d0556a8e234493ef3d558c6a5e .
+_:node82412e4393d43dc919a5bcd1a9865a7b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node82412e4393d43dc919a5bcd1a9865a7b <http://schema.org/addressRegion> "ON" .
+_:node82412e4393d43dc919a5bcd1a9865a7b <http://schema.org/addressLocality> "Port Credit" .
+_:nodebbeea09f3ec5df08cba4915214fde9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodebbeea09f3ec5df08cba4915214fde9b <http://schema.org/addressRegion> "CT" .
+_:nodebbeea09f3ec5df08cba4915214fde9b <http://schema.org/addressLocality> "Westbrook" .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/model> "Model: 28 Piper" .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/offers> _:node149eca1fdea6425796163acd8a2b0 .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/name> "1991 Tartan 28 Piper Warwick RI" .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/depth> "Length: 28 ft." .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/releaseDate> "Year: 1991" .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/manufacturer> "Make: Tartan Yachts" .
+_:nodeea88f09ec15a56ba3aed293e40afba <http://schema.org/address> _:node26b7d729fc28e7891cd781da58aa7f40 .
+_:node5ce9d54094599236a039f72944c4e24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node5ce9d54094599236a039f72944c4e24 <http://schema.org/addressRegion> "CA" .
+_:node5ce9d54094599236a039f72944c4e24 <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/model> "Model: 22" .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/offers> _:nodede4d18b9be91c484d39cdac50ace84e .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/name> "1977 Catalina 22 Westbrook CT" .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/depth> "Length: 22 ft." .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/releaseDate> "Year: 1977" .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:nodebffd84b533d1b6b53d4ba7b2dbf988f <http://schema.org/address> _:node11e434b22f99f42240c9843ab61b91da .
+_:node4dc27e3fe71cd48ef219da588d02d7e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node4dc27e3fe71cd48ef219da588d02d7e <http://schema.org/price> "$16,900.00" .
+_:node4dc27e3fe71cd48ef219da588d02d7e <http://schema.org/telephone> "888-353-1546" .
+_:node4dc27e3fe71cd48ef219da588d02d7e <http://schema.org/availability> "Null" .
+_:node23372a1d2919c0aec35878d83fbe17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node23372a1d2919c0aec35878d83fbe17 <http://schema.org/addressRegion> "CA" .
+_:node23372a1d2919c0aec35878d83fbe17 <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:nodedbfe241c3b17ffaee48d357bc185695a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodedbfe241c3b17ffaee48d357bc185695a <http://schema.org/addressRegion> "CT" .
+_:nodedbfe241c3b17ffaee48d357bc185695a <http://schema.org/addressLocality> "Westbrook" .
+_:noded4c5b78952c811b21a5ac0c9d8fa2dbe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:noded4c5b78952c811b21a5ac0c9d8fa2dbe <http://schema.org/price> "$24,900.00" .
+_:noded4c5b78952c811b21a5ac0c9d8fa2dbe <http://schema.org/telephone> "888-353-1546" .
+_:noded4c5b78952c811b21a5ac0c9d8fa2dbe <http://schema.org/availability> "Null" .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/model> "Model: M242" .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/offers> _:node4fd99bd8f593eec4c1d4bcfcfa788b36 .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/name> "1987 Martin Yachts M242 Marina del Rey CA" .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/depth> "Length: 24 ft." .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/releaseDate> "Year: 1987" .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/manufacturer> "Make: Martin " .
+_:nodeb5846d9d135e8e7fa9c46a1b4abac54 <http://schema.org/address> _:node5ce9d54094599236a039f72944c4e24 .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/model> "Model: J/100" .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/offers> _:nodef370d6d26fd3fc6f0d042df6044cd9 .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/name> "2005 J Boats J/100 Pt. Richmond CA" .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/depth> "Length: 32 ft. 10 in." .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/releaseDate> "Year: 2005" .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/manufacturer> "Make: J " .
+_:nodedc4f7189a740ffb18bc69e2b913987f <http://schema.org/address> _:node4b9d43f769f2e02f89529f62b580 .
+_:node7e167bb282baff24c3b744b722861d1e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/model> "Model: 30" .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/offers> _:node2d48f8c5915c0fc41a853140345f89 .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/name> "1984 Pearson 30 Westbrook CT" .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/depth> "Length: 30 ft." .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/releaseDate> "Year: 1984" .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/manufacturer> "Make: Pearson Sail" .
+_:node7e167bb282baff24c3b744b722861d1e <http://schema.org/address> _:nodeb5ce835811c929289625361bbd7fb99 .
+_:node3b3d9aac27b33a831338787a2193d31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node3b3d9aac27b33a831338787a2193d31 <http://schema.org/price> "$11,500.00" .
+_:node3b3d9aac27b33a831338787a2193d31 <http://schema.org/telephone> "888-353-1546" .
+_:node3b3d9aac27b33a831338787a2193d31 <http://schema.org/availability> "Null" .
+_:nodeb336aaa6ce32d123981f3b7e783e6dd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeb336aaa6ce32d123981f3b7e783e6dd3 <http://schema.org/addressRegion> "CT" .
+_:nodeb336aaa6ce32d123981f3b7e783e6dd3 <http://schema.org/addressLocality> "Westbrook" .
+_:node267c9c109a2cdea19195094d83b52c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node267c9c109a2cdea19195094d83b52c0 <http://schema.org/price> "$14,500.00" .
+_:node267c9c109a2cdea19195094d83b52c0 <http://schema.org/telephone> "888-353-1546" .
+_:node267c9c109a2cdea19195094d83b52c0 <http://schema.org/availability> "Null" .
+_:node9eebb84672d2d17b6fdfc3f866e8e4a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node9eebb84672d2d17b6fdfc3f866e8e4a9 <http://schema.org/addressRegion> "CT" .
+_:node9eebb84672d2d17b6fdfc3f866e8e4a9 <http://schema.org/addressLocality> "Westbrook" .
+_:node5ce222ecef41294bf11fa8a2bb621593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node5ce222ecef41294bf11fa8a2bb621593 <http://schema.org/price> "$79,500.00" .
+_:node5ce222ecef41294bf11fa8a2bb621593 <http://schema.org/telephone> "888-353-1546" .
+_:node5ce222ecef41294bf11fa8a2bb621593 <http://schema.org/availability> "Null" .
+_:node62223a9d97a50137a5797dc1c66c74b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node62223a9d97a50137a5797dc1c66c74b <http://schema.org/price> "$89,900.00" .
+_:node62223a9d97a50137a5797dc1c66c74b <http://schema.org/telephone> "310.490.9432" .
+_:node62223a9d97a50137a5797dc1c66c74b <http://schema.org/availability> "Null" .
+_:node1e3798c1c734795efe4452773b689e65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1e3798c1c734795efe4452773b689e65 <http://schema.org/addressRegion> "CT" .
+_:node1e3798c1c734795efe4452773b689e65 <http://schema.org/addressLocality> "Westbrook" .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/model> "Model: PRICE REDUCTION" .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/offers> _:node5cc4d0cb9e9a257401873cc79c657a4 .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/name> "1983 Dufour PRICE REDUCTION Westbrook CT" .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/depth> "Length: 31 ft." .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/releaseDate> "Year: 1983" .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/manufacturer> "Make: Dufour Yachts" .
+_:node1390e9bd74b78adc29d31d4fef2749 <http://schema.org/address> _:node1e3798c1c734795efe4452773b689e65 .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/model> "Model: 32" .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/offers> _:node4dc27e3fe71cd48ef219da588d02d7e .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/name> "1984 Freedom Yachts 32 Westbrook CT" .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/depth> "Length: 32 ft." .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/releaseDate> "Year: 1984" .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/manufacturer> "Make: Freedom Yachts" .
+_:nodec6d8c829425647f7404f8ace4d32f573 <http://schema.org/address> _:node25b9603499634e6594dd688612b08a20 .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/model> "Model: First 310" .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/offers> _:nodedf415d928724a35ad3fed14ca5411ecd .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/name> "1993 Beneteau First 310 Greenport NY" .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/depth> "Length: 31 ft." .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/releaseDate> "Year: 1993" .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/manufacturer> "Make: Beneteau Yachts" .
+_:node73fd4084b6e927fb72ce1ccec87f65 <http://schema.org/address> _:node8456e373360a7a4a4a83268742d6cc .
+_:node1d998d26afd02f7bffd5cb85f88944c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1d998d26afd02f7bffd5cb85f88944c0 <http://schema.org/addressRegion> "ON" .
+_:node1d998d26afd02f7bffd5cb85f88944c0 <http://schema.org/addressLocality> "Port Credit" .
+_:node7345773bffc46b9583483b863e3a66c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/model> "Model: 30" .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/offers> _:node102e9b15d11db9525090df38e0e49 .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/name> "1978 O'Day 30 North Falmouth MA" .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/depth> "Length: 30 ft." .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/releaseDate> "Year: 1978" .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/manufacturer> "Make: ODay Sail" .
+_:node7345773bffc46b9583483b863e3a66c <http://schema.org/address> _:nodee043b84643ee18f3da5d1cb7a19134b .
+_:nodee043b84643ee18f3da5d1cb7a19134b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee043b84643ee18f3da5d1cb7a19134b <http://schema.org/addressRegion> "CT" .
+_:nodee043b84643ee18f3da5d1cb7a19134b <http://schema.org/addressLocality> "Westbrook" .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/model> "Model: 30 Sloop" .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/offers> _:nodec2e2d9148f23ea60c091be3ca5ba46e .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/name> "1982 C&C 30 Sloop Merritt Island FL" .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/depth> "Length: 30 ft." .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/releaseDate> "Year: 1982" .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/manufacturer> "Make: C & C Yachts" .
+_:node40c9d628dc44a60fb4e4556bdcee0 <http://schema.org/address> _:node8e1b2d9b9aec20fd51f9d1ff1de687e .
+_:nodeebea3c14c5b58ae442827355f1e8412d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeebea3c14c5b58ae442827355f1e8412d <http://schema.org/price> "$25,500.00" .
+_:nodeebea3c14c5b58ae442827355f1e8412d <http://schema.org/telephone> "888-353-1546" .
+_:nodeebea3c14c5b58ae442827355f1e8412d <http://schema.org/availability> "Null" .
+_:node7dea978d8cfdb3b2c338c49bf2c79e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node7dea978d8cfdb3b2c338c49bf2c79e7 <http://schema.org/addressRegion> "CT" .
+_:node7dea978d8cfdb3b2c338c49bf2c79e7 <http://schema.org/addressLocality> "Westbrook" .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/model> "Model: Chis Pitts Custom" .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/offers> _:node507e6c9fd99a77f874c4cc61de80589f .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/name> "2005 Mini Transat Chis Pitts Custom Wickford RI" .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/depth> "Length: 21 ft." .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/releaseDate> "Year: 2005" .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/manufacturer> "Make: Other Make" .
+_:node2ac66b8e4491578471bfb8fcbcb33f29 <http://schema.org/address> _:nodeaee263cf38c4bba5e8484da28272890 .
+_:node71c956530c2e4c0fc44f9249beadea7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:nodec47fa8ed8eeb30835de9c14cecc3c76d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodec47fa8ed8eeb30835de9c14cecc3c76d <http://schema.org/price> "$29,900.00" .
+_:nodec47fa8ed8eeb30835de9c14cecc3c76d <http://schema.org/telephone> "888-353-1546" .
+_:nodec47fa8ed8eeb30835de9c14cecc3c76d <http://schema.org/availability> "Null" .
+_:nodee7d48329a554a47ff837d8b1c5d1546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee7d48329a554a47ff837d8b1c5d1546 <http://schema.org/addressRegion> "CT" .
+_:nodee7d48329a554a47ff837d8b1c5d1546 <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:node92c1daa7da9b89cc16637a241da06fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node92c1daa7da9b89cc16637a241da06fed <http://schema.org/price> "$29,900.00" .
+_:node92c1daa7da9b89cc16637a241da06fed <http://schema.org/telephone> "888-353-1546" .
+_:node92c1daa7da9b89cc16637a241da06fed <http://schema.org/availability> "Null" .
+_:nodeb5b8ebab56fe3a8c1a8292c7d9db1c28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeb5b8ebab56fe3a8c1a8292c7d9db1c28 <http://schema.org/price> "$18,500.00" .
+_:nodeb5b8ebab56fe3a8c1a8292c7d9db1c28 <http://schema.org/telephone> "888-353-1546" .
+_:nodeb5b8ebab56fe3a8c1a8292c7d9db1c28 <http://schema.org/availability> "Null" .
+_:node217217c4d16a37d17f2e8e180a818 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/model> "Model: 2" .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/offers> _:node6e34d38af272ca48880b7743845c03b .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/name> "2012 POGO 2 Marina del Rey CA" .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/depth> "Length: 21 ft." .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/releaseDate> "Year: 2012" .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/manufacturer> "Make: Other Make" .
+_:node217217c4d16a37d17f2e8e180a818 <http://schema.org/address> _:nodeec97523b5de09b7463f03d7ec7b4437 .
+_:node8447c722a7c438cc8b4c5441b041af1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node8447c722a7c438cc8b4c5441b041af1c <http://schema.org/addressRegion> "OH" .
+_:node8447c722a7c438cc8b4c5441b041af1c <http://schema.org/addressLocality> "Port Clinton" .
+_:node145aca2f5241c8714c27657cbd37952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node145aca2f5241c8714c27657cbd37952 <http://schema.org/price> "$8,950.00" .
+_:node145aca2f5241c8714c27657cbd37952 <http://schema.org/telephone> "888-353-1546" .
+_:node145aca2f5241c8714c27657cbd37952 <http://schema.org/availability> "Null" .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/model> "Model: 30" .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/offers> _:node2f535068c5c4892ab5228b8f7f1a8b7 .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/name> "1963 Allied seawind Ketch 30 Westbrook CT" .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/depth> "Length: 30 ft." .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/releaseDate> "Year: 1963" .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/manufacturer> "Make: Other Make" .
+_:node245bd21d2d0e886bd25c64881d28bcb <http://schema.org/address> _:node7a1021ccbe36f817c710ae5c131098b3 .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/model> "Model: M K  2" .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/offers> _:nodea5badc80cada89321ee64768e774fae4 .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/name> "1987 Catalina M K  2 Westbrook CT" .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/depth> "Length: 30 ft." .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/releaseDate> "Year: 1987" .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:nodea41c1b9cefdffb6a7a981f3c05bdac2 <http://schema.org/address> _:node1f8138775c196eb1b1de44a1d2258e9 .
+_:node1f8138775c196eb1b1de44a1d2258e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1f8138775c196eb1b1de44a1d2258e9 <http://schema.org/addressRegion> "CT" .
+_:node1f8138775c196eb1b1de44a1d2258e9 <http://schema.org/addressLocality> "Westbrook" .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/model> "Model: 3000" .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/offers> _:node78cb4e63596bbe23c4e7a9f44ec9519 .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/name> "1984 Tartan 3000 Stamford CT" .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/depth> "Length: 30 ft." .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/releaseDate> "Year: 1984" .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/manufacturer> "Make: Tartan Yachts" .
+_:node1ef263a0c4ef2470f11f7ad98a6e799 <http://schema.org/address> _:node831ae186fff92585cf721442babacc0 .
+_:nodec55a34c951ca6267f465a46af4f10f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodec55a34c951ca6267f465a46af4f10f9 <http://schema.org/price> "$9,995.00" .
+_:nodec55a34c951ca6267f465a46af4f10f9 <http://schema.org/telephone> "888-382-7415" .
+_:nodec55a34c951ca6267f465a46af4f10f9 <http://schema.org/availability> "Null" .
+_:nodef370d6d26fd3fc6f0d042df6044cd9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodef370d6d26fd3fc6f0d042df6044cd9 <http://schema.org/price> "$93,500.00" .
+_:nodef370d6d26fd3fc6f0d042df6044cd9 <http://schema.org/telephone> "888-399-3157" .
+_:nodef370d6d26fd3fc6f0d042df6044cd9 <http://schema.org/availability> "Null" .
+_:node7f2833d0556a8e234493ef3d558c6a5e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node7f2833d0556a8e234493ef3d558c6a5e <http://schema.org/addressRegion> "CT" .
+_:node7f2833d0556a8e234493ef3d558c6a5e <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:nodedf415d928724a35ad3fed14ca5411ecd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodedf415d928724a35ad3fed14ca5411ecd <http://schema.org/price> "$29,900.00" .
+_:nodedf415d928724a35ad3fed14ca5411ecd <http://schema.org/telephone> "888-353-1546" .
+_:nodedf415d928724a35ad3fed14ca5411ecd <http://schema.org/availability> "Null" .
+_:nodeab34fd8a509bef491f99c6b8896bf3e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeab34fd8a509bef491f99c6b8896bf3e <http://schema.org/price> "$16,500.00" .
+_:nodeab34fd8a509bef491f99c6b8896bf3e <http://schema.org/telephone> "888-353-1546" .
+_:nodeab34fd8a509bef491f99c6b8896bf3e <http://schema.org/availability> "Null" .
+_:node31423abb8d2b217a3d8f972cf238ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/model> "Model:  30 MK ll" .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/offers> _:nodec47fa8ed8eeb30835de9c14cecc3c76d .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/name> "1989 Catalina  30 MK ll Westbrook CT" .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/depth> "Length: 30 ft." .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/releaseDate> "Year: 1989" .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node31423abb8d2b217a3d8f972cf238ba <http://schema.org/address> _:nodeb336aaa6ce32d123981f3b7e783e6dd3 .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/model> "Model: FIRST 25" .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/offers> _:nodedd64bb9013f4631ac748bdbd672e28f0 .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/name> "2013 Beneteau FIRST 25 Pt. Richmond CA" .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/depth> "Length: 25 ft." .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/releaseDate> "Year: 2013" .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/manufacturer> "Make: Beneteau Yachts" .
+_:node7e1fed63b3e9b75f28958fad4137475 <http://schema.org/address> _:nodef6cafb4a4d9d9ab9e7a8f214d92b60 .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/model> "Model: Sloop" .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/offers> _:node38eb4677ad85d52e75b29e27c29ba0 .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/name> "1987 O'Day Sloop Merritt Island FL" .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/depth> "Length: 27 ft." .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/releaseDate> "Year: 1987" .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/manufacturer> "Make: ODay Sail" .
+_:nodefee2bfbf17937b342b1f9e8dcda4c21 <http://schema.org/address> _:node29bf5acacc1baf925d66499b7e9f6235 .
+_:nodeb6f2cab7aabbb685b2dbe78c96f2ddf1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeb6f2cab7aabbb685b2dbe78c96f2ddf1 <http://schema.org/price> "$74,500.00" .
+_:nodeb6f2cab7aabbb685b2dbe78c96f2ddf1 <http://schema.org/telephone> "(203) 216-6150" .
+_:nodeb6f2cab7aabbb685b2dbe78c96f2ddf1 <http://schema.org/availability> "Null" .
+_:node7b7e79cfb3849784f799fabcfa44e53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node7b7e79cfb3849784f799fabcfa44e53 <http://schema.org/price> "$5,000.00" .
+_:node7b7e79cfb3849784f799fabcfa44e53 <http://schema.org/telephone> "888-353-1546" .
+_:node7b7e79cfb3849784f799fabcfa44e53 <http://schema.org/availability> "Null" .
+_:node11a06593df0655c565ffb88af2138dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node11a06593df0655c565ffb88af2138dc <http://schema.org/addressRegion> "CT" .
+_:node11a06593df0655c565ffb88af2138dc <http://schema.org/addressLocality> "Westbrook" .
+_:node4590605d8183bbd1ad46c268251f0ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node4590605d8183bbd1ad46c268251f0ca <http://schema.org/addressRegion> "RI" .
+_:node4590605d8183bbd1ad46c268251f0ca <http://schema.org/addressLocality> "Bristol" .
+_:node11fb4ba369f74d12c71ffc90ec8827a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node11fb4ba369f74d12c71ffc90ec8827a8 <http://schema.org/addressRegion> "CT" .
+_:node11fb4ba369f74d12c71ffc90ec8827a8 <http://schema.org/addressLocality> "Westbrook" .
+_:node78cb4e63596bbe23c4e7a9f44ec9519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node78cb4e63596bbe23c4e7a9f44ec9519 <http://schema.org/price> "$23,900.00" .
+_:node78cb4e63596bbe23c4e7a9f44ec9519 <http://schema.org/telephone> "888-353-1546" .
+_:node78cb4e63596bbe23c4e7a9f44ec9519 <http://schema.org/availability> "Null" .
+_:node4b9d43f769f2e02f89529f62b580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node4b9d43f769f2e02f89529f62b580 <http://schema.org/addressRegion> "CA" .
+_:node4b9d43f769f2e02f89529f62b580 <http://schema.org/addressLocality> "Richmond" .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/model> "Model: C 30" .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/offers> _:nodeb5b8ebab56fe3a8c1a8292c7d9db1c28 .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/name> "1980 Catalina C 30 Westbrook CT" .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/depth> "Length: 30 ft." .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/releaseDate> "Year: 1980" .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:nodebb71f039bcb89663fb0661e64b35f3 <http://schema.org/address> _:nodebc4f79927e528e9fa48395d543d8f7b4 .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/model> "Model: 27" .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/offers> _:node145aca2f5241c8714c27657cbd37952 .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/name> "1980 Catalina 27 Westbrook CT" .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/depth> "Length: 27 ft." .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/releaseDate> "Year: 1980" .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node25cf5b2a96f3c0bb6a553879b3ffd69d <http://schema.org/address> _:node4bfdcb2a445b1b23871555ca98b15014 .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/model> "Model: 33" .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/offers> _:nodef34bd6bf52182873a3333de279dbe23 .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/name> "1985 Soverel 33 Pleasant Valley NY" .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/depth> "Length: 33 ft." .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/releaseDate> "Year: 1985" .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/manufacturer> "Make: Soverel " .
+_:node65d1f926d099c68e457674aea57d1dc0 <http://schema.org/address> _:node2a23d2c4d8cb9715d15af8ffe2d8719 .
+_:node251d15b978f15585f5426cc02bdd39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node251d15b978f15585f5426cc02bdd39 <http://schema.org/price> "$10,900.00" .
+_:node251d15b978f15585f5426cc02bdd39 <http://schema.org/telephone> "888-353-1546" .
+_:node251d15b978f15585f5426cc02bdd39 <http://schema.org/availability> "Null" .
+_:node2f535068c5c4892ab5228b8f7f1a8b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node2f535068c5c4892ab5228b8f7f1a8b7 <http://schema.org/price> "$19,500.00" .
+_:node2f535068c5c4892ab5228b8f7f1a8b7 <http://schema.org/telephone> "888-353-1546" .
+_:node2f535068c5c4892ab5228b8f7f1a8b7 <http://schema.org/availability> "Null" .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/model> "Model: 309" .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/offers> _:node5ce222ecef41294bf11fa8a2bb621593 .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/name> "2006 Catalina 309 Westbrook CT" .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/depth> "Length: 30 ft." .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/releaseDate> "Year: 2006" .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node69f8a2993110dc975e41401dfa41dbfc <http://schema.org/address> _:node11fb4ba369f74d12c71ffc90ec8827a8 .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/model> "Model: Corby 33" .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/offers> _:nodeb6f2cab7aabbb685b2dbe78c96f2ddf1 .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/name> "2008 Corby Corby 33 Westport CT" .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/depth> "Length: 33 ft." .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/releaseDate> "Year: 2008" .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/manufacturer> "Make: Other Make" .
+_:node7c2d448e1a8415089d4bc468288aa11 <http://schema.org/address> _:nodee7d48329a554a47ff837d8b1c5d1546 .
+_:nodef34bd6bf52182873a3333de279dbe23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodef34bd6bf52182873a3333de279dbe23 <http://schema.org/price> "$27,500.00" .
+_:nodef34bd6bf52182873a3333de279dbe23 <http://schema.org/telephone> "(203) 216-6150" .
+_:nodef34bd6bf52182873a3333de279dbe23 <http://schema.org/availability> "Null" .
+_:node1cfefb1459ccad156c3a2d547c30ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1cfefb1459ccad156c3a2d547c30ea <http://schema.org/addressRegion> "CT" .
+_:node1cfefb1459ccad156c3a2d547c30ea <http://schema.org/addressLocality> "Westbrook" .
+_:nodeb5ce835811c929289625361bbd7fb99 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeb5ce835811c929289625361bbd7fb99 <http://schema.org/addressRegion> "CT" .
+_:nodeb5ce835811c929289625361bbd7fb99 <http://schema.org/addressLocality> "Westbrook" .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/model> "Model: 830" .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/offers> _:node7daba743ded265d61e2ccfec56a94e .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/name> "2007 Viper 830 Marina del Rey CA" .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/depth> "Length: 27 ft." .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/releaseDate> "Year: 2007" .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/manufacturer> "Make: Viper " .
+_:node6e469b4ceccba55baa3bbd87155ac6b3 <http://schema.org/address> _:node23372a1d2919c0aec35878d83fbe17 .
+_:nodeb51fba8887b9bd94e605bc436da5475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeb51fba8887b9bd94e605bc436da5475 <http://schema.org/addressRegion> "CT" .
+_:nodeb51fba8887b9bd94e605bc436da5475 <http://schema.org/addressLocality> "Westbrook" .
+_:node8d667bb541a7a5d7cb5554cbae4e69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node8d667bb541a7a5d7cb5554cbae4e69 <http://schema.org/addressRegion> "CT" .
+_:node8d667bb541a7a5d7cb5554cbae4e69 <http://schema.org/addressLocality> "Westbrook" .
+_:node428940a0c1e151fbe05693d0a36990e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node428940a0c1e151fbe05693d0a36990e2 <http://schema.org/addressRegion> "CT" .
+_:node428940a0c1e151fbe05693d0a36990e2 <http://schema.org/addressLocality> "Westbrook" .
+_:nodeacc4ccaa43cc4238b9ad52db5fdfbcc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeacc4ccaa43cc4238b9ad52db5fdfbcc <http://schema.org/price> "$25,999.00" .
+_:nodeacc4ccaa43cc4238b9ad52db5fdfbcc <http://schema.org/telephone> "877-643-1726" .
+_:nodeacc4ccaa43cc4238b9ad52db5fdfbcc <http://schema.org/availability> "CAN" .
+_:noded35abcf7fc1fc44d5f131f6b351218c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:noded35abcf7fc1fc44d5f131f6b351218c0 <http://schema.org/price> "$29,500.00" .
+_:noded35abcf7fc1fc44d5f131f6b351218c0 <http://schema.org/telephone> "877-644-6271" .
+_:noded35abcf7fc1fc44d5f131f6b351218c0 <http://schema.org/availability> "Null" .
+_:node8264448c8ba757f03d3355ba41b9eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/model> "Model: J 100" .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/offers> _:node62223a9d97a50137a5797dc1c66c74b .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/name> "2005 J Boats J 100 Marina del Rey CA" .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/depth> "Length: 33 ft." .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/releaseDate> "Year: 2005" .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/manufacturer> "Make: J " .
+_:node8264448c8ba757f03d3355ba41b9eb <http://schema.org/address> _:node85eaa56f69aadd55fedcaf4eb0a76b6c .
+_:nodeaee263cf38c4bba5e8484da28272890 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeaee263cf38c4bba5e8484da28272890 <http://schema.org/addressRegion> "CT" .
+_:nodeaee263cf38c4bba5e8484da28272890 <http://schema.org/addressLocality> "Westbrook" .
+_:node1d7b44a8d3ce1846bb16fb67315e188b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1d7b44a8d3ce1846bb16fb67315e188b <http://schema.org/addressRegion> "FL" .
+_:node1d7b44a8d3ce1846bb16fb67315e188b <http://schema.org/addressLocality> "Merritt Island" .
+_:nodeb0526fc19e748932cf40d5935ea64675 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeb0526fc19e748932cf40d5935ea64675 <http://schema.org/addressRegion> "CT" .
+_:nodeb0526fc19e748932cf40d5935ea64675 <http://schema.org/addressLocality> "Westbrook" .
+_:node26b7d729fc28e7891cd781da58aa7f40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node26b7d729fc28e7891cd781da58aa7f40 <http://schema.org/addressRegion> "CT" .
+_:node26b7d729fc28e7891cd781da58aa7f40 <http://schema.org/addressLocality> "Westbrook" .
+_:node5c814662f0b2507f33776822a1f731c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/model> "Model: Sloop" .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/offers> _:node90b8a0a0dd95a234c2efcceb995ad7 .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/name> "1992 Catalina Sloop Wickford RI" .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/depth> "Length: 30 ft." .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/releaseDate> "Year: 1992" .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node5c814662f0b2507f33776822a1f731c <http://schema.org/address> _:nodecda4def26346d348c7424c9c9346b533 .
+_:node99d0ce676da2a1face937e2125601f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node99d0ce676da2a1face937e2125601f <http://schema.org/price> "$37,500.00" .
+_:node99d0ce676da2a1face937e2125601f <http://schema.org/telephone> "888-353-1546" .
+_:node99d0ce676da2a1face937e2125601f <http://schema.org/availability> "Null" .
+_:node30dc28ab4fd9fe94ffe2f8b9cdecbccc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node30dc28ab4fd9fe94ffe2f8b9cdecbccc <http://schema.org/price> "$24,900.00" .
+_:node30dc28ab4fd9fe94ffe2f8b9cdecbccc <http://schema.org/telephone> "888-353-1546" .
+_:node30dc28ab4fd9fe94ffe2f8b9cdecbccc <http://schema.org/availability> "Null" .
+_:nodeec97523b5de09b7463f03d7ec7b4437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeec97523b5de09b7463f03d7ec7b4437 <http://schema.org/addressRegion> "CA" .
+_:nodeec97523b5de09b7463f03d7ec7b4437 <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:node507e6c9fd99a77f874c4cc61de80589f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node507e6c9fd99a77f874c4cc61de80589f <http://schema.org/price> "$24,500.00" .
+_:node507e6c9fd99a77f874c4cc61de80589f <http://schema.org/telephone> "888-353-1546" .
+_:node507e6c9fd99a77f874c4cc61de80589f <http://schema.org/availability> "Null" .
+_:node28a5a87f316ab81feafee8c319d8fac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node28a5a87f316ab81feafee8c319d8fac <http://schema.org/addressRegion> "CT" .
+_:node28a5a87f316ab81feafee8c319d8fac <http://schema.org/addressLocality> "Westbrook" .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/model> "Model: 185K Daysailer" .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/offers> _:nodec55a34c951ca6267f465a46af4f10f9 .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/name> "1996 Precision 185K Daysailer Port Clinton OH" .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/depth> "Length: 18 ft." .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/releaseDate> "Year: 1996" .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/manufacturer> "Make: Precision Boat Works " .
+_:node8e284c46fa1d8eb5a517a75cc668167 <http://schema.org/address> _:node8447c722a7c438cc8b4c5441b041af1c .
+_:node29bf5acacc1baf925d66499b7e9f6235 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node29bf5acacc1baf925d66499b7e9f6235 <http://schema.org/addressRegion> "FL" .
+_:node29bf5acacc1baf925d66499b7e9f6235 <http://schema.org/addressLocality> "Merritt Island" .
+_:node68f742ac3a8a229a154b4309bafda2f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/model> "Model: 25" .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/offers> _:node686b6a34c39f5174bc97c366f95592 .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/name> "1983 Catalina 25 Westbrook CT" .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/depth> "Length: 25 ft." .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/releaseDate> "Year: 1983" .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node68f742ac3a8a229a154b4309bafda2f <http://schema.org/address> _:node11a06593df0655c565ffb88af2138dc .
+_:node348e38b03ae6b41697677081c4c370d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/model> "Model: 320" .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/offers> _:node2d96272276e7a8b6ac45fc9981a96 .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/name> "1998 Catalina 320 Wickford RI" .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/depth> "Length: 32 ft." .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/releaseDate> "Year: 1998" .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node348e38b03ae6b41697677081c4c370d <http://schema.org/address> _:nodebbeea09f3ec5df08cba4915214fde9b .
+_:nodedd64bb9013f4631ac748bdbd672e28f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodedd64bb9013f4631ac748bdbd672e28f0 <http://schema.org/price> "$88,500.00" .
+_:nodedd64bb9013f4631ac748bdbd672e28f0 <http://schema.org/telephone> "888-399-3157" .
+_:nodedd64bb9013f4631ac748bdbd672e28f0 <http://schema.org/availability> "Null" .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/model> "Model: Dibley 25 Racer Sailboat" .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/offers> _:node43620e4dc18bf4af4f981523b948ebd .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/name> "1997 25\u00C3\u00A2\u00C2\u0080\u00C2\u0099 Dibley 25 Racer Sailboat" .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/depth> "Length: 24 ft. 7 in." .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/releaseDate> "Year: 1997" .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/manufacturer> "Make: Other Make" .
+_:nodeecf8b69360df8893f0dd558eb6619698 <http://schema.org/address> _:node8685f5f0ccf8eafa625c6c14b59a9c1b .
+_:node4fd99bd8f593eec4c1d4bcfcfa788b36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node4fd99bd8f593eec4c1d4bcfcfa788b36 <http://schema.org/price> "$12,000.00" .
+_:node4fd99bd8f593eec4c1d4bcfcfa788b36 <http://schema.org/telephone> "310.490.9432" .
+_:node4fd99bd8f593eec4c1d4bcfcfa788b36 <http://schema.org/availability> "Null" .
+_:node6e34d38af272ca48880b7743845c03b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node6e34d38af272ca48880b7743845c03b <http://schema.org/price> "$75,000.00" .
+_:node6e34d38af272ca48880b7743845c03b <http://schema.org/telephone> "310.430.1502" .
+_:node6e34d38af272ca48880b7743845c03b <http://schema.org/availability> "Null" .
+_:node2563efee99686bcacb5199c37c5739d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node2563efee99686bcacb5199c37c5739d <http://schema.org/addressRegion> "CT" .
+_:node2563efee99686bcacb5199c37c5739d <http://schema.org/addressLocality> "Westbrook" .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/model> "Model: Mk III" .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/offers> _:nodeebea3c14c5b58ae442827355f1e8412d .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/name> "1986 Newport Mk III Mystic CT" .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/depth> "Length: 30 ft." .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/releaseDate> "Year: 1986" .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/manufacturer> "Make: Newport Sail" .
+_:nodedd6393c3cf252e45e47942b44f3a19e <http://schema.org/address> _:nodeb0526fc19e748932cf40d5935ea64675 .
+_:node6d351f6cfc8cf933f5e5dd6b92caae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node6d351f6cfc8cf933f5e5dd6b92caae <http://schema.org/price> "$49,000.00" .
+_:node6d351f6cfc8cf933f5e5dd6b92caae <http://schema.org/telephone> "877-643-1726" .
+_:node6d351f6cfc8cf933f5e5dd6b92caae <http://schema.org/availability> "CAN" .
+_:node9e80dd2ca11a9ad3665432b33f786610 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node9e80dd2ca11a9ad3665432b33f786610 <http://schema.org/addressRegion> "CT" .
+_:node9e80dd2ca11a9ad3665432b33f786610 <http://schema.org/addressLocality> "Westbrook" .
+_:nodee03d3bac9b0d65658f83fb72adf5fc9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee03d3bac9b0d65658f83fb72adf5fc9 <http://schema.org/addressRegion> "RI" .
+_:nodee03d3bac9b0d65658f83fb72adf5fc9 <http://schema.org/addressLocality> "Bristol" .
+_:node905db364b66aae8deb539ab15da4dcbd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/model> "Model: 30" .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/offers> _:node267c9c109a2cdea19195094d83b52c0 .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/name> "1976 San Juan 30 Branford CT" .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/depth> "Length: 30 ft." .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/releaseDate> "Year: 1976" .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/manufacturer> "Make: Other Make" .
+_:node905db364b66aae8deb539ab15da4dcbd <http://schema.org/address> _:nodedbfe241c3b17ffaee48d357bc185695a .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/model> "Model: 29.5" .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/offers> _:node41f101180ff8ce7f29b5f886b5a364a .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/name> "1995 Hunter 29.5 Mattapoisett MA" .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/depth> "Length: 29 ft." .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/releaseDate> "Year: 1995" .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/manufacturer> "Make: Hunter Marine " .
+_:nodeae9ab5f9bcd68634f7cc0d7547899f0 <http://schema.org/address> _:node7dea978d8cfdb3b2c338c49bf2c79e7 .
+_:nodea5badc80cada89321ee64768e774fae4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodea5badc80cada89321ee64768e774fae4 <http://schema.org/price> "$19,800.00" .
+_:nodea5badc80cada89321ee64768e774fae4 <http://schema.org/telephone> "888-353-1546" .
+_:nodea5badc80cada89321ee64768e774fae4 <http://schema.org/availability> "Null" .
+_:nodef0cb68d31f3dcd4f514891b5e74ab16a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodef0cb68d31f3dcd4f514891b5e74ab16a <http://schema.org/addressRegion> "CA" .
+_:nodef0cb68d31f3dcd4f514891b5e74ab16a <http://schema.org/addressLocality> "Richmond" .
+_:node2d96272276e7a8b6ac45fc9981a96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node2d96272276e7a8b6ac45fc9981a96 <http://schema.org/price> "$55,900.00" .
+_:node2d96272276e7a8b6ac45fc9981a96 <http://schema.org/telephone> "888-353-1546" .
+_:node2d96272276e7a8b6ac45fc9981a96 <http://schema.org/availability> "Null" .
+_:nodebc4f79927e528e9fa48395d543d8f7b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodebc4f79927e528e9fa48395d543d8f7b4 <http://schema.org/addressRegion> "CT" .
+_:nodebc4f79927e528e9fa48395d543d8f7b4 <http://schema.org/addressLocality> "Westbrook" .
+_:nodedc755084352e7895090584635dab0f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodedc755084352e7895090584635dab0f2 <http://schema.org/price> "$56,000.00" .
+_:nodedc755084352e7895090584635dab0f2 <http://schema.org/telephone> "888-353-1546" .
+_:nodedc755084352e7895090584635dab0f2 <http://schema.org/availability> "Null" .
+_:node2d48f8c5915c0fc41a853140345f89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node2d48f8c5915c0fc41a853140345f89 <http://schema.org/price> "$18,700.00" .
+_:node2d48f8c5915c0fc41a853140345f89 <http://schema.org/telephone> "888-353-1546" .
+_:node2d48f8c5915c0fc41a853140345f89 <http://schema.org/availability> "Null" .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/model> "Model: 320" .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/offers> _:nodedc755084352e7895090584635dab0f2 .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/name> "1996 Catalina 320 Westbrook CT" .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/depth> "Length: 32 ft." .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/releaseDate> "Year: 1996" .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node464b059c1062f7b3a47a9d8827e5f5 <http://schema.org/address> _:node9e80dd2ca11a9ad3665432b33f786610 .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/model> "Model: Flyer" .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/offers> _:nodeb4b942385b1b904ca3932661239f41fb .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/name> "1983 Pearson Flyer Bristol CT" .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/depth> "Length: 30 ft." .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/releaseDate> "Year: 1983" .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/manufacturer> "Make: Pearson Sail" .
+_:node4ca6f056efd886bcbef81d3115c02c1a <http://schema.org/address> _:nodee03d3bac9b0d65658f83fb72adf5fc9 .
+_:nodef6cafb4a4d9d9ab9e7a8f214d92b60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodef6cafb4a4d9d9ab9e7a8f214d92b60 <http://schema.org/addressRegion> "CA" .
+_:nodef6cafb4a4d9d9ab9e7a8f214d92b60 <http://schema.org/addressLocality> "Richmond" .
+_:nodea4c2c844910fb673072d182b3763e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodea4c2c844910fb673072d182b3763e6 <http://schema.org/price> "$22,900.00" .
+_:nodea4c2c844910fb673072d182b3763e6 <http://schema.org/telephone> "(203) 216-6150" .
+_:nodea4c2c844910fb673072d182b3763e6 <http://schema.org/availability> "Null" .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/model> "Model: 28" .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/offers> _:node251d15b978f15585f5426cc02bdd39 .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/name> "1980 Pearson 28 Greenport NY" .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/depth> "Length: 28 ft." .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/releaseDate> "Year: 1980" .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/manufacturer> "Make: Pearson Sail" .
+_:nodeca6d19aa1bb8c26f5207fefa093b82f <http://schema.org/address> _:nodeae4e48b7b9ce3532c8dc6ea27e2828bf .
+_:node85eaa56f69aadd55fedcaf4eb0a76b6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node85eaa56f69aadd55fedcaf4eb0a76b6c <http://schema.org/addressRegion> "CA" .
+_:node85eaa56f69aadd55fedcaf4eb0a76b6c <http://schema.org/addressLocality> "Fort Lauderdale" .
+_:node984a7a61f30e56cd1295272d363b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node984a7a61f30e56cd1295272d363b <http://schema.org/addressRegion> "FL" .
+_:node984a7a61f30e56cd1295272d363b <http://schema.org/addressLocality> "Merritt Island" .
+_:node8456e373360a7a4a4a83268742d6cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node8456e373360a7a4a4a83268742d6cc <http://schema.org/addressRegion> "CT" .
+_:node8456e373360a7a4a4a83268742d6cc <http://schema.org/addressLocality> "Westbrook" .
+_:nodec2e2d9148f23ea60c091be3ca5ba46e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodec2e2d9148f23ea60c091be3ca5ba46e <http://schema.org/price> "$19,000.00" .
+_:nodec2e2d9148f23ea60c091be3ca5ba46e <http://schema.org/telephone> "877-644-6271" .
+_:nodec2e2d9148f23ea60c091be3ca5ba46e <http://schema.org/availability> "Null" .
+_:nodecda4def26346d348c7424c9c9346b533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodecda4def26346d348c7424c9c9346b533 <http://schema.org/addressRegion> "CT" .
+_:nodecda4def26346d348c7424c9c9346b533 <http://schema.org/addressLocality> "Westbrook" .
+_:node5cc4d0cb9e9a257401873cc79c657a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node5cc4d0cb9e9a257401873cc79c657a4 <http://schema.org/price> "$22,000.00" .
+_:node5cc4d0cb9e9a257401873cc79c657a4 <http://schema.org/telephone> "888-353-1546" .
+_:node5cc4d0cb9e9a257401873cc79c657a4 <http://schema.org/availability> "Null" .
+_:node41f101180ff8ce7f29b5f886b5a364a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node41f101180ff8ce7f29b5f886b5a364a <http://schema.org/price> "$28,500.00" .
+_:node41f101180ff8ce7f29b5f886b5a364a <http://schema.org/telephone> "888-353-1546" .
+_:node41f101180ff8ce7f29b5f886b5a364a <http://schema.org/availability> "Null" .
+_:node43620e4dc18bf4af4f981523b948ebd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node43620e4dc18bf4af4f981523b948ebd <http://schema.org/price> "$37,000.00" .
+_:node43620e4dc18bf4af4f981523b948ebd <http://schema.org/telephone> "855-862-6331" .
+_:node43620e4dc18bf4af4f981523b948ebd <http://schema.org/availability> "Null" .
+_:node25b9603499634e6594dd688612b08a20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node25b9603499634e6594dd688612b08a20 <http://schema.org/addressRegion> "CT" .
+_:node25b9603499634e6594dd688612b08a20 <http://schema.org/addressLocality> "Westbrook" .
+_:node7a1021ccbe36f817c710ae5c131098b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node7a1021ccbe36f817c710ae5c131098b3 <http://schema.org/addressRegion> "CT" .
+_:node7a1021ccbe36f817c710ae5c131098b3 <http://schema.org/addressLocality> "Westbrook" .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/model> "Model: 22" .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/offers> _:nodeab34fd8a509bef491f99c6b8896bf3e .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/name> "1998 Etchells 22 Westbrook CT" .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/depth> "Length: 30 ft." .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/releaseDate> "Year: 1998" .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/manufacturer> "Make: Other Make" .
+_:nodec9848ea64de5c7cdd4e8d7cec4119 <http://schema.org/address> _:node428940a0c1e151fbe05693d0a36990e2 .
+_:nodeb6e1b48d0d1ad49ed55cd34692458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:node7daba743ded265d61e2ccfec56a94e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node7daba743ded265d61e2ccfec56a94e <http://schema.org/price> "$39,500.00" .
+_:node7daba743ded265d61e2ccfec56a94e <http://schema.org/telephone> "310.490.9432" .
+_:node7daba743ded265d61e2ccfec56a94e <http://schema.org/availability> "Null" .
+_:nodeab4dec6ef72718a2c639f01c32718b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeab4dec6ef72718a2c639f01c32718b <http://schema.org/price> "Null" .
+_:nodeab4dec6ef72718a2c639f01c32718b <http://schema.org/telephone> "888-399-3157" .
+_:nodeab4dec6ef72718a2c639f01c32718b <http://schema.org/availability> "Call for price" .
+_:node149eca1fdea6425796163acd8a2b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node149eca1fdea6425796163acd8a2b0 <http://schema.org/price> "$39,900.00" .
+_:node149eca1fdea6425796163acd8a2b0 <http://schema.org/telephone> "888-353-1546" .
+_:node149eca1fdea6425796163acd8a2b0 <http://schema.org/availability> "Null" .
+_:node94478f284d51c29d2bc10a15f322570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/model> "Model: 33 Sloop" .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/offers> _:node27a4de3b2f3edc5f308d6b2467964847 .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/name> "1985 CAL 33 Sloop Merritt Island FL" .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/depth> "Length: 33 ft." .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/releaseDate> "Year: 1985" .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/manufacturer> "Make: Cal " .
+_:node94478f284d51c29d2bc10a15f322570 <http://schema.org/address> _:node1d7b44a8d3ce1846bb16fb67315e188b .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/model> "Model: 30" .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/offers> _:node92c1daa7da9b89cc16637a241da06fed .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/name> "1985 Catalina 30 North Falmouth MA" .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/depth> "Length: 30 ft." .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/releaseDate> "Year: 1985" .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/manufacturer> "Make: Catalina Sail" .
+_:node67f28a9daff54b5dac9a9f72b2ff870 <http://schema.org/address> _:node8d667bb541a7a5d7cb5554cbae4e69 .
+_:node6814ff545e1364857a27802e623f033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

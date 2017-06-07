@@ -1,0 +1,7 @@
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_abstraction_100002137> .
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_group_100031264> .
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_social_group_107950920> .
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_gathering_107975026> .
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_community_108223802> .
+<http://yago-knowledge.org/resource/Looma_Community,_Western_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Aboriginal_communities_in_Western_Australia> .

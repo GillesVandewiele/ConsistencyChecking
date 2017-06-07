@@ -1,0 +1,10 @@
+_:node44cd9d5bd6e61217ee556c3b9d655010 <http://schema.org/addressRegion> "NSW"@en .
+_:node44cd9d5bd6e61217ee556c3b9d655010 <http://schema.org/postalCode> "2308"@en .
+_:node44cd9d5bd6e61217ee556c3b9d655010 <http://schema.org/addressLocality> "Callaghan"@en .
+_:node44cd9d5bd6e61217ee556c3b9d655010 <http://schema.org/addressCountry> "Australia"@en .
+_:node44cd9d5bd6e61217ee556c3b9d655010 <http://schema.org/streetAddress> "University Drive"@en .
+_:node43aa34d35507bc8d6fb7f9d8bc5d4c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> .
+_:node43aa34d35507bc8d6fb7f9d8bc5d4c6 <http://schema.org/name> "Null"@en .
+_:node43aa34d35507bc8d6fb7f9d8bc5d4c6 <http://schema.org/address> _:node44cd9d5bd6e61217ee556c3b9d655010 .
+_:node43aa34d35507bc8d6fb7f9d8bc5d4c6 <http://schema.org/logo> "Null"@en .
+_:nodef7ab152ddd369839c952811cf019e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

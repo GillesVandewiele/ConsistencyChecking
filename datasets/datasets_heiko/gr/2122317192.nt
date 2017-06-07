@@ -1,0 +1,12 @@
+_:genid2d7c2c534bc3de401594c048b8aacb1a3d2dN68363 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d7c2c534bc3de401594c048b8aacb1a3d2dN68363 .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "TR082-CBL-4ZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm> .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://purl.org/goodrelations/v1#description> "Our tailored cigarette pants. These super sleek, classic maternity pants have been beautifully finished with an elasticated waistband covered in.." .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver Wardour Tailored Maternity Pants" .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d7c2c534bc3de401594c048b8aacb1a3d2dN68301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d7c2c534bc3de401594c048b8aacb1a3d2dN68301 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity US" .
+<http://www.isabellaoliver.com/us/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/sale/sale-all/wardour-tailored-maternity-pants-cobalt-blue.htm> .
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/a/latexcap-white-hero-hr_1.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/a/latexcap-white-hero-hr_1.jpg> .

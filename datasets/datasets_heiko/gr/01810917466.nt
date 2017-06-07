@@ -1,0 +1,27 @@
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d8526ef20aed7469897249bb96966f71e2dN66777 .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/28176-228x228.jpg> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#description> "File Guard 2 Drawer model 29" .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "28176"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#name> "File Bar, 2dr W/Simplex (Black)" .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d8526ef20aed7469897249bb96966f71e2dN66777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d8526ef20aed7469897249bb96966f71e2dN66777 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d8526ef20aed7469897249bb96966f71e2dN66777 <http://purl.org/goodrelations/v1#hasCurrencyValue> "114.4000"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/28176.html?id=rT5zXm2K#product> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/ilco-file-bar-2dr-w-simplex-black-fg12b> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/28176-228x228.jpg> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://purl.org/goodrelations/v1#description> "File Guard 2 Drawer model 29" .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "28176"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB File Bar, 2dr W/Simplex (Black)" .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://purl.org/goodrelations/v1#name> "File Bar, 2dr W/Simplex (Black)" .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/ilco-file-bar-2dr-w-simplex-black-fg12b> .
+<http://www.surveillance-video.com/camera-esti635-5n.html/?revact=y#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

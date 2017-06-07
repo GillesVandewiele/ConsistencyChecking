@@ -1,0 +1,200 @@
+_:node20fae2b5aaf3dec04e19084feb8986 <http://schema.org/name> " Calvin's Annual Spring Classic 5k -2014 " .
+_:node20fae2b5aaf3dec04e19084feb8986 <http://schema.org/url> <http://gallery.calvin.edu/Calvins-Annual-Spring-Classic> .
+_:node20fae2b5aaf3dec04e19084feb8986 <http://schema.org/image> <http://photos.smugmug.com/photos/i-zjsDrS6/0/S/i-zjsDrS6-S.jpg> .
+_:node5e8ab1c9bef4926976f71fd014c28cf0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5e8ab1c9bef4926976f71fd014c28cf0 <http://schema.org/name> " Women's Volleyball vs. Trine " .
+_:node5e8ab1c9bef4926976f71fd014c28cf0 <http://schema.org/url> <http://gallery.calvin.edu/Womens-Volleyball-vs-Trine> .
+_:node5e8ab1c9bef4926976f71fd014c28cf0 <http://schema.org/image> <http://photos.smugmug.com/photos/i-dvwDpGq/0/S/i-dvwDpGq-S.jpg> .
+_:nodeca46c764cbd6969b061b1a5501042bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeca46c764cbd6969b061b1a5501042bd <http://schema.org/name> " Reunion: Airband 2014 " .
+_:nodeca46c764cbd6969b061b1a5501042bd <http://schema.org/url> <http://gallery.calvin.edu/Reunion-Airband-2014> .
+_:nodeca46c764cbd6969b061b1a5501042bd <http://schema.org/image> <http://photos.smugmug.com/photos/i-hF32bXH/0/S/i-hF32bXH-S.jpg> .
+_:node233067836212877ba4fb79e8971ec57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node233067836212877ba4fb79e8971ec57 <http://schema.org/name> " Thanksmas -Nite Life " .
+_:node233067836212877ba4fb79e8971ec57 <http://schema.org/url> <http://gallery.calvin.edu/Thanksmas-Nite-Life> .
+_:node233067836212877ba4fb79e8971ec57 <http://schema.org/image> <http://photos.smugmug.com/photos/i-ZXk6HJk/0/S/i-ZXk6HJk-S.jpg> .
+_:node6e4a8f9f951bac1f58b7ed73903e51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node6e4a8f9f951bac1f58b7ed73903e51 <http://schema.org/name> " Men's Hockey vs Hope " .
+_:node6e4a8f9f951bac1f58b7ed73903e51 <http://schema.org/url> <http://gallery.calvin.edu/Mens-Hockey-vs-Hope> .
+_:node6e4a8f9f951bac1f58b7ed73903e51 <http://schema.org/image> <http://photos.smugmug.com/photos/i-Bn3WJJ7/0/S/i-Bn3WJJ7-S.jpg> .
+_:nodec040a830d0e7d6e61c8b138499e1ae96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec040a830d0e7d6e61c8b138499e1ae96 <http://schema.org/name> " Homecoming - K4L Bowl I " .
+_:nodec040a830d0e7d6e61c8b138499e1ae96 <http://schema.org/url> <http://gallery.calvin.edu/K4L-Bowl-I> .
+_:nodec040a830d0e7d6e61c8b138499e1ae96 <http://schema.org/image> <http://photos.smugmug.com/photos/i-6cHgdxz/0/S/i-6cHgdxz-S.jpg> .
+_:node31486b631b38a3bf8f453aaf4484239 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node31486b631b38a3bf8f453aaf4484239 <http://schema.org/name> " Great Gatsby Formal 2014 " .
+_:node31486b631b38a3bf8f453aaf4484239 <http://schema.org/url> <http://gallery.calvin.edu/Great-Gatsby-Formal-2014> .
+_:node31486b631b38a3bf8f453aaf4484239 <http://schema.org/image> <http://photos.smugmug.com/photos/i-x667xHw/0/S/i-x667xHw-S.jpg> .
+_:node7c9099c53fa4dbeb282b3d315feb80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node7c9099c53fa4dbeb282b3d315feb80 <http://schema.org/name> " Foxes in Fiction and Owen Pallet " .
+_:node7c9099c53fa4dbeb282b3d315feb80 <http://schema.org/url> <http://gallery.calvin.edu/Foxes-in-Fiction-and-Owen> .
+_:node7c9099c53fa4dbeb282b3d315feb80 <http://schema.org/image> <http://photos.smugmug.com/photos/i-GcJbqqT/0/S/i-GcJbqqT-S.jpg> .
+_:node9415d76ae34bf15bfd23c88ee8e33bdd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9415d76ae34bf15bfd23c88ee8e33bdd <http://schema.org/name> " Women's Soccer vs Adrian " .
+_:node9415d76ae34bf15bfd23c88ee8e33bdd <http://schema.org/url> <http://gallery.calvin.edu/Womens-Soccer-vs-Adrian> .
+_:node9415d76ae34bf15bfd23c88ee8e33bdd <http://schema.org/image> <http://photos.smugmug.com/photos/i-WDQhgBk/0/S/i-WDQhgBk-S.jpg> .
+_:node29ca974cf457bad213ddca973e1d8b22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node29ca974cf457bad213ddca973e1d8b22 <http://schema.org/name> " Calvin Orchestra Concert Fall '14 " .
+_:node29ca974cf457bad213ddca973e1d8b22 <http://schema.org/url> <http://gallery.calvin.edu/Calvin-Orchestra-Concert-Fall> .
+_:node29ca974cf457bad213ddca973e1d8b22 <http://schema.org/image> <http://photos.smugmug.com/photos/i-9dtfGHb/0/S/i-9dtfGHb-S.jpg> .
+_:node51a87ff862fde9b34784265beee89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node51a87ff862fde9b34784265beee89 <http://schema.org/name> " Family Weekend Tailgate Dinner " .
+_:node51a87ff862fde9b34784265beee89 <http://schema.org/url> <http://gallery.calvin.edu/Homecoming-Weekend-Tailgate> .
+_:node51a87ff862fde9b34784265beee89 <http://schema.org/image> <http://photos.smugmug.com/photos/i-Q5zwCmx/0/S/i-Q5zwCmx-S.jpg> .
+_:node2d2cd17ec53f3706e40d9e096453f41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2d2cd17ec53f3706e40d9e096453f41 <http://schema.org/name> " Convocation 2014 " .
+_:node2d2cd17ec53f3706e40d9e096453f41 <http://schema.org/url> <http://gallery.calvin.edu/Convocation-2015> .
+_:node2d2cd17ec53f3706e40d9e096453f41 <http://schema.org/image> <http://photos.smugmug.com/photos/i-nFDv2MV/0/S/i-nFDv2MV-S.jpg> .
+_:node6596760e6bc5bb6366ae5ad5652324 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node6596760e6bc5bb6366ae5ad5652324 <http://schema.org/name> " Climbing to New Culinary Heights " .
+_:node6596760e6bc5bb6366ae5ad5652324 <http://schema.org/url> <http://gallery.calvin.edu/Climbing-to-New-Culinary> .
+_:node6596760e6bc5bb6366ae5ad5652324 <http://schema.org/image> <http://photos.smugmug.com/photos/i-B7ZvKFJ/0/S/i-B7ZvKFJ-S.jpg> .
+_:nodec917ac19659a11503cff2a45b82eb89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec917ac19659a11503cff2a45b82eb89 <http://schema.org/name> " The National " .
+_:nodec917ac19659a11503cff2a45b82eb89 <http://schema.org/url> <http://gallery.calvin.edu/The-National> .
+_:nodec917ac19659a11503cff2a45b82eb89 <http://schema.org/image> <http://photos.smugmug.com/photos/i-mrWrGjq/0/S/i-mrWrGjq-S.jpg> .
+_:node21b6c05b77fc3f9fcbf6261cc4524937 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node21b6c05b77fc3f9fcbf6261cc4524937 <http://schema.org/name> " Heritage Class Reunion 2014 " .
+_:node21b6c05b77fc3f9fcbf6261cc4524937 <http://schema.org/url> <http://gallery.calvin.edu/Heritage-Class-Reunion-2014> .
+_:node21b6c05b77fc3f9fcbf6261cc4524937 <http://schema.org/image> <http://photos.smugmug.com/photos/i-87mHjgf/0/S/i-87mHjgf-S.jpg> .
+_:node4a9eba7bcc2b583b3731ce72c83cf8c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node4a9eba7bcc2b583b3731ce72c83cf8c <http://schema.org/name> " International PASSPORT 2014 " .
+_:node4a9eba7bcc2b583b3731ce72c83cf8c <http://schema.org/url> <http://gallery.calvin.edu/International-PASSPORT-2014> .
+_:node4a9eba7bcc2b583b3731ce72c83cf8c <http://schema.org/image> <http://photos.smugmug.com/photos/i-DCkmvXb/0/S/i-DCkmvXb-S.jpg> .
+_:node463428a0b18968829bffd054762cbd27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node463428a0b18968829bffd054762cbd27 <http://schema.org/name> " Cardboard Canoe Race / Party at the Prez " .
+_:node463428a0b18968829bffd054762cbd27 <http://schema.org/url> <http://gallery.calvin.edu/Cardboard-Canoe-Race-Party-at> .
+_:node463428a0b18968829bffd054762cbd27 <http://schema.org/image> <http://photos.smugmug.com/photos/i-ChQztg7/0/S/i-ChQztg7-S.jpg> .
+_:node8853ede06ed5689e50df15fe2583c65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8853ede06ed5689e50df15fe2583c65 <http://schema.org/name> " Homecoming/Family Weekend 2014 " .
+_:node8853ede06ed5689e50df15fe2583c65 <http://schema.org/url> <http://gallery.calvin.edu/HomecomingFamily-Weekend-2014> .
+_:node8853ede06ed5689e50df15fe2583c65 <http://schema.org/image> <http://photos.smugmug.com/photos/i-SWZqSFL/0/S/i-SWZqSFL-S.jpg> .
+_:node8bec9d84276490fb8d5c738f6cbbd9ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8bec9d84276490fb8d5c738f6cbbd9ff <http://schema.org/name> " Homecoming - Calvin Music Festival " .
+_:node8bec9d84276490fb8d5c738f6cbbd9ff <http://schema.org/url> <http://gallery.calvin.edu/Homecoming-Calvin-Music> .
+_:node8bec9d84276490fb8d5c738f6cbbd9ff <http://schema.org/image> <http://photos.smugmug.com/photos/i-2rT7QL6/0/S/i-2rT7QL6-S.jpg> .
+_:node9e2cdfd3749babb6c7aea496d4dd7995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9e2cdfd3749babb6c7aea496d4dd7995 <http://schema.org/name> " Switchfoot " .
+_:node9e2cdfd3749babb6c7aea496d4dd7995 <http://schema.org/url> <http://gallery.calvin.edu/Switchfoot> .
+_:node9e2cdfd3749babb6c7aea496d4dd7995 <http://schema.org/image> <http://photos.smugmug.com/photos/i-72LJCh5/0/M/i-72LJCh5-M.jpg> .
+_:nodeafe5165771df2fc1f2d94fe1dd165f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeafe5165771df2fc1f2d94fe1dd165f5 <http://schema.org/name> " Women's Basketball vs. Lakeland " .
+_:nodeafe5165771df2fc1f2d94fe1dd165f5 <http://schema.org/url> <http://gallery.calvin.edu/Womens-Basketball-vs-Lakeland> .
+_:nodeafe5165771df2fc1f2d94fe1dd165f5 <http://schema.org/image> <http://photos.smugmug.com/photos/i-zNmNCzD/0/S/i-zNmNCzD-S.jpg> .
+_:noded8db66c4d8ccb86411638b7a1c4cc5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:noded8db66c4d8ccb86411638b7a1c4cc5 <http://schema.org/name> " Entrada Graduation 2014 " .
+_:noded8db66c4d8ccb86411638b7a1c4cc5 <http://schema.org/url> <http://gallery.calvin.edu/Entrada-Graduation-2014> .
+_:noded8db66c4d8ccb86411638b7a1c4cc5 <http://schema.org/image> <http://photos.smugmug.com/photos/i-WxT489z/0/S/i-WxT489z-S.jpg> .
+_:node603a31c9e1c7ba708c76cc5dae764e80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node603a31c9e1c7ba708c76cc5dae764e80 <http://schema.org/name> " Late Night with Capella  2014 " .
+_:node603a31c9e1c7ba708c76cc5dae764e80 <http://schema.org/url> <http://gallery.calvin.edu/Late-Night-with-Capella-2014> .
+_:node603a31c9e1c7ba708c76cc5dae764e80 <http://schema.org/image> <http://photos.smugmug.com/photos/i-Zf9Xfkf/0/S/i-Zf9Xfkf-S.jpg> .
+_:node90966ae6a2e97e8c6fd97a56a39b5aaa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node90966ae6a2e97e8c6fd97a56a39b5aaa <http://schema.org/name> " Service-Learning Center's 50th Anniversary Weekend " .
+_:node90966ae6a2e97e8c6fd97a56a39b5aaa <http://schema.org/url> <http://gallery.calvin.edu/SLC-50th-Anniversary> .
+_:node90966ae6a2e97e8c6fd97a56a39b5aaa <http://schema.org/image> <http://photos.smugmug.com/photos/i-zcKtSn5/0/S/i-zcKtSn5-S.jpg> .
+_:nodef2d1f0ff3ad25c751c684998eaffad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef2d1f0ff3ad25c751c684998eaffad <http://schema.org/name> " Women's Basketball vs. Adrian " .
+_:nodef2d1f0ff3ad25c751c684998eaffad <http://schema.org/url> <http://gallery.calvin.edu/Womens-Basketball-vs-Adrian> .
+_:nodef2d1f0ff3ad25c751c684998eaffad <http://schema.org/image> <http://photos.smugmug.com/photos/i-mdqKD4L/0/S/i-mdqKD4L-S.jpg> .
+_:node2ef9a48bd78dc8343a24a186aac6b07b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2ef9a48bd78dc8343a24a186aac6b07b <http://schema.org/name> " OK GO - Concert " .
+_:node2ef9a48bd78dc8343a24a186aac6b07b <http://schema.org/url> <http://gallery.calvin.edu/OK-GO-Concert> .
+_:node2ef9a48bd78dc8343a24a186aac6b07b <http://schema.org/image> <http://photos.smugmug.com/photos/i-cRQLzm6/0/S/i-cRQLzm6-S.jpg> .
+_:nodebbec8b8dbdad97a78b6138aca06c96b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodebbec8b8dbdad97a78b6138aca06c96b7 <http://schema.org/name> " Women's Chorale -Spring 2014 " .
+_:nodebbec8b8dbdad97a78b6138aca06c96b7 <http://schema.org/url> <http://gallery.calvin.edu/Womens-Chorale-Spring-2014> .
+_:nodebbec8b8dbdad97a78b6138aca06c96b7 <http://schema.org/image> <http://photos.smugmug.com/photos/i-4DGpVwz/0/S/i-4DGpVwz-S.jpg> .
+_:node70e83dc3f33099461a30f1c7526bf79b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node70e83dc3f33099461a30f1c7526bf79b <http://schema.org/name> " ReGathering 2014 " .
+_:node70e83dc3f33099461a30f1c7526bf79b <http://schema.org/url> <http://gallery.calvin.edu/ReGathering-2014> .
+_:node70e83dc3f33099461a30f1c7526bf79b <http://schema.org/image> <http://photos.smugmug.com/photos/i-kSPMQFp/0/S/i-kSPMQFp-S.jpg> .
+_:node18c2444e17ee79666fd4554c39a52f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node18c2444e17ee79666fd4554c39a52f7 <http://schema.org/name> " Date Night with Women's Chorale 2014 " .
+_:node18c2444e17ee79666fd4554c39a52f7 <http://schema.org/url> <http://gallery.calvin.edu/Date-Night-with-Womens-Chorale> .
+_:node18c2444e17ee79666fd4554c39a52f7 <http://schema.org/image> <http://photos.smugmug.com/photos/i-3xMsTPz/0/S/i-3xMsTPz-S.jpg> .
+_:nodef3bb3f9ab1661ebec0f0bb307fd0c5d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef3bb3f9ab1661ebec0f0bb307fd0c5d0 <http://schema.org/name> " Dance Guild -Spring 2014 " .
+_:nodef3bb3f9ab1661ebec0f0bb307fd0c5d0 <http://schema.org/url> <http://gallery.calvin.edu/Dance-Guild-Spring-2014> .
+_:nodef3bb3f9ab1661ebec0f0bb307fd0c5d0 <http://schema.org/image> <http://photos.smugmug.com/photos/i-mqq47Rr/0/S/i-mqq47Rr-S.jpg> .
+_:nodeb884e14b7f3828f5ad8d1d6080bdd01e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb884e14b7f3828f5ad8d1d6080bdd01e <http://schema.org/name> " Campus Choir -Spring 2014 " .
+_:nodeb884e14b7f3828f5ad8d1d6080bdd01e <http://schema.org/url> <http://gallery.calvin.edu/Campus-Choir-Spring-2014> .
+_:nodeb884e14b7f3828f5ad8d1d6080bdd01e <http://schema.org/image> <http://photos.smugmug.com/photos/i-cbBtKXK/0/S/i-cbBtKXK-S.jpg> .
+_:node4c4061c13d5a631eae2288cc35edb4de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node4c4061c13d5a631eae2288cc35edb4de <http://schema.org/name> " Calvin Music Festival '14 " .
+_:node4c4061c13d5a631eae2288cc35edb4de <http://schema.org/url> <http://gallery.calvin.edu/Calvin-Music-Festival-14> .
+_:node4c4061c13d5a631eae2288cc35edb4de <http://schema.org/image> <http://photos.smugmug.com/photos/i-mbQjWDh/0/S/i-mbQjWDh-S.jpg> .
+_:node5b94b2e4c16d50b4a467bea4601aafd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5b94b2e4c16d50b4a467bea4601aafd0 <http://schema.org/name> " Chaos \"Night\" 2014 " .
+_:node5b94b2e4c16d50b4a467bea4601aafd0 <http://schema.org/url> <http://gallery.calvin.edu/Chaos-Night-2014> .
+_:node5b94b2e4c16d50b4a467bea4601aafd0 <http://schema.org/image> <http://photos.smugmug.com/photos/i-DFHb4bq/0/S/i-DFHb4bq-S.jpg> .
+_:node3f5d667465d6b48da1f0bab13c6bd788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node3f5d667465d6b48da1f0bab13c6bd788 <http://schema.org/name> " Sem Pond Jump 2014 " .
+_:node3f5d667465d6b48da1f0bab13c6bd788 <http://schema.org/url> <http://gallery.calvin.edu/Sem-Pond-Jump-2014> .
+_:node3f5d667465d6b48da1f0bab13c6bd788 <http://schema.org/image> <http://photos.smugmug.com/photos/i-SdrDH57/0/S/i-SdrDH57-S.jpg> .
+_:node916ff0f882853894b547f3ddbefc9057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node916ff0f882853894b547f3ddbefc9057 <http://schema.org/name> " Swimming and Diving - MIAA Championships " .
+_:node916ff0f882853894b547f3ddbefc9057 <http://schema.org/url> <http://gallery.calvin.edu/Swimming-and-Diving-MIAA> .
+_:node916ff0f882853894b547f3ddbefc9057 <http://schema.org/image> <http://photos.smugmug.com/photos/i-KxF3XVM/0/S/i-KxF3XVM-S.jpg> .
+_:node73bb49447250e4052fd7a1672998b36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node73bb49447250e4052fd7a1672998b36 <http://schema.org/name> " 50-Year Class Reunion " .
+_:node73bb49447250e4052fd7a1672998b36 <http://schema.org/url> <http://gallery.calvin.edu/50-Year-Class-Reunion> .
+_:node73bb49447250e4052fd7a1672998b36 <http://schema.org/image> <http://photos.smugmug.com/photos/i-vNWQ2RP/0/S/i-vNWQ2RP-S.jpg> .
+_:nodec8c4dc15f3ce7ab9bcf1e93b5ae48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec8c4dc15f3ce7ab9bcf1e93b5ae48 <http://schema.org/name> " Expressions (Poetry Jam) " .
+_:nodec8c4dc15f3ce7ab9bcf1e93b5ae48 <http://schema.org/url> <http://gallery.calvin.edu/Expressions-Poetry-Jam> .
+_:nodec8c4dc15f3ce7ab9bcf1e93b5ae48 <http://schema.org/image> <http://photos.smugmug.com/photos/i-JPWCRqW/0/S/i-JPWCRqW-S.jpg> .
+_:node6e9bb1be4ae6f78095d8ac76e8c934 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node6e9bb1be4ae6f78095d8ac76e8c934 <http://schema.org/name> " The Lone Bellow " .
+_:node6e9bb1be4ae6f78095d8ac76e8c934 <http://schema.org/url> <http://gallery.calvin.edu/The-Lone-Bellow> .
+_:node6e9bb1be4ae6f78095d8ac76e8c934 <http://schema.org/image> <http://photos.smugmug.com/photos/i-GSHnSFf/0/M/i-GSHnSFf-M.jpg> .
+_:nodebe8ec152a28f2f7cb2703170ca3daac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodebe8ec152a28f2f7cb2703170ca3daac <http://schema.org/name> " Men's Soccer vs. Hope " .
+_:nodebe8ec152a28f2f7cb2703170ca3daac <http://schema.org/url> <http://gallery.calvin.edu/Mens-Soccer-vs-Hope> .
+_:nodebe8ec152a28f2f7cb2703170ca3daac <http://schema.org/image> <http://photos.smugmug.com/photos/i-FmGFwwt/0/S/i-FmGFwwt-S.jpg> .
+_:node1da0b73cfa29be47914a701869513077 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node1da0b73cfa29be47914a701869513077 <http://schema.org/name> " Discoloration -Dance Guild Fall '14 " .
+_:node1da0b73cfa29be47914a701869513077 <http://schema.org/url> <http://gallery.calvin.edu/Discoloration-Dance-Guild-Fall> .
+_:node1da0b73cfa29be47914a701869513077 <http://schema.org/image> <http://photos.smugmug.com/photos/i-TSHwgHH/0/S/i-TSHwgHH-S.jpg> .
+_:node226d9f4f15d12f16892bc91841cfea52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node226d9f4f15d12f16892bc91841cfea52 <http://schema.org/name> " Cokes 'n Clubs " .
+_:node226d9f4f15d12f16892bc91841cfea52 <http://schema.org/url> <http://gallery.calvin.edu/Cokes-n-Clubs> .
+_:node226d9f4f15d12f16892bc91841cfea52 <http://schema.org/image> <http://photos.smugmug.com/photos/i-6ZFwk6K/0/S/i-6ZFwk6K-S.jpg> .
+_:node14de119b886bd8162fb823741de3297 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node14de119b886bd8162fb823741de3297 <http://schema.org/name> " Nite Life: Dodgeball " .
+_:node14de119b886bd8162fb823741de3297 <http://schema.org/url> <http://gallery.calvin.edu/Nite-Life-Dodgeball> .
+_:node14de119b886bd8162fb823741de3297 <http://schema.org/image> <http://photos.smugmug.com/photos/i-qGD8tFz/0/S/i-qGD8tFz-S.jpg> .
+_:node796b3795bfadf86927b22fb85c1d4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node796b3795bfadf86927b22fb85c1d4 <http://schema.org/name> " Friday Chapel w/ Gospel Choir " .
+_:node796b3795bfadf86927b22fb85c1d4 <http://schema.org/url> <http://gallery.calvin.edu/Friday-Chapel-w-Gospel-Choir> .
+_:node796b3795bfadf86927b22fb85c1d4 <http://schema.org/image> <http://photos.smugmug.com/photos/i-CKmdnMS/0/M/i-CKmdnMS-M.jpg> .
+_:nodeb3dfd35686f586b229c186f2f9163c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb3dfd35686f586b229c186f2f9163c9 <http://schema.org/name> " Fall at Calvin " .
+_:nodeb3dfd35686f586b229c186f2f9163c9 <http://schema.org/url> <http://gallery.calvin.edu/Fall-at-Calvin> .
+_:nodeb3dfd35686f586b229c186f2f9163c9 <http://schema.org/image> <http://photos.smugmug.com/photos/i-J6q7pKG/0/S/i-J6q7pKG-S.jpg> .
+_:nodeb65837f234f2122f820c64e5a8f12f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb65837f234f2122f820c64e5a8f12f4 <http://schema.org/name> " Capella Concert -Spring2014 " .
+_:nodeb65837f234f2122f820c64e5a8f12f4 <http://schema.org/url> <http://gallery.calvin.edu/Capella-Concert-Spring2014> .
+_:nodeb65837f234f2122f820c64e5a8f12f4 <http://schema.org/image> <http://photos.smugmug.com/photos/i-x9MB47Q/0/S/i-x9MB47Q-S.jpg> .
+_:nodef8fd19f0425932aef02212edcd2f565f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef8fd19f0425932aef02212edcd2f565f <http://schema.org/name> " Calvin's Got Talent -2014 " .
+_:nodef8fd19f0425932aef02212edcd2f565f <http://schema.org/url> <http://gallery.calvin.edu/Calvins-Got-Talent> .
+_:nodef8fd19f0425932aef02212edcd2f565f <http://schema.org/image> <http://photos.smugmug.com/photos/i-hPSJ35P/0/M/i-hPSJ35P-M.jpg> .
+_:nodef86222f516c7d3d1a17534b5bf31d57f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef86222f516c7d3d1a17534b5bf31d57f <http://schema.org/name> " 2014 Commencement " .
+_:nodef86222f516c7d3d1a17534b5bf31d57f <http://schema.org/url> <http://gallery.calvin.edu/2014-Commencement> .
+_:nodef86222f516c7d3d1a17534b5bf31d57f <http://schema.org/image> <http://photos.smugmug.com/photos/i-krwvvVh/0/S/i-krwvvVh-S.jpg> .
+_:node983e3bef3ac6b9fcfe3f7a38b7c6d8bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node983e3bef3ac6b9fcfe3f7a38b7c6d8bc <http://schema.org/name> " January Series \u2014 Final Day " .
+_:node983e3bef3ac6b9fcfe3f7a38b7c6d8bc <http://schema.org/url> <http://gallery.calvin.edu/January-Series-Final-Day> .
+_:node983e3bef3ac6b9fcfe3f7a38b7c6d8bc <http://schema.org/image> <http://photos.smugmug.com/photos/i-LZ9MGqv/0/S/i-LZ9MGqv-S.jpg> .
+_:nodef776a0434556ab9bad4a7cd8747bb785 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef776a0434556ab9bad4a7cd8747bb785 <http://schema.org/name> " Calvin Swim & Dive Meet vs. GVSU " .
+_:nodef776a0434556ab9bad4a7cd8747bb785 <http://schema.org/url> <http://gallery.calvin.edu/Calvin-Swim-Dive-Meet-vs-GVSU-> .
+_:nodef776a0434556ab9bad4a7cd8747bb785 <http://schema.org/image> <http://photos.smugmug.com/photos/i-RJjrGtB/0/S/i-RJjrGtB-S.jpg> .
+_:node17d65f9ec0d46fbfeea5b5131e39e467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node17d65f9ec0d46fbfeea5b5131e39e467 <http://schema.org/name> " Women's Soccer vs. Alma " .
+_:node17d65f9ec0d46fbfeea5b5131e39e467 <http://schema.org/url> <http://gallery.calvin.edu/Womens-Soccer-vs-Alma> .
+_:node17d65f9ec0d46fbfeea5b5131e39e467 <http://schema.org/image> <http://photos.smugmug.com/photos/i-RNPDctK/0/S/i-RNPDctK-S.jpg> .
+_:node15ed189be9f3d6949e8f9467a29a42f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

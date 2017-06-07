@@ -1,0 +1,15 @@
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/377137.jpg" .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://ogp.me/ns#description> "Brew a more flavorful pot of coffee with Calphalon replacement charcoal water filters. They can be used in any Calphalon coffee maker for the freshest-tasting cup." .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/replacement-charcoal-water-filters-by-calphalon_377137_11/0/1/" .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://ogp.me/ns#title> "Replacement Charcoal Water Filters by Calphalon at Cooking.com" .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/replacement-charcoal-water-filters-by-calphalon_377137_11/0/1/> .
+_:genid2d8036033b0cda46b8b71eb36c641ff22a2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.temperleylondon.com/shop/deneuve-top.html#Review-aggregate_30716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

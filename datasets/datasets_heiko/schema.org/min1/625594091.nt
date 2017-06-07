@@ -1,0 +1,9 @@
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/name> <http://is.hotels.com/de1640676-am2/likamsr-kt-hotel-chennai-indland//> .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/name> <http://is.hotels.com/co100/hotel-i-indland/> .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/name> <http://is.hotels.com/de1640676/hotel-i-chennai-indland/> .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/name> "H\u00F3tel \u2013 Chennai, L\u00EDkamsr\u00E6kt"@is .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/breadcrumb> "H\u00F3telH\u00F3tel \u2013 IndlandH\u00F3tel - ChennaiH\u00F3tel \u2013 Chennai, L\u00EDkamsr\u00E6kt"@is .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/url> <http://is.hotels.com/de1640676-am2/likamsr-kt-hotel-chennai-indland//> .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/url> <http://is.hotels.com/co100/hotel-i-indland/> .
+_:nodefaa574ca87ee76d4d7891c93c594297c <http://schema.org/url> <http://is.hotels.com/de1640676/hotel-i-chennai-indland/> .
+_:noded0851298a5203fa640104c3847e94f94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

@@ -1,0 +1,23 @@
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69536 <http://purl.org/goodrelations/v1#legalName> "Whittard of Chelsea" .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg> <https://www.facebook.com/2008/fbmladmins> "145872942641" .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d59a810abcc4741aa9a522352fec189e92dN69597 .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "111039_B_125"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg> .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://purl.org/goodrelations/v1#description> "Strong Roast Coffee from Whittard of Chelsea including Santos Java" .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://purl.org/goodrelations/v1#name> "Santos and Java Coffee" .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://rdf.data-vocabulary.org/#votes> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://purl.org/stuff/rev#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://purl.org/stuff/rev#totalRatings> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69620 <http://rdf.data-vocabulary.org/#average> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d59a810abcc4741aa9a522352fec189e92dN69620 .
+<http://www.whittard.co.uk/santos-and-java-coffee.htm?image=%2F%2Bv%3Af6371b%2Fproduct%2F111039.jpg#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d59a810abcc4741aa9a522352fec189e92dN69620 .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69597 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d59a810abcc4741aa9a522352fec189e92dN69597 <http://purl.org/goodrelations/v1#hasCurrencyValue> "3.50"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d6a3c580543314c3b94e522ead785797d2dN68103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

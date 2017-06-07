@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Battle_of_Midway> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Chester_W._Nimitz> .
+<http://dbpedia.org/resource/Battle_of_Midway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Midway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Battle_of_Midway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Chester_W._Nimitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryPerson> .
+<http://dbpedia.org/resource/Chester_W._Nimitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Chester_W._Nimitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

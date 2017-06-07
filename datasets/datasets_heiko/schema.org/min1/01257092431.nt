@@ -1,0 +1,11 @@
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/name> <http://id.hotels.com/de1532841-am2097152/alat-bantu-tuna-rungu-hotel-gilroy-california//> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/name> <http://id.hotels.com/co225/hotel-di-amerika-serikat/> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/name> <http://id.hotels.com/sa5/hotel-di-california-amerika-serikat/> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/name> <http://id.hotels.com/de1532841/hotel-gilroy-california/> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/name> "Hotel dengan alat bantu tuna rungu di Gilroy - Amerika Serikat"@in .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/breadcrumb> "HotelHotel Amerika SerikatHotel Di California Amerika SerikatHotel Gilroy - Amerika SerikatHotel dengan alat bantu tuna rungu di Gilroy - Amerika Serikat"@in .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/url> <http://id.hotels.com/de1532841-am2097152/alat-bantu-tuna-rungu-hotel-gilroy-california//> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/url> <http://id.hotels.com/co225/hotel-di-amerika-serikat/> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/url> <http://id.hotels.com/sa5/hotel-di-california-amerika-serikat/> .
+_:node76119835c7995c689b1848e2b933d466 <http://schema.org/url> <http://id.hotels.com/de1532841/hotel-gilroy-california/> .
+<http://www.nytimes.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

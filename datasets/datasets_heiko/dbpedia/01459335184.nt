@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Belinda_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Stephen_P._Synnott> .
+<http://dbpedia.org/resource/Belinda_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Belinda_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Stephen_P._Synnott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Stephen_P._Synnott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

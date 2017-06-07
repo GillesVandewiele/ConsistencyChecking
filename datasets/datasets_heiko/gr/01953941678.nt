@@ -1,0 +1,21 @@
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73665 .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "DR464-BLK-10ZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm> .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://purl.org/goodrelations/v1#description> "A wardrobe hero that solves countless dressing dilemmas, our premium quality Ruched Jersey Dress will breathe new life into your everyday style.." .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://purl.org/goodrelations/v1#name> "Baukjen Ruched Jersey Dress" .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm> <http://xmlns.com/foaf/0.1/page> <http://www.baukjen.com/shop/baukjen/dresses/bodycon-dresses/ruched-jersey-dress-caviar-black.htm> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73603 <http://purl.org/goodrelations/v1#legalName> "Baukjen Womenswear UK" .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://rdf.data-vocabulary.org/#votes> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://purl.org/stuff/rev#rating> "4.4333333333333"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://purl.org/stuff/rev#totalRatings> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 <http://rdf.data-vocabulary.org/#average> "4.4333333333333"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 .
+<http://www.baukjen.com/uk/shop/baukjen/dresses/Ruched-Jersey-Dress-Caviar-Black.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73683 .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73665 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d8e4f14526a13429eb1fa818a5fecc37f2dN73665 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.eastwood.com/70-to-71-plymouth-barracuda-tail-light-panel.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

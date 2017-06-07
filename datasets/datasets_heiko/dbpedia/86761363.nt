@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Lake_Tana> <http://dbpedia.org/ontology/island> <http://dbpedia.org/resource/Tana_Qirqos> .
+<http://dbpedia.org/resource/Lake_Tana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Lake_Tana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Lake_Tana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BodyOfWater> .
+<http://dbpedia.org/resource/Lake_Tana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> .
+<http://dbpedia.org/resource/Lake_Tana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lake> .

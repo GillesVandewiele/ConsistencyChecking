@@ -1,0 +1,16 @@
+<http://www.joke.co.uk/elf-fancy-dress-costume~73811/?currency=EUR#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68302 .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=73811> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=73811> .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68187 <http://rdf.data-vocabulary.org/#count> "3"@en .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68187 <http://rdf.data-vocabulary.org/#rating> "5"@en .
+<http://www.joke.co.uk/elf-fancy-dress-costume~73811/?currency=EUR#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/elf-fancy-dress-costume~73811/?currency=EUR#main> <http://purl.org/goodrelations/v1#name> "Elf Fancy Dress Costume"@en .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dN68187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dN68187 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68187 .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dN68187 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=73811> .
+<http://www.joke.co.uk/elf-fancy-dress-costume~73811/?currency=EUR#main> <http://purl.org/goodrelations/v1#description> "Get into the festive spirit with our fantastic Elf Fancy Dress Costume!  This cheerful red, green and yellow outfit is perfect for a Christmas party!\n\nCostume includes:\n\nTunic\nTrousers\nHat\n\n\nThe Elf Fancy Dress Costume includes a pair of red trousers with a green patch on one of the legs.\n\nAlso included is a green tunic with yellow sleeves and gold button detailing.\n\nThe finishing touch for this outfit is a green and red elf hat with a gold bell."@en .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dN68253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dN68253 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68253 .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68253 <http://purl.org/goodrelations/v1#hasCurrency> "EUR"@en .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68253 <http://purl.org/goodrelations/v1#hasCurrencyValue> "23.99"@en .
+_:genid2d9a85c13013b047b58165d3a290639f5a2dINSIDE5fN68302 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.warmyourfloor.com/snow-ice-melting/promelt-cables/promelt-18-sq-ft-277v-snow-melting-cable.html#TypeAndQuantityNode_1049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

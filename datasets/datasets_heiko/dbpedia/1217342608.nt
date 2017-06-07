@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/The_Walt_Disney_Company> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Amusement_park> .
+<http://dbpedia.org/resource/The_Walt_Disney_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/The_Walt_Disney_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/The_Walt_Disney_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .

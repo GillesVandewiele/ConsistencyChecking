@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Cacophonous_Records> .
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Dimmu_Borgir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .

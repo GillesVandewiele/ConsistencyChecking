@@ -1,0 +1,9 @@
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/name> <http://fi.hotels.com/de1633885-qu0/hotellit-taloudellinen-yhdistynyt-kuningaskunta-telford//> .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/name> <http://fi.hotels.com/co224/hotellit-yhdistynyt-kuningaskunta/> .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/name> <http://fi.hotels.com/de1633885/hotellit-yhdistynyt-kuningaskunta-telford/> .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/name> "Edulliset hotellit Telford"@fi .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/breadcrumb> "HotellitHotellit Yhdistynyt KuningaskuntaHotellit TelfordEdulliset hotellit Telford"@fi .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/url> <http://fi.hotels.com/de1633885-qu0/hotellit-taloudellinen-yhdistynyt-kuningaskunta-telford//> .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/url> <http://fi.hotels.com/co224/hotellit-yhdistynyt-kuningaskunta/> .
+_:nodebd232084e9a3bbf263464441743446a8 <http://schema.org/url> <http://fi.hotels.com/de1633885/hotellit-yhdistynyt-kuningaskunta-telford/> .
+_:node51dd91d68e157bba40458753c1448962 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

@@ -1,0 +1,14 @@
+<http://www.okazii.ro/alte-produse-vintage/serpar-chimir-brau-a137589458#main> <http://xmlns.com/foaf/0.1/depiction> <javascript:void(0)> .
+<http://www.okazii.ro/alte-produse-vintage/serpar-chimir-brau-a137589458#main> <http://purl.org/goodrelations/v1#name> "serpar chimir brau" .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66687 <http://purl.org/goodrelations/v1#hasValue> "1" .
+<http://www.okazii.ro/alte-produse-vintage/serpar-chimir-brau-a137589458#main> <http://purl.org/goodrelations/v1#validThrough> "2014-12-18T15:22:00+02:00" .
+<http://www.okazii.ro/alte-produse-vintage/serpar-chimir-brau-a137589458#main> <http://purl.org/goodrelations/v1#description> "In stare destul de buna,este facut si cusut manual,urme vizibile de folosinta si are 90 cm lungime si 10 cm latime,pozele sunt reale\nPentru a evita situatii neplacute va rog verificati disponibilitatea acestui produs inainte de a-l comanda,\nPentru a afla mai multe detalii despre produs va rog sa folositi forumul cu incredere,printr-un mesaj in cadrul licitatiei!\nPreturile sunt negociabile in limita rezonabilului si a bunului simt.\nCostul transportului este relativ,depinde cu cine se face si modalitatea de plata\nOdata ce ati licitat sunteti raspunzator pentru cumpararea acestui produs" .
+<http://www.okazii.ro/alte-produse-vintage/serpar-chimir-brau-a137589458#main> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66636 .
+<http://www.okazii.ro/alte-produse-vintage/serpar-chimir-brau-a137589458#main> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66687 .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66636 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66636 <http://purl.org/goodrelations/v1#hasCurrency> "RON" .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66636 <http://purl.org/goodrelations/v1#hasCurrencyValue> "168" .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66571 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d4a2a7a49648b494d9f639fc79a6770c82dN66571 <http://purl.org/goodrelations/v1#hasValue> "1" .
+<http://www.warmyourfloor.com/snow-ice-melting/promelt-installation-accessories/promelt-controls-automation/promelt-cp-200-snow-melt-control-panel.html#Offering_1369> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .

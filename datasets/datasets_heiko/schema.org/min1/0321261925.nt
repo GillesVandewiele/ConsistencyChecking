@@ -1,0 +1,6 @@
+_:nodedc17d849f09c7f4c7cdcea324e24030 <http://schema.org/name> "Stop Office for Mac from loading with earlier documents on top of the one I opened?" .
+_:nodedc17d849f09c7f4c7cdcea324e24030 <http://schema.org/title> "Stop Office for Mac from loading with earlier documents on top of the one I opened?" .
+_:nodedc17d849f09c7f4c7cdcea324e24030 <http://schema.org/description> "Here's an irritation that annoys me almost every working day:\n\n\nI need to work from a Word or Excel (for Mac, Office 2011) document.\nSo, I find the document on the shared server, and open it.\nThe " .
+_:nodedc17d849f09c7f4c7cdcea324e24030 <http://schema.org/image> "http://cdn.sstatic.net/apple/img/apple-touch-icon@2.png?v=c35bdfbaec7c" .
+_:nodedc17d849f09c7f4c7cdcea324e24030 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/apple/img/apple-touch-icon@2.png?v=c35bdfbaec7c" .
+_:node1cba30846cf5d05fc8e93a2dab0611f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .

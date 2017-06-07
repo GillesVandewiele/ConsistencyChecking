@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Herod_the_Great> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Antigonus_II_Mattathias> .
+<http://dbpedia.org/resource/Herod_the_Great> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Herod_the_Great> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Herod_the_Great> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Monarch> .

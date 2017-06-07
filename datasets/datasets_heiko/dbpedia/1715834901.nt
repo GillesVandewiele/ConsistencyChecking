@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bacillus> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Firmicutes> .
+<http://dbpedia.org/resource/Bacillus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Bacillus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bacteria> .
+<http://dbpedia.org/resource/Firmicutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bacteria> .
+<http://dbpedia.org/resource/Firmicutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .

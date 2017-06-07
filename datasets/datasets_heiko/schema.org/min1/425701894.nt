@@ -1,0 +1,22 @@
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/name> "Alarm clock"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/author> "milosluz"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/ratingValue> "4.7"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/datePublished> "Jun.02, 2011"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/description> "Black alarm clock against dark background"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/ratingCount> "640,860"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/image> <http://static6.depositphotos.com/1083303/575/i/450/depositphotos_5757427-Alarm-clock.jpg> .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/aggregateRating> "Null"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "alarm clock"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "bells"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "black"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "chronometer"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "clock"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "hands"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "numbers"@en .
+_:node94963024c87fbf2f238678a4c4da0c0 <http://schema.org/keywords> "time"@en .
+_:node82177b1d4bcbe942d4fa3d355bde77dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node82177b1d4bcbe942d4fa3d355bde77dd <http://schema.org/name> "Depositphotos'"@en .
+_:noded32e299cf53860626b2f1afd727d9782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded32e299cf53860626b2f1afd727d9782 <http://schema.org/logo> <http://depositphotos.com/5757427/stock-photo-alarm-clock.html///static.depositphotos.com/img/depositphotos-logo.png> .
+_:noded32e299cf53860626b2f1afd727d9782 <http://schema.org/url> <http://depositphotos.com/> .
+<http://books.google.com/books/about/Genealogical_and_Family_History_of_the_S.html?id=cfoI0UIOCKQC&q=libby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

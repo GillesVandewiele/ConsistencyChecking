@@ -1,0 +1,5 @@
+<http://books.google.com/books/about/Here_today.html?id=_IwdAQAAMAAJ> <http://schema.org/Book/image> <http://books.google.com/books/content?id=_IwdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70SUJEmes79bbYtMMLuKOnKABgxW2UkzBpTTZF9WkUHxLLbEZgQfQT5fso9IOYRrCq5kcl06ayJDhHHL6sSGH1PQQk4NyQ0OhgUzuv8hB4FqcIB21Y> .
+<http://books.google.com/books/about/Here_today.html?id=_IwdAQAAMAAJ> <http://schema.org/Book/url> "http://books.google.com/books/about/Here_today.html?id=_IwdAQAAMAAJ&utm_source=gb-gplus-share" .
+<http://books.google.com/books/about/Here_today.html?id=_IwdAQAAMAAJ> <http://schema.org/Book/name> "Here today" .
+<http://books.google.com/books/about/Here_today.html?id=_IwdAQAAMAAJ> <http://schema.org/Book/description> "books.google.com" .
+_:node393c91a2c3dbbc796328623d37bd1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,6 @@
+_:node2f7028f3da484edfaa8eb4337949e29 <http://schema.org/name> "Nautilus \"unable to mount <volume>\" and \"not authorized\" and LightDM keeps sending me back to login screen on shutdown and restart" .
+_:node2f7028f3da484edfaa8eb4337949e29 <http://schema.org/title> "Nautilus \"unable to mount <volume>\" and \"not authorized\" and LightDM keeps sending me back to login screen on shutdown and restart" .
+_:node2f7028f3da484edfaa8eb4337949e29 <http://schema.org/description> "\n  Possible Duplicate:\n  Can&#39;t mount filesystems and computer won&#39;t shut down  \n\n\n\n\nUsing Nautilus I can't get my internal or external volumes to mount and get \"unable to mount \" and \"not " .
+_:node2f7028f3da484edfaa8eb4337949e29 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node2f7028f3da484edfaa8eb4337949e29 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodeb2b289e8bdf4f39e01efa8b5771fcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .

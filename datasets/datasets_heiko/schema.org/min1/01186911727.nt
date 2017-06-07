@@ -1,0 +1,3 @@
+_:nodebf47f995b51e588a886d9e03d9dabe5 <http://schema.org/name> "User Blogs"@en .
+_:nodebf47f995b51e588a886d9e03d9dabe5 <http://schema.org/description> "Null"@en .
+_:node328f702cea0e57843b8e884bf30f2ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

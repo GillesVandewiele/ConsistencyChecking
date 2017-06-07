@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zurich> <http://dbpedia.org/ontology/neighboringMunicipality> <http://dbpedia.org/resource/Uitikon> .
+<http://dbpedia.org/resource/Uitikon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Uitikon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Uitikon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Uitikon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

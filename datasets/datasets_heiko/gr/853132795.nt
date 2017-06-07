@@ -1,0 +1,20 @@
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/z/1/z1111501-2.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/z/1/z1111501-2.jpg> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74242 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74242 <http://rdf.data-vocabulary.org/#count> ""@en .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74242 <http://rdf.data-vocabulary.org/#rating> _:genid2d9b49a35328044a09a928db856a1a9a2f2dN74258 .
+<http://www.triathletesports.com/clearance/shoes/tri-shoes/zoot-men-s-ultra-kalani-2-0-shoe-2012.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/clearance/shoes/tri-shoes/zoot-men-s-ultra-kalani-2-0-shoe-2012.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d9b49a35328044a09a928db856a1a9a2f2dN74221 .
+<http://www.triathletesports.com/clearance/shoes/tri-shoes/zoot-men-s-ultra-kalani-2-0-shoe-2012.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/z/1/z1111501-2.jpg> .
+<http://www.triathletesports.com/clearance/shoes/tri-shoes/zoot-men-s-ultra-kalani-2-0-shoe-2012.html#offering> <http://purl.org/goodrelations/v1#description> "The premium cushioning you want with the lightweight comfort and flexibility we've perfected.<br><ul><li>A UltraFit upper provides a glove-like fit while the full length Z-bound gives the ULTRA Kalani plush cushioning <br></li><li>CarbonSpan+ creates unmatched support and toe-spring for the ultimate balanced shoe</li><li>Weight: 9.8 oz.</li><li>Neutral Shoe<br></li></ul><br>"@en .
+<http://www.triathletesports.com/clearance/shoes/tri-shoes/zoot-men-s-ultra-kalani-2-0-shoe-2012.html#offering> <http://purl.org/goodrelations/v1#name> "Zoot Men's ULTRA Kalani 2.0 Shoe - Only Size 9 Left!"@en .
+<http://www.triathletesports.com/clearance/shoes/tri-shoes/zoot-men-s-ultra-kalani-2-0-shoe-2012.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74258 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74258 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74258 <http://rdf.data-vocabulary.org/#average> "0"@en .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74221 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74221 <http://purl.org/goodrelations/v1#hasCurrencyValue> "85.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d9b49a35328044a09a928db856a1a9a2f2dN74242 <http://rdf.data-vocabulary.org/#itemreviewed> "Zoot Men's ULTRA Kalani 2.0 Shoe - Only Size 9 Left!"@en .
+<http://www.polar-ray.com/crosstour-led-wall-pack-1033.html#offering> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.polar-ray.com/#shop> .

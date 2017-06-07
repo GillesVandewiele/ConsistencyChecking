@@ -1,0 +1,14 @@
+_:node8d80e25d882c26cb27d796226c2ca42f <http://schema.org/price> "5.00"@en .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/23858721/ico-logo.jpg> .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/audio> _:node7eae950e1337bcc991a8620508ff1 .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/offers> _:node8d80e25d882c26cb27d796226c2ca42f .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/genre> <http://audiojungle.net/category/logos-idents/individual> .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/description> "\n        Short and bracing logo. Perfect for jingles and transitions on TV and radio.\n\n\n\tThis track is part of\n Every Day Logos Pack \n\n\n\t\n      "@en .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/discussionUrl> <http://audiojungle.net/item/logo-in-latin-style/1965146?sso?WT.ac=portfolio_item&WT.seg_1=portfolio_item&WT.z_author=sixthtulip//item/logo-in-latin-style/1965146/comments> .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/name> "  Logo in Latin Style\n"@en .
+_:node3dbfb6f72eb9eb458e58ec358b359e6 <http://schema.org/interactionCount> "UserDownloads:8"@en .
+_:node7eae950e1337bcc991a8620508ff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AudioObject> .
+_:node7eae950e1337bcc991a8620508ff1 <http://schema.org/duration> "0:06"@en .
+_:node7eae950e1337bcc991a8620508ff1 <http://schema.org/contentUrl> <https://0.s3.envato.com/files/22773277/preview.mp3> .
+_:node5483d61248f6f06261247e8fde28a4e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/IndividualProduct> .

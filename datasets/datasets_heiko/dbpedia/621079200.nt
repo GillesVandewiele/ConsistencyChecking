@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Saint_Ninian__St_Ninian's_Cave__1> <http://dbpedia.org/ontology/lieutenancyArea> <http://dbpedia.org/resource/Wigtown> .
+<http://dbpedia.org/resource/Wigtown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Wigtown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Wigtown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Wigtown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

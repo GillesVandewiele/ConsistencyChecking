@@ -1,0 +1,45 @@
+<http://www.aboutspace.net.au/#shop> <http://www.w3.org/2006/vcard/ns#adr> <http://www.aboutspace.net.au/#shopaddress> .
+<http://www.aboutspace.net.au/#address> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+<http://www.aboutspace.net.au/#address> <http://www.w3.org/2006/vcard/ns#postal-code> "3065"@en .
+<http://www.aboutspace.net.au/#address> <http://www.w3.org/2006/vcard/ns#locality> "Fitzroy"@en .
+<http://www.aboutspace.net.au/#address> <http://www.w3.org/2006/vcard/ns#country-name> "Australia"@en .
+<http://www.aboutspace.net.au/#address> <http://www.w3.org/2006/vcard/ns#street-address> "179 Gertrude Street"@en .
+<http://www.aboutspace.net.au/#shopaddress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+<http://www.aboutspace.net.au/#shopaddress> <http://www.w3.org/2006/vcard/ns#postal-code> "3065"@en .
+<http://www.aboutspace.net.au/#shopaddress> <http://www.w3.org/2006/vcard/ns#locality> "Fitzroy"@en .
+<http://www.aboutspace.net.au/#shopaddress> <http://www.w3.org/2006/vcard/ns#country-name> "Australia"@en .
+<http://www.aboutspace.net.au/#shopaddress> <http://www.w3.org/2006/vcard/ns#street-address> "179 Gertrude Street"@en .
+<http://www.aboutspace.net.au/#shop> <http://www.w3.org/2006/vcard/ns#email> "info@aboutspace.net.au"@en .
+<http://www.aboutspace.net.au/#shop> <http://www.w3.org/2006/vcard/ns#tel> "0394174635"@en .
+<http://www.aboutspace.net.au/#businessEntity> <http://purl.org/goodrelations/v1#hasPOS> <http://www.aboutspace.net.au/#shop> .
+<http://www.aboutspace.net.au/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-23T00:44:12+10:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.aboutspace.net.au/#shop> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DHL> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModePickUp> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-23T00:44:12+10:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#description> "Pendant Lights, Table Lights, Floor Lamps, Wall Lights, LED lighting, Classic Bulbs, LED Bulbs and Furnitures."@en .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Cash> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DirectDebit> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#ByBankTransferInAdvance> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AU"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.aboutspace.net.au/#offering> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.aboutspace.net.au/> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Enduser> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Business> .
+<http://www.aboutspace.net.au/#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Reseller> .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/2006/vcard/ns#url> <http://www.aboutspace.net.au/> .
+<http://www.aboutspace.net.au/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.aboutspace.net.au/#offering> .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/2006/vcard/ns#email> "info@aboutspace.net.au"@en .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/2006/vcard/ns#tel> "0394174635"@en .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/2006/vcard/ns#fn> "AboutSpace Lighting"@en .
+<http://www.aboutspace.net.au/#businessEntity> <http://purl.org/goodrelations/v1#legalName> "AboutSpace Lighting"@en .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/2006/vcard/ns#adr> <http://www.aboutspace.net.au/#address> .
+<http://www.aboutspace.net.au/#businessEntity> <http://www.w3.org/2000/01/rdf-schema#label> "AboutSpace Lighting"@en .
+<http://www.surveillance-video.com/camera-0362-004.html/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

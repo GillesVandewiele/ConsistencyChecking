@@ -1,0 +1,45 @@
+_:node7f8e579440111d2260be923e3bc1f4ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node7f8e579440111d2260be923e3bc1f4ff <http://schema.org/ratingCount> "12" .
+_:node7f8e579440111d2260be923e3bc1f4ff <http://schema.org/ratingValue> "4.6" .
+_:node429c4391188047c944c63b7bb22e6c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node429c4391188047c944c63b7bb22e6c0 <http://schema.org/image> <http://cookieandkate.com/images/2014/10/sweet-potato-red-pepper-feta-frittata-1-2-178x245.jpg> .
+_:node1d86ed3636a9221458f3b23e5af692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node1d86ed3636a9221458f3b23e5af692 <http://schema.org/image> <http://cookieandkate.com/images/2014/11/apple-crisp-recipe-178x245.jpg> .
+_:node37cddb9c352b2f453e7e65ff939aeafd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node37cddb9c352b2f453e7e65ff939aeafd <http://schema.org/image> <http://cookieandkate.com/images/2014/10/healthy-maple-pumpkin-muffins-178x245.jpg> .
+_:noded1c86d59b4b5238f20b7f5bcc6fe21a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:noded1c86d59b4b5238f20b7f5bcc6fe21a2 <http://schema.org/description> "Whole Foods and Vegetarian Recipe Blog" .
+_:noded1c86d59b4b5238f20b7f5bcc6fe21a2 <http://schema.org/headline> "Cookie and Kate" .
+_:nodeddf055f7e8f2cb165b71c6ebb39d8320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeddf055f7e8f2cb165b71c6ebb39d8320 <http://schema.org/image> <http://cookieandkate.com/images/2014/10/homemade-pumpkin-chai-latte-1-178x245.jpg> .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/name> "Honey Whole Wheat Pumpkin Bread" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u2153 cup melted coconut oil or extra-virgin olive oil" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BD cup honey" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "2 eggs" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "1 cup pumpkin pur\u00E9e" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "1 teaspoon vanilla extract" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BD teaspoon salt" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BD teaspoon cinnamon, plus more to swirl on top" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BD teaspoon ginger" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BC teaspoon nutmeg" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BC teaspoon allspice or cloves" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "1\u00BE cups whole wheat pastry flour or regular whole wheat flour" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "Optional- \u2153 to \u00BD cup rinsed millet" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "1 teaspoon baking soda*" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "\u00BC cup hot water*" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/ingredients> "Optional- turbinado (raw) sugar for sprinkling on top" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/author> "Cookie and Kate" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/description> "Whole wheat, honey-sweetened pumpkin bread that only requires one bowl to make. You don't have to tell anyone it's healthy!" .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/image> <http://cookieandkate.com/images/2011/10/whole-wheat-pumpkin-bread-9-550x821.jpg> .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/recipeInstructions> "Preheat oven to 325 degrees Fahrenheit (165 degrees Celsius) and grease a 9x5 inch loaf pan." .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/recipeInstructions> "In a large bowl, beat oil and honey together. Add eggs, and beat well." .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/recipeInstructions> "Stir in pumpkin pur\u00E9e and vanilla, then the salt, cinnamon, ginger, nutmeg and allspice. Stir in flour, just until combined. If you\u2019re adding millet, stir that in as well." .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/recipeInstructions> "Add baking soda to hot water, stir to mix, and then mix briefly into batter until it is evenly distributed. Spread batter into the greased loaf pan." .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/recipeInstructions> "Sprinkle with cinnamon, and swirl with the tip of a table knife for a pretty marbled effect. Sprinkle a big pinch of turbinado sugar on top for a light, sweet crunch." .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/recipeInstructions> "Bake for 60 to 65 minutes. Be sure to check that the bread is done baking by inserting a toothpick in the top. It should come out clean. If the top of the bread jiggles when you pull it out of the oven, it\u2019s NOT done! Let the bread cool in the loaf pan for 5 minutes, then transfer it to a wire rack to cool for 30 minutes before slicing." .
+_:nodef3ca0a45295c5227f24e26258a4fc7 <http://schema.org/aggregateRating> _:node7f8e579440111d2260be923e3bc1f4ff .
+_:node5ddb6ec719e152666260b24c68db051 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:nodebf588878a1beed8631108d82731055e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodebf588878a1beed8631108d82731055e5 <http://schema.org/image> <http://cookieandkate.com/images/2014/02/sweet-potato-and-black-bean-tacos-with-avocado-pepita-dip-2-178x245.jpg> .
+_:node783c22a372e3e34adeaef381db77e7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

@@ -1,0 +1,15 @@
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/603088.jpg" .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://ogp.me/ns#description> "Dine like a celebrity with the Rachael Ray 20-pc. Pinwheel Flatware Set from Cooking.com. Each knife, fork and spoon coordinates perfectly with other Rachael Ray dinnerware patterns, turning your table into an exquisite showpiece." .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/20-pc-pinwheel-flatware-set-by-rachael-ray_603088_11/" .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://ogp.me/ns#title> "20-pc. Pinwheel Flatware Set by Rachael Ray at Cooking.com" .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/20-pc-pinwheel-flatware-set-by-rachael-ray_603088_11/> .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.diydoctor.org.uk/DIY-superstore/pipe-clip-reducer-22mm-to-15mm-box-100.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.diydoctor.org.uk/DIY-superstore/pipe-clip-reducer-22mm-to-15mm-box-100.html#TypeAndQuantityNode_13403> .

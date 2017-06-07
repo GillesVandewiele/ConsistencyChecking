@@ -1,0 +1,15 @@
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/588815.jpg" .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://ogp.me/ns#description> "Let Cooking.com help you present an outstanding meal with the Rachael Ray 2-pc. Orange Stoneware Round Baker Set. With shallow sides and handles, this stoneware is perfect for preparing portions of peppered tilapia, baked vegetables or pasta salad." .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/orange-2-pc-stoneware-round-baker-set-by-rachael-ray_588815_11/" .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://ogp.me/ns#title> "Orange 2-pc. Stoneware Round Baker Set by Rachael Ray at Cooking.com" .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/orange-2-pc-stoneware-round-baker-set-by-rachael-ray_588815_11/> .
+_:genid2d5468cbc9c0694a18aece1789c8cfa3632dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.modani.com/furniture-stores/sales/scopik-floor-lamp#UnitPriceSpecification_834_special> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

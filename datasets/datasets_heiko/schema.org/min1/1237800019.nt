@@ -1,0 +1,6 @@
+_:node9a3814c8a6bab93a4baf873faa4a048 <http://schema.org/keywords> "1998 Escort LX Sedan comparison, compare 1998 Escort LX Sedan"@en-us .
+_:node9a3814c8a6bab93a4baf873faa4a048 <http://schema.org/image> "http://images.automotive.com/stock/200/FORD/ESCORT/1998/4SA.JPG"@en-us .
+_:node9a3814c8a6bab93a4baf873faa4a048 <http://schema.org/name> "1998 Ford Escort Model Comparison"@en-us .
+_:node9a3814c8a6bab93a4baf873faa4a048 <http://schema.org/description> "Trouble making up your mind? See used 1998 Ford Escort model comparisons at Automotive.com."@en-us .
+_:node9a3814c8a6bab93a4baf873faa4a048 <http://schema.org/url> "http://cars.automotive.com/ford/escort/1998/compare/models/t3-12-4/"@en-us .
+_:nodeb72dfb9e8d655c8a8713f94ae97c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

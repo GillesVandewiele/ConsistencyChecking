@@ -1,0 +1,17 @@
+_:nodea3b249948bd36ec11d13c22e575f96b6 <http://schema.org/name> "\n                From  GasBuddy: \n    " .
+_:nodec65e19eb234146829f07eaf9948e450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/operatingSystems> "\n                                Platform:\n                Android\n            " .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/aggregateRating> _:node1e1fb52815648eb3dddc09c7ca7abe1 .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/fileSize> "\n                                File Size:\n\n    1.81MB\n            " .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/reviews> _:noded64f7e1eea7478244ca1925018322e32 .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/name> "GasBuddy  for Android" .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/interactionCount> "\n                                Total Downloads:\n\n    1,533\n            " .
+_:nodec65e19eb234146829f07eaf9948e450 <http://schema.org/interactionCount> "\n                                Downloads Last Week:\n\n    2\n            " .
+_:node1e1fb52815648eb3dddc09c7ca7abe1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node1e1fb52815648eb3dddc09c7ca7abe1 <http://schema.org/bestRating> "5" .
+_:node1e1fb52815648eb3dddc09c7ca7abe1 <http://schema.org/ratingValue> "5.0" .
+_:node1e1fb52815648eb3dddc09c7ca7abe1 <http://schema.org/worstRating> "1" .
+_:node1e1fb52815648eb3dddc09c7ca7abe1 <http://schema.org/reviewCount> "\n            out of 4 votes        " .
+_:noded64f7e1eea7478244ca1925018322e32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:noded64f7e1eea7478244ca1925018322e32 <http://schema.org/author> _:nodea3b249948bd36ec11d13c22e575f96b6 .
+_:node53c47689a5b4532bec3c43f82a869bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

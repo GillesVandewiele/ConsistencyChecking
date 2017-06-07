@@ -1,0 +1,6 @@
+_:node15a86cc380f51e307123a9ff21cf8 <http://schema.org/name> "Which version of OpenGL for Android?" .
+_:node15a86cc380f51e307123a9ff21cf8 <http://schema.org/title> "Which version of OpenGL for Android?" .
+_:node15a86cc380f51e307123a9ff21cf8 <http://schema.org/description> "I've been trying to learn OpenGL ES 2.0 to create a simple 2D game. I bought a book on android development, but after seeing that the author uses his own SDK that implements OpenGL ES 1.0 I decided..." .
+_:node15a86cc380f51e307123a9ff21cf8 <http://schema.org/image> "http://cdn.sstatic.net/gamedev/img/apple-touch-icon@2.png?v=9bca23db2259" .
+_:node15a86cc380f51e307123a9ff21cf8 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/gamedev/img/apple-touch-icon@2.png?v=9bca23db2259" .
+_:node2a3c6334e7eae8e32ca381789d37f84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

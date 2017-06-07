@@ -1,0 +1,6 @@
+_:noded75e5822dea7c9d32126158efbe50f7 <http://schema.org/name> "What will happen if I install Wayland?" .
+_:noded75e5822dea7c9d32126158efbe50f7 <http://schema.org/title> "What will happen if I install Wayland?" .
+_:noded75e5822dea7c9d32126158efbe50f7 <http://schema.org/description> "I am curious about the progress being made with Wayland and would like to perhaps give it a spin. According to the Launchpad page, it is packaged in Oneiric (and has actually been packaged since Na..." .
+_:noded75e5822dea7c9d32126158efbe50f7 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:noded75e5822dea7c9d32126158efbe50f7 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodea918ea9db49eac385bc65cfbe9778d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

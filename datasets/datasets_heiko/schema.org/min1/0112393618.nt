@@ -1,0 +1,14 @@
+_:nodec26452989681a65b95ec562d2545fdf <http://schema.org/postalCode> "7471 BL"@nl .
+_:nodec26452989681a65b95ec562d2545fdf <http://schema.org/addressLocality> "Goor"@nl .
+_:nodec26452989681a65b95ec562d2545fdf <http://schema.org/streetAddress> "\n                            \n                            Grotestraat 81                            \n                            Map"@nl .
+_:node96cf9ab118e231b113b198a98c0e95b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node96cf9ab118e231b113b198a98c0e95b <http://schema.org/telephone> "0547 272868"@nl .
+_:node96cf9ab118e231b113b198a98c0e95b <http://schema.org/description> "\n                    Kunst And Kunstenaarsbenodigdheden Goor \n                                    "@nl .
+_:node96cf9ab118e231b113b198a98c0e95b <http://schema.org/name> "\n                    De Schoppe\n                                    "@nl .
+_:node96cf9ab118e231b113b198a98c0e95b <http://schema.org/address> _:nodec26452989681a65b95ec562d2545fdf .
+_:node96cf9ab118e231b113b198a98c0e95b <http://schema.org/category> "Kunst And Kunstenaarsbenodigdheden"@nl .
+_:node96cf9ab118e231b113b198a98c0e95b <http://schema.org/geo> _:node51ba2a7d0b6ea81aded15d1556db1b .
+_:node51ba2a7d0b6ea81aded15d1556db1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+_:node51ba2a7d0b6ea81aded15d1556db1b <http://schema.org/latitude> "52.2325237"@nl .
+_:node51ba2a7d0b6ea81aded15d1556db1b <http://schema.org/longitude> "6.5848203"@nl .
+_:noded51d2bf4647218e5b5cd354afb84d679 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

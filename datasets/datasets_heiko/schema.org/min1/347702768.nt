@@ -1,0 +1,11 @@
+_:nodefadba6a7f2f9b87bb9906cf24da78887 <http://schema.org/name> "Le Cognac"@en .
+_:nodefadba6a7f2f9b87bb9906cf24da78887 <http://schema.org/description> "Le Cognac is dedicated to further the presence of the small Cognac Houses in the global market.It is present in the USA through its participation in Cognac Inc, a licensed importer of high-end Cognacs and animates Club Cognac, a worldwide network of Cognac lovers and sommeliers."@en .
+_:nodefadba6a7f2f9b87bb9906cf24da78887 <http://schema.org/address> _:node1a8653df5366b308b9bea7ba3eda2f .
+_:nodefadba6a7f2f9b87bb9906cf24da78887 <http://schema.org/url> <http://le-cognac.com> .
+_:node1a8653df5366b308b9bea7ba3eda2f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node1a8653df5366b308b9bea7ba3eda2f <http://schema.org/addressRegion> "Florida"@en .
+_:node1a8653df5366b308b9bea7ba3eda2f <http://schema.org/postalCode> "33134"@en .
+_:node1a8653df5366b308b9bea7ba3eda2f <http://schema.org/addressLocality> "Coral Gables"@en .
+_:node1a8653df5366b308b9bea7ba3eda2f <http://schema.org/addressCountry> "United States"@en .
+_:node1a8653df5366b308b9bea7ba3eda2f <http://schema.org/streetAddress> "1801 Cordova Street"@en .
+_:noded13fe4f89e99cab47cac6e1cbd99b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .

@@ -1,0 +1,3 @@
+_:node8aa0d38583dee02127ab9acbfd8074b7 <http://schema.org/name> "Sonnet, manuscript; undated :: Kate Greenaway Papers" .
+_:node8aa0d38583dee02127ab9acbfd8074b7 <http://schema.org/image> "http://digilib.usm.edu/utils/getthumbnail/collection/greenaway/id/439" .
+<http://books.google.com/books/about/Racine.html?id=MgJdAAAAMAAJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

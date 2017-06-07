@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Guadalcanal_Campaign> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Harukichi_Hyakutake> .
+<http://dbpedia.org/resource/Guadalcanal_Campaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Guadalcanal_Campaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Guadalcanal_Campaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Harukichi_Hyakutake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryPerson> .
+<http://dbpedia.org/resource/Harukichi_Hyakutake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Harukichi_Hyakutake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

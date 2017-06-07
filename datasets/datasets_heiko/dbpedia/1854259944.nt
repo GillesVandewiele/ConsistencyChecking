@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Amartya_Sen> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Development_economics> .
+<http://dbpedia.org/resource/Amartya_Sen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Amartya_Sen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Amartya_Sen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Economist> .

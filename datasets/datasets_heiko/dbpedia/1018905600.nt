@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Romani_people> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Christianity> .
+<http://dbpedia.org/resource/Romani_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .

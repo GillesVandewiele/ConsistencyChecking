@@ -1,0 +1,26 @@
+_:node47bc75c4c36f4aea9c638677bc5a86ce <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:node47bc75c4c36f4aea9c638677bc5a86ce <http://schema.org/name> "ArtofMoving"@en .
+_:node45402723881ac65c2942b74286952aa1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node45402723881ac65c2942b74286952aa1 <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:node45402723881ac65c2942b74286952aa1 <http://schema.org/name> "ami1436"@en .
+_:nodee151aee907f42a68ed3549398468fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodee151aee907f42a68ed3549398468fc <http://schema.org/dateCreated> "Apr 01 2012 01:45 PM"@en .
+_:nodee151aee907f42a68ed3549398468fc <http://schema.org/name> "Agile April"@en .
+_:nodee151aee907f42a68ed3549398468fc <http://schema.org/interactionCount> "UserComments:7"@en .
+_:nodee151aee907f42a68ed3549398468fc <http://schema.org/creator> "\n\tMazenderan\n"@en .
+_:node6539a494a4f4a803f82976dd4f530 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6539a494a4f4a803f82976dd4f530 <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:node6539a494a4f4a803f82976dd4f530 <http://schema.org/name> "amarie"@en .
+_:node22c6cf82a43dd2a94d71067f4244c27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node22c6cf82a43dd2a94d71067f4244c27 <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:node22c6cf82a43dd2a94d71067f4244c27 <http://schema.org/name> "DaPixie"@en .
+_:nodeafb01b3253b683fa57f5ba8b1f6b6059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeafb01b3253b683fa57f5ba8b1f6b6059 <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:nodeafb01b3253b683fa57f5ba8b1f6b6059 <http://schema.org/name> "Claude_Catastrophique"@en .
+_:node45764f305e25a7bde5653c77a644847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node45764f305e25a7bde5653c77a644847 <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:node45764f305e25a7bde5653c77a644847 <http://schema.org/name> "Mazenderan"@en .
+_:node3868692fb796196bcf623e5afd2d38ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3868692fb796196bcf623e5afd2d38ad <http://schema.org/image> <http://dancers.invisionzone.com/public/style_images/master/profile/default_large.png> .
+_:node3868692fb796196bcf623e5afd2d38ad <http://schema.org/name> "Sharon B"@en .
+_:node6eec88d2319dc0e2ae7e13b1237cb6f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

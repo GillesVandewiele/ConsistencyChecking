@@ -1,0 +1,6 @@
+_:node2840de95c071ae339c8a4d67c8e446e8 <http://schema.org/name> "Quickly Network commands in python" .
+_:node2840de95c071ae339c8a4d67c8e446e8 <http://schema.org/title> "Quickly Network commands in python" .
+_:node2840de95c071ae339c8a4d67c8e446e8 <http://schema.org/description> "I am working on a program that mounts a windows shared network drive using quickly. So I sat up my GUI and everything.. But I don't know any python commands that mount a network place.. Usually whe..." .
+_:node2840de95c071ae339c8a4d67c8e446e8 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node2840de95c071ae339c8a4d67c8e446e8 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodeffa08c6b481e70f175ab2134987cd611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

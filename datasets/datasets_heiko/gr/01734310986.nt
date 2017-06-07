@@ -1,0 +1,15 @@
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/360141.jpg" .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://ogp.me/ns#description> "Bring fresh, cool salad or hot chicken casserole to the table in the contemporary Rachael Ray 10-in. Orange Serveware Serving Bowl from Cooking.com. Use this vibrant orange dish to beautifully present your food and add modern flair to your table." .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/orange-10-in-serveware-serving-bowl-by-rachael-ray_360141_11/" .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://ogp.me/ns#title> "Orange 10-in. Serveware Serving Bowl by Rachael Ray at Cooking.com" .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/orange-10-in-serveware-serving-bowl-by-rachael-ray_360141_11/> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.craftsman.com/craftsman-xsp-16-gallon-6.5-peak-hp-wet-dry/p-00912007000P?prdNo=7#offering> <http://purl.org/goodrelations/v1#includes> <http://www.craftsman.com/craftsman-xsp-16-gallon-6.5-peak-hp-wet-dry/p-00912007000P?prdNo=7#product> .

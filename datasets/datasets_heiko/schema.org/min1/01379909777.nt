@@ -1,0 +1,10 @@
+_:node1d2b5e97a496eb2f90dc74958dfde8de <http://schema.org/price> "57.00"@en-us .
+_:node1d2b5e97a496eb2f90dc74958dfde8de <http://schema.org/availability> <http://schema.org/InStock> .
+_:node1d2b5e97a496eb2f90dc74958dfde8de <http://schema.org/priceCurrency> "USD"@en-us .
+_:node99b24870831df0c757d122b1e596c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node99b24870831df0c757d122b1e596c6 <http://schema.org/sku> "120082"@en-us .
+_:node99b24870831df0c757d122b1e596c6 <http://schema.org/offers> _:node1d2b5e97a496eb2f90dc74958dfde8de .
+_:node99b24870831df0c757d122b1e596c6 <http://schema.org/name> "University of Michigan"@en-us .
+_:node99b24870831df0c757d122b1e596c6 <http://schema.org/description> "\n\tThe mission of the University of Michigan is to serve the people of Michigan and the world through preeminence in creating, communicating, preserving and applying knowledge, art, and academic values, and in developing leaders and citizens who will challenge the present and enrich the future.\nWith your purchase of a BowTie, you are not only raising awareness, but $10 will be donated to the University of Michigan.\n"@en-us .
+_:node99b24870831df0c757d122b1e596c6 <http://schema.org/image> <http://bowtiecause.com/wp-content/uploads/2014/01/MichAlumni.jpg> .
+_:nodefe69f61352e3254663d7d2668c0f7fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

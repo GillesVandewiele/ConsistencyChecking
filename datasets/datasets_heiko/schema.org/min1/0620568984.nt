@@ -1,0 +1,21 @@
+_:nodec7cab8fdde41954690294bafb35c59a4 <http://schema.org/ratingValue> "5" .
+_:nodec7cab8fdde41954690294bafb35c59a4 <http://schema.org/reviewCount> "1" .
+_:nodedfb529d6542d2f6999f6dd968d5dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodedfb529d6542d2f6999f6dd968d5dc <http://schema.org/worstRating> "1" .
+_:nodedfb529d6542d2f6999f6dd968d5dc <http://schema.org/ratingValue> "5" .
+_:nodedfb529d6542d2f6999f6dd968d5dc <http://schema.org/bestRating> "5" .
+_:node8b653e7ba1e13888ae9435988acf83c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node8b653e7ba1e13888ae9435988acf83c <http://schema.org/price> "$24.99" .
+_:node539fd92655866ade5937b514ad6a1618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node539fd92655866ade5937b514ad6a1618 <http://schema.org/reviewRating> _:nodedfb529d6542d2f6999f6dd968d5dc .
+_:node539fd92655866ade5937b514ad6a1618 <http://schema.org/name> "Great diecute" .
+_:node539fd92655866ade5937b514ad6a1618 <http://schema.org/description> "\n\t\t\t\t\t\t\t\t\tOrdered this for a Girl Scout project and for cards and general scrapbooking.  The feathers are lovely and will be beautiful on scrapbook projects.  I am not intending to use the headband, but who knows - might make a great border for a page or a card.  \t\t\t\t\t\t\t\t" .
+_:node539fd92655866ade5937b514ad6a1618 <http://schema.org/author> "iskawire" .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://schema.org/offers> _:node8b653e7ba1e13888ae9435988acf83c .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://schema.org/name> "Lifestyle Crafts - Die Cutting Template - Feather Headband" .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://schema.org/description> "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThese Feather Headband cutting dies from Lifestyle Crafts cut and emboss with most die cutting tools. Create a feather headband for the holidays or dress up anytime! Also use the feathers and band for borders and embellishments on cards and layouts. Each package includes three dies and when assembled will measure approximately 6.75\" x 6.25\" x 6.75\".\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t" .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://schema.org/image> <http://cdn.scrapbook.com/products/cache/SBC_qk-dc0205_0.jpg> .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://schema.org/aggregateRating> _:nodec7cab8fdde41954690294bafb35c59a4 .
+_:node7ecfe5e2dd1bac072e97099b391eaab <http://schema.org/review> _:node539fd92655866ade5937b514ad6a1618 .
+_:nodeeea261b6c92278346cec8edbc2d4299f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

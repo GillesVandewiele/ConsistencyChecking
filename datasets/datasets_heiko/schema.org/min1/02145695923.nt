@@ -1,0 +1,29 @@
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/datemodified> "2012-10-16T16:20:49Z" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/author> "colleen curry" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/identifier> "17490226" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/headline> "Trayvon Martin's Parents Seek Changes to 'Stand Your Ground' Laws" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/genre> "News" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/image> <http://a.abcnews.com/images/US/ht_trayvon_martin_parents_nt_121016_wmain.jpg> .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/copyrightyear> "2012" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleSection> <http://abcnews.go.com/US/> .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/sourceorganization> "ABC News" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/inlanguage> "en-US" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\nThe parents of Trayvon Martin have launched a campaign to change the \"stand your ground\" law being used as a defense by the man who killed their son in February.\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\nTrayvon Martin was unarmed when he was shot and killed by George Zimmerman, a Sanford, Fla., neighborhood watch volunteer who said he killed the 17-year-old on lawful grounds. The law allows people to use force in self-defense when they perceive a threat without first having to try to flee the threat.\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\nTracy Martin and Sybrina Fulton filmed a video for their new website, ChangeforTrayvon.com, in which they call the \"stand your ground\" laws a \"solution in search of a problem.\"\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\n\"This year we joined over 30,000 mothers and fathers who lost their children to gun violence when our 17-year-old son, Trayvon Martin, was taken in a senseless tragedy,\" Tracy Martin said in the video. \"These laws allow individuals to shoot first and ask questions later.\"\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\n\"Something has to change,\" Sybrina Martin said.\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\nThe divorced couple created the site specifically to address policy issues by raising awareness of the 32 states where Stand Your Ground Laws apply, donating money to elected officials or candidates who promise to work to change them, and campaigning to overhaul the laws to increase judicial or prosecutorial oversight of stand your ground claims, according to the website.\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\nAs it stands, accused shooters can ask that their charges be dismissed by a judge before trial on the Stand Your Ground law. Zimmerman's attorneys are seeking a Stand Your Ground hearing in his defense.\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\n\"Most of the legislators who voted for SYG laws will admit that they never thought SYG would be used as it is being applied,\" the family's attorney, Benjamin Crump, wrote on the new website. \"SYG Laws are now being used by the aggressors and agitators. I even had a case where an individual shot his victim in the back and claimed he was \"Standing His Ground.\"\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "\nThe Martin family pointed out that no member of their family, nor their attorneys' families, would benefit from any donations, which would be used only to further the cause.\n.\nThe effort is separate from the Justice for Trayvon Martin Foundation, a non-profit group the family created in the wake of Martin's death that sought donations to help raise awareness of racial profiling and assist families of violent crime victims.\n" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/articleBody> "Null" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/description> "The parents of Trayvon Martin have launched a campaign to change the 'stand your ground' law being used as a defense by the man who killed their son in March." .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/datepublished> "2012-10-16T16:33:47Z" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/alternativeheadline> "Trayvon Martin's Parents Seek Changes to 'Stand Your Ground' Laws" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/thumbnailurl> "http://a.abcnews.com/images/US/ht_trayvon_martin_parents_nt_121016_wb.jpg" .
+_:nodee19f2ec35f2ef26addac6b398cbe2b <http://schema.org/usageterms> "http://disneytermsofuse.com/english/" .
+_:node8a781b82f53f7625bdfc2776cf8bcf7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8a781b82f53f7625bdfc2776cf8bcf7f <http://schema.org/logo> <http://a.abcnews.com/assets/images/navigation/abc-logo.png> .
+_:node8a781b82f53f7625bdfc2776cf8bcf7f <http://schema.org/url> <http://abcnews.go.com> .
+_:node9bf6fce85074e0ca6c72d62039d6ee1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPost> .

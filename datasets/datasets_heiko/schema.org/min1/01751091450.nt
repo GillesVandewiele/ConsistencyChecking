@@ -1,0 +1,3 @@
+_:node4c1e93d7351816220ed7e1a8ca7c9 <http://schema.org/name> "Clarion 1945-12-07 Vol 25 No 02 :: Bethel - Clarion Student Newspaper" .
+_:node4c1e93d7351816220ed7e1a8ca7c9 <http://schema.org/image> "http://cdm16120.contentdm.oclc.org/utils/getthumbnail/collection/p15186coll6/id/4750" .
+_:node35c02ab6bdd05d283e2a3fb2750192f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

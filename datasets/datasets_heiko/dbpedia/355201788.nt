@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Fearless_(1993_film)> <http://dbpedia.org/ontology/editing> <http://dbpedia.org/resource/Armen_Minasian> .
+<http://dbpedia.org/resource/Fearless_(1993_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Fearless_(1993_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Fearless_(1993_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .

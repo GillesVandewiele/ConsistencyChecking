@@ -1,0 +1,24 @@
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72005 <http://rdf.data-vocabulary.org/#count> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72005 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72053 .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72053 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72053 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72053 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$9.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72034 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#description> "<p>Blow away the competition in The Finals\u2122 Eliminator Racing Metallized Goggle.</p> <ul> <li>Sleek hydrodynamic elliptical design. </li> <li>Advanced anti-glare properties. </li> <li>Hypo-allergenic Silicone gaskets. </li> <li>Interchangeable nosebridge. </li> <li>Single rear-slot strap adjustment. </li> <li>Silicone racing headstrap. </li> <li>Anti-fog polycarbonate lenses. </li> <li>For racing and training. </li> <li>UV-protected. </li> <li>Imported.</li> </ul> <p>For more information on swim goggles, read <a href='' http://www.swimoutlet.com/guides/goggle-buying-guide''>Swim Goggles Buying Guide</a> </p>" .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://purl.org/goodrelations/v1#name> "The Finals Eliminator Racing Metallized Goggle" .
+<http://www.swimoutlet.com/p/the-finals-eliminator-racing-metallized-goggle-26409/?color=10852#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2daf0d2aa9640c41ad9ca742a1d48027302dN72005 .
+_:genid2d935114a5a9ed495ebe3300dbd3af08052dINSIDE5fN67067 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .

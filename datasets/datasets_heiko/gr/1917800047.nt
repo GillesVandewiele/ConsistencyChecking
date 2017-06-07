@@ -1,0 +1,15 @@
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/363096.jpg" .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://ogp.me/ns#description> "The Zwilling J.A. Henckels 5-in. Twin Four Star Santoku Knife incorporates a beveled edge, greatly reducing drag when slicing. The precision-forged, ice-hardened full-tang blade melds strength with the fine control of a laser-sharpened blade." .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/5-in-twin-four-star-santoku-knife-by-zwilling-j-a-henckels_363096_11/0/2/" .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://ogp.me/ns#title> "5-in. Twin Four Star Santoku Knife by Zwilling J.A. Henckels at Cooking.com" .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/5-in-twin-four-star-santoku-knife-by-zwilling-j-a-henckels_363096_11/0/2/> .
+_:genid2def8787c85672452297cdf42a102dc4282dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d7d11b848a8e7488a87f57f7fd61d9e772dN66850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

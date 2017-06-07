@@ -1,0 +1,16 @@
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d3702ed9338ab4a4d8df269cb8689223b2dN67258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3702ed9338ab4a4d8df269cb8689223b2dN67258 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d3702ed9338ab4a4d8df269cb8689223b2dN67258 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3702ed9338ab4a4d8df269cb8689223b2dN67258 .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/ee3f03c814f35548a87b6d32b91a0002.jpg> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "0788597245034"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#name> "40178-6 6-Feet IEC320-C13 to NEMA L6-20P PVC Power Cord (Black)" .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "In the E-world where businesses can't stop and downtime is measured in dollars, American Power Conversion (APC) provides protection against some of the leading causes of downtime, data loss and hardware damage: power problems and temperature. As a global leader in power availability solutions, APC sets the standard in its industry for quality, innovation and support. Its comprehensive AC and DC power solutions, which are designed for both home and corporate environments, improve the manageability, availability and performance of sensitive electronic, network, communications and industrial equipment of all sizes." .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "APC 401786 Specialty Cables and Connectors" .
+<http://www.tvszone.com/apc-401786-i109844.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2dbaaf1413aa6f4788abf42fab3e2417b32dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

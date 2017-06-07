@@ -1,0 +1,5 @@
+<http://books.google.com/books/about/The_impact_of_workplace_discrimination_a.html?id=ae4bAQAAMAAJ> <http://schema.org/Book/image> <http://books.google.com/books/content?id=ae4bAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70xHKORjf4g_TCm-YRJphyRmBb-L65FK1w5o0WwutqS3_kcxNpFRsrE5-U-7eDdGsy1e5xFnVZjcJ-zLJ--4jOR4c6vSJApTdUSxTESNh-a5x-XsLc> .
+<http://books.google.com/books/about/The_impact_of_workplace_discrimination_a.html?id=ae4bAQAAMAAJ> <http://schema.org/Book/url> "http://books.google.com/books/about/The_impact_of_workplace_discrimination_a.html?id=ae4bAQAAMAAJ&utm_source=gb-gplus-share" .
+<http://books.google.com/books/about/The_impact_of_workplace_discrimination_a.html?id=ae4bAQAAMAAJ> <http://schema.org/Book/name> "The impact of workplace discrimination and explanatory style on depression" .
+<http://books.google.com/books/about/The_impact_of_workplace_discrimination_a.html?id=ae4bAQAAMAAJ> <http://schema.org/Book/description> "books.google.com" .
+_:node1ac6c8a897c13c7ad67b841d8f587d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

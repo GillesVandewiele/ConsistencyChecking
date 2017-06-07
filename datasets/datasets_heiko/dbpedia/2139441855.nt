@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lyndon_B._Johnson> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Lyndon_B._Johnson__4> .
+<http://dbpedia.org/resource/Lyndon_B._Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Lyndon_B._Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lyndon_B._Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Lyndon_B._Johnson__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TimePeriod> .

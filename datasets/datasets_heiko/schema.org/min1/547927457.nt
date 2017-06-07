@@ -1,0 +1,5 @@
+_:nodeb02e5896eebc4d21785d13fcf644167 <http://schema.org/description> "Tony Robinson talks to CNN's Jake Tapper about being buried alive in snow but ultimately surviving an avalanche in Colorado...."@en .
+_:nodeb02e5896eebc4d21785d13fcf644167 <http://schema.org/image> "http://i2.cdn.turner.com/cnn/dam/assets/130221212808-ac-avalanche-survivor-00020816-horizontal-gallery.jpg"@en .
+_:nodeb02e5896eebc4d21785d13fcf644167 <http://schema.org/name> "Avalanche surviver: I prayed to live"@en .
+_:nodeb02e5896eebc4d21785d13fcf644167 <http://schema.org/url> "http://ac360.blogs.cnn.com/2013/02/21/avalanche-surviver-i-prayed-to-live/"@en .
+<http://schema.org/Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .

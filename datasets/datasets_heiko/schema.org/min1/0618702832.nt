@@ -1,0 +1,6 @@
+_:node13f5af8cb93d4f45b0d2213ee356fd32 <http://schema.org/name> "Toowoomba"@en .
+_:node13f5af8cb93d4f45b0d2213ee356fd32 <http://schema.org/url> <http://flightaware.com/live/flight/VHVIA//live/airport/YTWB> .
+_:node4e6ae972afe9df86f1ddbba9f3b7bd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4e6ae972afe9df86f1ddbba9f3b7bd6 <http://schema.org/name> "Injune"@en .
+_:node4e6ae972afe9df86f1ddbba9f3b7bd6 <http://schema.org/url> <http://flightaware.com/live/flight/VHVIA//live/airport/YINJ> .
+_:nodea9566db5e604eb1dc8f8aebecd0b452 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .

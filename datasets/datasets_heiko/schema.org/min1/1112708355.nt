@@ -1,0 +1,24 @@
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/operatingSystems> "Android" .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/aggregateRating> _:nodedc133542e35fe7ac3de9aefbe192f560 .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/image> <http://cdn8.staztic.com/app/a/584/584422/sportsdayhs-617281-l-124x124.png> .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/numDownloads> "10.000 - 50.000" .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/offers> _:nodeda8ec55421538b85a08e17c897fe2943 .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/author> _:node16e3be80e1b9a0a83d4b3c497704478 .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/name> "SportsDayHS" .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/description> "Get the excitement of high school sports \u2014 including Friday night football \u2014 right on your mobile phone. Want to check your team's score? Curious how your rivals are doing? SportsDayHS has the most up-to-date news, scores, statistics, schedules and standings for more than 200 Dallas-area schools. Choose specific schools and individual sports to have final scores pushed to you without having to open the app. And it\u2019s all right at your fingertips. Brought to you by The Dallas Morning NewsTags: \nsportsdayhs, friday night rivals phone." .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/releaseNotes> "--Bug fixes for AT&T customers." .
+_:nodeccdfdb778686d434ea2b0ade368d86 <http://schema.org/url> <http://it.appszoom.com/android_applications/news_and_magazines/sportsdayhs_bksuw.html> .
+_:nodedc133542e35fe7ac3de9aefbe192f560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodedc133542e35fe7ac3de9aefbe192f560 <http://schema.org/ratingCount> "123" .
+_:nodedc133542e35fe7ac3de9aefbe192f560 <http://schema.org/bestRating> "5" .
+_:nodedc133542e35fe7ac3de9aefbe192f560 <http://schema.org/ratingValue> "3" .
+_:nodedc133542e35fe7ac3de9aefbe192f560 <http://schema.org/worstRating> "0" .
+_:node4bd3bb1da2c20d7241ac1669a19bada <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4bd3bb1da2c20d7241ac1669a19bada <http://schema.org/name> "Null" .
+_:node16e3be80e1b9a0a83d4b3c497704478 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node16e3be80e1b9a0a83d4b3c497704478 <http://schema.org/name> "The Dallas Morning News" .
+_:node16e3be80e1b9a0a83d4b3c497704478 <http://schema.org/url> <http://it.appszoom.com/android_developer/the-dallas-morning-news_mdbp.html> .
+_:nodeda8ec55421538b85a08e17c897fe2943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeda8ec55421538b85a08e17c897fe2943 <http://schema.org/price> "0" .
+_:nodeda8ec55421538b85a08e17c897fe2943 <http://schema.org/seller> _:node4bd3bb1da2c20d7241ac1669a19bada .
+_:node77f0706be9c1c4f7959fce1a71b3b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

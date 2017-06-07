@@ -1,0 +1,6 @@
+_:node972ab5c4cdad4df75dfdc0bd36624f <http://schema.org/name> "Should I spread lime in my crawlspace before laying moisture barrier?" .
+_:node972ab5c4cdad4df75dfdc0bd36624f <http://schema.org/title> "Should I spread lime in my crawlspace before laying moisture barrier?" .
+_:node972ab5c4cdad4df75dfdc0bd36624f <http://schema.org/description> "The crawlspace is currently just earth. I'm going to be raking it, laying moisture barrier and then taping to seal.\n\nShould I spread lime onto the earth before laying the barrier?\n" .
+_:node972ab5c4cdad4df75dfdc0bd36624f <http://schema.org/image> "http://cdn.sstatic.net/diy/img/apple-touch-icon@2.png?v=13c04ccda0b9" .
+_:node972ab5c4cdad4df75dfdc0bd36624f <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/diy/img/apple-touch-icon@2.png?v=13c04ccda0b9" .
+_:nodedc8abd764c69d3a8b5c3af1da94da43f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

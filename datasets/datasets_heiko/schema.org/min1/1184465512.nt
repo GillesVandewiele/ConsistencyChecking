@@ -1,0 +1,12 @@
+_:node316d654a4e3decdcca673f56bb4ded44 <http://schema.org/addressRegion> "MO"@en .
+_:node316d654a4e3decdcca673f56bb4ded44 <http://schema.org/postalCode> "64012"@en .
+_:node316d654a4e3decdcca673f56bb4ded44 <http://schema.org/addressLocality> "Belton"@en .
+_:node316d654a4e3decdcca673f56bb4ded44 <http://schema.org/streetAddress> "17065 S. 71 Highway"@en .
+<http://schema.org/Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://schema.org/Hospital> <http://schema.org/Place/address> _:node316d654a4e3decdcca673f56bb4ded44 .
+<http://schema.org/Hospital> <http://schema.org/Place/name> "Belton Regional Medical Center"@en .
+<http://schema.org/Hospital> <http://schema.org/Place/telephone> "Phone: (816) 348-1200"@en .
+<http://schema.org/Hospital> <http://schema.org/Place/logo> <http://beltonregionalmedicalcenter.com/hl/?/22493/sp//contentAsset/raw-data/a33574a2-d350-47de-be6b-7b50f3f09a97/fullColorLogo> .
+<http://schema.org/Hospital> <http://schema.org/Place/url> "http://beltonregionalmedicalcenter.com"@en .
+<http://beltonregionalmedicalcenter.com/hl/?/22493/sp> <http://www.w3.org/1999/xhtml/microdata#item> <http://schema.org/Hospital> .
+_:node64a86648504f3b492ce85157f8299b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

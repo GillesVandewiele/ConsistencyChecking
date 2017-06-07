@@ -1,0 +1,39 @@
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Review-aggregate_51436> <http://rdf.data-vocabulary.org/#count> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Review-aggregate_51436> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#QuantitativeValue_51436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#QuantitativeValue_51436> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#QuantitativeValue_51436> <http://purl.org/goodrelations/v1#hasMaxValue> "13"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18 09:03:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.pooldawg.com/catalog/product/view/id/51436/#UnitPriceSpecification_51436> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#validThrough> "2015-12-18 09:03:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#description> "Maximize your protection and your capacity with this 3 butt, 5 shaft pool cue case by Eight Ball Mafia. As is tradition, this Eight Ball Mafia case is all about the skulls, with a giant white skull emblazoned on the pocket.From a protection perspective, it doesn't get much better than this. The molded tubes will keep your butts and shafts nice and safe while the pockets provide a ton of storage space for your accessories." .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#name> "Eight Ball Mafia 3 Butt 5 Shaft Hard Case" .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#UnitPriceSpecification_51436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#UnitPriceSpecification_51436> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#UnitPriceSpecification_51436> <http://purl.org/goodrelations/v1#hasCurrencyValue> "101.15"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#UnitPriceSpecification_51436> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#TypeAndQuantityNode_51436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#TypeAndQuantityNode_51436> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#TypeAndQuantityNode_51436> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.pooldawg.com/catalog/product/view/id/51436/#QuantitativeValue_51436> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3e3fba6600124f22adbf7a58d8e8313c2dINSIDE5fN69735 .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#Offering_51436> <http://purl.org/goodrelations/v1#includesObject> <http://www.pooldawg.com/catalog/product/view/id/51436/#TypeAndQuantityNode_51436> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "EBMC35 A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://xmlns.com/foaf/0.1/depiction> _:genid2d3e3fba6600124f22adbf7a58d8e8313c2dN69702 .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://purl.org/goodrelations/v1#description> "Maximize your protection and your capacity with this 3 butt, 5 shaft pool cue case by Eight Ball Mafia. As is tradition, this Eight Ball Mafia case is all about the skulls, with a giant white skull emblazoned on the pocket.From a protection perspective, it doesn't get much better than this. The molded tubes will keep your butts and shafts nice and safe while the pockets provide a ton of storage space for your accessories." .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://purl.org/goodrelations/v1#name> "Eight Ball Mafia 3 Butt 5 Shaft Hard Case" .
+<http://www.pooldawg.com/catalog/product/view/id/51436/#SomeItems_51436> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2d3e3fba6600124f22adbf7a58d8e8313c2dN69694 .
+_:genid2d3e3fba6600124f22adbf7a58d8e8313c2dINSIDE5fN69735 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2d3e3fba6600124f22adbf7a58d8e8313c2dINSIDE5fN69735 <http://rdf.data-vocabulary.org/#hasReview> <http://www.pooldawg.com/catalog/product/view/id/51436/#Review-aggregate_51436> .
+_:genid2d3dddda56262b4276a3fa749686dfcb312dN67646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

@@ -1,0 +1,39 @@
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Review-aggregate_34311> <http://rdf.data-vocabulary.org/#count> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Review-aggregate_34311> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#TypeAndQuantityNode_34311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#TypeAndQuantityNode_34311> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#TypeAndQuantityNode_34311> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#QuantitativeValue_34311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#QuantitativeValue_34311> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#QuantitativeValue_34311> <http://purl.org/goodrelations/v1#hasMaxValue> "68"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#validFrom> "2014-12-27 01:55:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.pooldawg.com/catalog/product/view/id/34311/#UnitPriceSpecification_34311> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#validThrough> "2015-12-27 01:55:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#description> "Need a replacement 8-ball at an affordable price? This Action Pak 8-ball is made with high grade phenolic materials for durability and an accurate roll." .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#name> "Action Standard 8-Ball" .
+_:genid2de9e4bf63e2f8456ea9ad27f672fdb5c02dINSIDE5fN69738 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2de9e4bf63e2f8456ea9ad27f672fdb5c02dINSIDE5fN69738 <http://rdf.data-vocabulary.org/#hasReview> <http://www.pooldawg.com/catalog/product/view/id/34311/#Review-aggregate_34311> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#includesObject> <http://www.pooldawg.com/catalog/product/view/id/34311/#TypeAndQuantityNode_34311> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.pooldawg.com/catalog/product/view/id/34311/#QuantitativeValue_34311> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#Offering_34311> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2de9e4bf63e2f8456ea9ad27f672fdb5c02dINSIDE5fN69738 .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#UnitPriceSpecification_34311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#UnitPriceSpecification_34311> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#UnitPriceSpecification_34311> <http://purl.org/goodrelations/v1#hasCurrencyValue> "5.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#UnitPriceSpecification_34311> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "BB8BP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://xmlns.com/foaf/0.1/depiction> _:genid2de9e4bf63e2f8456ea9ad27f672fdb5c02dN69705 .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://purl.org/goodrelations/v1#description> "Need a replacement 8-ball at an affordable price? This Action Pak 8-ball is made with high grade phenolic materials for durability and an accurate roll." .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://purl.org/goodrelations/v1#name> "Action Standard 8-Ball" .
+<http://www.pooldawg.com/catalog/product/view/id/34311/#SomeItems_34311> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2de9e4bf63e2f8456ea9ad27f672fdb5c02dN69697 .
+_:genid2dfff5b27f811242fe97a5a763dc607dc32dN67153 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

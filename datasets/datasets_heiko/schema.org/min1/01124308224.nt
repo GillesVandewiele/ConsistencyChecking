@@ -1,0 +1,3 @@
+_:node667b36db9b88465b68c40c37728bc15 <http://schema.org/name> "Fountain :: USD Photograph Collection - USD" .
+_:node667b36db9b88465b68c40c37728bc15 <http://schema.org/image> "http://dlsd.sdln.net/utils/getthumbnail/collection/photograph/id/429" .
+_:node5a4268275d3ed09a1e0c72d912c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

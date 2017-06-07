@@ -1,0 +1,18 @@
+_:nodef9e38ad1da39ed6f44a9abccfffa182 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:nodef9e38ad1da39ed6f44a9abccfffa182 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:node69a792913de6573c70896031bd7b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/genre> "Arts, Entertainment & Media"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/genre> "Beauty, Health & Fitness"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/inLanguage> "en"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/publisher> _:nodef9e38ad1da39ed6f44a9abccfffa182 .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/copyrightYear> "2014"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/headline> "wince - definition, meaning, audio pronunciation, synonyms and more. What is wince? to show pain suddenly and for a short time in the face, often moving the head back at the same time: : See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201Cwince\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t winceverb [I] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t/w\u026Ans/  us \n\t\t\t\u00A0\n\t\t\n\t\t\t \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t\n\t\t\t\t\t\t\u203A to show pain suddenly and for a short time in the face, often moving the head back at the same time: Did I hurt you? - I thought I saw you wince. It makes me wince even thinking about eye operations. wince noun [C usually singular] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t us \n\t\t\t\u00A0\n\t\t\n\t\t\t \u203A She gave a wince as the nurse put the needle in.\n\t\t\t\t\t"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:node69a792913de6573c70896031bd7b13 <http://schema.org/author> _:node343db61c0f0614f0d3a84b2f1a90c6 .
+_:node343db61c0f0614f0d3a84b2f1a90c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node343db61c0f0614f0d3a84b2f1a90c6 <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node343db61c0f0614f0d3a84b2f1a90c6 <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:node336345b766b60dd5485fa6bff202049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node336345b766b60dd5485fa6bff202049 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node9eacfcca88fea6db8a5a14ce740d3d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .

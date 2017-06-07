@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Water_polo> <http://dbpedia.org/ontology/equipment> <http://dbpedia.org/resource/Water_polo_goal> .
+<http://dbpedia.org/resource/Water_polo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Sport> .
+<http://dbpedia.org/resource/Water_polo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> .

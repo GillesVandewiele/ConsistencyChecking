@@ -1,0 +1,33 @@
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/name> "\n\t\tSoffe Juniors Boy Beater Rib Knit Tank Tops\n\t"@en .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/description> "Soffe Juniors Boy Beater Rib Knit Tank Top. 2x1 rib knit jersey. 100% ringspun combed cotton. Longer length Top Selling Item."@en .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/image> <http://epicsports.cachefly.net/images/16638/300/soffe-juniors-boy-beater-rib-knit-tank-tops.jpg> .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/aggregateRating> _:node774af6617f305be85a5f9db464155a1 .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/brand> "Soffe"@en .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/review> _:nodeec939faacdb319d73a266b5941bb941d .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/review> _:nodeef5725ea17266d4ba5b274569254544 .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/review> _:nodefdb5ede6ff5779792b5f8bb73339535f .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://schema.org/review> _:node82581789b7d8d3537cfb272b83c2fc5 .
+_:node774af6617f305be85a5f9db464155a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node774af6617f305be85a5f9db464155a1 <http://schema.org/ratingCount> "4 Reviews"@en .
+_:node774af6617f305be85a5f9db464155a1 <http://schema.org/ratingValue> "5.0"@en .
+_:nodefdb5ede6ff5779792b5f8bb73339535f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodefdb5ede6ff5779792b5f8bb73339535f <http://schema.org/reviewRating> "5"@en .
+_:nodefdb5ede6ff5779792b5f8bb73339535f <http://schema.org/datePublished> "11/30/2010"@en .
+_:nodefdb5ede6ff5779792b5f8bb73339535f <http://schema.org/reviewBody> "cute tank"@en .
+_:nodefdb5ede6ff5779792b5f8bb73339535f <http://schema.org/author> "C. SHANNON"@en .
+_:node82581789b7d8d3537cfb272b83c2fc5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node82581789b7d8d3537cfb272b83c2fc5 <http://schema.org/reviewRating> "5"@en .
+_:node82581789b7d8d3537cfb272b83c2fc5 <http://schema.org/datePublished> "8/13/2010"@en .
+_:node82581789b7d8d3537cfb272b83c2fc5 <http://schema.org/reviewBody> "These tank tops fit great!  They're my favorite beater tanks I own!"@en .
+_:node82581789b7d8d3537cfb272b83c2fc5 <http://schema.org/author> "M. CLARK"@en .
+_:nodeef5725ea17266d4ba5b274569254544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeef5725ea17266d4ba5b274569254544 <http://schema.org/reviewRating> "5"@en .
+_:nodeef5725ea17266d4ba5b274569254544 <http://schema.org/datePublished> "12/24/2010"@en .
+_:nodeef5725ea17266d4ba5b274569254544 <http://schema.org/reviewBody> "Fits well and true to size. Looks and feels comfortable. Has not faded after a few washes. Well put together."@en .
+_:nodeef5725ea17266d4ba5b274569254544 <http://schema.org/author> "L. YSMAEL"@en .
+_:nodeec939faacdb319d73a266b5941bb941d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeec939faacdb319d73a266b5941bb941d <http://schema.org/reviewRating> "5"@en .
+_:nodeec939faacdb319d73a266b5941bb941d <http://schema.org/datePublished> "7/31/2014"@en .
+_:nodeec939faacdb319d73a266b5941bb941d <http://schema.org/reviewBody> "Comfortable fit"@en .
+_:nodeec939faacdb319d73a266b5941bb941d <http://schema.org/author> "F. DUMAS"@en .
+_:nodeda457d80ea37ff7acc43b8a59486760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

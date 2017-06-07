@@ -1,0 +1,6 @@
+_:nodef8e737d446199c81687d441d04e7a64 <http://schema.org/name> "Automatic inverse for Lambert\u2019s Azimuthal Equal-Area Projection" .
+_:nodef8e737d446199c81687d441d04e7a64 <http://schema.org/title> "Automatic inverse for Lambert\u2019s Azimuthal Equal-Area Projection" .
+_:nodef8e737d446199c81687d441d04e7a64 <http://schema.org/description> "I\u2019m interested in finding closed-form inverses for map projection equations in general (of course, this is not always possible). I\u2019m hoping Mathematica can help me with some of the trickier ones.\n\n..." .
+_:nodef8e737d446199c81687d441d04e7a64 <http://schema.org/image> "http://cdn.sstatic.net/mathematica/img/apple-touch-icon@2.png?v=1b98edea1597" .
+_:nodef8e737d446199c81687d441d04e7a64 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/mathematica/img/apple-touch-icon@2.png?v=1b98edea1597" .
+_:nodef2a7483744c59c9ec1b59df1f9f178c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .

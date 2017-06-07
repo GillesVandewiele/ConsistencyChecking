@@ -1,0 +1,12 @@
+<http://www.bestwestern.de/hotels/Bielefeld/BEST-WESTERN-Hotel-Oldentruper-Hof/tagungen#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN Hotel Oldentruper Hof"@de .
+<http://www.bestwestern.de/hotels/Bielefeld/BEST-WESTERN-Hotel-Oldentruper-Hof/tagungen#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d3253b404416445bea75dbf3ee11a83dc2dN71952 .
+<http://www.bestwestern.de/hotels/Bielefeld/BEST-WESTERN-Hotel-Oldentruper-Hof/tagungen#company> <http://www.w3.org/2006/vcard/ns#tel> "+49521 20900"@de .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dN71952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dN71952 <http://www.w3.org/2006/vcard/ns#postal-code> "33699"@de .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dN71952 <http://www.w3.org/2006/vcard/ns#locality> "Bielefeld"@de .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dN71952 <http://www.w3.org/2006/vcard/ns#street-address> "Niedernholz 2"@de .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dN71952 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dINSIDE5fN71974 <http://www.w3.org/2006/vcard/ns#longitude> "8.612786"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d3253b404416445bea75dbf3ee11a83dc2dINSIDE5fN71974 <http://www.w3.org/2006/vcard/ns#latitude> "52.004426"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.bestwestern.de/hotels/Bielefeld/BEST-WESTERN-Hotel-Oldentruper-Hof/tagungen> <http://www.w3.org/2006/vcard/ns#geo> _:genid2d3253b404416445bea75dbf3ee11a83dc2dINSIDE5fN71974 .
+<http://www.joke.co.uk/harry-potter-fancy-dress/child-deluxe-quidditch-robe~62471/#main> <http://purl.org/goodrelations/v1#description> "The Child Deluxe Quidditch Robe is the perfect item for any child looking to join the Gryffindor Quidditch team as their next star player. Whether they want to be a Chaser, Beater, Keeper or Seeker, your child will be ready to fly in this robe.\n\nCostume includes:\n\nRobe\nShoulder Padding\nArm Gauntlets\n\n\nThe licensed Child Deluxe Quidditch Robe includes a long red and yellow robe and brown coloured shoulder padding to help protect your child as they whiz about the pitch.\n\nThe look is completed with a pair of matching arm gauntlets.\n\nThe pictured accessories are not included but can be purchased separately."@en .

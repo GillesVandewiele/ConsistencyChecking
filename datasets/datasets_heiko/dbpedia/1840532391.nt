@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Broadway_(New_York_City)> <http://dbpedia.org/ontology/routeJunction> <http://dbpedia.org/resource/The_Bronx> .
+<http://dbpedia.org/resource/The_Bronx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> .
+<http://dbpedia.org/resource/The_Bronx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/The_Bronx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/The_Bronx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/The_Bronx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

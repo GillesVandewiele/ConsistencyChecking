@@ -1,0 +1,14 @@
+_:node74786548db132df8878dbd2f5fc28b7 <http://schema.org/name> "ke xue chu ban she"@en .
+_:node5632eba483293da8733336d8277b08d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/inLanguage> "Chinese"@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/url> "http://www.biodiversitylibrary.org/bibliography/52891"@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/url> "http://www.biodiversitylibrary/creator/38975"@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/datePublished> "2001"@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/keywords> "\n                    \n                        \n                            Botany\n                        \n                        \n                    \n                    "@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/author> _:nodea2e0daa2b5d429fc478672c614149 .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/genre> "Null"@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/name> "fen zi xi bao sheng wu xue  "@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/name> "han yi ren      "@en .
+_:node5632eba483293da8733336d8277b08d <http://schema.org/publisher> _:node74786548db132df8878dbd2f5fc28b7 .
+_:nodea2e0daa2b5d429fc478672c614149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgPerson> .
+_:node1e39ea2c8ce3fbee898ae964f8af4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

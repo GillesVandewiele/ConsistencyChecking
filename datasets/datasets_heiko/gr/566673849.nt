@@ -1,0 +1,15 @@
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/209425.jpg" .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://ogp.me/ns#description> "Let them eat steak \u2014 with this J.A. Henckels 4-pc. Eversharp Pro Steak Knife Set from Cooking.com. Check out Cooking.com's lineup of cutlery now." .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/4-pc-eversharp-pro-steak-knife-set-by-j-a-henckels-international_209425_11/0/2/" .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://ogp.me/ns#title> "4-pc. Eversharp Pro Steak Knife Set by J.A. Henckels International at Cooking.com" .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/4-pc-eversharp-pro-steak-knife-set-by-j-a-henckels-international_209425_11/0/2/> .
+_:genid2dfd4bf33751b14e249f8aaffda6e1ba4c2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.surveillance-video.com/transmission-0185-024.html/?askq=y#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

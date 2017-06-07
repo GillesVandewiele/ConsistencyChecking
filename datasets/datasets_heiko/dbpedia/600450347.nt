@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Progressive_metal> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Progressive_metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/Progressive_metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/Progressive_metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .

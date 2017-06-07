@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Kurt_Waldheim> <http://dbpedia.org/ontology/militaryUnit> <http://dbpedia.org/resource/5_Alpine_Division_Pusteria> .
+<http://dbpedia.org/resource/Kurt_Waldheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Kurt_Waldheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kurt_Waldheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

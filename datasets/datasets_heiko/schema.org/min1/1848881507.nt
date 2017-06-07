@@ -1,0 +1,11 @@
+_:node22782c15ad664c657b9b1080cfcc4c7 <http://schema.org/address> _:node3decc17f3bb6dd2a759d965fc1ecf441 .
+_:node22782c15ad664c657b9b1080cfcc4c7 <http://schema.org/geo> _:nodeeb1ed914e01b7328af65457cb739429c .
+_:node22782c15ad664c657b9b1080cfcc4c7 <http://schema.org/name> "\n                    Lundg\u00E5rd auto teknik" .
+_:node3decc17f3bb6dd2a759d965fc1ecf441 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node3decc17f3bb6dd2a759d965fc1ecf441 <http://schema.org/telephone> "\n                        22 86 28 77" .
+_:node3decc17f3bb6dd2a759d965fc1ecf441 <http://schema.org/addressLocality> "\n                        Hj\u00F8rring" .
+_:node3decc17f3bb6dd2a759d965fc1ecf441 <http://schema.org/streetAddress> "\n                        L\u00E6s\u00F8vej 10" .
+_:nodeeb1ed914e01b7328af65457cb739429c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+_:nodeeb1ed914e01b7328af65457cb739429c <http://schema.org/latitude> "57,45" .
+_:nodeeb1ed914e01b7328af65457cb739429c <http://schema.org/longitude> "10,02" .
+_:nodefdfa9863061d536ed638871a1dce9fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

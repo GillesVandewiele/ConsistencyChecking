@@ -1,0 +1,27 @@
+_:genid2ddf7309e9fe0e4a71a1a212d7eb1aa2912dN66759 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2ddf7309e9fe0e4a71a1a212d7eb1aa2912dN66759 <http://purl.org/goodrelations/v1#hasCurrencyValue> "1.3200"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/50100.html?id=5f6RC5sn#product> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/lucky-line-key-chain-mity-mite-43201> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2ddf7309e9fe0e4a71a1a212d7eb1aa2912dN66759 .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/50100-228x228.jpg> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#description> "Flexible, flat link stainless steel chain. Collapses to fit easily in a pocket. Measures 5-3/8in in length." .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "50100"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#name> "Key Chain, Mity-Mite" .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/50100-228x228.jpg> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://purl.org/goodrelations/v1#description> "Flexible, flat link stainless steel chain. Collapses to fit easily in a pocket. Measures 5-3/8in in length." .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "50100"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Key Chain, Mity-Mite" .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://purl.org/goodrelations/v1#name> "Key Chain, Mity-Mite" .
+<http://www.mrlock.com/50100.html?id=5f6RC5sn#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/lucky-line-key-chain-mity-mite-43201> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .

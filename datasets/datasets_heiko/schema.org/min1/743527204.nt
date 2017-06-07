@@ -1,0 +1,3 @@
+_:node43a1b5856b6b171d6bcac4bf246db95a <http://schema.org/name> "Augustus of Primaporta :: Art History Survey" .
+_:node43a1b5856b6b171d6bcac4bf246db95a <http://schema.org/image> "http://contentdm.unl.edu/utils/getthumbnail/collection/ahis101/id/406" .
+_:nodee59e5c98c486618b6b8969656d24ddf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

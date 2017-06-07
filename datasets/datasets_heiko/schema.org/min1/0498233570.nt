@@ -1,0 +1,128 @@
+_:node85cc5a43d8f23bc55c13e9da04f9a2e <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44303> .
+_:node85cc5a43d8f23bc55c13e9da04f9a2e <http://schema.org/commentText> "\nHi Philmor, yes, he was very very well in speaking German. the first days of Rizal in Heidelberg seemed taxing, as he was not yet well acquainted with the german language. He divided his time wisely. He would work at the eye clinic under Professor Dr. Otto Becker in the morning and spend the afternoons learning German. Twice a week he would go to a beer hall with some of his new German friends. Rizal even translated Friedrich Schiller's William Tell (Wilhelm Tell), which his compatriots in Spain asked him to do. \n"@en-us .
+_:node85cc5a43d8f23bc55c13e9da04f9a2e <http://schema.org/creator> _:node3eba9b295344ab2e42eddd67303fa42f .
+_:node85cc5a43d8f23bc55c13e9da04f9a2e <http://schema.org/commentTime> "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node1f82e879ffb68285f3f7919d3db7d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node1f82e879ffb68285f3f7919d3db7d6 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44298> .
+_:node1f82e879ffb68285f3f7919d3db7d6 <http://schema.org/commentText> "\nKlaus: You should go to the Rizal memorial, too, while you are here\u2026 Would make a \"Rizal weekend\". Ring me when you are up and we'll have a beer. \n"@en-us .
+_:node1f82e879ffb68285f3f7919d3db7d6 <http://schema.org/creator> _:node95fcc44670eb3e8c10a6692f4bf356d .
+_:node1f82e879ffb68285f3f7919d3db7d6 <http://schema.org/commentTime> "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6f5de267f3827447125f9ae1371c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6f5de267f3827447125f9ae1371c1 <http://schema.org/name> "Klaus"@en-us .
+_:node95fcc44670eb3e8c10a6692f4bf356d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node95fcc44670eb3e8c10a6692f4bf356d <http://schema.org/name> "John Miele"@en-us .
+_:nodee29dd2d8fe2c4afd9c444e9c2b5d738 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee29dd2d8fe2c4afd9c444e9c2b5d738 <http://schema.org/name> "Klaus"@en-us .
+_:node9751f9554adb417491e6f248abc82d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node9751f9554adb417491e6f248abc82d <http://schema.org/mainContentOfPage> _:node5a2563dcaddce247243c7171c0185bf1 .
+_:node33ecef26967d8ef85892b2a231f45218 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node33ecef26967d8ef85892b2a231f45218 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44297> .
+_:node33ecef26967d8ef85892b2a231f45218 <http://schema.org/commentText> "\nhi Michelle, thanks. Yeah Rizal is really one of my real heroes. I hope, I can go to Manila till the end of June and watch the performance. \n"@en-us .
+_:node33ecef26967d8ef85892b2a231f45218 <http://schema.org/creator> _:nodefb75a59da6e873bb113954f0b02283e3 .
+_:node33ecef26967d8ef85892b2a231f45218 <http://schema.org/commentTime> "2009-05-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5a68774ee8e6fd82efc28781728c3d2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node5a68774ee8e6fd82efc28781728c3d2c <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44305> .
+_:node5a68774ee8e6fd82efc28781728c3d2c <http://schema.org/commentText> "\nKlaus; \nI'm confirmed in Germany two times in the next couple of weeks: Wismar and Augsburg, including a weekend in the North (I'm staying at a castle in the middle of nowhere, but I'm certain they have beer and sausage!)\u2026 Would you like me to put together another box for you? \n"@en-us .
+_:node5a68774ee8e6fd82efc28781728c3d2c <http://schema.org/creator> _:nodeb9e756a15339925b21483fa23f66f2c9 .
+_:node5a68774ee8e6fd82efc28781728c3d2c <http://schema.org/commentTime> "2009-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb9e756a15339925b21483fa23f66f2c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb9e756a15339925b21483fa23f66f2c9 <http://schema.org/name> "John Miele"@en-us .
+_:nodeaa180a968173b57c8d5a4baaddb81ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeaa180a968173b57c8d5a4baaddb81ff <http://schema.org/datePublished> "2009-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeaa180a968173b57c8d5a4baaddb81ff <http://schema.org/text> "\n   \n  \n\n \n\n\n(adsbygoogle = window.adsbygoogle || []).push({});\n\n \n\u201CThe dawn is not far. Spain opens the east for her beloved Philippines, and times are changing and I am positive that more are being done than we can imagine!\u201D\nDr. JOSE RIZAL, Philippine National Hero\n\nI started liking and loving Jose Rizal from that moment I read his book NOLI ME TANGERE. Of course, Rizal was quite subjective in writing it, since his motive was to gain feedback from his people by exposing in beautiful words the evils besetting his own country during that time, thus rallying the people for a peaceful revolution. NOLI ME TANGERE had also drawn ire from indignant censors because of its fearless expose on the colonial evils under the cloak of a literary masterpiece.\nFact is, Rizal has been the initiator of Philippine-German Cultural relations, a topic, which guides me also through the life as a German expat living in the Philippines. One can find a lot of literature regarding this topic.\nWhy do I mention this? A friend of mine in Manila sent me an email and invited me to fly to Manila. There might be something very interesting for me:\n  \n \nUp to June 28, 2009 is it possible to experience the musical satire \u201CRizal is My President\u201D (Pilipinas\u2026 Marangal at Banal). It is directed by Raffy Tejada, the original songs aare by Noel Cabangon, and the script is by Joshua So, a Palanca Awardee. The musical satire based on the book \u201CRizal is My President \u2013 40 leadership tips of Jose Rizal\u201D.\nVenues will be in Manila and Quezon City. For inquiries or reservations you might call Manila 02 \u2013 631-5923 or 632-7553 or 687-1309.\nI am sure, I try my very best to arrange my schedule and fly to Manila and watch the play \u201Cand believe in the dream again\u201D \u2013 as a saying goes.\n  \n \n\n\ngoogletag.cmd.push(function() { googletag.display('div-gpt-ad-1386560267193-8'); });\n\n \nPost Author: Klaus (228 Posts)Klaus is from Germany, but has been living in the Philippines since the late 1990\u00E2\u20AC\u2122s. Klaus is a journalist by trade, having written for a number of newspapers, studied also Publishing House Management and Marketing and has also been a Radio Host here in the Philippines. Klaus is no longer part of the LiP team.Please share:FacebookTwitterLinkedInGoogleEmailPrint \n"@en-us .
+_:nodeaa180a968173b57c8d5a4baaddb81ff <http://schema.org/headline> "Jose Rizal \u2013 MY Hero"@en-us .
+_:nodeaa180a968173b57c8d5a4baaddb81ff <http://schema.org/author> _:nodeb5d953f521632912ab07a7b4e1c3e1 .
+_:node724e4048cd59e93868e06b7d556657a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node724e4048cd59e93868e06b7d556657a3 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44301> .
+_:node724e4048cd59e93868e06b7d556657a3 <http://schema.org/commentText> "\nHi John Miele, thanks for keeping in touch. Great idea! Meanwhile I have several reasons to fly to Manila. Sure, I'll give you a ring. I hope, you are not on tour again. Let's have a beer or two\u2026. \n"@en-us .
+_:node724e4048cd59e93868e06b7d556657a3 <http://schema.org/creator> _:node6f5de267f3827447125f9ae1371c1 .
+_:node724e4048cd59e93868e06b7d556657a3 <http://schema.org/commentTime> "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node331c2be7a36eb2c94da546735416edd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node331c2be7a36eb2c94da546735416edd <http://schema.org/name> "rick fernandez"@en-us .
+_:node69243429eff24123ba1ffa4770f4cc3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node69243429eff24123ba1ffa4770f4cc3d <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44302> .
+_:node69243429eff24123ba1ffa4770f4cc3d <http://schema.org/commentText> "\nHi Richard W., yeah, you explain it very well. That's also, what I learned about Rizal. Thanks for your comment. I really try my best to be in Manila this month and hope i can watch the play. \n"@en-us .
+_:node69243429eff24123ba1ffa4770f4cc3d <http://schema.org/creator> _:nodee29dd2d8fe2c4afd9c444e9c2b5d738 .
+_:node69243429eff24123ba1ffa4770f4cc3d <http://schema.org/commentTime> "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec2c112588172c0f54ebf13d3eddf238c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec2c112588172c0f54ebf13d3eddf238c <http://schema.org/name> "John Miele"@en-us .
+_:node6cb9dc9e4c92861def1d83d3886b98e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node6cb9dc9e4c92861def1d83d3886b98e8 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44304> .
+_:node6cb9dc9e4c92861def1d83d3886b98e8 <http://schema.org/commentText> "\nHi richard, \nIndeed you are right. \nRizal thought that Filipinos were not ready to be independent and be better off under Spain for a while. \nHi Klaus, \nI still want to know the interplay between Rizal, Germany, Great Britain and the United States. Rizal went through New York on his way to London in the early 1890's. Anyway, I hope I'll get the answer in my lifetime. \nEnjoy the play. \nCheers. \n"@en-us .
+_:node6cb9dc9e4c92861def1d83d3886b98e8 <http://schema.org/creator> _:nodeea2816515ef2d4199c3165e580b3a89e .
+_:node6cb9dc9e4c92861def1d83d3886b98e8 <http://schema.org/commentTime> "2009-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node525f2440e77cc5ea31a3ae29daa1ce5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node525f2440e77cc5ea31a3ae29daa1ce5 <http://schema.org/url> <http://philmor.wordpress.com> .
+_:node525f2440e77cc5ea31a3ae29daa1ce5 <http://schema.org/name> "Philmor"@en-us .
+_:nodeb5d953f521632912ab07a7b4e1c3e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb5d953f521632912ab07a7b4e1c3e1 <http://schema.org/url> <http://liveinthephilippines.com/content/author/klaus/> .
+_:nodeb5d953f521632912ab07a7b4e1c3e1 <http://schema.org/name> "Klaus"@en-us .
+_:node3eba9b295344ab2e42eddd67303fa42f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3eba9b295344ab2e42eddd67303fa42f <http://schema.org/name> "Klaus"@en-us .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node68db289e0f047979292aae29aac1e .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node33ecef26967d8ef85892b2a231f45218 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node1f82e879ffb68285f3f7919d3db7d6 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:nodeeba2ebe2e2e2c946da726af293511c3 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node92315c976d776c92bce7cf91d8ba37f .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node23f878c85fa74b373e774f624a92971 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node724e4048cd59e93868e06b7d556657a3 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node69243429eff24123ba1ffa4770f4cc3d .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node6cb9dc9e4c92861def1d83d3886b98e8 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node85cc5a43d8f23bc55c13e9da04f9a2e .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node5a68774ee8e6fd82efc28781728c3d2c .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:nodea0f4fe8d47e445b17120cfb911433678 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:nodee4f0aa79b677be6bffecc1f223db2c4 .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/comment> _:node2834b3ce528536934a148733507fbbda .
+_:node5a2563dcaddce247243c7171c0185bf1 <http://schema.org/blogPost> _:nodeaa180a968173b57c8d5a4baaddb81ff .
+_:nodefb75a59da6e873bb113954f0b02283e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefb75a59da6e873bb113954f0b02283e3 <http://schema.org/name> "Klaus"@en-us .
+_:node68db289e0f047979292aae29aac1e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node68db289e0f047979292aae29aac1e <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44296> .
+_:node68db289e0f047979292aae29aac1e <http://schema.org/commentText> "\nKlaus, I too, think Rizal was quite amazing. He was intelligent that's for sure. And he was definitely ahead of his time. \nThat's a great invitation you got! I'd love to read about your review of the musical. Have fun! \n"@en-us .
+_:node68db289e0f047979292aae29aac1e <http://schema.org/creator> _:nodec6b2da54401d1d57865e62499a54cd2 .
+_:node68db289e0f047979292aae29aac1e <http://schema.org/commentTime> "2009-05-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea0f4fe8d47e445b17120cfb911433678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodea0f4fe8d47e445b17120cfb911433678 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44306> .
+_:nodea0f4fe8d47e445b17120cfb911433678 <http://schema.org/commentText> "\nHi John, sorry I wasn't able to reply earlier, because many things keep me very busy. Wismar, Augsburg \u2013 very wonderful places again you gonna visit then. Sure, I would love to receive another package with German stuff. The problem: someone might open again the package and tries the German beer, as it happened before. And, I think, it's first my turn to treat you for pizza, German Schweinebraten, beer or what ever. You and Rebecca should really try to come down to Davao\u2026 . DEAL??? \n"@en-us .
+_:nodea0f4fe8d47e445b17120cfb911433678 <http://schema.org/creator> _:nodef41ce3ee367bc8427aca994678b5d70 .
+_:nodea0f4fe8d47e445b17120cfb911433678 <http://schema.org/commentTime> "2009-06-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2834b3ce528536934a148733507fbbda <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node2834b3ce528536934a148733507fbbda <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44308> .
+_:node2834b3ce528536934a148733507fbbda <http://schema.org/commentText> "\nKlaus: \nOK\u2026 next time. Still trying to get to Davao. My schedule has turned into hell the last month (and not getting better!) \n"@en-us .
+_:node2834b3ce528536934a148733507fbbda <http://schema.org/creator> _:nodec2c112588172c0f54ebf13d3eddf238c .
+_:node2834b3ce528536934a148733507fbbda <http://schema.org/commentTime> "2009-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec6b2da54401d1d57865e62499a54cd2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec6b2da54401d1d57865e62499a54cd2 <http://schema.org/url> <http://profiles.friendster.com/saintlouis> .
+_:nodec6b2da54401d1d57865e62499a54cd2 <http://schema.org/name> "Michelle"@en-us .
+_:node7b8955fd3c64472604efab5a5baf8d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node7b8955fd3c64472604efab5a5baf8d <http://schema.org/name> "richard"@en-us .
+_:nodee4f0aa79b677be6bffecc1f223db2c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodee4f0aa79b677be6bffecc1f223db2c4 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44307> .
+_:nodee4f0aa79b677be6bffecc1f223db2c4 <http://schema.org/commentText> "\nHi Dr. Sponk Long, you got me! I remember one of my comments long time ago promising you and other readers to post an article about this topic. it's really not forgotten although during these days I am still very busy. You will get your answer in lifetime. Thanks for stopping by\u2026 . \n"@en-us .
+_:nodee4f0aa79b677be6bffecc1f223db2c4 <http://schema.org/creator> _:nodeb33c3829765c89dfafee50fce46529 .
+_:nodee4f0aa79b677be6bffecc1f223db2c4 <http://schema.org/commentTime> "2009-06-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeea2816515ef2d4199c3165e580b3a89e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeea2816515ef2d4199c3165e580b3a89e <http://schema.org/name> "Dr. Sponk Long"@en-us .
+_:nodeeba2ebe2e2e2c946da726af293511c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeeba2ebe2e2e2c946da726af293511c3 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44299> .
+_:nodeeba2ebe2e2e2c946da726af293511c3 <http://schema.org/commentText> "\nKlaus, \n Thanks for the article. I agree that Rizal was an amazing man. One of the tragedies of Spanish and Filipino history is that the Spanish so misunderstood Rizal. Rizal was actually a reformer who wanted the Spanish to treat the people of the Philippines with dignity and respect and grant them what we today would call \"human rights\". He was willing for the Philippines to remain within the Spanish empire.\nThe Spanish on the other hand believed Rizal was a revolutionary who wished overthrow Spanish rule so they executed him and thus started the Philippines toward independence,the very result the Spanish did not want. Anyway I hope you get to see the play and will write about it. \n Richard W. \n"@en-us .
+_:nodeeba2ebe2e2e2c946da726af293511c3 <http://schema.org/creator> _:node7b8955fd3c64472604efab5a5baf8d .
+_:nodeeba2ebe2e2e2c946da726af293511c3 <http://schema.org/commentTime> "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node92315c976d776c92bce7cf91d8ba37f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node92315c976d776c92bce7cf91d8ba37f <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-44300> .
+_:node92315c976d776c92bce7cf91d8ba37f <http://schema.org/commentText> "\nThat's true! Rizal is the greatest hero in Malay race. As far as I know he knows how to speak German.. \n"@en-us .
+_:node92315c976d776c92bce7cf91d8ba37f <http://schema.org/creator> _:node525f2440e77cc5ea31a3ae29daa1ce5 .
+_:node92315c976d776c92bce7cf91d8ba37f <http://schema.org/commentTime> "2009-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node23f878c85fa74b373e774f624a92971 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node23f878c85fa74b373e774f624a92971 <http://schema.org/url> <http://liveinthephilippines.com/content/jose-rizal-my-hero/#comment-114151> .
+_:node23f878c85fa74b373e774f624a92971 <http://schema.org/commentText> "\nBefore there was Mahatma Gandhi, Dr. Sun Yat Sen, or Dr. Martin Luther King, there was Dr. Jose Rizal. He was the first to instill a non-violent movement to protest indignities suffered by the people. He was truly ahead of his time and truly a great man.\n"@en-us .
+_:node23f878c85fa74b373e774f624a92971 <http://schema.org/creator> _:node331c2be7a36eb2c94da546735416edd .
+_:node23f878c85fa74b373e774f624a92971 <http://schema.org/commentTime> "2011-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb33c3829765c89dfafee50fce46529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb33c3829765c89dfafee50fce46529 <http://schema.org/url> <http://www.liveinthephilippines.com/klaus> .
+_:nodeb33c3829765c89dfafee50fce46529 <http://schema.org/name> "Klaus"@en-us .
+_:nodef41ce3ee367bc8427aca994678b5d70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef41ce3ee367bc8427aca994678b5d70 <http://schema.org/url> <http://www.liveinthephilippines.com/klaus> .
+_:nodef41ce3ee367bc8427aca994678b5d70 <http://schema.org/name> "Klaus"@en-us .
+_:node3654a38b1ff6ea7e25e1c60735a5ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

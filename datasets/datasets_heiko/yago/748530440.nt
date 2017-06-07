@@ -1,0 +1,5 @@
+<http://yago-knowledge.org/resource/Radiocontrast_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Radiocontrast_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_physical_entity_100001930> .
+<http://yago-knowledge.org/resource/Radiocontrast_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_causal_agent_100007347> .
+<http://yago-knowledge.org/resource/Radiocontrast_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Radiocontrast_agents> .
+<http://yago-knowledge.org/resource/Radiocontrast_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_agent_109190918> .

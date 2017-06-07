@@ -1,0 +1,10 @@
+<http://www.okazii.ro/transmisie-auto/alte-piese-transmisie-auto/vand-ambreiaj-compresor-clima-complet-pentru-vw-golf-4-sharan--a58083462#main> <http://purl.org/goodrelations/v1#description> "Vand ambreiaj compresor clima complet (bobina, rulment, capac) pentru VW Golf 4, Sharan, in stare perfecta de functionare. A fost demontat de pe un VW Golf 4 TDI din 2003. Compresorul este defect." .
+_:genid2de30da570235e4a6494705745e3cab85d2dN66351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2de30da570235e4a6494705745e3cab85d2dN66351 <http://purl.org/goodrelations/v1#hasCurrency> "RON" .
+_:genid2de30da570235e4a6494705745e3cab85d2dN66351 <http://purl.org/goodrelations/v1#validThrough> "21 Aprilie 2012 11:50:00" .
+_:genid2de30da570235e4a6494705745e3cab85d2dN66351 <http://purl.org/goodrelations/v1#hasCurrencyValue> "150" .
+<http://www.okazii.ro/transmisie-auto/alte-piese-transmisie-auto/vand-ambreiaj-compresor-clima-complet-pentru-vw-golf-4-sharan--a58083462#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.okazii.ro/transmisie-auto/alte-piese-transmisie-auto/vand-ambreiaj-compresor-clima-complet-pentru-vw-golf-4-sharan--a58083462#main> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2de30da570235e4a6494705745e3cab85d2dN66351 .
+<http://www.okazii.ro/transmisie-auto/alte-piese-transmisie-auto/vand-ambreiaj-compresor-clima-complet-pentru-vw-golf-4-sharan--a58083462#main> <http://xmlns.com/foaf/0.1/depiction> <javascript:void(0)> .
+<http://www.okazii.ro/transmisie-auto/alte-piese-transmisie-auto/vand-ambreiaj-compresor-clima-complet-pentru-vw-golf-4-sharan--a58083462#main> <http://purl.org/goodrelations/v1#name> "Vand ambreiaj compresor clima complet pentru VW Golf 4, Sharan...." .
+<http://www.bestvacuum.com/sanitaire-sc899-upright.html#UnitPriceSpecification_550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

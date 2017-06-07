@@ -1,0 +1,8 @@
+_:nodee2f4931f6c911d6d9f99f366611b3b92 <http://schema.org/offers> _:node7a756b52e8b79c8fff2bf901ed5d8 .
+_:nodee2f4931f6c911d6d9f99f366611b3b92 <http://schema.org/name> "Graphic Knee Pad"@en .
+_:nodee2f4931f6c911d6d9f99f366611b3b92 <http://schema.org/image> <http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/Sites-adidas-US-Site/Sites-adidas-products/en_US/v1419673932698/zoom/O25471_01.jpg?sw=500&sfrm=jpg> .
+_:node7a756b52e8b79c8fff2bf901ed5d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node7a756b52e8b79c8fff2bf901ed5d8 <http://schema.org/price> "\n16.99\n"@en .
+_:node7a756b52e8b79c8fff2bf901ed5d8 <http://schema.org/availability> "http://schema.org/InStock"@en .
+_:node7a756b52e8b79c8fff2bf901ed5d8 <http://schema.org/priceCurrency> "USD"@en .
+_:nodebb16fa7a80f58dea705a7bdfb6f78f43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ExerciseAction> .

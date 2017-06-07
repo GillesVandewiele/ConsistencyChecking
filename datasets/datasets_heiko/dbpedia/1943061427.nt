@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Robert_Byrd> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Strom_Thurmond> .
+<http://dbpedia.org/resource/Robert_Byrd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Robert_Byrd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robert_Byrd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Strom_Thurmond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Strom_Thurmond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Strom_Thurmond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .

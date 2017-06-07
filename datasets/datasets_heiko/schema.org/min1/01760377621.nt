@@ -1,0 +1,15 @@
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/thumbnailUrl> "http://i2.cdn.turner.com/cnn/dam/assets/121213114722-susan-rice-un-story-top.jpg"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/author> "Amar Bakshi, CNN"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/headline> "An unfair portrait of Susan Rice"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/genre> "news"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/keywords> "Null"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/articleSection> "opinion"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/dateModified> "2012-12-14T14:22:23Z"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/contentLocation> "Null"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/description> "Amar Bakshi, a former assistant to the U.N. ambassador, says the articles criticizing Rice's personality were caricatures of her real self "@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/dateCreated> "2012-12-13T23:14:56Z"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/url> "http://www.cnn.com/2012/12/13/opinion/bakshi-susan-rice/index.html"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/inLanguage> "en-US"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/datePublished> "2012-12-13T23:14:56Z"@en-us .
+_:nodee4a78124eda98cedfb50991ab14129ac <http://schema.org/sourceOrganization> "CNN"@en-us .
+_:node1c80e5b0f739c47cf2df85add7e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

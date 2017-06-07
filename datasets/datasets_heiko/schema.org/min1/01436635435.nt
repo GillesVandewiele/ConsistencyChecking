@@ -1,0 +1,3 @@
+_:node15545a51e545ec017a55c0ea7211ba <http://schema.org/name> "Dairy Building, ca. 1904 :: City of Pullman Image Collection" .
+_:node15545a51e545ec017a55c0ea7211ba <http://schema.org/image> "http://content.libraries.wsu.edu/utils/getthumbnail/collection/pullman/id/1698" .
+_:node69e66e9fb883a6c4291a2ce1c5cedd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .

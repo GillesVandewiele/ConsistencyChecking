@@ -1,0 +1,15 @@
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/datePublished> "\u0662\u0667\u200F/\u0660\u0662\u200F/\u0662\u0660\u0660\u0665"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows 95"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows 98"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows Me"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows 2000"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows XP"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows Vista"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows 7"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/operatingSystem> "Windows 8"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/fileSize> "Null"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/name> "Notepad++"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/interactionCount> "UserDownloads:18"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/softwareVersion> "2.8"@ar-x-mtfrom-en .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://schema.org/releaseNotes> "\n\nRecent Files History menu is now dynamic.\nChange the shortcuts \"Collapse the levels\" (From Ctrl-Alt-# to Alt-#) and the shortcuts \"Uncollapse the levels\" (From Ctrl-Alt-Shift-# to Alt-Shift-#)\nThe feature to minimize to system tray is added.\nBlock Comment features are added\n\n"@ar-x-mtfrom-en .
+_:nodeb54222a23fc093d183515fb356e2b2b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

@@ -1,0 +1,312 @@
+_:nodef2a7483744c59c9ec1b59df1f9f178c3 <http://schema.org/address> _:nodee7668fa45449ffdaa9bb9c11919c62 .
+_:node7b31842c2bd74fa1fd482da7cf1a5546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node7b31842c2bd74fa1fd482da7cf1a5546 <http://schema.org/addressRegion> "MA"@en .
+_:node7b31842c2bd74fa1fd482da7cf1a5546 <http://schema.org/postalCode> "02169"@en .
+_:node7b31842c2bd74fa1fd482da7cf1a5546 <http://schema.org/addressLocality> "Quincy"@en .
+_:node9a1cb2f4ce2fe6c05220f7fad87f9a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node9a1cb2f4ce2fe6c05220f7fad87f9a8 <http://schema.org/name> "Merchant Warehouse"@en .
+_:node9a1cb2f4ce2fe6c05220f7fad87f9a8 <http://schema.org/url> <http://jobsearch.monster.com/Merchant__20Warehouse_6> .
+_:nodea5bc82ea682dfb7172b66dd6e59a7878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodea5bc82ea682dfb7172b66dd6e59a7878 <http://schema.org/address> _:nodee49b3ea115d5f6c16be6e5c571b316c .
+_:nodee49b3ea115d5f6c16be6e5c571b316c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee49b3ea115d5f6c16be6e5c571b316c <http://schema.org/addressRegion> "MA"@en .
+_:nodee49b3ea115d5f6c16be6e5c571b316c <http://schema.org/addressLocality> "Hingham"@en .
+_:node70ade5404efabb8413dc496f935cc916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node70ade5404efabb8413dc496f935cc916 <http://schema.org/title> "Senior Director, Quality & Regulatory Compliance"@en .
+_:node70ade5404efabb8413dc496f935cc916 <http://schema.org/datePosted> "2014-12-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node70ade5404efabb8413dc496f935cc916 <http://schema.org/url> <http://jobview.monster.com/Senior-Director-Quality-Regulatory-Compliance-Job-Boston-MA-US-143140207.aspx?mescoid=1500137001001> .
+_:node70ade5404efabb8413dc496f935cc916 <http://schema.org/hiringOrganization> _:node4d6eaaf585ee441c9eef4f2de19b17c .
+_:node70ade5404efabb8413dc496f935cc916 <http://schema.org/description> "TEI Biosciences is a biomedical device company that develops, manufactures and markets collagen-based biologic implant devices for the repair and reinforcement of soft tissues.  www.teibio.com  Senior Director, Quality & Regulatory Compliance  Our premier product line, SurgiMend\u00C2\u00AE, is indicated for soft tissue repair and reconstruction and is used in abdominal wall repair, plastic and reconstructiv..."@en .
+_:node70ade5404efabb8413dc496f935cc916 <http://schema.org/jobLocation> _:node3ac9a3226b446a13975e30bbc5b0f0 .
+_:node3beb9ad2175bd3c81c843a2cf81ac9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3beb9ad2175bd3c81c843a2cf81ac9 <http://schema.org/name> "Boston University"@en .
+_:node3beb9ad2175bd3c81c843a2cf81ac9 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-boston-university.aspx> .
+_:node402ec2e1c019292db1224454851876f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node402ec2e1c019292db1224454851876f8 <http://schema.org/name> "Banner Solutions"@en .
+_:node402ec2e1c019292db1224454851876f8 <http://schema.org/url> <http://jobsearch.monster.com/Banner__20Solutions_6> .
+_:node8148863d11e0dc4a7738b49bfcccfd55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node8148863d11e0dc4a7738b49bfcccfd55 <http://schema.org/address> _:node6128c19c4c851a3ce9833cded83c2282 .
+_:node2664eb4b79b6cca32d4f3b78f93e1688 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2664eb4b79b6cca32d4f3b78f93e1688 <http://schema.org/name> "Make Meaning"@en .
+_:node2664eb4b79b6cca32d4f3b78f93e1688 <http://schema.org/url> <http://jobsearch.monster.com/Make__20Meaning_6> .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://schema.org/title> "Area Director of Residential Services"@en .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://schema.org/datePosted> "2014-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://schema.org/url> <http://jobview.monster.com/Area-Director-of-Residential-Services-Job-Brockton-MA-US-141602467.aspx?mescoid=1100052001001> .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://schema.org/hiringOrganization> _:node71f1d3f6748c1b95cd29c312fc3f33a .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://schema.org/description> "BAMSI, a large Massachusetts not-for-profit health and human service organization is looking for a Director of Residential Services to ensure overall coordination of services, staff management and development and quality management among the various programs assigned. The Director performs duties with a team approach, works in collaboration with Assistant Directors, Nurse Supervisors, Program Mana..."@en .
+_:nodeb6c139fa41c88ac6f58878d8bbd3fb7 <http://schema.org/jobLocation> _:node5d6c40fce499221514a33a9d171288 .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://schema.org/title> "Project Manager, Digital Publications"@en .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://schema.org/datePosted> "2014-12-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://schema.org/url> <http://jobview.monster.com/Project-Manager-Digital-Publications-Job-Quincy-MA-US-143819487.aspx?mescoid=1500139001001> .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://schema.org/hiringOrganization> _:node308e7a8190752866d45c87d1e3e594a .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://schema.org/description> "National Fire Protection Association is an international nonprofit NFPA, established in 1896. Our mission is to reduce the worldwide burden of fire and other hazards on the quality of life by providing and advocating consensus codes and standards, research, training, and education.  We are the world's leading advocate of fire prevention and an authoritative source on public safety, NFPA develops, ..."@en .
+_:nodeded23bfe246498a5e9e7fdc05d6512 <http://schema.org/jobLocation> _:node73e5153889d5a91ab019c67f6bab3a .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://schema.org/title> "Program Manager R&D Quality Assurance Clinical Compound Support"@en .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://schema.org/datePosted> "2014-12-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://schema.org/url> <http://jobview.monster.com/Program-Manager-R-D-Quality-Assurance-Clinical-Compound-Support-Job-Cambridge-MA-US-143843103.aspx?mescoid=1100016001001> .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://schema.org/hiringOrganization> _:node5771cebf7c44df354d24bf67fca778d .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://schema.org/description> "Job Title: Program Manager R&D Quality Assurance Clinical Compound Support  Position Description  The purpose of this position is to ensure that TDC clinical trial activities for all assigned projects are conducted in compliance with applicable regulations, Good Clinical Practice (GCP) guidelines, the International Conference on Harmonization (ICH) and Company Policies and Procedures. In addition,..."@en .
+_:node2137a7a2ef63f8beca9b41dbde3ae0c8 <http://schema.org/jobLocation> _:node78b95f882e8894b8af73f77c4093cf .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://schema.org/title> "Project Manager"@en .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://schema.org/datePosted> "2014-12-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://schema.org/url> <http://jobview.monster.com/Project-Manager-Job-Boston-MA-US-143164887.aspx?mescoid=1100003001001> .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://schema.org/hiringOrganization> _:node9a1cb2f4ce2fe6c05220f7fad87f9a8 .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://schema.org/description> "Project Manager  Department: Product Management  Direct Manager: VP, Product Management  Manages Others (If Yes, # of employees): No  Position Overview:  You are a proven rock star at your current position but something is missing. A passion for the project management discipline combined with a strong desire to continually refine and streamline the organization has earned the respect you deserve. ..."@en .
+_:node598c6bff721ccaa163a8e8db5dea0d0 <http://schema.org/jobLocation> _:nodeb1cb9b703e72f6e49f492e69b469542d .
+_:nodeb83271909d73f75d2831cd12a8fdee7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb83271909d73f75d2831cd12a8fdee7 <http://schema.org/name> "Partners HealthCare"@en .
+_:nodeb83271909d73f75d2831cd12a8fdee7 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-partners-healthcare-system.aspx> .
+_:node71f1d3f6748c1b95cd29c312fc3f33a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node71f1d3f6748c1b95cd29c312fc3f33a <http://schema.org/name> "BAMSI"@en .
+_:node71f1d3f6748c1b95cd29c312fc3f33a <http://schema.org/url> <http://jobsearch.monster.com/BAMSI_6> .
+_:node308e7a8190752866d45c87d1e3e594a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node308e7a8190752866d45c87d1e3e594a <http://schema.org/name> "National Fire Protection Association"@en .
+_:node308e7a8190752866d45c87d1e3e594a <http://schema.org/url> <http://jobsearch.monster.com/National__20Fire__20Protection__20Association_6> .
+_:node84f9d639f24a312f7edb99b882d4028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node84f9d639f24a312f7edb99b882d4028 <http://schema.org/title> "Partners eCare, Enterprise PMO Director (Program Management Office)"@en .
+_:node84f9d639f24a312f7edb99b882d4028 <http://schema.org/datePosted> "2014-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node84f9d639f24a312f7edb99b882d4028 <http://schema.org/url> <http://jobview.monster.com/Partners-eCare-Enterprise-PMO-Director-Program-Management-Office-Job-Boston-MA-US-143489180.aspx?mescoid=1100003001001> .
+_:node84f9d639f24a312f7edb99b882d4028 <http://schema.org/hiringOrganization> _:nodeb83271909d73f75d2831cd12a8fdee7 .
+_:node84f9d639f24a312f7edb99b882d4028 <http://schema.org/description> "About Our Organization  As a not-for-profit organization, Partners HealthCare is committed to supporting patient care, research, teaching, and service to the community by leading innovation across our system. Founded by Brigham and Women\u00E2\u20AC\u2122s Hospital and Massachusetts General Hospital, Partners HealthCare supports a complete continuum of care including community and specialty hospitals, a managed ca..."@en .
+_:node84f9d639f24a312f7edb99b882d4028 <http://schema.org/jobLocation> _:node576ad6db85dae9da92236ee3213bd85 .
+_:node2b4864d5a95a2e14cae6cfeb328e9473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2b4864d5a95a2e14cae6cfeb328e9473 <http://schema.org/name> "Talbots"@en .
+_:node2b4864d5a95a2e14cae6cfeb328e9473 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-talbots.aspx> .
+_:node6128c19c4c851a3ce9833cded83c2282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node6128c19c4c851a3ce9833cded83c2282 <http://schema.org/addressRegion> "MA"@en .
+_:node6128c19c4c851a3ce9833cded83c2282 <http://schema.org/addressLocality> "Boston"@en .
+_:node6caa346699980fffc312bf67bf1acb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6caa346699980fffc312bf67bf1acb3 <http://schema.org/name> "The Dimock Center"@en .
+_:node6caa346699980fffc312bf67bf1acb3 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-dimock-community-health-center.aspx> .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://schema.org/title> "Director of Project Initiatives"@en .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://schema.org/datePosted> "2014-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://schema.org/url> <http://jobview.monster.com/Director-of-Project-Initiatives-Job-Boston-MA-US-143463872.aspx?mescoid=1100003001001> .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://schema.org/hiringOrganization> _:node6caa346699980fffc312bf67bf1acb3 .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://schema.org/description> "The Dimock Center is a non-profit community-based organization that provides comprehensive services to Boston\u00E2\u20AC\u2122s urban neighborhoods. Dimock offers nearly one hundred programs to over 40,000 individuals, spanning primary and specialty health care; job training and employment services; early childhood and family support programs; substance abuse and mental health treatment services. Highlights of Di..."@en .
+_:node15ab15b542cb4ffad6bea6d5f1d402b <http://schema.org/jobLocation> _:node6526e181a018d3a343be1a58b28f3bc .
+_:node5d6c40fce499221514a33a9d171288 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node5d6c40fce499221514a33a9d171288 <http://schema.org/address> _:noded11932558033168ac603016c1dc7b20 .
+_:nodefe339b40419a6e605a66ca9beab19b2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodefe339b40419a6e605a66ca9beab19b2c <http://schema.org/addressRegion> "MA"@en .
+_:nodefe339b40419a6e605a66ca9beab19b2c <http://schema.org/postalCode> "02215"@en .
+_:nodefe339b40419a6e605a66ca9beab19b2c <http://schema.org/addressLocality> "BOSTON"@en .
+_:nodea99d22dc711455830322ec5c86fc4dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodea99d22dc711455830322ec5c86fc4dd <http://schema.org/address> _:node29642778708047cf35c2d75821cfbec .
+_:node812121e353e84d4352d14a34257855d4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node812121e353e84d4352d14a34257855d4 <http://schema.org/addressRegion> "MA"@en .
+_:node812121e353e84d4352d14a34257855d4 <http://schema.org/postalCode> "02184"@en .
+_:node812121e353e84d4352d14a34257855d4 <http://schema.org/addressLocality> "Braintree"@en .
+_:node12d5563be0d25f2ed97c55624973bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node12d5563be0d25f2ed97c55624973bf <http://schema.org/name> "Justice Resource Institute"@en .
+_:node12d5563be0d25f2ed97c55624973bf <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-justice-resource-institute.aspx> .
+_:node6dc27b53668c8ef497edd2e68e27257 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6dc27b53668c8ef497edd2e68e27257 <http://schema.org/name> "Merchant Warehouse"@en .
+_:node6dc27b53668c8ef497edd2e68e27257 <http://schema.org/url> <http://jobsearch.monster.com/Merchant__20Warehouse_6> .
+_:nodefdf331639294c8da841131e42875678b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodefdf331639294c8da841131e42875678b <http://schema.org/title> "Intake Specialist"@en .
+_:nodefdf331639294c8da841131e42875678b <http://schema.org/datePosted> "2014-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodefdf331639294c8da841131e42875678b <http://schema.org/url> <http://jobview.monster.com/Intake-Specialist-Job-Boston-MA-US-143431078.aspx?mescoid=1100038001001> .
+_:nodefdf331639294c8da841131e42875678b <http://schema.org/hiringOrganization> _:node413ce28013f58138cab2238b2c1b88f7 .
+_:nodefdf331639294c8da841131e42875678b <http://schema.org/description> "The Customer Service Representative is a member of the Williams Lea sales team responsible for delivering exceptional customer service in a client-facing role.  Job Responsibilities:  Assist sales team in delivering solutions to meet clients' goals and objectives.  Work directly with clients and the production team, under the direction of a senior sales professional.  Work on an ongoing basis work..."@en .
+_:nodefdf331639294c8da841131e42875678b <http://schema.org/jobLocation> _:node1e3ccfddea4ae921b415a0b452fe2cea .
+_:node29ab69943349d249078daad49483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node29ab69943349d249078daad49483 <http://schema.org/addressRegion> "MA"@en .
+_:node29ab69943349d249078daad49483 <http://schema.org/postalCode> "02117"@en .
+_:node29ab69943349d249078daad49483 <http://schema.org/addressLocality> "Boston"@en .
+_:nodeb1cb9b703e72f6e49f492e69b469542d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeb1cb9b703e72f6e49f492e69b469542d <http://schema.org/address> _:nodeab93efacb4bf2fb3d81fd5af37d65f1 .
+_:node17c9afc2829fb3ebdaaea93285c7abe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node17c9afc2829fb3ebdaaea93285c7abe <http://schema.org/addressRegion> "MA"@en .
+_:node17c9afc2829fb3ebdaaea93285c7abe <http://schema.org/addressLocality> "Quincy"@en .
+_:noded4bc647cc4b511eea6ff69d28758793c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded4bc647cc4b511eea6ff69d28758793c <http://schema.org/name> "Company Confidential"@en .
+_:node5b828cbc1ad381d13125f157f89afe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node5b828cbc1ad381d13125f157f89afe <http://schema.org/address> _:node812121e353e84d4352d14a34257855d4 .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://schema.org/title> "Project Engineer"@en .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://schema.org/datePosted> "2014-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://schema.org/url> <http://jobview.monster.com/Project-Engineer-Job-Braintree-MA-US-142885665.aspx?mescoid=1100041001001> .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://schema.org/hiringOrganization> _:noded4bc647cc4b511eea6ff69d28758793c .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://schema.org/description> "Project Engineer  A rapidly growing Engineering company whose clients include some of the largest energy companies in the U.S. Our services include Corrosion Control / Cathodic Protection System Design and AC Electrical Interference Analysis & Mitigation System Design. The Company is one of the few companies that performs electromagnetic & conductive interference (AC & DC) analysis and mitigation ..."@en .
+_:nodeb26d85d69be4a428874292775cc6db36 <http://schema.org/jobLocation> _:node5b828cbc1ad381d13125f157f89afe .
+_:nodeab93efacb4bf2fb3d81fd5af37d65f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodeab93efacb4bf2fb3d81fd5af37d65f1 <http://schema.org/addressRegion> "MA"@en .
+_:nodeab93efacb4bf2fb3d81fd5af37d65f1 <http://schema.org/postalCode> "02110"@en .
+_:nodeab93efacb4bf2fb3d81fd5af37d65f1 <http://schema.org/addressLocality> "Boston"@en .
+_:nodec78130f32f19be3117f5735566155dbc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodec78130f32f19be3117f5735566155dbc <http://schema.org/title> "Company Planner Outlets"@en .
+_:nodec78130f32f19be3117f5735566155dbc <http://schema.org/datePosted> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec78130f32f19be3117f5735566155dbc <http://schema.org/url> <http://jobview.monster.com/Company-Planner-Outlets-Job-Hingham-MA-US-143224679.aspx?mescoid=1100003001001> .
+_:nodec78130f32f19be3117f5735566155dbc <http://schema.org/hiringOrganization> _:nodee467c04015d8f9a18dc5565965e838 .
+_:nodec78130f32f19be3117f5735566155dbc <http://schema.org/description> "Responsibilities:  Company Planner: Upscale Outlet  This position is responsible for High level, Tops Down sales, inventory & margin planning of the Upscale and Surplus channels within the Company Planning group. Supplements Merchandise Planning staff in analysis by Concept and across entity.  Principal Accountabilities:  Critically analyze and make strategic recommendations which will impact busi..."@en .
+_:nodec78130f32f19be3117f5735566155dbc <http://schema.org/jobLocation> _:nodea5bc82ea682dfb7172b66dd6e59a7878 .
+_:node78b95f882e8894b8af73f77c4093cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node78b95f882e8894b8af73f77c4093cf <http://schema.org/address> _:node5ae93cdb16ffaedb397f4884c3613c7 .
+_:nodecf269314828042e8e4a8303a7a6b794a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodecf269314828042e8e4a8303a7a6b794a <http://schema.org/addressRegion> "MA"@en .
+_:nodecf269314828042e8e4a8303a7a6b794a <http://schema.org/addressLocality> "Boston"@en .
+_:nodebcc490ae7c5f53d1258feab3385c5228 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodebcc490ae7c5f53d1258feab3385c5228 <http://schema.org/address> _:node119d98546da17ab8a9f649e58f9db915 .
+_:nodedb9d7e1c4f2159147bc53d2acd5b6d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodedb9d7e1c4f2159147bc53d2acd5b6d <http://schema.org/addressRegion> "MA"@en .
+_:nodedb9d7e1c4f2159147bc53d2acd5b6d <http://schema.org/postalCode> "02127"@en .
+_:nodedb9d7e1c4f2159147bc53d2acd5b6d <http://schema.org/addressLocality> "Boston"@en .
+_:nodeb8a58afde8a45360935097d0c34d7985 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeb8a58afde8a45360935097d0c34d7985 <http://schema.org/address> _:nodedc32d45949bcd643479a5adf9a5e5 .
+_:node3c5fb496cf12b91538334fe022dfeddb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node3c5fb496cf12b91538334fe022dfeddb <http://schema.org/addressRegion> "MA"@en .
+_:node3c5fb496cf12b91538334fe022dfeddb <http://schema.org/addressLocality> "Boston"@en .
+_:node381612a465c8b787b56986198112eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node381612a465c8b787b56986198112eb <http://schema.org/name> "Healthcare Services Management, Inc."@en .
+_:node381612a465c8b787b56986198112eb <http://schema.org/url> <http://jobsearch.monster.com/Healthcare__20Services__20Management__2c__20Inc._6> .
+_:node413ce28013f58138cab2238b2c1b88f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node413ce28013f58138cab2238b2c1b88f7 <http://schema.org/name> "Williams Lea Inc."@en .
+_:node413ce28013f58138cab2238b2c1b88f7 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-williams-lea.aspx> .
+_:nodeefb8e54fb5dcb83df375fb3435a7d089 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeefb8e54fb5dcb83df375fb3435a7d089 <http://schema.org/name> "UnitedHealth Group"@en .
+_:nodeefb8e54fb5dcb83df375fb3435a7d089 <http://schema.org/url> <http://jobsearch.monster.com/UnitedHealth__20Group_6> .
+_:node5771cebf7c44df354d24bf67fca778d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5771cebf7c44df354d24bf67fca778d <http://schema.org/name> "Randstad Pharma"@en .
+_:node5771cebf7c44df354d24bf67fca778d <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-deltapharma.aspx> .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://schema.org/title> "Sales Associate Visual Responsibility"@en .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://schema.org/datePosted> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://schema.org/url> <http://jobview.monster.com/Sales-Associate-Visual-Responsibility-Job-Boston-MA-US-143224786.aspx?mescoid=4100691001001> .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://schema.org/hiringOrganization> _:nodec135f8da1aa475d2dba056c16466c21 .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://schema.org/description> "Responsibilities:  The Talbots Sales Associate provides an exceptional selling and customer service experience that promotes the product and supports the brand. Sales Associates must demonstrate selling competence, styling expertise and possess a love of fashion. Sales Associates are accountable for achieving productivity goals by using product knowledge using selling tools and available resources..."@en .
+_:nodea5cfc1e5bccda2f286df58caddacc6c9 <http://schema.org/jobLocation> _:node8148863d11e0dc4a7738b49bfcccfd55 .
+_:node73e5153889d5a91ab019c67f6bab3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node73e5153889d5a91ab019c67f6bab3a <http://schema.org/address> _:node7b31842c2bd74fa1fd482da7cf1a5546 .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://schema.org/title> "Cerner Practice Manager"@en .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://schema.org/datePosted> "2014-12-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://schema.org/url> <http://jobview.monster.com/Cerner-Practice-Manager-Job-Quincy-MA-US-142825801.aspx?mescoid=1100047001001> .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://schema.org/hiringOrganization> _:node381612a465c8b787b56986198112eb .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://schema.org/description> "Required Skills:  10-12 + years in the Cerner Consulting field required  Project management and service deliver experience required  Expert level knowledge of Cerner IT vendor marketplace  Experience leading a consulting practice preferred  Expert oral and written communications skills as well as ability to interact effectively with consultants and client manager  Ability to develop and maintain r..."@en .
+_:node96b35ed759a9d0fdbecf7172ea29fd47 <http://schema.org/jobLocation> _:node588ca3f75cdab387d784cb3e67b4fce .
+_:nodedc32d45949bcd643479a5adf9a5e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodedc32d45949bcd643479a5adf9a5e5 <http://schema.org/addressRegion> "MA"@en .
+_:nodedc32d45949bcd643479a5adf9a5e5 <http://schema.org/addressLocality> "Hingham"@en .
+_:node65d92ae3e4fb7c13e9bd163da5c60bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node65d92ae3e4fb7c13e9bd163da5c60bd <http://schema.org/name> "Talbots"@en .
+_:node65d92ae3e4fb7c13e9bd163da5c60bd <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-talbots.aspx> .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://schema.org/title> "Inventory Manager"@en .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://schema.org/datePosted> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://schema.org/url> <http://jobview.monster.com/Inventory-Manager-Job-Hingham-MA-US-143224723.aspx?mescoid=1100059001001> .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://schema.org/hiringOrganization> _:node65d92ae3e4fb7c13e9bd163da5c60bd .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://schema.org/description> "Responsibilities:  The Inventory Management Manager is responsible for overseeing the Inventory Analysts to ensure allocation and replenishment to stores are executed as planned to achieve the company\u00E2\u20AC\u2122s sales, inventory and margin goals. Position is responsible for training, mentoring, managing staff.  Principal Accountabilities:  Develop an allocation strategy in partnership with the Merchandise ..."@en .
+_:nodec729e3812570877e7bbb5450aadafe46 <http://schema.org/jobLocation> _:nodea99d22dc711455830322ec5c86fc4dd .
+_:node6526e181a018d3a343be1a58b28f3bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node6526e181a018d3a343be1a58b28f3bc <http://schema.org/address> _:node56f1f175469496d78cfa79ca432b1c1 .
+_:node5ae93cdb16ffaedb397f4884c3613c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node5ae93cdb16ffaedb397f4884c3613c7 <http://schema.org/addressRegion> "MA"@en .
+_:node5ae93cdb16ffaedb397f4884c3613c7 <http://schema.org/postalCode> "02139"@en .
+_:node5ae93cdb16ffaedb397f4884c3613c7 <http://schema.org/addressLocality> "Cambridge"@en .
+_:node119d98546da17ab8a9f649e58f9db915 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node119d98546da17ab8a9f649e58f9db915 <http://schema.org/addressRegion> "MA"@en .
+_:node119d98546da17ab8a9f649e58f9db915 <http://schema.org/postalCode> "02026"@en .
+_:node119d98546da17ab8a9f649e58f9db915 <http://schema.org/addressLocality> "Dedham"@en .
+_:node881a5080bbb8917a41f1614221d7d57d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node881a5080bbb8917a41f1614221d7d57d <http://schema.org/title> "ASSISTANT DIRECTOR, PRE-HEALTH PRG,CAS College of Arts & Sciences, Student Life (1908/L0314)"@en .
+_:node881a5080bbb8917a41f1614221d7d57d <http://schema.org/datePosted> "2014-12-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node881a5080bbb8917a41f1614221d7d57d <http://schema.org/url> <http://jobview.monster.com/ASSISTANT-DIRECTOR-PRE-HEALTH-PRG-CAS-College-of-Arts-Sciences-Student-Life-1908-L0314-Job-BOSTON-MA-US-143101400.aspx?mescoid=> .
+_:node881a5080bbb8917a41f1614221d7d57d <http://schema.org/hiringOrganization> _:node3beb9ad2175bd3c81c843a2cf81ac9 .
+_:node881a5080bbb8917a41f1614221d7d57d <http://schema.org/description> "The Assistant Director of Pre-Health Programs works closely with the Assistant Dean for Premedical Studies and advises premedical/prehealth students about academic matters, volunteer activities, internships, related health careers, and professional school application processes. The Assistant Director also serves as the program administrator for early assurance programs with our School of Medicine ..."@en .
+_:node881a5080bbb8917a41f1614221d7d57d <http://schema.org/jobLocation> _:nodef6923156536feadae8179a8e59ea8927 .
+_:nodec680ec8fe114c0c8a063d0499c65b5f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodec680ec8fe114c0c8a063d0499c65b5f3 <http://schema.org/addressRegion> "MA"@en .
+_:nodec680ec8fe114c0c8a063d0499c65b5f3 <http://schema.org/postalCode> "02119"@en .
+_:nodec680ec8fe114c0c8a063d0499c65b5f3 <http://schema.org/addressLocality> "Boston"@en .
+_:node21fac12978fb66983a6b567962a9e33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node21fac12978fb66983a6b567962a9e33 <http://schema.org/address> _:nodecf269314828042e8e4a8303a7a6b794a .
+_:node781390f5215676fa8244379b195e06f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node781390f5215676fa8244379b195e06f <http://schema.org/title> "Program Manager"@en .
+_:node781390f5215676fa8244379b195e06f <http://schema.org/datePosted> "2014-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node781390f5215676fa8244379b195e06f <http://schema.org/url> <http://jobview.monster.com/Program-Manager-Job-Boston-MA-US-143024820.aspx?mescoid=1100003001001> .
+_:node781390f5215676fa8244379b195e06f <http://schema.org/hiringOrganization> _:node402ec2e1c019292db1224454851876f8 .
+_:node781390f5215676fa8244379b195e06f <http://schema.org/description> "Our client is an exciting and rapidly growing Boston-based global leader in the world of higher education. Fueled by organic growth, their technology group is looking to add a full-time Program Manager to help oversee, manage, and supervise all projects and initiatives related to their business platform. This includes the piloting, training, and overall delivery of core business systems to interna..."@en .
+_:node781390f5215676fa8244379b195e06f <http://schema.org/jobLocation> _:nodef2a7483744c59c9ec1b59df1f9f178c3 .
+_:nodebdcea24c62169bd9bd3866d795733e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodebdcea24c62169bd9bd3866d795733e7 <http://schema.org/address> _:nodee7e8bcf43234ebaf99a34f042eac871 .
+_:node9942180303b77de72e726a59d947449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node9942180303b77de72e726a59d947449 <http://schema.org/address> _:nodec680ec8fe114c0c8a063d0499c65b5f3 .
+_:nodec135f8da1aa475d2dba056c16466c21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec135f8da1aa475d2dba056c16466c21 <http://schema.org/name> "Talbots"@en .
+_:nodec135f8da1aa475d2dba056c16466c21 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-talbots.aspx> .
+_:node576ad6db85dae9da92236ee3213bd85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node576ad6db85dae9da92236ee3213bd85 <http://schema.org/address> _:node29ab69943349d249078daad49483 .
+_:node56f1f175469496d78cfa79ca432b1c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node56f1f175469496d78cfa79ca432b1c1 <http://schema.org/addressRegion> "MA"@en .
+_:node56f1f175469496d78cfa79ca432b1c1 <http://schema.org/postalCode> "02119"@en .
+_:node56f1f175469496d78cfa79ca432b1c1 <http://schema.org/addressLocality> "Boston"@en .
+_:nodef6923156536feadae8179a8e59ea8927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodef6923156536feadae8179a8e59ea8927 <http://schema.org/address> _:nodefe339b40419a6e605a66ca9beab19b2c .
+_:nodee467c04015d8f9a18dc5565965e838 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee467c04015d8f9a18dc5565965e838 <http://schema.org/name> "Talbots"@en .
+_:nodee467c04015d8f9a18dc5565965e838 <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-talbots.aspx> .
+_:nodef698de56ce06d134af885724981c8c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodef698de56ce06d134af885724981c8c <http://schema.org/title> "Executive Client Manager - State of Massachusetts"@en .
+_:nodef698de56ce06d134af885724981c8c <http://schema.org/datePosted> "2014-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef698de56ce06d134af885724981c8c <http://schema.org/url> <http://jobview.monster.com/Executive-Client-Manager-State-of-Massachusetts-Job-Boston-MA-US-142818648.aspx?mescoid=1100008001001> .
+_:nodef698de56ce06d134af885724981c8c <http://schema.org/hiringOrganization> _:nodeefb8e54fb5dcb83df375fb3435a7d089 .
+_:nodef698de56ce06d134af885724981c8c <http://schema.org/description> "Description:  No industry is moving faster than health care. And no organization is better positioned to lead health care forward. We need attention to every detail with an eye for the points no one has considered. The rewards for performance are significant. You'll help improve the health of millions. And you'll do your life's best work.(sm)  OptumInsight provides software and information product..."@en .
+_:nodef698de56ce06d134af885724981c8c <http://schema.org/jobLocation> _:node21fac12978fb66983a6b567962a9e33 .
+_:node29642778708047cf35c2d75821cfbec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node29642778708047cf35c2d75821cfbec <http://schema.org/addressRegion> "MA"@en .
+_:node29642778708047cf35c2d75821cfbec <http://schema.org/addressLocality> "Hingham"@en .
+_:noded11932558033168ac603016c1dc7b20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:noded11932558033168ac603016c1dc7b20 <http://schema.org/addressRegion> "MA"@en .
+_:noded11932558033168ac603016c1dc7b20 <http://schema.org/postalCode> "02301"@en .
+_:noded11932558033168ac603016c1dc7b20 <http://schema.org/addressLocality> "Brockton"@en .
+_:nodee7e8bcf43234ebaf99a34f042eac871 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee7e8bcf43234ebaf99a34f042eac871 <http://schema.org/addressRegion> "MA"@en .
+_:nodee7e8bcf43234ebaf99a34f042eac871 <http://schema.org/postalCode> "02110"@en .
+_:nodee7e8bcf43234ebaf99a34f042eac871 <http://schema.org/addressLocality> "Boston"@en .
+_:node824af2c6a792622598286118fea12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node824af2c6a792622598286118fea12 <http://schema.org/title> "LGBTQ Mentoring Coordinator"@en .
+_:node824af2c6a792622598286118fea12 <http://schema.org/datePosted> "2014-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node824af2c6a792622598286118fea12 <http://schema.org/url> <http://jobview.monster.com/LGBTQ-Mentoring-Coordinator-Job-Boston-MA-US-142711559.aspx?mescoid=> .
+_:node824af2c6a792622598286118fea12 <http://schema.org/hiringOrganization> _:node12d5563be0d25f2ed97c55624973bf .
+_:node824af2c6a792622598286118fea12 <http://schema.org/description> "LGBTQ Mentoring Coordinator  40 Hours  11/16/2014  Boston GLASS is a community center for gay, lesbian, bisexual, transgender, queer, and questioning (GLBTQQ) young people of color and their allies between the ages of 13 and 25, who may be homeless, involved in high risk behaviors, and/or at risk of HIV/STIs. Boston GLASS provides services including HIV/STI counseling and testing, housing/shelter ..."@en .
+_:node824af2c6a792622598286118fea12 <http://schema.org/jobLocation> _:node9942180303b77de72e726a59d947449 .
+_:node4d6eaaf585ee441c9eef4f2de19b17c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4d6eaaf585ee441c9eef4f2de19b17c <http://schema.org/name> "TEI Biosciences Inc."@en .
+_:node4d6eaaf585ee441c9eef4f2de19b17c <http://schema.org/url> <http://jobs.monster.com/v-project-management-l-braintree,-ma.aspx//c-tei-biosciences.aspx> .
+_:node41f1b9836d66f2d155a04699cffc4f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node41f1b9836d66f2d155a04699cffc4f <http://schema.org/title> "Company Planning Analyst"@en .
+_:node41f1b9836d66f2d155a04699cffc4f <http://schema.org/datePosted> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node41f1b9836d66f2d155a04699cffc4f <http://schema.org/url> <http://jobview.monster.com/Company-Planning-Analyst-Job-Hingham-MA-US-143224684.aspx?mescoid=1100003001001> .
+_:node41f1b9836d66f2d155a04699cffc4f <http://schema.org/hiringOrganization> _:node2b4864d5a95a2e14cae6cfeb328e9473 .
+_:node41f1b9836d66f2d155a04699cffc4f <http://schema.org/description> "Responsibilities:  Basic Purpose:  This position is responsible for building and maintaining the Marketing Media Plan, both pre and in season. Provides analytics and support to the company planning and merchandise planning groups.  Principal Accountabilities:  Works with Company Planner, Merchandising and Marketing to build and maintain marketing plan. Includes demand and net sales by print and we..."@en .
+_:node41f1b9836d66f2d155a04699cffc4f <http://schema.org/jobLocation> _:nodeb8a58afde8a45360935097d0c34d7985 .
+_:nodee7668fa45449ffdaa9bb9c11919c62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodee7668fa45449ffdaa9bb9c11919c62 <http://schema.org/addressRegion> "MA"@en .
+_:nodee7668fa45449ffdaa9bb9c11919c62 <http://schema.org/postalCode> "02111"@en .
+_:nodee7668fa45449ffdaa9bb9c11919c62 <http://schema.org/addressLocality> "Boston"@en .
+_:node588ca3f75cdab387d784cb3e67b4fce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node588ca3f75cdab387d784cb3e67b4fce <http://schema.org/address> _:node17c9afc2829fb3ebdaaea93285c7abe .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://schema.org/title> "Project Manager"@en .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://schema.org/datePosted> "2014-12-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://schema.org/url> <http://jobview.monster.com/Project-Manager-Job-Boston-MA-US-143165123.aspx?mescoid=1100003001001> .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://schema.org/hiringOrganization> _:node6dc27b53668c8ef497edd2e68e27257 .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://schema.org/description> "Job Title: Project Manager: Certifications  Department: Product Management  Direct Manager: VP, Product Management  Manages Others (If Yes, # of employees): No  Position Overview:  This candidate is someone who is willing to oversee and own the end-to-end process of onboarding and maintaining payment processors certifications. The individual will need to be able to address multiple roles and balan..."@en .
+_:node6da26035211c39bddb6e4d5dc9769611 <http://schema.org/jobLocation> _:nodebdcea24c62169bd9bd3866d795733e7 .
+_:node3ac9a3226b446a13975e30bbc5b0f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node3ac9a3226b446a13975e30bbc5b0f0 <http://schema.org/address> _:nodedb9d7e1c4f2159147bc53d2acd5b6d .
+_:node3773e6c93e581f9b6ff6668378629aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node3773e6c93e581f9b6ff6668378629aa <http://schema.org/title> "Event Coordinator"@en .
+_:node3773e6c93e581f9b6ff6668378629aa <http://schema.org/datePosted> "2014-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3773e6c93e581f9b6ff6668378629aa <http://schema.org/url> <http://jobview.monster.com/Event-Coordinator-Job-Dedham-MA-US-143222853.aspx?mescoid=1300088001001> .
+_:node3773e6c93e581f9b6ff6668378629aa <http://schema.org/hiringOrganization> _:node2664eb4b79b6cca32d4f3b78f93e1688 .
+_:node3773e6c93e581f9b6ff6668378629aa <http://schema.org/description> "Make Meaning is a place where people of all ages can come together to have fun and be creative. We offer a variety of different experiences, such as Soap, Candle, and Glass Making as well as Ceramic Painting and Cake/Cookie decorating.  Summary of Key Responsibilities You will manage, organize and assign resources for all Events held in or on behalf of the store.  Additional responsibilities and e..."@en .
+_:node3773e6c93e581f9b6ff6668378629aa <http://schema.org/jobLocation> _:nodebcc490ae7c5f53d1258feab3385c5228 .
+_:node1e3ccfddea4ae921b415a0b452fe2cea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node1e3ccfddea4ae921b415a0b452fe2cea <http://schema.org/address> _:node3c5fb496cf12b91538334fe022dfeddb .
+_:node83847d91847f4fc9f4be4d73d6c48c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .

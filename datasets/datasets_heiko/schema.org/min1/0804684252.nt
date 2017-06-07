@@ -1,0 +1,267 @@
+_:nodec5e1ad8fe6b698bdb7c37f40d9986e7 <http://schema.org/name> "Len Penzo"@en-us .
+_:nodeef84b67281279fecf630cd5d7e84f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeef84b67281279fecf630cd5d7e84f0 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145442> .
+_:nodeef84b67281279fecf630cd5d7e84f0 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tThanks, Peter. I did a little additional research on the topic today. Apparently, I am not alone in thinking McDonald\u2019s Coke tastes the best; I found numerous posts on the web discussing it. Here was one of the better explanations why it\u2019s probably so\u2026\nhttp://markproffitt.com/2011/02/15/secret-to-why-mcdonalds-coke-tastes-best/\n\t\t"@en-us .
+_:nodeef84b67281279fecf630cd5d7e84f0 <http://schema.org/creator> _:nodec7d0d2c2e8a4aca8ceb0a2668e1effcb .
+_:nodeef84b67281279fecf630cd5d7e84f0 <http://schema.org/commentTime> "2012-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8a7d2d22594f4bca5d12c2cc9e1e6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node8a7d2d22594f4bca5d12c2cc9e1e6c <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145410> .
+_:node8a7d2d22594f4bca5d12c2cc9e1e6c <http://schema.org/commentText> "\n\t\t\t\n\t\t\tDid you check the dates on your samples.   I\u2019ve found older soda to really lose flavor.\n\t\t"@en-us .
+_:node8a7d2d22594f4bca5d12c2cc9e1e6c <http://schema.org/creator> _:nodef13980965acde7ec3e912417b31692 .
+_:node8a7d2d22594f4bca5d12c2cc9e1e6c <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef3efc7d7e71f38cfbb4241f59de4858f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef3efc7d7e71f38cfbb4241f59de4858f <http://schema.org/url> <http://www.leads4insurance.com> .
+_:nodef3efc7d7e71f38cfbb4241f59de4858f <http://schema.org/name> "Jerry"@en-us .
+_:noded9c334be4dfac063251b5cab798fc5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded9c334be4dfac063251b5cab798fc5 <http://schema.org/name> "tracee"@en-us .
+_:nodea02b7323f05e21b344d3dcbdcf62f22a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodea02b7323f05e21b344d3dcbdcf62f22a <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145414> .
+_:nodea02b7323f05e21b344d3dcbdcf62f22a <http://schema.org/commentText> "\n\t\t\t\n\t\t\tThat\u2019s correct, Jessie. I\u2019ve read the same thing. While Coke\u2019s actual recipe is a closely-guarded secret, I believe the consensus is Coke\u2019s flavor is based upon a combination of vanilla and cinnamon.\nWhatever it is, I think its flavor is a bit more sophisticated (well, as sophisticated as a cola can be anyway, LOL!) than Pepsi\u2019s.\nI\u2019m sorry, Pepsi fans \u2014 I realize I\u2019m sounding like a complete Coke snob now!\n\t\t"@en-us .
+_:nodea02b7323f05e21b344d3dcbdcf62f22a <http://schema.org/creator> _:nodec5e1ad8fe6b698bdb7c37f40d9986e7 .
+_:nodea02b7323f05e21b344d3dcbdcf62f22a <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node08aa1ea96526ac11580e8bfd75e7dcd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node08aa1ea96526ac11580e8bfd75e7dcd <http://schema.org/name> "Len Penzo"@en-us .
+_:node34e8fb220da63a818017e4fb9c387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node34e8fb220da63a818017e4fb9c387 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145402> .
+_:node34e8fb220da63a818017e4fb9c387 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tIt was a single small Dixie cup sample, Greg. Maybe two sips worth at most. \nThat\u2019s a very interesting observation, and one that makes a lot of sense to me!\n\t\t"@en-us .
+_:node34e8fb220da63a818017e4fb9c387 <http://schema.org/creator> _:nodeff124ab77a7c0fd1108cfe9169c426 .
+_:node34e8fb220da63a818017e4fb9c387 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodee98148bb993546b412a15ccb145edeb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodee98148bb993546b412a15ccb145edeb <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145443> .
+_:nodee98148bb993546b412a15ccb145edeb <http://schema.org/commentText> "\n\t\t\t\n\t\t\tJulie, that \u201Cgrindy\u201D feeling on your teeth is Coke\u2019s \u201Cscrubbing bubbles\u201D at work. They help keep your teeth pearly white!  \n\t\t"@en-us .
+_:nodee98148bb993546b412a15ccb145edeb <http://schema.org/creator> _:node210a8bfed7660cab3898d95c4b793 .
+_:nodee98148bb993546b412a15ccb145edeb <http://schema.org/commentTime> "2012-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node40ac7f4575dc6b771ef69d79f6bd6810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node40ac7f4575dc6b771ef69d79f6bd6810 <http://schema.org/name> "Greg"@en-us .
+_:node436b171d33ef112aca8d4a7a852a9c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node436b171d33ef112aca8d4a7a852a9c <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145490> .
+_:node436b171d33ef112aca8d4a7a852a9c <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI don\u2019t like coke or pepsi.  They\u2019re both too syrupy for me.  I\u2019m a dr pepper gal.  \n\t\t"@en-us .
+_:node436b171d33ef112aca8d4a7a852a9c <http://schema.org/creator> _:noded6d8c49d0603319bb4bea41639d7e77 .
+_:node436b171d33ef112aca8d4a7a852a9c <http://schema.org/commentTime> "2012-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node210a8bfed7660cab3898d95c4b793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node210a8bfed7660cab3898d95c4b793 <http://schema.org/name> "Len Penzo"@en-us .
+_:nodec7b7c711403ff74493663cd209e45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec7b7c711403ff74493663cd209e45 <http://schema.org/name> "Thomas"@en-us .
+_:nodebfd2a58262642a3a3c8f71525169bcc7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebfd2a58262642a3a3c8f71525169bcc7 <http://schema.org/name> "Jessie"@en-us .
+_:node6ca9c32cdb72df16f3de6fcb28cf8ec1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node6ca9c32cdb72df16f3de6fcb28cf8ec1 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-147142> .
+_:node6ca9c32cdb72df16f3de6fcb28cf8ec1 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI also prefer Coca-Cola, especially the Coke that has been bottled in Mexico. It uses real cane sugar\ninstead of HFCS, you can reallly taste the difference. The Pepsi from Mexico is also better.\n\t\t"@en-us .
+_:node6ca9c32cdb72df16f3de6fcb28cf8ec1 <http://schema.org/creator> _:nodec7b7c711403ff74493663cd209e45 .
+_:node6ca9c32cdb72df16f3de6fcb28cf8ec1 <http://schema.org/commentTime> "2012-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6d1891bda513d4d553d65ccf47f9a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6d1891bda513d4d553d65ccf47f9a3 <http://schema.org/name> "Len Penzo"@en-us .
+_:nodef13980965acde7ec3e912417b31692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef13980965acde7ec3e912417b31692 <http://schema.org/url> <http://blog.themillionairenurse.com> .
+_:nodef13980965acde7ec3e912417b31692 <http://schema.org/name> "Dr Dean"@en-us .
+_:node1b13d28649530b3e7f172de85419d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node1b13d28649530b3e7f172de85419d3 <http://schema.org/url> <http://www.youtube.com/user/BreastActivesxxx/featured> .
+_:node1b13d28649530b3e7f172de85419d3 <http://schema.org/name> "breast actives side effects"@en-us .
+_:node931e9ca28b34a9d34948e6b26b11d95e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node931e9ca28b34a9d34948e6b26b11d95e <http://schema.org/name> "Peter"@en-us .
+_:node8957aaae84c0d60ae9dc77898b484f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node8957aaae84c0d60ae9dc77898b484f <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-218757> .
+_:node8957aaae84c0d60ae9dc77898b484f <http://schema.org/commentText> "\n\t\t\t\n\t\t\tactually in the book Subliminal: How Your Unconscious Mind Rules Your Behavior, he explains how one of the reasons coke is preferred when you know what you\u2019re drinking is because all of the \u201Cgood feeling\u201D commercials they have.\n\t\t"@en-us .
+_:node8957aaae84c0d60ae9dc77898b484f <http://schema.org/creator> _:nodeb72357772bd8c78cb9faae5a6e2f6a92 .
+_:node8957aaae84c0d60ae9dc77898b484f <http://schema.org/commentTime> "2014-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node57a3f1e097a4b28d67958c64ffc5c72a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node57a3f1e097a4b28d67958c64ffc5c72a <http://schema.org/url> <http://www.youtube.com> .
+_:node57a3f1e097a4b28d67958c64ffc5c72a <http://schema.org/name> "Pineview Style"@en-us .
+_:nodecd869dba9a2146e96dbd6f1452b6668 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodecd869dba9a2146e96dbd6f1452b6668 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-146180> .
+_:nodecd869dba9a2146e96dbd6f1452b6668 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tYour avatar is blasphemous, Ed!  lol  \nYou may be right about Coke sales being helped out by the additional sales at fast food and restaurant chains. According to the NY Times, Coke\u2019s worldwide market share of all cola sales had slipped to just 53 percent in 2007; in the US it was a bigger spread, with Coke having a 43 percent market share and Pepsi at 33 percent.\n\t\t"@en-us .
+_:nodecd869dba9a2146e96dbd6f1452b6668 <http://schema.org/creator> _:nodec7ac3b73d6b5ae6fd164f6b0328eb2 .
+_:nodecd869dba9a2146e96dbd6f1452b6668 <http://schema.org/commentTime> "2012-05-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node154ef2cd1c8a9955346631c3dc88cbb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node154ef2cd1c8a9955346631c3dc88cbb <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145409> .
+_:node154ef2cd1c8a9955346631c3dc88cbb <http://schema.org/commentText> "\n\t\t\t\n\t\t\tInteresting, as usual.  I\u2019m a diet coke fan, when I drink cola, which is not too often.  I also drink diet Mt Dew, being a true southerner.  I\u2019m now switching to green tea beverages, but drink plain ole tap water mostly.\nI\u2019m not a soda Nazi however, so enjoy!\n\t\t"@en-us .
+_:node154ef2cd1c8a9955346631c3dc88cbb <http://schema.org/creator> _:nodefdc1bb312b396da7a3d0e28955df21 .
+_:node154ef2cd1c8a9955346631c3dc88cbb <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2b6775b2055c75c236439496a5e1576 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2b6775b2055c75c236439496a5e1576 <http://schema.org/name> "Ed"@en-us .
+_:node859334de431b58d52049ec621f3b6724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node859334de431b58d52049ec621f3b6724 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-151445> .
+_:node859334de431b58d52049ec621f3b6724 <http://schema.org/commentText> "\n\t\t\t\n\t\t\twhoah this blog is excellent i really like reading your articles. Stay up the great work! You understand, a lot of people are hunting around for this info, you could help them greatly.\n\t\t"@en-us .
+_:node859334de431b58d52049ec621f3b6724 <http://schema.org/creator> _:node1b13d28649530b3e7f172de85419d3 .
+_:node859334de431b58d52049ec621f3b6724 <http://schema.org/commentTime> "2012-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb4cacfcf7ebf85d98745a13e93704ac4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb4cacfcf7ebf85d98745a13e93704ac4 <http://schema.org/url> <http://lenpenzo.com/blog/idauthor/administrator> .
+_:nodeb4cacfcf7ebf85d98745a13e93704ac4 <http://schema.org/name> "Len Penzo"@en-us .
+_:node9b35d785f427f88575dcbb283a17d17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node9b35d785f427f88575dcbb283a17d17 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145394> .
+_:node9b35d785f427f88575dcbb283a17d17 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI like Coke a lot better too because it\u2019s not as sweet as Pepsi. Pepsi\u2019s flavor seems more geared towards kids. I think Coke is a much more refreshing drink during the heat of summer because of that.\n\t\t"@en-us .
+_:node9b35d785f427f88575dcbb283a17d17 <http://schema.org/creator> _:node98a16bf3fba5fba0869c7dee7e6be26e .
+_:node9b35d785f427f88575dcbb283a17d17 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node4a8f2f4356681172fe3ff7287fd7593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4a8f2f4356681172fe3ff7287fd7593 <http://schema.org/url> <http://afford-anything.com> .
+_:node4a8f2f4356681172fe3ff7287fd7593 <http://schema.org/name> "Paula @ Afford Anything"@en-us .
+_:node98a16bf3fba5fba0869c7dee7e6be26e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node98a16bf3fba5fba0869c7dee7e6be26e <http://schema.org/name> "Cindy"@en-us .
+_:node9f65d56ba73ea2b14bd5e2a2e24351f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node9f65d56ba73ea2b14bd5e2a2e24351f7 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145412> .
+_:node9f65d56ba73ea2b14bd5e2a2e24351f7 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI didn\u2019t, Dr. Dean. But those two-liter bottles tend to move quickly in busy supermarkets \u2014 and the bottles were opened the day after I purchased them.\n\t\t"@en-us .
+_:node9f65d56ba73ea2b14bd5e2a2e24351f7 <http://schema.org/creator> _:node08aa1ea96526ac11580e8bfd75e7dcd .
+_:node9f65d56ba73ea2b14bd5e2a2e24351f7 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node4cb4ddfba9f06cb3e140779c9efdfa95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node4cb4ddfba9f06cb3e140779c9efdfa95 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-151688> .
+_:node4cb4ddfba9f06cb3e140779c9efdfa95 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tYes coke is better than pepsi..i know this because i was also \u201Cborn in the carolina\u2019s\u201D lol\n\t\t"@en-us .
+_:node4cb4ddfba9f06cb3e140779c9efdfa95 <http://schema.org/creator> _:node48b0103732c1f93285e83ff093e2f07c .
+_:node4cb4ddfba9f06cb3e140779c9efdfa95 <http://schema.org/commentTime> "2013-01-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2ae730ab1f4dacbac3fb941e3476193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2ae730ab1f4dacbac3fb941e3476193 <http://schema.org/name> "Len Penzo"@en-us .
+_:node7e4974875efc848a5116b6d6b2f39b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node7e4974875efc848a5116b6d6b2f39b <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145413> .
+_:node7e4974875efc848a5116b6d6b2f39b <http://schema.org/commentText> "\n\t\t\t\n\t\t\tMe too, Cindy. There\u2019s something about a freshly poured can or bottle of Coke poured over ice and having those bubbles popping over the glass that really does add to the refreshment factor. Pepsi can\u2019t match that.\n\t\t"@en-us .
+_:node7e4974875efc848a5116b6d6b2f39b <http://schema.org/creator> _:noded17a7250c528d4f1cbc4a8ce77103e .
+_:node7e4974875efc848a5116b6d6b2f39b <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded4fa838a17d834ef491ff3048245940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:noded4fa838a17d834ef491ff3048245940 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145407> .
+_:noded4fa838a17d834ef491ff3048245940 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI gave up all brown soda for a bit and that finally broke my Diet Coke addiction. Now when I have it (yes I went back to the brown soda goodness) I can happily drink either one and it doesn\u2019t matter to me.\n\t\t"@en-us .
+_:noded4fa838a17d834ef491ff3048245940 <http://schema.org/creator> _:noded83cc0454ae7c46a252aa6cf7fd1fef .
+_:noded4fa838a17d834ef491ff3048245940 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb3fbfad4613c40dd366ad6eb46f3335 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeb3fbfad4613c40dd366ad6eb46f3335 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145416> .
+_:nodeb3fbfad4613c40dd366ad6eb46f3335 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tUntil about five years ago, I drank about a quart of Coke per day, sometimes as much as a half gallon! I know.\nBut since then I\u2019ve cut back to a pint or less of Coke per day \u2014 and usually only at lunch. Now, unless I\u2019m eating at a fast food joint, I try to drink fruit juice every evening for dinner. I feel much better now too!\n\t\t"@en-us .
+_:nodeb3fbfad4613c40dd366ad6eb46f3335 <http://schema.org/creator> _:nodec0bdb86a45efc53f2fbd37845a12f56 .
+_:nodeb3fbfad4613c40dd366ad6eb46f3335 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodefdc1bb312b396da7a3d0e28955df21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefdc1bb312b396da7a3d0e28955df21 <http://schema.org/url> <http://blog.themillionairenurse.com> .
+_:nodefdc1bb312b396da7a3d0e28955df21 <http://schema.org/name> "Dr Dean"@en-us .
+_:noded6d8c49d0603319bb4bea41639d7e77 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded6d8c49d0603319bb4bea41639d7e77 <http://schema.org/name> "Lisa"@en-us .
+_:node8e5d8568e56c1ed4e13be9181d67cae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8e5d8568e56c1ed4e13be9181d67cae <http://schema.org/name> "Len Penzo"@en-us .
+_:nodec0bdb86a45efc53f2fbd37845a12f56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec0bdb86a45efc53f2fbd37845a12f56 <http://schema.org/name> "Len Penzo"@en-us .
+_:nodee6a8b0735d5231479fdffa52692d495e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodee6a8b0735d5231479fdffa52692d495e <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145438> .
+_:nodee6a8b0735d5231479fdffa52692d495e <http://schema.org/commentText> "\n\t\t\t\n\t\t\tPepsi IS better than Coke!  it drives me bonkers when restaurants substitute Coke for Pepsi (without telling you in advance).  I can\u2019t stand the taste of Coke\u2026 and it makes me teeth all grindy!\n\t\t"@en-us .
+_:nodee6a8b0735d5231479fdffa52692d495e <http://schema.org/creator> _:node9e9cd9835582afa28fc3b192e3a24f6 .
+_:nodee6a8b0735d5231479fdffa52692d495e <http://schema.org/commentTime> "2012-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node48b0103732c1f93285e83ff093e2f07c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node48b0103732c1f93285e83ff093e2f07c <http://schema.org/name> "James"@en-us .
+_:nodecfab7a1ab0d6f659fe5d4ce3bb459d33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodecfab7a1ab0d6f659fe5d4ce3bb459d33 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145417> .
+_:nodecfab7a1ab0d6f659fe5d4ce3bb459d33 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI bought all the Colas being offered at my local store. I wish there were more to sample too!\nI remember when Jolt cola first came out \u2014 I was in college and it was a big hit with those who needed help pulling all-nighters but didn\u2019t like Mountain Dew or coffee.\n(For the record, folks, I only pulled one all-nighter ever in college.)\n\t\t"@en-us .
+_:nodecfab7a1ab0d6f659fe5d4ce3bb459d33 <http://schema.org/creator> _:node8e5d8568e56c1ed4e13be9181d67cae .
+_:nodecfab7a1ab0d6f659fe5d4ce3bb459d33 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec6bd56f01e38dfc0fdaa34d47a6fa34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodec6bd56f01e38dfc0fdaa34d47a6fa34 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-146092> .
+_:nodec6bd56f01e38dfc0fdaa34d47a6fa34 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI thought I was reading my own words when you said you would rather drink root beer or lemonade if they don\u2019t serve the drink of choice.  Except my choice is Pepsi!!!\nEven your own test results show that Pepsi tastes better \nI believe that the only reason Coke and Diet Coke are 1st and 2nd on sales lists is because all the big fast food and restaurant chains.  If McDonalds, Burger King, Wendy\u2019s, Chili\u2019s, Cinemark Theaters, etc sell Coke, they will of course be #1 in sales.  And it is only probably due to being the least expensive supplier\u2026..\n\t\t"@en-us .
+_:nodec6bd56f01e38dfc0fdaa34d47a6fa34 <http://schema.org/creator> _:node2b6775b2055c75c236439496a5e1576 .
+_:nodec6bd56f01e38dfc0fdaa34d47a6fa34 <http://schema.org/commentTime> "2012-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec1d4e0f224c5b3beaf5412617f61dfb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodec1d4e0f224c5b3beaf5412617f61dfb1 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145418> .
+_:nodec1d4e0f224c5b3beaf5412617f61dfb1 <http://schema.org/commentText> "\n\t\t\t\n\t\t\t\u201CBrown soda goodness.\u201D  LOL\nI love it, CandiO!  \n\t\t"@en-us .
+_:nodec1d4e0f224c5b3beaf5412617f61dfb1 <http://schema.org/creator> _:nodeeffc2f816b43434cc10bbc46bff8271 .
+_:nodec1d4e0f224c5b3beaf5412617f61dfb1 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec7d0d2c2e8a4aca8ceb0a2668e1effcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec7d0d2c2e8a4aca8ceb0a2668e1effcb <http://schema.org/name> "Len Penzo"@en-us .
+_:nodea58f283570d858d9e815f1cc9282c3cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodea58f283570d858d9e815f1cc9282c3cd <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145419> .
+_:nodea58f283570d858d9e815f1cc9282c3cd <http://schema.org/commentText> "\n\t\t\t\n\t\t\tDr. Dean \u2026 I know you. You\u2019re a white wine and Schlitz guy!  LOL\nAnd I thought the quintessential southern soda pop was Mello Yello!\n\t\t"@en-us .
+_:nodea58f283570d858d9e815f1cc9282c3cd <http://schema.org/creator> _:node2ae730ab1f4dacbac3fb941e3476193 .
+_:nodea58f283570d858d9e815f1cc9282c3cd <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node84527d941f0712816c923df31c4be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node84527d941f0712816c923df31c4be <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-147004> .
+_:node84527d941f0712816c923df31c4be <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI like Coke but I don\u2019t actually drink it anymore.  It leads to wasting money when you could just drink water.  And, along those lines. it\u2019s just junk so drinking water is insurance for your health. Practically free and better for you.\n\t\t"@en-us .
+_:node84527d941f0712816c923df31c4be <http://schema.org/creator> _:nodef3efc7d7e71f38cfbb4241f59de4858f .
+_:node84527d941f0712816c923df31c4be <http://schema.org/commentTime> "2012-06-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded17a7250c528d4f1cbc4a8ce77103e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded17a7250c528d4f1cbc4a8ce77103e <http://schema.org/name> "Len Penzo"@en-us .
+_:nodec7ac3b73d6b5ae6fd164f6b0328eb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec7ac3b73d6b5ae6fd164f6b0328eb2 <http://schema.org/name> "Len Penzo"@en-us .
+_:node683741899aabf74994a70b43254853a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node683741899aabf74994a70b43254853a <http://schema.org/name> "Againstthegrain"@en-us .
+_:nodea580eb82c05a873ddf694159fe426e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodea580eb82c05a873ddf694159fe426e <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145406> .
+_:nodea580eb82c05a873ddf694159fe426e <http://schema.org/commentText> "\n\t\t\t\n\t\t\tNo Sam\u2019s Choice, Moxie, or Jolt Colas on the list?  Curses!! \n\t\t"@en-us .
+_:nodea580eb82c05a873ddf694159fe426e <http://schema.org/creator> _:node57a3f1e097a4b28d67958c64ffc5c72a .
+_:nodea580eb82c05a873ddf694159fe426e <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb25e4398a9e55313b106c6bddd9dfa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeb25e4398a9e55313b106c6bddd9dfa <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145398> .
+_:nodeb25e4398a9e55313b106c6bddd9dfa <http://schema.org/commentText> "\n\t\t\t\n\t\t\tdiet coke for the win!!!!!!!!!!!!!!!!!! but only fountain soda.  i don\u2019t like canned or bottled.  weird i know\n\t\t"@en-us .
+_:nodeb25e4398a9e55313b106c6bddd9dfa <http://schema.org/creator> _:noded9c334be4dfac063251b5cab798fc5 .
+_:nodeb25e4398a9e55313b106c6bddd9dfa <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodef79bf3b7106d5f59a92b3061525e3df8 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node4bd0403cd77f46f7a02cef9eab4da78 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node34e8fb220da63a818017e4fb9c387 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node8a7d2d22594f4bca5d12c2cc9e1e6c .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node9f65d56ba73ea2b14bd5e2a2e24351f7 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node9b35d785f427f88575dcbb283a17d17 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node7e4974875efc848a5116b6d6b2f39b .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node652ea26e6d43424f93bda852aea80e7 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodea02b7323f05e21b344d3dcbdcf62f22a .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodeb25e4398a9e55313b106c6bddd9dfa .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node845ec5e7be5d78777de377cde7593cf1 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:noded2e5fe1a9d55524d911549f93a54e56 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodeef84b67281279fecf630cd5d7e84f0 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodec1fceba8a3a8e8b57e7fbfa8765ba443 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodeb3fbfad4613c40dd366ad6eb46f3335 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodea580eb82c05a873ddf694159fe426e .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodecfab7a1ab0d6f659fe5d4ce3bb459d33 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:noded4fa838a17d834ef491ff3048245940 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodec1d4e0f224c5b3beaf5412617f61dfb1 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node154ef2cd1c8a9955346631c3dc88cbb .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodea58f283570d858d9e815f1cc9282c3cd .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodee6a8b0735d5231479fdffa52692d495e .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodee98148bb993546b412a15ccb145edeb .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node436b171d33ef112aca8d4a7a852a9c .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodec6bd56f01e38dfc0fdaa34d47a6fa34 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:nodecd869dba9a2146e96dbd6f1452b6668 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node84527d941f0712816c923df31c4be .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node6ca9c32cdb72df16f3de6fcb28cf8ec1 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node859334de431b58d52049ec621f3b6724 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node4cb4ddfba9f06cb3e140779c9efdfa95 .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/comment> _:node8957aaae84c0d60ae9dc77898b484f .
+_:nodea720f143eb3a3eac29e48d8a45785cb <http://schema.org/blogPost> _:nodecd3f30a6b476712b14b6ba5ab6b87e2 .
+_:node4bd0403cd77f46f7a02cef9eab4da78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node4bd0403cd77f46f7a02cef9eab4da78 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145401> .
+_:node4bd0403cd77f46f7a02cef9eab4da78 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tGreg, I read that same study \u2014 yes, its in a Malcolm Gladwell book, and you summarized it perfectly. Pepsi is the winner with a one-sip test, but Coke wins if you consume the entire glass \u2026 which may explain why Len sticks with Coke despite his family taste test results.\n\t\t"@en-us .
+_:node4bd0403cd77f46f7a02cef9eab4da78 <http://schema.org/creator> _:node4a8f2f4356681172fe3ff7287fd7593 .
+_:node4bd0403cd77f46f7a02cef9eab4da78 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3aaabc0d4ac2b569eed14f7c9cc9f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node3aaabc0d4ac2b569eed14f7c9cc9f6 <http://schema.org/mainContentOfPage> _:nodea720f143eb3a3eac29e48d8a45785cb .
+_:noded2e5fe1a9d55524d911549f93a54e56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:noded2e5fe1a9d55524d911549f93a54e56 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145432> .
+_:noded2e5fe1a9d55524d911549f93a54e56 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tLen \u2014 I have heard that the Coke @ McD is a different formula than what is sold through stores. I have no substantiation for this, just what I\u2019ve heard.\n\t\t"@en-us .
+_:noded2e5fe1a9d55524d911549f93a54e56 <http://schema.org/creator> _:node931e9ca28b34a9d34948e6b26b11d95e .
+_:noded2e5fe1a9d55524d911549f93a54e56 <http://schema.org/commentTime> "2012-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node652ea26e6d43424f93bda852aea80e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node652ea26e6d43424f93bda852aea80e7 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145397> .
+_:node652ea26e6d43424f93bda852aea80e7 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tOne Diet Coke addict, signing in! \nI read somewhere (maybe Consumer Reports?) that the main difference between Coke and Pepsi is that Coke\u2019s \u201Csecret formula\u201D is based on vanilla flavoring, where Pepsi\u2019s is based on citrus. And I\u2019ve seen old-time ads where Pepsi was originally developed and advertised as a cheaper alternative to Coke.\n\t\t"@en-us .
+_:node652ea26e6d43424f93bda852aea80e7 <http://schema.org/creator> _:nodebfd2a58262642a3a3c8f71525169bcc7 .
+_:node652ea26e6d43424f93bda852aea80e7 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node9e9cd9835582afa28fc3b192e3a24f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node9e9cd9835582afa28fc3b192e3a24f6 <http://schema.org/url> <http://freedom48.net> .
+_:node9e9cd9835582afa28fc3b192e3a24f6 <http://schema.org/name> "Julie @ Freedom 48"@en-us .
+_:node845ec5e7be5d78777de377cde7593cf1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node845ec5e7be5d78777de377cde7593cf1 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145415> .
+_:node845ec5e7be5d78777de377cde7593cf1 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI love fountain Cokes too. When I was a kid, there was an old drug store in my hometown that had a soda and ice cream bar. I used to ride my bike there and buy real vanilla and cherry Coke\u2019s where they added all the flavorings to the soda water \u2014 this was long before you could buy it in cans. Soooooo good!\nAnd is it just me, or does the Coke at McDonald\u2019s taste better than Coke at any other fast food restaurant? I don\u2019t why that is, but I swear it\u2019s true!\n\t\t"@en-us .
+_:node845ec5e7be5d78777de377cde7593cf1 <http://schema.org/creator> _:node6d1891bda513d4d553d65ccf47f9a3 .
+_:node845ec5e7be5d78777de377cde7593cf1 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb72357772bd8c78cb9faae5a6e2f6a92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb72357772bd8c78cb9faae5a6e2f6a92 <http://schema.org/name> "Evan"@en-us .
+_:nodeeffc2f816b43434cc10bbc46bff8271 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeeffc2f816b43434cc10bbc46bff8271 <http://schema.org/name> "Len Penzo"@en-us .
+_:nodeff124ab77a7c0fd1108cfe9169c426 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeff124ab77a7c0fd1108cfe9169c426 <http://schema.org/name> "Len Penzo"@en-us .
+_:noded83cc0454ae7c46a252aa6cf7fd1fef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded83cc0454ae7c46a252aa6cf7fd1fef <http://schema.org/name> "CandiO"@en-us .
+_:nodecd3f30a6b476712b14b6ba5ab6b87e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodecd3f30a6b476712b14b6ba5ab6b87e2 <http://schema.org/datePublished> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodecd3f30a6b476712b14b6ba5ab6b87e2 <http://schema.org/text> "\t\t\t\n\n<!--\ngoogle_ad_client = \"ca-pub-1522841104885117\";\n/* 336x280, created 1/19/11 */\ngoogle_ad_slot = \"0878619348\";\ngoogle_ad_width = 336;\ngoogle_ad_height = 280;\n//-->\n\n\n\n\n\n\t\t\nPeople have been enjoying cola-flavored soft drinks ever since 1886 when the first glasses of Coca-Cola were being served up for five cents each (about $1.10 in today\u2019s dollars) at a local Atlanta pharmacy.\nToday, soft drinks are a key part of a beverage industry worth billions of dollars, so it should be no surprise that when it comes to the highly-competitive soft drink wars, the century-long crusade for cola lovers being waged by Coke and Pepsi shows no sign of abating.\nIn 1975, Pepsi introduced a blind taste test known as the \u201CPepsi Challenge.\u201D Held in malls and shopping centers across America, it tried \u2014 unsuccessfully \u2014 to settle the \u201CCoke versus Pepsi\u201D debate once and for all.\nPepsi claims the challenge proved that more Americans preferred Pepsi than Coke. Maybe so. But when it comes to bragging rights for America\u2019s top-selling soft drink, Pepsi has played the perennial bridesmaid to Coke ever since Pepsi-Cola made its market debut at the turn of the 20th century.\nAnd Pepsi\u2019s pride took another hit in 2011 when sales of Diet Coke surpassed Pepsi to officially become the second most popular soft drink in the US; Pepsi is now number three.\nIs Coke really that much better than Pepsi? I think so. Arguably, the biggest difference between the two soft drinks is that Pepsi is sweeter, while Coke has a bit more carbonation \u2014 and I have a bias towards that refreshing fizz.\nToday, my preference for Coke is so strong that I\u2019ll often change my drink order to root beer or lemonade at establishments that only carry Pepsi.\nFor the record, I haven\u2019t always been a Coke drinker. As a kid, my family drank only Pepsi; in fact, I didn\u2019t become a loyal Coke addict drinker until I finally left the nest.\nAnyway, with that in mind, I decided to find out which cola my family would ultimately choose in a modified version of my own Pepsi Challenge.\nHow the Test Was Conducted\nAs with my blind ketchup taste test, I recruited a bunch of family members as an expert panel. This time there were 10 eager volunteers (plus the dog, of course).\nWith the panel in place, I prepared individual cola samples in separate paper cups. To ensure the taste test was a blind comparison, the samples were marked \u2018A\u2019 through \u2018D.\u2019\nThe experts were asked to rank each cola solely for taste, from best to worst, with four points for the top performer and one point for the worst. The panel was also free to note any accompanying comments they had regarding each sample.\nWhen comparing products, panelists that could not discern a clear taste advantage between two or more brands were allowed to give identical rankings.\nThe Expert Panel\nBefore we get to the results, let\u2019s once again meet our distinguished panel of experts:\n\nAunt Doris\nBirthplace: London, England\nAge: 90-something\nFavorite Actor: Tichina Arnold\n\nDad\nBirthplace: Youngstown, Ohio\nAge: 74\nFavorite Actor: Clint Eastwood\n\nMom\nBirthplace: Youngstown, Ohio\nAge: 71\nFavorite Actor: Robert De Niro\n\nKevin\nBirthplace: Youngstown, Ohio\nAge: 59\nFavorite Actor: John Wayne\n\nChris\nBirthplace: Hemet, California\nAge: Something-nine\nFavorite Actor: Renee Zellweger\n\nThe Honeybee\nBirthplace: Whittier, California\nAge: 44\nFavorite Actor: Sandra Bullock\n\nEvan\nBirthplace: Escondido, California\nAge: 33\nFavorite Actor: Jeff Bridges\n\nMark\nBirthplace: Escondido, California\nAge: 31\nFavorite Actor: Robert Redford\n\nMatthew\nBirthplace: Fontana, California\nAge: 14\nFavorite Actor: Eminem\n\nNina\nBirthplace: Fontana, California\nAge: 12\nFavorite Actor: Russell Brand\n\nMajor\nBirthplace: Julian, California\nAge: 8\nFavorite Actor: Scooby Doo\n.\nIntroducing The Cola Competitors\nI ran down to my local Albertsons supermarket and bought all four cola brands they were offering for sale: Pepsi; Coke; Royal Crown; and Chill, which is a bargain-brand marketed by Shoppers Value.\nHere now, in reverse order, is a summary of the cola taste test results, based upon the inputs of my expert panel:\n4. Coca-Cola\nPrice (2-liter): $1.79\nPanel Scoring: 17 points\nAverage Score (4-point scale): 1.6\nHuman Judges Who Deemed It the Best: 0\nOMG. Coca-Cola inventor Dr. John Pemberton must be rolling over in his grave. Not only did the top-selling US soft drink \u2014 not to mention my personal favorite \u2014 finish dead last, it was thoroughly trounced by its competition. How bad was it? Not a single panelist selected Coke as their favorite cola, and six of the ten human judges rated it dead last; a seventh ranked it second from the bottom. Flavor was the predominant complaint. The Honeybee gave the Coke demerits for being \u201Ctoo watery,\u201D while Dad popped that it was \u201Clacking in flavor.\u201D On the positive side, Mark liked Coke\u2019s \u201Cfizz factor.\u201D\n3. RC Cola\n\nPrice (2-liter): $1.29\nPanel Scoring: 25 points\nAverage Score (4-point scale): 2.4\nHuman Judges Who Deemed It the Best: 2\nRoyal Crown cola has been around in its present incarnation since 1934. Today, it is distributed by Dr. Pepper/Snapple Group. Although not as popular as Coke or Pepsi in terms of sales, RC Cola received blue ribbons from two panelists, and three other judges ranked it second-best. Chris thought it was the \u201Cbest tasting by far,\u201D and Aunt Doris gave it her highest mark because it was \u201Csimply perfect.\u201D On the other hand, Matthew said the Royal Crown tasted \u201Cflat,\u201D and both Nina and my mom thought the RC was \u201Ctoo sweet.\u201D\n2. Chill\n\nPrice (2-liter): $1.00\nPanel Scoring: 27 points\nAverage Score (4-point scale): 2.5\nHuman Judges Who Deemed It the Best: 3\nThe bargain brand performed well, earning three blue ribbons from the panel. Only one panelist, Mark, thought the Chill cola was the worst of the bunch; he thought it was \u201Cway too syrupy.\u201D It\u2019s interesting to note that my mom and dad both picked Chill as their favorite cola and remarked on their evaluation sheets that the bargain brand was probably Pepsi.\n1. Pepsi Cola\n\nPrice (2-liter): $1.79\nPanel Scoring: 31 points\nAverage Score (4-point scale): 2.9\nHuman Judges Who Deemed It the Best: 5\nAs far as my expert panel was concerned, Pepsi was clearly the top of pops. It received blue ribbons from five of the judges and two others thought it was second best. My dad was the only one to rank it last (\u201Ctoo flat\u201D), but he was in the minority. Kevin wryly noted that the only thing that could have made the Pepsi better was a splash of rum.\n\nSo Is Pepsi Really Better Than Coke?\n\nWhile Coke has always been America\u2019s top-selling soft drink, Pepsi has steadfastly maintained that, in head-to-head competition, more people prefer the taste of their product in blind taste tests. And even though my taste test experiment included additional competitors, it still managed to back up Pepsi\u2019s claims.\nSo while the results of my little cola taste test experiment will have most Pepsi fans screaming \u201CI told ya so!\u201D, in the end it\u2019s just another skirmish in a long battle that will most likely do absolutely nothing to convince Coke drinkers that Pepsi should rightfully be declared the cola world\u2019s \u201CKing of the Hill.\u201D\nI know I\u2019m not impressed. As far as I\u2019m concerned, Coke will always be number one in my book.\nPhoto Credit: srboisvert\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tRelated Posts:My Ketchup Taste-Test: Upset! Guess Which Brand Topped Heinz.My Potato Chip Taste Test: Are Lay\u2019s Really Worth Paying More For?My BBQ Sauce Taste Test: My Family Bucks Conventional Wisdom (Again)My Margarine Taste Test: Which Brand Tastes Most Like Butter?My Peanut Butter Taste Test: What 8 Choosy Mothers Really Chose"@en-us .
+_:nodecd3f30a6b476712b14b6ba5ab6b87e2 <http://schema.org/headline> "My Cola Taste Test: Is Coke Really Better Than Pepsi?"@en-us .
+_:nodecd3f30a6b476712b14b6ba5ab6b87e2 <http://schema.org/author> _:nodeb4cacfcf7ebf85d98745a13e93704ac4 .
+_:nodef79bf3b7106d5f59a92b3061525e3df8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodef79bf3b7106d5f59a92b3061525e3df8 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145390> .
+_:nodef79bf3b7106d5f59a92b3061525e3df8 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tHi Len\nWas this a \u2018single sip\u2019 taste test or did every one drink a full glass of each?\nI read about the \u2018new Coke\u2019 debacle (Malcolm Gladwell book I think) where Coke tried to out-do Pepsi in their taste test. Apparently most people prefer a sweet drink in the first sip (Pepsi, \u2018new Coke\u2019 and most store cola\u2019s).\nBut, drink a full glass and the winner is Coke (well in my book anyways  \u2013 which is why they still such a huge market share.\n\t\t"@en-us .
+_:nodef79bf3b7106d5f59a92b3061525e3df8 <http://schema.org/creator> _:node40ac7f4575dc6b771ef69d79f6bd6810 .
+_:nodef79bf3b7106d5f59a92b3061525e3df8 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec1fceba8a3a8e8b57e7fbfa8765ba443 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodec1fceba8a3a8e8b57e7fbfa8765ba443 <http://schema.org/url> <http://lenpenzo.com/blog/id11840-cola-taste-test-is-coke-really-better-than-pepsi.html/comment-page-1#comment-145400> .
+_:nodec1fceba8a3a8e8b57e7fbfa8765ba443 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tEh, neither.  I\u2019ve lost my taste for sodas after giving up Diet Coke about 6 years ago.  My bones, teeth, and wallet are healthier for it, too (phosphoric acid in colas mess with the mineralization process).  I usually drink plain water with meals, occasionally some variety of chilled tea (or wine).\nIf I want a carbonated beverage, I choose a sparkling mineral water with a high magnesium content (esp Gerolsteiner), sometimes with a lemon or lime wedge squeezed and dropped in, other times with a generous splash of a homemade \u201Cfruit shrub\u201D syrup added (google it).  Very refreshing.\nI usually drink plain water at restaurants, though if unflavored carbonated water is offered at self-serve soda fountains, I\u2019ll choose that option.  And it\u2019s freeeee!\n\t\t"@en-us .
+_:nodec1fceba8a3a8e8b57e7fbfa8765ba443 <http://schema.org/creator> _:node683741899aabf74994a70b43254853a .
+_:nodec1fceba8a3a8e8b57e7fbfa8765ba443 <http://schema.org/commentTime> "2012-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea23a1a34166eb043eadd16bf7721877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

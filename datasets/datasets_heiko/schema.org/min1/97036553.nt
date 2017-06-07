@@ -1,0 +1,100 @@
+_:node7784cb66d4a4280876faad7a437a69 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=de5666cf74d8b4e4> .
+_:node7784cb66d4a4280876faad7a437a69 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node7784cb66d4a4280876faad7a437a69 <http://schema.org/description> "\nImportante empresa selecciona operarios para el sector de expedici\u00F3n. La b\u00FAsqueda se orienta a candidatos con secundario completo y experiencia previa m\u00EDnima\n" .
+_:node7784cb66d4a4280876faad7a437a69 <http://schema.org/jobLocation> _:noded9d3a58cc3fbb7ca74df6245a8a98f7c .
+_:node7784cb66d4a4280876faad7a437a69 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodea5fa6cf649c126adc31dd485ce88baa5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodea5fa6cf649c126adc31dd485ce88baa5 <http://schema.org/address> _:node04d26c8165997461291ec79be5218f .
+_:nodee6ec109235c3b7fc2e27d69ad6404c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodee6ec109235c3b7fc2e27d69ad6404c <http://schema.org/address> _:node7ae5bcd366a51ab2747b2fba74e2fe5 .
+_:node04d26c8165997461291ec79be5218f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node04d26c8165997461291ec79be5218f <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:node5191efa69e1a21f0e8efcacbb3d62e6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node5191efa69e1a21f0e8efcacbb3d62e6a <http://schema.org/address> _:node17fa7754d2c875fac9b1b72752bacb1 .
+_:node4c4abde110e64f114531e3b286e2ca7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node4c4abde110e64f114531e3b286e2ca7 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=ec157016c01f2af0> .
+_:node4c4abde110e64f114531e3b286e2ca7 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node4c4abde110e64f114531e3b286e2ca7 <http://schema.org/description> "\nImportante supermercado requiere Encargado de Sucursal con experiencia en el rubro retail, coordinaci\u00F3n de sectores , perf\u00EDl comercial / administraci\u00F3n\n" .
+_:node4c4abde110e64f114531e3b286e2ca7 <http://schema.org/jobLocation> _:node7ccf115551aa305fc79e8ec169c8ea .
+_:node4c4abde110e64f114531e3b286e2ca7 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node17fa7754d2c875fac9b1b72752bacb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node17fa7754d2c875fac9b1b72752bacb1 <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:node8c81a5d1328dfac6709b8ac689ae40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node8c81a5d1328dfac6709b8ac689ae40 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=ddf957623a40331c> .
+_:node8c81a5d1328dfac6709b8ac689ae40 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node8c81a5d1328dfac6709b8ac689ae40 <http://schema.org/description> "\nImportante Instituci\u00F3n Ben\u00E9fica sin fines de lucro requiere Coordinadora General. La busqueda se orienta a Lic. en Relaciones Institucionales / Lic. en\n" .
+_:node8c81a5d1328dfac6709b8ac689ae40 <http://schema.org/jobLocation> _:node5191efa69e1a21f0e8efcacbb3d62e6a .
+_:node8c81a5d1328dfac6709b8ac689ae40 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodef219b3c814ecbbc9bc6d32910b78bf8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodef219b3c814ecbbc9bc6d32910b78bf8 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=463eb951baf12b3c> .
+_:nodef219b3c814ecbbc9bc6d32910b78bf8 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodef219b3c814ecbbc9bc6d32910b78bf8 <http://schema.org/description> "\nImportante empresa constructora requiere ingeniero civil o arquitecto junior o semi senior , para formar parte del departamento t\u00E9cnico. Con manejo de autocad\n" .
+_:nodef219b3c814ecbbc9bc6d32910b78bf8 <http://schema.org/jobLocation> _:nodeced507541f22828b983e1af447a4865 .
+_:nodef219b3c814ecbbc9bc6d32910b78bf8 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodedc6b6dfe1c43844fe99eee3df670d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodedc6b6dfe1c43844fe99eee3df670d2 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=0b11bcdb5e519810> .
+_:nodedc6b6dfe1c43844fe99eee3df670d2 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodedc6b6dfe1c43844fe99eee3df670d2 <http://schema.org/description> "\nImportante empresa constructora requiere capataz. Con experiencias previas en la funci\u00F3n, principalmente en obras viales. El perfil se orienta a una persona\n" .
+_:nodedc6b6dfe1c43844fe99eee3df670d2 <http://schema.org/jobLocation> _:noded058f2e554ed54fb2232e995859266fb .
+_:nodedc6b6dfe1c43844fe99eee3df670d2 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node6082fed5a391f807bcab563accb18cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node6082fed5a391f807bcab563accb18cf <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:node7ae5bcd366a51ab2747b2fba74e2fe5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node7ae5bcd366a51ab2747b2fba74e2fe5 <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:nodeced507541f22828b983e1af447a4865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeced507541f22828b983e1af447a4865 <http://schema.org/address> _:nodea48136b714b5ea1028dcc01ed7dc90b7 .
+_:nodeed7fb969c8482c55755f684b84ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeed7fb969c8482c55755f684b84ba <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=94187adfe4a24cd6> .
+_:nodeed7fb969c8482c55755f684b84ba <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodeed7fb969c8482c55755f684b84ba <http://schema.org/description> "\nImportante empresa multinacional selecciona licenciados en comercializaci\u00F3n, licenciados en administraci\u00F3n de empresas y carreras afines para desempe\u00F1arse en\n" .
+_:nodeed7fb969c8482c55755f684b84ba <http://schema.org/jobLocation> _:nodea5fa6cf649c126adc31dd485ce88baa5 .
+_:nodeed7fb969c8482c55755f684b84ba <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node37b73d4a5e98adef320864e8e84eac8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node37b73d4a5e98adef320864e8e84eac8 <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:nodee5e269c23d71abf43d4771302e135cf0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodee5e269c23d71abf43d4771302e135cf0 <http://schema.org/address> _:node6082fed5a391f807bcab563accb18cf .
+_:node52d17adf69bd367e149d7dc7937d1f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node52d17adf69bd367e149d7dc7937d1f1 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=99a8a41dca494a2c> .
+_:node52d17adf69bd367e149d7dc7937d1f1 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node52d17adf69bd367e149d7dc7937d1f1 <http://schema.org/description> "\nImportante empresa se encuentra en la busqueda de Armador de Pedidos para desempe\u00F1arse en el deposito de la misma, sus tareas ser\u00E1n; controlar la mercaderia,\n" .
+_:node52d17adf69bd367e149d7dc7937d1f1 <http://schema.org/jobLocation> _:node92374cf8166c9686624b9ee19b3764c6 .
+_:node52d17adf69bd367e149d7dc7937d1f1 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node49bd6e51501b36528c17901df9bea17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node49bd6e51501b36528c17901df9bea17 <http://schema.org/address> _:node3d4ad33c834466ebfa9fb9e4ef51b .
+_:node916e964748da7d1333ea945d954b60ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node916e964748da7d1333ea945d954b60ff <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:node7ccf115551aa305fc79e8ec169c8ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node7ccf115551aa305fc79e8ec169c8ea <http://schema.org/address> _:node37b73d4a5e98adef320864e8e84eac8 .
+_:nodea48136b714b5ea1028dcc01ed7dc90b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodea48136b714b5ea1028dcc01ed7dc90b7 <http://schema.org/addressLocality> "Berazategui, Buenos Aires" .
+_:node8cda16f4824c8bf8dc269d4d3586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node8cda16f4824c8bf8dc269d4d3586 <http://schema.org/addressLocality> "Berazategui, Buenos Aires" .
+_:noded058f2e554ed54fb2232e995859266fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:noded058f2e554ed54fb2232e995859266fb <http://schema.org/address> _:node916e964748da7d1333ea945d954b60ff .
+_:nodeb3bd8210536c5af0e564b63f28326ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeb3bd8210536c5af0e564b63f28326ea <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=cd879d9abdf3f03f> .
+_:nodeb3bd8210536c5af0e564b63f28326ea <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodeb3bd8210536c5af0e564b63f28326ea <http://schema.org/description> "\nImportante empresa selecciona Supervisor de Venta, con experiencia en consumo masivo, manejo de equipos de venta y preventa y orientaci\u00F3n a los resultados. Se\n" .
+_:nodeb3bd8210536c5af0e564b63f28326ea <http://schema.org/jobLocation> _:nodee5e269c23d71abf43d4771302e135cf0 .
+_:nodeb3bd8210536c5af0e564b63f28326ea <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node608551202d40194d1b55cb277399752 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node608551202d40194d1b55cb277399752 <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:node92374cf8166c9686624b9ee19b3764c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node92374cf8166c9686624b9ee19b3764c6 <http://schema.org/address> _:node8cda16f4824c8bf8dc269d4d3586 .
+_:nodec9105decf581fd62f991d83897e3e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodec9105decf581fd62f991d83897e3e7 <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=f5b2e1fae0bd15c2> .
+_:nodec9105decf581fd62f991d83897e3e7 <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodec9105decf581fd62f991d83897e3e7 <http://schema.org/description> "\nImportante grupo econ\u00F3mico agr\u00EDcola ganadero selecciona Ingeniero Agr\u00F3nomo para la posici\u00F3n de gerente de producci\u00F3n, con visi\u00F3n de negocio, con manejo de\n" .
+_:nodec9105decf581fd62f991d83897e3e7 <http://schema.org/jobLocation> _:node49bd6e51501b36528c17901df9bea17 .
+_:nodec9105decf581fd62f991d83897e3e7 <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:node3d4ad33c834466ebfa9fb9e4ef51b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node3d4ad33c834466ebfa9fb9e4ef51b <http://schema.org/addressLocality> "Capital Federal, Buenos Aires" .
+_:nodee9d8d9c3128db1f5913f7d1e482133a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodee9d8d9c3128db1f5913f7d1e482133a <http://schema.org/title> <http://ar.indeed.com/Empleos-de-Carina-Di-Fonzo//rc/clk?jk=d8d93cb08905c7eb> .
+_:nodee9d8d9c3128db1f5913f7d1e482133a <http://schema.org/hiringOrganization> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:nodee9d8d9c3128db1f5913f7d1e482133a <http://schema.org/description> "\nImportante empresa selecciona Supervisor comercial, con experiencia en consumo masivo y manejo de venta y preventa. Orientado a los resultados. Cantidad de\n" .
+_:nodee9d8d9c3128db1f5913f7d1e482133a <http://schema.org/jobLocation> _:nodee6ec109235c3b7fc2e27d69ad6404c .
+_:nodee9d8d9c3128db1f5913f7d1e482133a <http://schema.org/name> "Carina Di Fonzo Organizaci\u00F3n & Empleo" .
+_:noded9d3a58cc3fbb7ca74df6245a8a98f7c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:noded9d3a58cc3fbb7ca74df6245a8a98f7c <http://schema.org/address> _:node608551202d40194d1b55cb277399752 .
+_:nodec50843459aa893fa08bb8962dd0a2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

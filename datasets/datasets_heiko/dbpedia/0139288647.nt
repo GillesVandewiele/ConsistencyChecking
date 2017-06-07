@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Final_Fantasy_V> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Game_Boy_Advance> .
+<http://dbpedia.org/resource/Final_Fantasy_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Final_Fantasy_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Final_Fantasy_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> .
+<http://dbpedia.org/resource/Game_Boy_Advance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/InformationAppliance> .
+<http://dbpedia.org/resource/Game_Boy_Advance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> .

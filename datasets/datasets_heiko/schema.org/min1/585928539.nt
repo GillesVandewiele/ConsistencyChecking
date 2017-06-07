@@ -1,0 +1,12 @@
+_:node6a6ce083fa697a285fece2c307b8a81 <http://schema.org/name> "Tiergarten Sch\u00F6nbrunn" .
+_:node6a6ce083fa697a285fece2c307b8a81 <http://schema.org/url> <http://www.zoovienna.at> .
+_:node2bbaf3c9be1349af24ebaf2967e3c2a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node2bbaf3c9be1349af24ebaf2967e3c2a1 <http://schema.org/name> "Zoo Sch\u00F6nbrunn -   FREE" .
+_:node2bbaf3c9be1349af24ebaf2967e3c2a1 <http://schema.org/description> "The focus is on the new born baby panda Fu Hu, who in a diary tells about his life. The user of the app can also get directly a sponsor of small Fu-Hu. In addition, the app offers numerous features. Animal info, feeding times or exciting routes through the zoo with GPS navigation, etc." .
+_:node2bbaf3c9be1349af24ebaf2967e3c2a1 <http://schema.org/image> <http://androlicious.com/details/eu.dreamix.roadeomobilezoo//images/Entertainment/e/eu.dreamix.roadeomobilezoo_icn.png> .
+_:node2bbaf3c9be1349af24ebaf2967e3c2a1 <http://schema.org/aggregateRating> _:node5ba07f7c9bddfad646b75ac875bf2f4 .
+_:node2bbaf3c9be1349af24ebaf2967e3c2a1 <http://schema.org/brand> _:node6a6ce083fa697a285fece2c307b8a81 .
+_:node5ba07f7c9bddfad646b75ac875bf2f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node5ba07f7c9bddfad646b75ac875bf2f4 <http://schema.org/ratingValue> "2.705" .
+_:node5ba07f7c9bddfad646b75ac875bf2f4 <http://schema.org/reviewCount> "95" .
+_:nodea29cddfc3d55c77a1c985fc8a4ecd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

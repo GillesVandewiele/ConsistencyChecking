@@ -1,0 +1,5 @@
+<http://books.google.com/books/about/Racine.html?id=MgJdAAAAMAAJ> <http://schema.org/Book/image> <http://books.google.com/books/content?id=MgJdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CMVO92TndL7ZEayv4o0BcExdb-mzmGFe9Oe44o2APEpTgiQYItcGDQmDwewSN25iBfNR7blRSgWuh_Mm2Ao9vjemrIAnXLr8hX5xAGVE5w1ukrbE> .
+<http://books.google.com/books/about/Racine.html?id=MgJdAAAAMAAJ> <http://schema.org/Book/url> "http://books.google.com/books/about/Racine.html?id=MgJdAAAAMAAJ&utm_source=gb-gplus-share" .
+<http://books.google.com/books/about/Racine.html?id=MgJdAAAAMAAJ> <http://schema.org/Book/name> "Racine" .
+<http://books.google.com/books/about/Racine.html?id=MgJdAAAAMAAJ> <http://schema.org/Book/description> "books.google.com" .
+_:nodea1c78f8d829479424cad9027e3acf4a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

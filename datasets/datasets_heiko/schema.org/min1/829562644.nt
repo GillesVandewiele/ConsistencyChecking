@@ -1,0 +1,2 @@
+_:node6eec88d2319dc0e2ae7e13b1237cb6f <http://schema.org/name> "UNR Herbarium Digital Collection" .
+_:nodedc3e5f3db27ee644e84d4d16f14ca4d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

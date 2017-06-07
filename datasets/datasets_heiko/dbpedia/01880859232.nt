@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Sino-Indian_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/North-East_Frontier_Agency> .
+<http://dbpedia.org/resource/Sino-Indian_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Sino-Indian_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Sino-Indian_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .

@@ -1,0 +1,109 @@
+_:nodeec57621890b87888dde1a6aa3d56a7b0 <http://schema.org/ratingValue> "5" .
+_:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.schema.org/VideoObject> .
+_:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 <http://www.schema.org/VideoObject/description> "See how to make healthy, quick-and-easy broccoli and pasta. " .
+_:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 <http://www.schema.org/VideoObject/url> "http://allrecipes.com/video/2991/cavatelli-and-broccoli/detail.aspx" .
+_:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 <http://www.schema.org/VideoObject/interactionCount> "UserPlays:7642" .
+_:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 <http://www.schema.org/VideoObject/thumbnail> "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2050056976001_th-1904584553001.jpg?pubId=1033249144001" .
+_:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 <http://www.schema.org/VideoObject/name> "Cavatelli and Broccoli" .
+_:node9542d4c324718a63a7866382b997327 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/sodiumContent> "234mg" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/carbohydrateContent> "47.6g" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/proteinContent> "10.2g" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/saturatedFatContent> "1.7g" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/fatContent> "10.3g" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/calories> "317" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/servingSize> "1/12 of a recipe" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/fiberContent> "3.8g" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/cholesterolContent> "< 1mg" .
+_:node9542d4c324718a63a7866382b997327 <http://schema.org/sugarContent> "3.7g" .
+_:nodead5ebc8c38bc33dc4631899c427125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodead5ebc8c38bc33dc4631899c427125 <http://schema.org/reviewRating> _:nodefe7427b23331bbe83a8559475304fc .
+_:nodead5ebc8c38bc33dc4631899c427125 <http://schema.org/dateCreated> "Aug 06, 2009" .
+_:nodead5ebc8c38bc33dc4631899c427125 <http://schema.org/description> "This is so simple and so delicious and makes a great side dish.  I did about a third of the recipe (1/2 lb. of pasta) and used a steam in bag of broccoli.  I tossed everything together and topped it with parmesan cheese.  It could have been a meal all in itself.  " .
+_:nodead5ebc8c38bc33dc4631899c427125 <http://schema.org/author> "Jillian" .
+_:nodead5ebc8c38bc33dc4631899c427125 <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:node9fa0b23f7e60b99f90a32c747750896d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node9fa0b23f7e60b99f90a32c747750896d <http://schema.org/reviewRating> _:node9e339d1cfdade7086f219714367081 .
+_:node9fa0b23f7e60b99f90a32c747750896d <http://schema.org/dateCreated> "Jun 23, 2004" .
+_:node9fa0b23f7e60b99f90a32c747750896d <http://schema.org/description> "I agree with majority.. Bland... secret is salt. This is an old Italian dish called Aglio e Olio. This was what they made when pantry was bare and on Fridays when Catholics couldn't eat meat. My Italians friends told me you have to add at least 1/4 cup of salt in pasta water to infuse it into pasta..  and believe me you would never know that's how much you put in but the flavor will be there and most of that is going done the drain with our water. Other than that it was tasty. I decreased the red pepper flakes to 1/4 tsp and put in with garlic and oil to get the full effect of the pepper." .
+_:node9fa0b23f7e60b99f90a32c747750896d <http://schema.org/author> "MILLIE CROSS" .
+_:node9fa0b23f7e60b99f90a32c747750896d <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:node50c516757ec43d09f452dbdeb545296 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node50c516757ec43d09f452dbdeb545296 <http://schema.org/ratingValue> "4" .
+_:nodefe7427b23331bbe83a8559475304fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodefe7427b23331bbe83a8559475304fc <http://schema.org/ratingValue> "5" .
+_:node53ee45fbb934dd79af9d406297e613af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/video> _:nodeaddd98d3e8c3fb4f2662d93bcc9bf47 .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/name> "Cavatelli and Broccoli" .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            3 heads\n                            fresh broccoli, cut into florets\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            1/2 cup\n                            olive oil\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            3 cloves\n                            garlic, minced\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            1 1/2 pounds\n                            cavatelli pasta\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            1 teaspoon\n                            salt\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            1 teaspoon\n                            crushed red pepper flakes\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/ingredients> "\n                            2 tablespoons\n                            grated Parmesan cheese\n                            \n                        " .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/author> "linda m" .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/description> "\"This is quick meal to make. Serve with garlic bread.\"" .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:node94e9f775b74c31c84041244d71e96ba .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:node81ab9accd51c8566aae05328d56f5d3 .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:node9fa0b23f7e60b99f90a32c747750896d .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:nodeb2b6e012b4dd68724e7e2364983cad0 .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:node3a78a6df7ffe477cf83c85e26ac17f .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:nodead5ebc8c38bc33dc4631899c427125 .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:nodefc93fbfff14b94fb4bebebc58ecd89e .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/review> _:noded2af318dbe6720efbaa4b448607c40 .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/image> <http://images.media-allrecipes.com/userphotos/250x250/01/05/66/1056609.jpg> .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/nutrition> _:node9542d4c324718a63a7866382b997327 .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/recipeYield> "12 servings" .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/recipeInstructions> "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIn a large pot of boiling water, blanch broccoli for about 5 minutes. Drain, and set aside.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHeat olive oil in a large skillet over medium heat. Saute garlic until lightly golden, being careful not to burn it. Add the broccoli. Saute, stirring occasionally, for about 10 minutes. Broccoli should be tender yet crisp to the bite.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMeanwhile, cook cavatelli in a large pot of boiling salted water for 8 to 10 minutes, or until al dente. Drain, and place in a large serving bowl. Toss with the broccoli, and season with salt and hot pepper flakes. Serve with parmesan cheese.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tKitchen-Friendly View\n\n\t\t\t\t" .
+_:node53ee45fbb934dd79af9d406297e613af <http://schema.org/aggregateRating> _:node3d93a64d352316561926e17bb742efe7 .
+_:nodefc93fbfff14b94fb4bebebc58ecd89e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodefc93fbfff14b94fb4bebebc58ecd89e <http://schema.org/reviewRating> _:node50c516757ec43d09f452dbdeb545296 .
+_:nodefc93fbfff14b94fb4bebebc58ecd89e <http://schema.org/dateCreated> "Jan 09, 2007" .
+_:nodefc93fbfff14b94fb4bebebc58ecd89e <http://schema.org/description> "i make cavatelli aglio e olio all the time. My recipe calls for salted pasta water, sliced black olives, anchovies and more garlic than this does. Made this recipe, and was a tad bland for me- but some people may like less oomph than I do. With my additions, I'd give it five stars- but as is, it's a four." .
+_:nodefc93fbfff14b94fb4bebebc58ecd89e <http://schema.org/author> "SWEETCOOKIEBEE" .
+_:nodefc93fbfff14b94fb4bebebc58ecd89e <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:node10bf2e65328f9440f9ec7eeedfa4466 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node10bf2e65328f9440f9ec7eeedfa4466 <http://schema.org/ratingValue> "4" .
+_:noded2af318dbe6720efbaa4b448607c40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:noded2af318dbe6720efbaa4b448607c40 <http://schema.org/reviewRating> _:nodeec57621890b87888dde1a6aa3d56a7b0 .
+_:noded2af318dbe6720efbaa4b448607c40 <http://schema.org/dateCreated> "Feb 02, 2011" .
+_:noded2af318dbe6720efbaa4b448607c40 <http://schema.org/description> "I agree with most... I use extra salt in the water when cooking the cavatelli (I use a large palm full) which will give the dish flavor.  I cook  the pepper flakes in with the garlic and oil to infuse the flavor into the oil.  I also add extra parmesan because we love it that way!  Great easy recipe." .
+_:noded2af318dbe6720efbaa4b448607c40 <http://schema.org/author> "joannneb" .
+_:noded2af318dbe6720efbaa4b448607c40 <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:nodee881282ef5dfcaa4131737ab35dd2135 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodee881282ef5dfcaa4131737ab35dd2135 <http://schema.org/ratingValue> "5" .
+_:node94e9f775b74c31c84041244d71e96ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node94e9f775b74c31c84041244d71e96ba <http://schema.org/reviewRating> _:node10bf2e65328f9440f9ec7eeedfa4466 .
+_:node94e9f775b74c31c84041244d71e96ba <http://schema.org/dateCreated> "Jan 31, 2007" .
+_:node94e9f775b74c31c84041244d71e96ba <http://schema.org/description> "This is a very good dish if you make it the right way.  I think other members have commented on this, but i'll reiterate.  You have to put (depending on how much you make, I usually make it with 2 bags of cavatellis) about a regular coffee mug size amount of the salted pasta water into the broccoli pan, then drain the pasta, then put the pasta into the pan with the broccoli and let it cook for a few more minutes.  I guarantee this will make it taste a whole lot better, since when the cavatelli's cook in the broccoli for a bit they soak up the flavor.  Hope this helps!" .
+_:node94e9f775b74c31c84041244d71e96ba <http://schema.org/author> "AmberLeigh" .
+_:node94e9f775b74c31c84041244d71e96ba <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:node3a78a6df7ffe477cf83c85e26ac17f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node3a78a6df7ffe477cf83c85e26ac17f <http://schema.org/reviewRating> _:node095ef11b38afcda6b8effcaad147ab .
+_:node3a78a6df7ffe477cf83c85e26ac17f <http://schema.org/dateCreated> "Apr 12, 2004" .
+_:node3a78a6df7ffe477cf83c85e26ac17f <http://schema.org/description> "This IS sort of bland, but I cooked the pasta in chicken broth and added the broccoli to that the last few minutes, then added the garlic and sauteed the whole concoction before adding Romano Parmesan and red pepper.  For some reason, I could not stop eating this, so-- bland or not, I thought it was pretty good!!  The cheese and red pepper really add something.  Plus it is sooooo simple...I will make again." .
+_:node3a78a6df7ffe477cf83c85e26ac17f <http://schema.org/author> "LILSPINSTER" .
+_:node3a78a6df7ffe477cf83c85e26ac17f <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:node81ab9accd51c8566aae05328d56f5d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node81ab9accd51c8566aae05328d56f5d3 <http://schema.org/reviewRating> _:nodeb14cb8389a4c9a5adc257fdad4d593a7 .
+_:node81ab9accd51c8566aae05328d56f5d3 <http://schema.org/dateCreated> "Jul 16, 2010" .
+_:node81ab9accd51c8566aae05328d56f5d3 <http://schema.org/description> "If you make this as written you will be disappointed as it will essentially be plain pasta with broccoli and garlic.  Definitely follow the advice of others and heavily salt your pasta water and add a ladelful or 2 to the mix when combining the broccoli and pasta.  A pat of butter adds a little richness, definitely use more parmesan too!  With the changes you'll have a nice quick and easy weeknight pasta dish." .
+_:node81ab9accd51c8566aae05328d56f5d3 <http://schema.org/author> "JENNYLYN1" .
+_:node81ab9accd51c8566aae05328d56f5d3 <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:node095ef11b38afcda6b8effcaad147ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node095ef11b38afcda6b8effcaad147ab <http://schema.org/ratingValue> "4" .
+_:node3d93a64d352316561926e17bb742efe7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node3d93a64d352316561926e17bb742efe7 <http://schema.org/ratingValue> "4.335766" .
+_:node3d93a64d352316561926e17bb742efe7 <http://schema.org/reviewCount> "96" .
+_:node9e339d1cfdade7086f219714367081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node9e339d1cfdade7086f219714367081 <http://schema.org/ratingValue> "4" .
+_:nodeb2b6e012b4dd68724e7e2364983cad0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeb2b6e012b4dd68724e7e2364983cad0 <http://schema.org/reviewRating> _:nodee881282ef5dfcaa4131737ab35dd2135 .
+_:nodeb2b6e012b4dd68724e7e2364983cad0 <http://schema.org/dateCreated> "Nov 07, 2008" .
+_:nodeb2b6e012b4dd68724e7e2364983cad0 <http://schema.org/description> "Yum--the flavors I grew up with!  With no heavy sauces or seasonings, this is simple, fresh and just plain delicious.  I didn't measure, just used  \"a little of this and a little of that\" to suit my tastes.  While I served this with roast chicken, I could have eaten this all by itself.  " .
+_:nodeb2b6e012b4dd68724e7e2364983cad0 <http://schema.org/author> "naples34102" .
+_:nodeb2b6e012b4dd68724e7e2364983cad0 <http://schema.org/itemReviewed> "Cavatelli and Broccoli" .
+_:nodeb14cb8389a4c9a5adc257fdad4d593a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodeb14cb8389a4c9a5adc257fdad4d593a7 <http://schema.org/ratingValue> "3" .
+_:nodef38d968fd29296431287a69dcbb5c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

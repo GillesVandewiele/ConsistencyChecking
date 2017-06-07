@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Volkswagen> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Vorstand> .
+<http://dbpedia.org/resource/Volkswagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Volkswagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/Volkswagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .

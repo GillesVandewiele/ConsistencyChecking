@@ -1,0 +1,24 @@
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72489 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d74eee719c0a24b5885a9ab89277b94962dN72499 .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#description> "Perfect for in and out of water wear, the Resort Shirt has a shock cord waist, which is tightened to prevent riding up in the water and loosened for a more modest look out of the water. <br><br>\u0095 Flatlock seams for comfort. <br>\u0095 Lightweight and quick-drying. <br>\u0095 Mid-thigh tunic length. <br>\u0095 Front panel is double-lined for extra modesty. <br>\u0095 Shock cord and cord lock for drawstring waist. <br>\u0095 Fabric provides UV protection. \u00A0<br>\u0095 Chlorine resistant Chloroban\u2122 fabric. <br>\u0095 100% Polyester knit. <br><br><img src=''http://www.swimoutlet.com/photos/categories/usa-logo.gif'' align=''left'' width=''18'' height=''13'' alt=''usa icon''> Made in USA." .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#name> "Splashgear Resort Shirt" .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d74eee719c0a24b5885a9ab89277b94962dN72451 .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72451 <http://rdf.data-vocabulary.org/#count> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72451 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72499 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72499 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d74eee719c0a24b5885a9ab89277b94962dN72499 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$39.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/splashgear-resort-shirt-8815/#offering> .
+<http://www.cleversafe.com/#store> <http://xmlns.com/foaf/0.1/page> <http://www.cleversafe.com/> .

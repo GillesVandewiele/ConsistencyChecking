@@ -1,0 +1,15 @@
+_:node2ff38c3fa1fae4329f4f4e1679b9a5b <http://schema.org/ratingCount> "5"@en .
+_:node2ff38c3fa1fae4329f4f4e1679b9a5b <http://schema.org/ratingValue> "4.20"@en .
+_:nodeacf713cfa24941bb61c9493bee0c290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeacf713cfa24941bb61c9493bee0c290 <http://schema.org/price> "4.00"@en .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/189442.png> .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/image> <https://0.s3.envato.com/files/189443.png> .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/offers> _:nodeacf713cfa24941bb61c9493bee0c290 .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/aggregateRating> _:node2ff38c3fa1fae4329f4f4e1679b9a5b .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/genre> <http://graphicriver.net/category/web-elements> .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/description> "\n        Online Web Store/Shop Price & Promotion Tags\n\n\n\tThere are 4 different sizes, and 4 matte color variations for you to choose from in the file. However, you can easily change the colors and/or font to suit your needs. An instruction  PDF  file is included with the download on how to do that. Font \u2013 Impact.\n\n\nFiles included:\n\nEditable Photoshop file\n PNG \u2019s of every tag in the file, each with text  AND  without\n JPG \u2019s for preview\nHelp file\n\n\n\tThe tags can also be used for purposes other than an online store. Simply remove the default text and put in your own.\n\n\n\tThanks! \n      "@en .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/discussionUrl> <http://graphicriver.net/item/mostlymatte-web-store-tag-set-4-sizes-4-colors/64215//item/mostlymatte-web-store-tag-set-4-sizes-4-colors/64215/comments> .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/name> "  Mostly-Matte Web Store Tag Set - 4 Sizes, 4 Colors\n"@en .
+_:node4cd1d8a507527d4e8310f2bcdf1d9e <http://schema.org/interactionCount> "UserDownloads:43"@en .
+_:node43d716b7f0ea1040b8c5e7547ed4a1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

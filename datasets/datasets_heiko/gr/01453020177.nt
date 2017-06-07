@@ -1,0 +1,16 @@
+_:genid2d466a1008f5a44fab915801060c1346352dN66748 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d466a1008f5a44fab915801060c1346352dN66748 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d466a1008f5a44fab915801060c1346352dN66748 .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/e8cb093229fb266497ebfead20f54b6f.jpg> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "0065030822404"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#name> "2PORT Sata To Esata Slot Plate M/f" .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "Take the blazing speed of Serial ATA outside your case with an external slot plate from StarTech.com. The ESATAPLATE2 adds external data support to any existing Serial ATA controller. This product is designed to take advantage of the increased data integrity provided by external hard drives or RAID devices that support ESATA connections. You'll get up to 300 MBytes/sec of reliable data transfer for your Serial ATA peripherals, like external storage devices.Installation is easy: just install the plate into an open I/O slot on your computer and connect the cables to two Serial ATA connectors on your motherboard or controller card. The slim SATA data cable provides less clutter for increased airflow inside your case." .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Startech ESATAPLATE2 Audio & Video Cables" .
+<http://www.tvszone.com/startech-esataplate2-i127476.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.aquariumspecialty.com/w-lim-impeller-l-assembly#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

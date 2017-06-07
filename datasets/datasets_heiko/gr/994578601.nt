@@ -1,0 +1,15 @@
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/101485.jpg" .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://ogp.me/ns#description> "Upgrade your bakeware the gourmet way with the Chicago Metallic 16.75 x 12 x1-in. Professional Nonstick Jelly Roll Pan available from Cooking.com. Made of heavy-gauge steel, this nonstick pan is durable, easy to clean and features a 1-inch rim." .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/18x13x1-in.%20professional%20nonstick%20jelly%20roll%20pan%20by%20chicago%20metallic_101485_11/" .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://ogp.me/ns#title> "16.75x12x1-in. Professional Nonstick Jelly Roll Pan by Chicago Metallic at Cooking.com" .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/18x13x1-in.%20professional%20nonstick%20jelly%20roll%20pan%20by%20chicago%20metallic_101485_11/> .
+_:genid2d3817e13f26254d8dbecf5873ba22d2a12dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2db541e61ad7dd47578ec303ae469330742dN68703 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .

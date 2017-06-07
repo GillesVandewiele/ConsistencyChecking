@@ -1,0 +1,42 @@
+_:node202647c56475d736d42221aeee64a15e <http://schema.org/interactionCount> <http://blogs.mprnews.org/capitol-view/2011/06/pawlenty_to_lay/#comments> .
+_:node202647c56475d736d42221aeee64a15e <http://schema.org/description> "\n\t\t\tPawlenty will provide some budget specifics on Tuesday.\n Read more \u2192\n\t    \n\t\t\t\t\t"@en-us .
+_:node202647c56475d736d42221aeee64a15e <http://schema.org/datePublished> "June 3, 2011, 4:35 PM"@en-us .
+_:node202647c56475d736d42221aeee64a15e <http://schema.org/headline> "Pawlenty to lay out budget plan next week"@en-us .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://schema.org/image> <http://publicradio1.wpengine.netdna-cdn.com/capitol-view/files/2013/06/Bachmann.jpg> .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://schema.org/image> <http://publicradio1.wpengine.netdna-cdn.com/capitol-view/files/2013/06/Bachmann.jpg> .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://schema.org/interactionCount> <http://blogs.mprnews.org/capitol-view/2011/06/bachmann_delive/#comments> .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://schema.org/description> "\n\t\t\t\n   \nBachmann gets multiple standing ovation from a religious audience.\n Read more \u2192\n\t    \n\t\t\t\t\t"@en-us .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://schema.org/datePublished> "June 3, 2011, 12:15 PM"@en-us .
+_:nodebcfdc1bdcdde9a6812761b8ccbc01496 <http://schema.org/headline> "\n   \nBachmann delivers a crowd pleaser to social conservatives"@en-us .
+_:nodefc33256781694ce145b9bed624962233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/blogPost> _:node202647c56475d736d42221aeee64a15e .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/blogPost> _:node4687665a9719ceb4a54d77dbbe7ed7ca .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/blogPost> _:nodeb6882d4a92529a9b3a2459c73cb32 .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/blogPost> _:nodebcfdc1bdcdde9a6812761b8ccbc01496 .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/blogPost> _:node46912efdf6994579edf82d5f8a3c824 .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/blogPost> _:node318f93569eb4d7d78d3fdd52b994f649 .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/image> "http://publicradio1.wpengine.netdna-cdn.com/capitol-view/wp-content/themes/mpr-news-blogs/images/capitol-view-opengraph.png?v=2"@en-us .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/image> "http://publicradio1.wpengine.netdna-cdn.com/capitol-view/wp-content/themes/mpr-news-blogs/images/capitol-view-opengraph.png?v=2"@en-us .
+_:nodefc33256781694ce145b9bed624962233 <http://schema.org/image> <http://blogs.mprnews.org/capitol-view> .
+_:node4687665a9719ceb4a54d77dbbe7ed7ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node4687665a9719ceb4a54d77dbbe7ed7ca <http://schema.org/interactionCount> <http://blogs.mprnews.org/capitol-view/2011/06/poligraph_lawma_2/#comments> .
+_:node4687665a9719ceb4a54d77dbbe7ed7ca <http://schema.org/description> "\n\t\t\tLawmaker tells part of the story of massive K-12 funding bill\n Read more \u2192\n\t    \n\t\t\t\t\t"@en-us .
+_:node4687665a9719ceb4a54d77dbbe7ed7ca <http://schema.org/datePublished> "June 3, 2011, 2:00 PM"@en-us .
+_:node4687665a9719ceb4a54d77dbbe7ed7ca <http://schema.org/headline> "PoliGraph: Lawmaker\u2019s education claim only partially correct"@en-us .
+_:node318f93569eb4d7d78d3fdd52b994f649 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node318f93569eb4d7d78d3fdd52b994f649 <http://schema.org/interactionCount> <http://blogs.mprnews.org/capitol-view/2011/06/the_daily_diges_1069/#comments> .
+_:node318f93569eb4d7d78d3fdd52b994f649 <http://schema.org/description> "\n\t\t\tA look at the day\u2019s political news.\n Read more \u2192\n\t    \n\t\t\t\t\t"@en-us .
+_:node318f93569eb4d7d78d3fdd52b994f649 <http://schema.org/datePublished> "June 3, 2011, 6:22 AM"@en-us .
+_:node318f93569eb4d7d78d3fdd52b994f649 <http://schema.org/headline> "The Daily Digest"@en-us .
+_:nodeb6882d4a92529a9b3a2459c73cb32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb6882d4a92529a9b3a2459c73cb32 <http://schema.org/interactionCount> <http://blogs.mprnews.org/capitol-view/2011/06/bachmann_and_pa_4/#comments> .
+_:nodeb6882d4a92529a9b3a2459c73cb32 <http://schema.org/description> "\n\t\t\tTwo Minnesota Republicans vote for liberal Democrat\u2019s Libya resolution.\n Read more \u2192\n\t    \n\t\t\t\t\t"@en-us .
+_:nodeb6882d4a92529a9b3a2459c73cb32 <http://schema.org/datePublished> "June 3, 2011, 1:33 PM"@en-us .
+_:nodeb6882d4a92529a9b3a2459c73cb32 <http://schema.org/headline> "Bachmann and Paulsen vote for Kucinich Libya resolution"@en-us .
+_:node46912efdf6994579edf82d5f8a3c824 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node46912efdf6994579edf82d5f8a3c824 <http://schema.org/interactionCount> <http://blogs.mprnews.org/capitol-view/2011/06/sen_scheid_has/#comments> .
+_:node46912efdf6994579edf82d5f8a3c824 <http://schema.org/description> "\n\t\t\tScheid enters hospice care.\n Read more \u2192\n\t    \n\t\t\t\t\t"@en-us .
+_:node46912efdf6994579edf82d5f8a3c824 <http://schema.org/datePublished> "June 3, 2011, 12:05 PM"@en-us .
+_:node46912efdf6994579edf82d5f8a3c824 <http://schema.org/headline> "Sen. Scheid has entered hospice care"@en-us .
+_:noded79e3e9f889e5a59b47d39b710e1d742 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

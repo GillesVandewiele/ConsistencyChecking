@@ -1,0 +1,6 @@
+_:node8788c73ae62c392bee8b397689d0409f <http://schema.org/name> "Ontologies in .NET" .
+_:node8788c73ae62c392bee8b397689d0409f <http://schema.org/title> "Ontologies in .NET" .
+_:node8788c73ae62c392bee8b397689d0409f <http://schema.org/description> "I need to make use of some OWL ontologies in c#. Does anyone have a suggestion where I can start? Or if there are any libraries available for .NET please?\n" .
+_:node8788c73ae62c392bee8b397689d0409f <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node8788c73ae62c392bee8b397689d0409f <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node8fa748943ddafefa9f7a4b0f12e0d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

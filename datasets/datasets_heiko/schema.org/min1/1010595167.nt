@@ -1,0 +1,6 @@
+_:node3232e655366db3a68c97dbad4c33022 <http://schema.org/url> "http://eodev.com/" .
+_:node3232e655366db3a68c97dbad4c33022 <http://schema.org/potentialAction> _:node7992e5c6a5e461bed097b866b4ef299d .
+_:node7992e5c6a5e461bed097b866b4ef299d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SearchAction> .
+_:node7992e5c6a5e461bed097b866b4ef299d <http://schema.org/target> "http://eodev.com/ara?q={q}" .
+_:node7992e5c6a5e461bed097b866b4ef299d <http://schema.org/query-input> <http://eodev.com/gorev/36171/Null> .
+_:node1b92f8233bdde9c520b2e1b16ade2835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

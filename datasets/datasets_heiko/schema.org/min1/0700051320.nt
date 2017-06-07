@@ -1,0 +1,40 @@
+_:noded560953c26b2fc74207a67182adafcdd <http://schema.org/name> "Josh Brolin" .
+_:nodee375562824fa3218096564415d14dce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodee375562824fa3218096564415d14dce <http://schema.org/reviewRating> "Null" .
+_:nodee375562824fa3218096564415d14dce <http://schema.org/datePublished> "2013-01-26" .
+_:nodee375562824fa3218096564415d14dce <http://schema.org/author> "wetback39906" .
+_:nodef2908392874e83381c4fb49b705ee88b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodef2908392874e83381c4fb49b705ee88b <http://schema.org/reviewRating> "Null" .
+_:nodef2908392874e83381c4fb49b705ee88b <http://schema.org/datePublished> "2013-01-14" .
+_:nodef2908392874e83381c4fb49b705ee88b <http://schema.org/reviewBody> "A good move about a gang war in Los Angeles. I don't expect the movie to be better than \"LA Confential\" a movie which took place two years after the events of this movie. A gangster named Micky Cohen as the control of most of Los Angeles including the police department. So several men, drop their badges and took the law into their hands in order to stop the mob. I like the cast which includes Josh Borlin, Ryan Gosling, Sean Penn, Nick Nolte and Emma Stone. Sean Penn as Cohen gives an emotional performance. But the real star of the movie is the streets of Los Angeles. It looks very beautiful and like the streets of the city. " .
+_:nodef2908392874e83381c4fb49b705ee88b <http://schema.org/author> "George Jobson" .
+_:nodefee98695304a7a16203480bb729041f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefee98695304a7a16203480bb729041f <http://schema.org/name> "Ruben Fleischer" .
+_:nodee95fa4f6b465870b2513959e2e3622c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodee95fa4f6b465870b2513959e2e3622c <http://schema.org/bestRating> "4" .
+_:nodee95fa4f6b465870b2513959e2e3622c <http://schema.org/ratingValue> "2.67" .
+_:nodee95fa4f6b465870b2513959e2e3622c <http://schema.org/worstRating> "1" .
+_:nodee95fa4f6b465870b2513959e2e3622c <http://schema.org/reviewCount> "3" .
+_:node815a78dc82c1d39679cbadf401d42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node815a78dc82c1d39679cbadf401d42 <http://schema.org/name> "Ryan Gosling" .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/image> <http://bigscreen.com/ReaderReview.php?movie=123775//Graphics/MovieGraphics/123775.jpg> .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/director> _:nodefee98695304a7a16203480bb729041f .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/description> "Los Angeles, 1949. Ruthless, Brooklyn-born mob king Mickey Cohen (Penn) runs the show in this town, reaping the ill-gotten gains from the drugs, the guns, the prostitutes and\u2014if he has his...\u00A0\u00A0View more\u00A0>" .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/name> "Gangster Squad" .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/contentRating> "Null" .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/genre> "Drama" .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/aggregateRating> _:nodee95fa4f6b465870b2513959e2e3622c .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/actor> _:node2ec7b372f92a354ae365f1952ba927 .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/actor> _:node815a78dc82c1d39679cbadf401d42 .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/actor> _:noded560953c26b2fc74207a67182adafcdd .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/review> _:nodef2908392874e83381c4fb49b705ee88b .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/review> _:node6cd49a7ca99421d98540819fee5fb4b3 .
+_:nodeca3bda9e5071c760f7cb4d711eb4e047 <http://schema.org/review> _:nodee375562824fa3218096564415d14dce .
+_:node2ec7b372f92a354ae365f1952ba927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2ec7b372f92a354ae365f1952ba927 <http://schema.org/name> "Sean Penn" .
+_:node6cd49a7ca99421d98540819fee5fb4b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node6cd49a7ca99421d98540819fee5fb4b3 <http://schema.org/reviewRating> "Null" .
+_:node6cd49a7ca99421d98540819fee5fb4b3 <http://schema.org/datePublished> "2013-01-17" .
+_:node6cd49a7ca99421d98540819fee5fb4b3 <http://schema.org/author> "Sinamax" .
+_:node7b4f61bfebd4febe2d47ed5dca6b36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

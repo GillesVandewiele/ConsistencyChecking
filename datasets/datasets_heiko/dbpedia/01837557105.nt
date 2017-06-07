@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Ludwig_von_Bertalanffy> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/C._West_Churchman> .
+<http://dbpedia.org/resource/Ludwig_von_Bertalanffy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ludwig_von_Bertalanffy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/C._West_Churchman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/C._West_Churchman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Ludwig_von_Bertalanffy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .

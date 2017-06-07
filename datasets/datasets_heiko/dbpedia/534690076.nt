@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Jefferson_Airplane> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/KBC_Band> .
+<http://dbpedia.org/resource/Jefferson_Airplane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Jefferson_Airplane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Jefferson_Airplane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/KBC_Band> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/KBC_Band> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/KBC_Band> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

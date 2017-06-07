@@ -1,0 +1,12 @@
+<http://schema.org/Hospital> <http://schema.org/Place/address> _:node6b2df9ebed86abce50c0213e670e9 .
+<http://schema.org/Hospital> <http://schema.org/Place/name> "Alaska Regional Hospital"@en .
+<http://schema.org/Hospital> <http://schema.org/Place/telephone> "Phone: (907) 276-1131"@en .
+<http://schema.org/Hospital> <http://schema.org/Place/logo> <http://alaskaregional.com/physicians/index.dot?specialty=roboticsroboticsurgery&filterKeyword=prenatal&filterZipCode=99508&filterKeyword=birth%20control//contentAsset/raw-data/6a390782-1ca3-44c3-b463-068816ba0fc5/fullColorLogo> .
+<http://schema.org/Hospital> <http://schema.org/Place/url> "http://alaskaregional.com"@en .
+<http://alaskaregional.com/physicians/index.dot?specialty=roboticsroboticsurgery&filterKeyword=prenatal&filterZipCode=99508&filterKeyword=birth%20control> <http://www.w3.org/1999/xhtml/microdata#item> <http://schema.org/Hospital> .
+_:node6b2df9ebed86abce50c0213e670e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node6b2df9ebed86abce50c0213e670e9 <http://schema.org/addressRegion> "AK"@en .
+_:node6b2df9ebed86abce50c0213e670e9 <http://schema.org/postalCode> "99508"@en .
+_:node6b2df9ebed86abce50c0213e670e9 <http://schema.org/addressLocality> "Anchorage"@en .
+_:node6b2df9ebed86abce50c0213e670e9 <http://schema.org/streetAddress> "2801 DeBarr Road"@en .
+_:nodee6624337f3b8eaa1bb0f53d5d2f6f7b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

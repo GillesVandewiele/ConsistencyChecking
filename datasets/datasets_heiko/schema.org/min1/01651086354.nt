@@ -1,0 +1,6 @@
+_:node4932fb486b5bf4c5da44f31f1d73ecb2 <http://schema.org/name> "Binding socket to computer's address for listening" .
+_:node4932fb486b5bf4c5da44f31f1d73ecb2 <http://schema.org/title> "Binding socket to computer's address for listening" .
+_:node4932fb486b5bf4c5da44f31f1d73ecb2 <http://schema.org/description> "I've created code designed to bind a new socket to the computer's addresses for listening for incoming connections on a specific port. I'm using getaddrinfo. Is this the best way? It seems pointless " .
+_:node4932fb486b5bf4c5da44f31f1d73ecb2 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node4932fb486b5bf4c5da44f31f1d73ecb2 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node95d35b632a96386118dcee5327979c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

@@ -1,0 +1,39 @@
+_:genid2d108fa78d0d9e42efb36fbc17f47fa1fa2dINSIDE5fN69749 <http://rdf.data-vocabulary.org/#hasReview> <http://www.pooldawg.com/scorpion-weight-bolt#Review-aggregate_51753> .
+<http://www.pooldawg.com/scorpion-weight-bolt#TypeAndQuantityNode_51753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.pooldawg.com/scorpion-weight-bolt#TypeAndQuantityNode_51753> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/scorpion-weight-bolt#TypeAndQuantityNode_51753> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18 04:59:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.pooldawg.com/scorpion-weight-bolt#UnitPriceSpecification_51753> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#validThrough> "2015-12-18 04:59:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#description> "Weight bolts for Scorpion and Cuetec pool cues. Before purchasing a weight bolt, we recommend that you determine the weight of the bolt in your current cue, then size up based on how much you want to increase your overall cue weight." .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#name> "Scorpion/Cuetec Weight Bolt" .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "WBSCO"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://xmlns.com/foaf/0.1/depiction> _:genid2d108fa78d0d9e42efb36fbc17f47fa1fa2dN69716 .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://purl.org/goodrelations/v1#description> "Weight bolts for Scorpion and Cuetec pool cues. Before purchasing a weight bolt, we recommend that you determine the weight of the bolt in your current cue, then size up based on how much you want to increase your overall cue weight." .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://purl.org/goodrelations/v1#name> "Scorpion/Cuetec Weight Bolt" .
+<http://www.pooldawg.com/scorpion-weight-bolt#SomeItems_51753> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2d108fa78d0d9e42efb36fbc17f47fa1fa2dN69708 .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#includesObject> <http://www.pooldawg.com/scorpion-weight-bolt#TypeAndQuantityNode_51753> .
+<http://www.pooldawg.com/scorpion-weight-bolt#QuantitativeValue_51753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.pooldawg.com/scorpion-weight-bolt#QuantitativeValue_51753> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/scorpion-weight-bolt#QuantitativeValue_51753> <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/scorpion-weight-bolt#UnitPriceSpecification_51753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.pooldawg.com/scorpion-weight-bolt#UnitPriceSpecification_51753> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/scorpion-weight-bolt#UnitPriceSpecification_51753> <http://purl.org/goodrelations/v1#hasCurrencyValue> "2.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/scorpion-weight-bolt#UnitPriceSpecification_51753> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Review-aggregate_51753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Review-aggregate_51753> <http://rdf.data-vocabulary.org/#count> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Review-aggregate_51753> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.pooldawg.com/scorpion-weight-bolt#QuantitativeValue_51753> .
+<http://www.pooldawg.com/scorpion-weight-bolt#Offering_51753> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d108fa78d0d9e42efb36fbc17f47fa1fa2dINSIDE5fN69749 .
+<http://www.rightstuf.com/item/86859/4/2933/0#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .

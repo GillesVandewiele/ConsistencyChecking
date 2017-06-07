@@ -1,0 +1,3 @@
+_:node1ac6c8a897c13c7ad67b841d8f587d <http://schema.org/name> "Bossier Press-Tribune"@en-us .
+_:node1ac6c8a897c13c7ad67b841d8f587d <http://schema.org/url> <http://bossierpress.com> .
+<http://books.google.com/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

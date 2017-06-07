@@ -1,0 +1,5 @@
+<http://books.google.com.au/books/about/Green_Eyes.html?id=kWIgAQAAIAAJ> <http://schema.org/Book/image> <http://books.google.com.au/books/content?id=kWIgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70ZR4sAPFkqlQla0_0XhOYnzUXvh5Kytsp0i_xKRX4tZzahJUNmG_kc4TmQOJXvRZVvthd3bPzHBWBwqV6NEPVNh54-_4gavLnNElOw1qbOWJgkqWI> .
+<http://books.google.com.au/books/about/Green_Eyes.html?id=kWIgAQAAIAAJ> <http://schema.org/Book/url> "http://books.google.com.au/books/about/Green_Eyes.html?id=kWIgAQAAIAAJ&utm_source=gb-gplus-share" .
+<http://books.google.com.au/books/about/Green_Eyes.html?id=kWIgAQAAIAAJ> <http://schema.org/Book/name> "Green Eyes" .
+<http://books.google.com.au/books/about/Green_Eyes.html?id=kWIgAQAAIAAJ> <http://schema.org/Book/description> "books.google.com.au" .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

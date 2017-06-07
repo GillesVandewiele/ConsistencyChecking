@@ -1,0 +1,14 @@
+_:nodece82c05fde6c4596112e57be57b17ea2 <http://schema.org/price> "18.00"@en .
+_:nodeec9883cfdf4b92534efd57bf8d3330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AudioObject> .
+_:nodeec9883cfdf4b92534efd57bf8d3330 <http://schema.org/duration> "7:28"@en .
+_:nodeec9883cfdf4b92534efd57bf8d3330 <http://schema.org/contentUrl> <https://0.s3.envato.com/files/48156957/preview.mp3> .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/84405034/Electronic.jpg> .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/audio> _:nodeec9883cfdf4b92534efd57bf8d3330 .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/offers> _:nodece82c05fde6c4596112e57be57b17ea2 .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/genre> <http://audiojungle.net/category/music/electronica/dance> .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/description> "\n        Inspiring lounge house with dreamy piano solo\n1)Inspiring 24 (Remix Full) \u2013 2:27\n2) Inspiring 24 (Remix Medium 1) \u2013 1:58\n3) Inspiring 24 (Remix Medium 1) \u2013 1:28 \n4) Inspiring 24 (Remix Short 1) \u2013 0:59 \n5) Inspiring 24 (Remix Short 1) \u2013 0:29\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      "@en .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/discussionUrl> <http://audiojungle.net/item/inspiring-24-remix/4027032?WT.ac=item_more_thumb&WT.seg_1=item_more_thumb&WT.z_author=Romosel-Exclusive//item/inspiring-24-remix/4027032/comments> .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/name> "  Inspiring 24 (Remix)\n"@en .
+_:node14ad5ffbff8118a0f03e45d4d2c140 <http://schema.org/interactionCount> "UserDownloads:1"@en .
+_:node9ecd169c42946348d54ff1736d2a1fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

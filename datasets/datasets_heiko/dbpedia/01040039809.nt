@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Thurston_Moore> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Arts_&_Crafts_M%C3%A9xico> .
+<http://dbpedia.org/resource/Thurston_Moore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Thurston_Moore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Thurston_Moore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Thurston_Moore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .

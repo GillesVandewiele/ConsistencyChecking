@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Benjamin_Netanyahu> <http://dbpedia.org/ontology/militaryRank> <http://dbpedia.org/resource/Israel_Defense_Forces_ranks> .
+<http://dbpedia.org/resource/Benjamin_Netanyahu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Benjamin_Netanyahu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Benjamin_Netanyahu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

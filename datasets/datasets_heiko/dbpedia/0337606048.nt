@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Anne_of_Green_Gables> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/L.C._Page_&_Co.> .
+<http://dbpedia.org/resource/Anne_of_Green_Gables> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Anne_of_Green_Gables> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Anne_of_Green_Gables> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .

@@ -1,0 +1,6 @@
+_:nodeea1fb2564d530a74b6ef9d4741459a3 <http://schema.org/alternativeHeadline> "S&P 500 has a sixth straight gain in April, its longest series of monthly increases since 2009"@en-us .
+_:nodeea1fb2564d530a74b6ef9d4741459a3 <http://schema.org/headline> "Stocks edge higher; IBM pulls up the Dow"@en-us .
+_:nodeea1fb2564d530a74b6ef9d4741459a3 <http://schema.org/datePublished> "2013-04-30T20:08:24Z"@en-us .
+_:nodeea1fb2564d530a74b6ef9d4741459a3 <http://schema.org/image> "Null"@en-us .
+_:nodeea1fb2564d530a74b6ef9d4741459a3 <http://schema.org/description> "The stock market overcame a morning slide to finish modestly higher, giving the Standard & Poor's 500 index another record close and its sixth straight month of gains. The S&P 500 edged up three points ..."@en-us .
+_:node5632404029a37212a696f59027773bc1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

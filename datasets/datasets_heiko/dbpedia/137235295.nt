@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/War_of_the_Spanish_Succession> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Ren%C3%A9_de_Froulay_de_Tess%C3%A9> .
+<http://dbpedia.org/resource/War_of_the_Spanish_Succession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/War_of_the_Spanish_Succession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/War_of_the_Spanish_Succession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Ren%C3%A9_de_Froulay_de_Tess%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ren%C3%A9_de_Froulay_de_Tess%C3%A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

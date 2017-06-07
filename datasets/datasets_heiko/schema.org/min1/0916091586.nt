@@ -1,0 +1,97 @@
+_:noded13fe4f89e99cab47cac6e1cbd99b <http://schema.org/name> "William S. Richardson School of Law - University of Hawaii at Manoa"@en .
+_:nodec2bf56f673c87866a1526976db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:nodec2bf56f673c87866a1526976db <http://schema.org/name> "University of Hawaii - Manoa"@en .
+_:nodec06864133635c9ad551d4c08a48cc9a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec06864133635c9ad551d4c08a48cc9a <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/junsuke-otsuka-695852> .
+_:nodec06864133635c9ad551d4c08a48cc9a <http://schema.org/alumniOf> _:nodeeff4b21e42d419ecb3cce18d83f867 .
+_:nodec06864133635c9ad551d4c08a48cc9a <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/v/20141121a/jld/images/listings/no-picture-listings.png> .
+_:nodec06864133635c9ad551d4c08a48cc9a <http://schema.org/name> "Junsuke Otsuka"@en .
+_:node8aee2788894b3a1edc6c50a529417e4b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node8aee2788894b3a1edc6c50a529417e4b <http://schema.org/name> "Bilecki & Tipon, LLLC"@en .
+_:nodebc7e2c562f792048d686e65acb91e43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:nodebc7e2c562f792048d686e65acb91e43 <http://schema.org/name> "Stanford University"@en .
+_:node67a4974129efb0a61fbf65a482595b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:node67a4974129efb0a61fbf65a482595b <http://schema.org/name> "University of Miami School of Law - University of Miami"@en .
+_:node3d93b7b5b2af4fdeec649797beb5e97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3d93b7b5b2af4fdeec649797beb5e97 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/lance-david-collins-698124> .
+_:node3d93b7b5b2af4fdeec649797beb5e97 <http://schema.org/worksFor> _:node1fd8f05381e9269b83470fe04b725a .
+_:node3d93b7b5b2af4fdeec649797beb5e97 <http://schema.org/alumniOf> _:noded13fe4f89e99cab47cac6e1cbd99b .
+_:node3d93b7b5b2af4fdeec649797beb5e97 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/698124-1951941038-l.jpg> .
+_:node3d93b7b5b2af4fdeec649797beb5e97 <http://schema.org/name> "Lance David Collins"@en .
+_:node41a779e35e834fa758aded822d366e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node41a779e35e834fa758aded822d366e <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/james-tai-1485296> .
+_:node41a779e35e834fa758aded822d366e <http://schema.org/worksFor> _:node1ba2e9fce83869733ae4d05df5e113 .
+_:node41a779e35e834fa758aded822d366e <http://schema.org/alumniOf> _:nodef375193b693c716a72d4aa8b18f4220 .
+_:node41a779e35e834fa758aded822d366e <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/1485296-1172185505-l.jpg> .
+_:node41a779e35e834fa758aded822d366e <http://schema.org/name> "James Tai"@en .
+_:node4566af4cfb18bc24c66aaaa1dec9763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4566af4cfb18bc24c66aaaa1dec9763 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/peter-starn-691356> .
+_:node4566af4cfb18bc24c66aaaa1dec9763 <http://schema.org/alumniOf> _:nodebc7e2c562f792048d686e65acb91e43 .
+_:node4566af4cfb18bc24c66aaaa1dec9763 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/691356-1409252241-l.jpg> .
+_:node4566af4cfb18bc24c66aaaa1dec9763 <http://schema.org/name> "Peter Starn"@en .
+_:nodecd458755c21614db68d29da1f9fce14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodecd458755c21614db68d29da1f9fce14 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/rick-abelmann-1312286> .
+_:nodecd458755c21614db68d29da1f9fce14 <http://schema.org/worksFor> _:nodec46e106b127f21e453bb6f48c9f540be .
+_:nodecd458755c21614db68d29da1f9fce14 <http://schema.org/alumniOf> _:node15c371635e3bf184064a1ec76473e6a .
+_:nodecd458755c21614db68d29da1f9fce14 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/1312286-1986776942-l.jpg> .
+_:nodecd458755c21614db68d29da1f9fce14 <http://schema.org/name> "Rick Abelmann"@en .
+_:node1fd8f05381e9269b83470fe04b725a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node1fd8f05381e9269b83470fe04b725a <http://schema.org/name> "Law Office of Lance D Collins"@en .
+_:nodeeff4b21e42d419ecb3cce18d83f867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:nodeeff4b21e42d419ecb3cce18d83f867 <http://schema.org/name> "U. of Kansas"@en .
+_:nodec06dfd27fd9822fb1b54be88afe7637d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:nodec06dfd27fd9822fb1b54be88afe7637d <http://schema.org/name> "Boston University School of Law - Boston University"@en .
+_:node1ba2e9fce83869733ae4d05df5e113 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node1ba2e9fce83869733ae4d05df5e113 <http://schema.org/name> "Pacific Immigration Professionals, LLLC"@en .
+_:nodec31b6fb4dd3cf1f6ed25f3fc44d62c44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec31b6fb4dd3cf1f6ed25f3fc44d62c44 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/paul-j-sulla-jr-695302> .
+_:nodec31b6fb4dd3cf1f6ed25f3fc44d62c44 <http://schema.org/alumniOf> _:nodec06dfd27fd9822fb1b54be88afe7637d .
+_:nodec31b6fb4dd3cf1f6ed25f3fc44d62c44 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/695302-1239003521-l.jpg> .
+_:nodec31b6fb4dd3cf1f6ed25f3fc44d62c44 <http://schema.org/name> "Paul J.  Sulla Jr"@en .
+_:nodef4afeb4aa43c63c5a60c1b8ceec24e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> .
+_:nodef4afeb4aa43c63c5a60c1b8ceec24e <http://schema.org/name> "Kihei"@en .
+_:nodef4afeb4aa43c63c5a60c1b8ceec24e <http://schema.org/containedIn> _:noded4ba2aba0836a103ae05f7e5d40e512 .
+_:nodec46e106b127f21e453bb6f48c9f540be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:nodec46e106b127f21e453bb6f48c9f540be <http://schema.org/name> "Abelmann Law LLC"@en .
+_:nodef375193b693c716a72d4aa8b18f4220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:nodef375193b693c716a72d4aa8b18f4220 <http://schema.org/name> "St. Thomas University School of Law - St. Thomas University"@en .
+_:noded4ba2aba0836a103ae05f7e5d40e512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/State> .
+_:noded4ba2aba0836a103ae05f7e5d40e512 <http://schema.org/name> "Hawaii"@en .
+_:nodeef17cbba59b005c28825987511659 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeef17cbba59b005c28825987511659 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/mr-lars-peterson-698482> .
+_:nodeef17cbba59b005c28825987511659 <http://schema.org/alumniOf> _:node781f1693be252ec760927211dbb0e8fc .
+_:nodeef17cbba59b005c28825987511659 <http://schema.org/alumniOf> _:nodec2bf56f673c87866a1526976db .
+_:nodeef17cbba59b005c28825987511659 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/698482-622261979-l.jpg> .
+_:nodeef17cbba59b005c28825987511659 <http://schema.org/name> "Mr. Lars Peterson"@en .
+_:node781f1693be252ec760927211dbb0e8fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:node781f1693be252ec760927211dbb0e8fc <http://schema.org/name> "University of Cincinnati"@en .
+_:node15c371635e3bf184064a1ec76473e6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:node15c371635e3bf184064a1ec76473e6a <http://schema.org/name> "Washington University in St. Louis School of Law - Washington University in St. Louis"@en .
+_:node34d2917912bd6f5502d84e75fedc2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node34d2917912bd6f5502d84e75fedc2b <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/j-porter-devries-1496453> .
+_:node34d2917912bd6f5502d84e75fedc2b <http://schema.org/alumniOf> _:nodec79d58cd6816b6d2247013943c4deca4 .
+_:node34d2917912bd6f5502d84e75fedc2b <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/v/20141121a/jld/images/listings/no-picture-listings.png> .
+_:node34d2917912bd6f5502d84e75fedc2b <http://schema.org/name> "J Porter deVries"@en .
+_:nodeb95714ec9bb5d67f0bc75797fb6674a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb95714ec9bb5d67f0bc75797fb6674a <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/capt-robert-blazewick-us-navy-858223> .
+_:nodeb95714ec9bb5d67f0bc75797fb6674a <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/v/20141121a/jld/images/listings/no-picture-listings.png> .
+_:nodeb95714ec9bb5d67f0bc75797fb6674a <http://schema.org/name> "CAPT Robert Blazewick US Navy"@en .
+_:node76c86d5c56e04761d376caad728a84a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node76c86d5c56e04761d376caad728a84a3 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/dr-nancy-oppenheim-1488469> .
+_:node76c86d5c56e04761d376caad728a84a3 <http://schema.org/alumniOf> _:node1f111a123be7c7a1a3e8b5d5cb40e47d .
+_:node76c86d5c56e04761d376caad728a84a3 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/1488469-1342252608-l.jpg> .
+_:node76c86d5c56e04761d376caad728a84a3 <http://schema.org/name> "Dr. Nancy Oppenheim"@en .
+_:nodec79d58cd6816b6d2247013943c4deca4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:nodec79d58cd6816b6d2247013943c4deca4 <http://schema.org/name> "Pace University School of Law - Pace University"@en .
+_:node56ceb327ee9d5eb34d6af064a7bb86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:node56ceb327ee9d5eb34d6af064a7bb86 <http://schema.org/name> "Boston College"@en .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://schema.org/url> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei//lawyer/timothy-james-bilecki-516099> .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://schema.org/worksFor> _:node8aee2788894b3a1edc6c50a529417e4b .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://schema.org/alumniOf> _:node67a4974129efb0a61fbf65a482595b .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://schema.org/alumniOf> _:node56ceb327ee9d5eb34d6af064a7bb86 .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://schema.org/image> <http://lawyers.law.cornell.edu/lawyers/international/hawaii/kihei///justatic.com/profile-images/516099-1399327782-l.jpg> .
+_:nodea83617e2474f986e1a7877cac51f1bf0 <http://schema.org/name> "Timothy James Bilecki"@en .
+_:node1f111a123be7c7a1a3e8b5d5cb40e47d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollegeOrUniversity> .
+_:node1f111a123be7c7a1a3e8b5d5cb40e47d <http://schema.org/name> "UCLA School of Law"@en .
+_:node57798220aa296731d286ac3fe6795f17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

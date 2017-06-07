@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Yom_Kippur_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Moshe_Dayan> .
+<http://dbpedia.org/resource/Yom_Kippur_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Yom_Kippur_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Yom_Kippur_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Moshe_Dayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Moshe_Dayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Moshe_Dayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .

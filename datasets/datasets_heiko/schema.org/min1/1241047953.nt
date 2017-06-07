@@ -1,0 +1,3 @@
+_:node143b4d6c7868949e77b1eebbcc621dd <http://schema.org/name> "One Hour With You. :: Charles Templeton Sheet Music Collection" .
+_:node143b4d6c7868949e77b1eebbcc621dd <http://schema.org/image> "http://digital.library.msstate.edu/utils/getthumbnail/collection/SheetMusic/id/33129" .
+_:nodee35f79ee465be523189e5dfde1f723b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

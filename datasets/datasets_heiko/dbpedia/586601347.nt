@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mountain_Dew> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Sun_Drop> .
+<http://dbpedia.org/resource/Mountain_Dew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> .
+<http://dbpedia.org/resource/Mountain_Dew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Beverage> .
+<http://dbpedia.org/resource/Sun_Drop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Beverage> .
+<http://dbpedia.org/resource/Sun_Drop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> .

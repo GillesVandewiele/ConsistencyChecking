@@ -1,0 +1,3 @@
+_:node8655833bf22775fc346c30d38f715a99 <http://schema.org/name> "Chicago Examiner Vol. 6 no. 96 :: Chicago Examiner 1908-1918" .
+_:node8655833bf22775fc346c30d38f715a99 <http://schema.org/image> "http://digital.chipublib.org/utils/getthumbnail/collection/examiner/id/8898" .
+_:node74ed81f271b7a7b04818d14b7f4223fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

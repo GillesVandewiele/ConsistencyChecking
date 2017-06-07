@@ -1,0 +1,72 @@
+_:node3fca3ae2d03c5d5b6588971b99d3c79 <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node3fca3ae2d03c5d5b6588971b99d3c79 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node1d8e4a5a17c2b3cec969c972c641e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node1d8e4a5a17c2b3cec969c972c641e <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node1d8e4a5a17c2b3cec969c972c641e <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node814e2d7ea26cc36dedf97fd3655684 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node814e2d7ea26cc36dedf97fd3655684 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node814e2d7ea26cc36dedf97fd3655684 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node9b1c61c6cd6afe8226f1718e782fc47b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9b1c61c6cd6afe8226f1718e782fc47b <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node9b1c61c6cd6afe8226f1718e782fc47b <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:nodea867bd783674f20a58c4e6d8054f870 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea867bd783674f20a58c4e6d8054f870 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:nodea867bd783674f20a58c4e6d8054f870 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node2558422b3adccee286ebd79620166cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2558422b3adccee286ebd79620166cd <http://schema.org/name> "Int'l Logan"@es .
+_:node2558422b3adccee286ebd79620166cd <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KBOS> .
+_:nodee6aadd547ad138a7279ea8e9c1675d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee6aadd547ad138a7279ea8e9c1675d2 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:nodee6aadd547ad138a7279ea8e9c1675d2 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node5158fdb2a9c5862b45d95952ed4f2e5f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5158fdb2a9c5862b45d95952ed4f2e5f <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node5158fdb2a9c5862b45d95952ed4f2e5f <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node792e1dc8b9aa68163608b35fa691dca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node792e1dc8b9aa68163608b35fa691dca <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node792e1dc8b9aa68163608b35fa691dca <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:nodea5e09b15a15c458974777c801e9763ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea5e09b15a15c458974777c801e9763ea <http://schema.org/name> "Pittsburgh Intl"@es .
+_:nodea5e09b15a15c458974777c801e9763ea <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node715518c2bb89533178f3bddfb65bef42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node715518c2bb89533178f3bddfb65bef42 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node715518c2bb89533178f3bddfb65bef42 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node9f3eb52c2ee19d0f777b7831434ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9f3eb52c2ee19d0f777b7831434ae <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node9f3eb52c2ee19d0f777b7831434ae <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node2817604368185abb828d54b362e2496a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2817604368185abb828d54b362e2496a <http://schema.org/name> "Int'l de Norfolk"@es .
+_:node2817604368185abb828d54b362e2496a <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KORF> .
+_:node85dc48c3b72baf2520b47a51d9da327f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node85dc48c3b72baf2520b47a51d9da327f <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node85dc48c3b72baf2520b47a51d9da327f <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node5144121b16f7b054bada2c18546312f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5144121b16f7b054bada2c18546312f3 <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node5144121b16f7b054bada2c18546312f3 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node3fc6e45dc27e64313ebc4e6daadc5c36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3fc6e45dc27e64313ebc4e6daadc5c36 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node3fc6e45dc27e64313ebc4e6daadc5c36 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node914fb992c0184b2888a1d7b3d4ae483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node914fb992c0184b2888a1d7b3d4ae483 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node914fb992c0184b2888a1d7b3d4ae483 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node4a0278d4981341c9bcb47a32e3d4b17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4a0278d4981341c9bcb47a32e3d4b17 <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node4a0278d4981341c9bcb47a32e3d4b17 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:nodec283b74269a4bacb1286e6b43f65fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec283b74269a4bacb1286e6b43f65fb <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:nodec283b74269a4bacb1286e6b43f65fb <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node97af416f7ed6438fc3a734ede14cc53d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node97af416f7ed6438fc3a734ede14cc53d <http://schema.org/name> "Int'l Logan"@es .
+_:node97af416f7ed6438fc3a734ede14cc53d <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KBOS> .
+_:node44b17b3a64d6f3d5f6f9ee6983b949ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node44b17b3a64d6f3d5f6f9ee6983b949ec <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node44b17b3a64d6f3d5f6f9ee6983b949ec <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node6af8a3739a1578624e33fba8dfe137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6af8a3739a1578624e33fba8dfe137 <http://schema.org/name> "Pittsburgh Intl"@es .
+_:node6af8a3739a1578624e33fba8dfe137 <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KPIT> .
+_:node42695e5537d3c46f547b7e9fd6e7a7c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node42695e5537d3c46f547b7e9fd6e7a7c <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node42695e5537d3c46f547b7e9fd6e7a7c <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:node39e6cc525bf103eb93643b9d69d2ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node39e6cc525bf103eb93643b9d69d2ab <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node39e6cc525bf103eb93643b9d69d2ab <http://schema.org/url> <http://es.flightaware.com/live/flight/RPA4880//live/airport/KEWR> .
+_:nodeb26bac8443578fb4fbe9962d805de1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

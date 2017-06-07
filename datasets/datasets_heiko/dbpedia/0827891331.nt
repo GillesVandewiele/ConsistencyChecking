@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Soul_music> <http://dbpedia.org/ontology/stylisticOrigin> <http://dbpedia.org/resource/Rhythm_and_blues> .
+<http://dbpedia.org/resource/Soul_music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/Soul_music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/Soul_music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .
+<http://dbpedia.org/resource/Rhythm_and_blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/Rhythm_and_blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/Rhythm_and_blues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .

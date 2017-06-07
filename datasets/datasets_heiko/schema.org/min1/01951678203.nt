@@ -1,0 +1,80 @@
+_:node15fa5877d9bfe02f52602daa2fc3ee8 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1954-marcia-selsor/> .
+_:node15fa5877d9bfe02f52602daa2fc3ee8 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1954.jpg?_r=1410544379> .
+_:node15fa5877d9bfe02f52602daa2fc3ee8 <http://schema.org/name> "Marcia Selsor"@en .
+_:nodeb451bd5a967398c8585822bb915d35dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb451bd5a967398c8585822bb915d35dd <http://schema.org/url> <http://community.ceramicartsdaily.org/user/894-pres/> .
+_:nodeb451bd5a967398c8585822bb915d35dd <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-894.jpg?_r=0> .
+_:nodeb451bd5a967398c8585822bb915d35dd <http://schema.org/name> "Pres"@en .
+_:nodebf67a51e6fcc424fb6ef2bee9556245 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebf67a51e6fcc424fb6ef2bee9556245 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1066-ginny-c/> .
+_:nodebf67a51e6fcc424fb6ef2bee9556245 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1066.jpeg?_r=0> .
+_:nodebf67a51e6fcc424fb6ef2bee9556245 <http://schema.org/name> "Ginny C"@en .
+_:node262a2cebef8a97b27c09030e2d1e1c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node262a2cebef8a97b27c09030e2d1e1c9 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1954-marcia-selsor/> .
+_:node262a2cebef8a97b27c09030e2d1e1c9 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1954.jpg?_r=1410544379> .
+_:node262a2cebef8a97b27c09030e2d1e1c9 <http://schema.org/name> "Marcia Selsor"@en .
+_:nodec3db6c689fed99b7179fe58f4efac07c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec3db6c689fed99b7179fe58f4efac07c <http://schema.org/url> <http://community.ceramicartsdaily.org/user/8914-mark-c/> .
+_:nodec3db6c689fed99b7179fe58f4efac07c <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-8914.jpg?_r=1376166956> .
+_:nodec3db6c689fed99b7179fe58f4efac07c <http://schema.org/name> "Mark C."@en .
+_:nodee540ab63dbbb777f593af6e88e1e288 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee540ab63dbbb777f593af6e88e1e288 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1543-jbaymore/> .
+_:nodee540ab63dbbb777f593af6e88e1e288 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1543.jpg?_r=0> .
+_:nodee540ab63dbbb777f593af6e88e1e288 <http://schema.org/name> "JBaymore"@en .
+_:nodefa75ba85ffba5e63f2dd2f38bed75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefa75ba85ffba5e63f2dd2f38bed75 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1585-chris-campbell/> .
+_:nodefa75ba85ffba5e63f2dd2f38bed75 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1585.jpg?_r=0> .
+_:nodefa75ba85ffba5e63f2dd2f38bed75 <http://schema.org/name> "Chris Campbell"@en .
+_:nodeba73f093de21af1144cce918f49f68b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeba73f093de21af1144cce918f49f68b <http://schema.org/url> <http://community.ceramicartsdaily.org/user/894-pres/> .
+_:nodeba73f093de21af1144cce918f49f68b <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-894.jpg?_r=0> .
+_:nodeba73f093de21af1144cce918f49f68b <http://schema.org/name> "Pres"@en .
+_:nodeb6e44671a34ead517e8b64f17ef3e26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb6e44671a34ead517e8b64f17ef3e26 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1585-chris-campbell/> .
+_:nodeb6e44671a34ead517e8b64f17ef3e26 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1585.jpg?_r=0> .
+_:nodeb6e44671a34ead517e8b64f17ef3e26 <http://schema.org/name> "Chris Campbell"@en .
+_:node8ef24fbb77d9b125ef2436f4262824 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8ef24fbb77d9b125ef2436f4262824 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/8183-trina/> .
+_:node8ef24fbb77d9b125ef2436f4262824 <http://schema.org/image> <http://community.ceramicartsdaily.org/public/style_images/master/profile/default_large.png> .
+_:node8ef24fbb77d9b125ef2436f4262824 <http://schema.org/name> "trina"@en .
+_:node9c685173ded91c9c1ede69cd48f94767 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node9c685173ded91c9c1ede69cd48f94767 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/2552-mossyrock/> .
+_:node9c685173ded91c9c1ede69cd48f94767 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-2552.jpg?_r=0> .
+_:node9c685173ded91c9c1ede69cd48f94767 <http://schema.org/name> "Mossyrock"@en .
+_:nodee8c4c8220f26fe8d7f159b270d35226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee8c4c8220f26fe8d7f159b270d35226 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/3921-day/> .
+_:nodee8c4c8220f26fe8d7f159b270d35226 <http://schema.org/image> <http://www.gravatar.com/avatar/ac1c8c10f068b1c5d217efb623706a2f?s=100&d=http%3A%2F%2Fcommunity.ceramicartsdaily.org%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:nodee8c4c8220f26fe8d7f159b270d35226 <http://schema.org/name> "DAY"@en .
+_:nodee271797b9d75ab19b1a34d79ebe133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee271797b9d75ab19b1a34d79ebe133 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1585-chris-campbell/> .
+_:nodee271797b9d75ab19b1a34d79ebe133 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1585.jpg?_r=0> .
+_:nodee271797b9d75ab19b1a34d79ebe133 <http://schema.org/name> "Chris Campbell"@en .
+_:node1f5fd2e7b3db59162e6c6b71eb622c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node1f5fd2e7b3db59162e6c6b71eb622c5 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/6053-nancylee/> .
+_:node1f5fd2e7b3db59162e6c6b71eb622c5 <http://schema.org/image> <http://www.gravatar.com/avatar/1108890726324f3d572359da10031a2f?s=100&d=http%3A%2F%2Fcommunity.ceramicartsdaily.org%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:node1f5fd2e7b3db59162e6c6b71eb622c5 <http://schema.org/name> "nancylee"@en .
+_:node5df45ebb53794cc68013f22152f61480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5df45ebb53794cc68013f22152f61480 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1585-chris-campbell/> .
+_:node5df45ebb53794cc68013f22152f61480 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1585.jpg?_r=0> .
+_:node5df45ebb53794cc68013f22152f61480 <http://schema.org/name> "Chris Campbell"@en .
+_:node9459f398ff92dfe46e554e86e504ef3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http:/schema.orgAggregateRating> .
+_:nodee1aa787b41c04b2dfc3fa4b92edae0dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee1aa787b41c04b2dfc3fa4b92edae0dd <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1066-ginny-c/> .
+_:nodee1aa787b41c04b2dfc3fa4b92edae0dd <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1066.jpeg?_r=0> .
+_:nodee1aa787b41c04b2dfc3fa4b92edae0dd <http://schema.org/name> "Ginny C"@en .
+_:nodeb1f44fcaf4ac93d5a7ed0db5f10dec8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb1f44fcaf4ac93d5a7ed0db5f10dec8 <http://schema.org/url> <http://community.ceramicartsdaily.org/user/3342-clayshapes/> .
+_:nodeb1f44fcaf4ac93d5a7ed0db5f10dec8 <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-3342.jpg?_r=1374113348> .
+_:nodeb1f44fcaf4ac93d5a7ed0db5f10dec8 <http://schema.org/name> "clayshapes"@en .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://schema.org/dateCreated> "Dec 20 2012 02:22 PM"@en .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://schema.org/name> "January Issue of Pottery Making Illustrated"@en .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://schema.org/name> "Chris Campbell"@en .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://schema.org/interactionCount> "UserComments:18"@en .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://schema.org/creator> "Chris Campbell"@en .
+_:node47da4e992868d0fc6f2d3afe765cc413 <http://schema.org/aggregateRating> _:node9459f398ff92dfe46e554e86e504ef3 .
+_:nodee3c7dcde6a17ccc2e7b35255017bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee3c7dcde6a17ccc2e7b35255017bf <http://schema.org/url> <http://community.ceramicartsdaily.org/user/1585-chris-campbell/> .
+_:nodee3c7dcde6a17ccc2e7b35255017bf <http://schema.org/image> <http://community.ceramicartsdaily.org/uploads/profile/photo-thumb-1585.jpg?_r=0> .
+_:nodee3c7dcde6a17ccc2e7b35255017bf <http://schema.org/name> "Chris Campbell"@en .
+<http://wpmedia.driving.ca/2013/08/68560221.jpg?w=620&h=400&crop=1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

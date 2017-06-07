@@ -1,0 +1,6 @@
+_:node905a16f1156d650aa209ea8199a372 <http://schema.org/name> "What caused a burn mark near my hot water pipes?" .
+_:node905a16f1156d650aa209ea8199a372 <http://schema.org/title> "What caused a burn mark near my hot water pipes?" .
+_:node905a16f1156d650aa209ea8199a372 <http://schema.org/description> "I was doing some household cleanup in the storage room where my heat tank is located when I  noticed a burn mark on the wall frame near the pipe that goes from the heat tank to the shower next room..." .
+_:node905a16f1156d650aa209ea8199a372 <http://schema.org/image> "http://cdn.sstatic.net/diy/img/apple-touch-icon@2.png?v=13c04ccda0b9" .
+_:node905a16f1156d650aa209ea8199a372 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/diy/img/apple-touch-icon@2.png?v=13c04ccda0b9" .
+_:node2e4884dde19a071f78c59236c3bb8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

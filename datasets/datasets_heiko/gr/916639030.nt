@@ -1,0 +1,15 @@
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/273418.jpg" .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://ogp.me/ns#description> "Buy 9-in. Rose Levy Beranbaum Perfect Pie Plate by Rose Levy by Rose Levy at Cooking.com. Get Bakeware and Rose Levy, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/9-in-rose-levy-beranbaum-perfect-pie-plate_273418_11/0/1/" .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://ogp.me/ns#title> "9-in. Rose Levy Beranbaum Perfect Pie Plate by Rose Levy at Cooking.com" .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/9-in-rose-levy-beranbaum-perfect-pie-plate_273418_11/0/1/> .
+_:genid2dcae307a3d7a24a3eb223155260705e712dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.eastwood.com/trim-hammer-and-anvil-kit.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

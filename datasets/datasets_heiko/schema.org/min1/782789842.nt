@@ -1,0 +1,6 @@
+_:node6180c674e6b04124d62d3f9253b5a0b6 <http://schema.org/name> "\n\t\t\t\t\tKaworu Nagisa\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6180c674e6b04124d62d3f9253b5a0b6 <http://schema.org/datePublished> "2013-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6180c674e6b04124d62d3f9253b5a0b6 <http://schema.org/image> <http://image01.worldcosplay.net/uploads/21709/b0ad56940a70674a35a7c163f699ca76888aa90c-1200.jpg> .
+_:node6180c674e6b04124d62d3f9253b5a0b6 <http://schema.org/author> <http://worldcosplay.net/member/nopiz> .
+_:node6180c674e6b04124d62d3f9253b5a0b6 <http://schema.org/description> "\n\t\t\t\tCoser : P I Z Photo : Gunchon\n\t\t\t"@en .
+_:node605b9f75b4cdd6dae3b9334136a28c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

@@ -1,0 +1,15 @@
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/593561.jpg" .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://ogp.me/ns#description> "Designed with slow cooking in mind, this Tramontina 5-qt. Ceramica Ceramic Nonstick Covered Dutch Oven is perfect for Sunday pot roasts, spicy chili and simmering stews. The pot features a porcelain-enamel exterior and heavy-duty construction." .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/5-qt-ceramica-ceramic-nonstick-covered-dutch-oven-by-tramontina_593561_11/" .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://ogp.me/ns#title> "5-qt. Ceramica Ceramic Nonstick Covered Dutch Oven by Tramontina at Cooking.com" .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/5-qt-ceramica-ceramic-nonstick-covered-dutch-oven-by-tramontina_593561_11/> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

@@ -1,0 +1,15 @@
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/125628.jpg" .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://ogp.me/ns#description> "Cook meat to its perfect temperature to insure safety and flavor with this Polder Preprogrammed Digital Thermometer from Cooking.com. Find the tools you need to run your kitchen efficiently at Cooking.com now." .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/preprogrammed%20digital%20thermometer%20by%20polder_125628_11/" .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://ogp.me/ns#title> "Preprogrammed Digital Thermometer by Polder at Cooking.com" .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/preprogrammed%20digital%20thermometer%20by%20polder_125628_11/> .
+_:genid2da447691e6dd84e5d9dd8133594483f2b2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.warmyourfloor.com/warmwire-kit-30-sq-ft-120v-radiant-floor-heating-cable.html#Review-aggregate_1268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

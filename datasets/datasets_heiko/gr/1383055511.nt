@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=62471> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=62471> .
+<http://www.joke.co.uk/harry-potter-fancy-dress/child-deluxe-quidditch-robe~62471/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/harry-potter-fancy-dress/child-deluxe-quidditch-robe~62471/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2da17c3efafb1b48dba37fca39c17f6a882dINSIDE5fN68285 .
+_:genid2da17c3efafb1b48dba37fca39c17f6a882dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2da17c3efafb1b48dba37fca39c17f6a882dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrencyValue> "18.45"@en .
+_:genid2da17c3efafb1b48dba37fca39c17f6a882dINSIDE5fN68285 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2da17c3efafb1b48dba37fca39c17f6a882dN68236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2da17c3efafb1b48dba37fca39c17f6a882dN68236 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2da17c3efafb1b48dba37fca39c17f6a882dINSIDE5fN68236 .
+<http://www.joke.co.uk/harry-potter-fancy-dress/child-deluxe-quidditch-robe~62471/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/harry-potter-fancy-dress/child-deluxe-quidditch-robe~62471/#main> <http://purl.org/goodrelations/v1#name> "Child Deluxe Quidditch Robe"@en .
+<http://mg1700-seo.maxim.web.ra/index.php/electronics/cell-phones/nokia-4-1-x-1-7-x-0-7-inches-black-2610-n2610.html#Offering_6460> <http://purl.org/goodrelations/v1#includesObject> <http://mg1700-seo.maxim.web.ra/index.php/electronics/cell-phones/nokia-4-1-x-1-7-x-0-7-inches-black-2610-n2610.html#TypeAndQuantityNode_6460> .

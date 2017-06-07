@@ -1,0 +1,3 @@
+_:node953565d173c346c531fa8253da2112 <http://schema.org/name> "Argus, 1949-04-11 :: University at Buffalo Student Newspapers" .
+_:node953565d173c346c531fa8253da2112 <http://schema.org/image> "http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/BUF002/id/4570" .
+_:nodea1dee227a1f07af8c2c3feb4021c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

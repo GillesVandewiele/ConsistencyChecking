@@ -1,0 +1,94 @@
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/445634_1280x720.jpg"@en .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/445634_1280x720.jpg"@en .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/description> "Brooklyn Borough President Eric Adams is also calling on protesters to halt demonstrations until officers Wenjian Liu and Rafael Ramos are laid to rest."@en .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/headline> "Candlelight vigil set for slain New York police officers in Brooklyn"@en .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/445634_1280x720.jpg"@en .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/text> "Candlelight vigil set for slain New York police officers in Brooklyn"@en .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://schema.org/caption> "Candlelight vigil set for slain New York police officers in Brooklyn"@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/445587_1280x720.jpg"@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/445587_1280x720.jpg"@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/description> "Flooding in Mill Valley, on Saturday Dec. 20, 2014."@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/headline> "Bay Area braces for flooding from king tides"@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/445587_1280x720.jpg"@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/text> "Bay Area braces for flooding from king tides"@en .
+_:node9326744c9a32fe9a25508df5706280f1 <http://schema.org/caption> "Bay Area braces for flooding from king tides"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/name> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_nba_highlight_grizzlies_cavaliers/dm_141221_nba_highlight_grizzlies_cavaliers.jpg"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/contentUrl> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_nba_highlight_grizzlies_cavaliers/dm_141221_nba_highlight_grizzlies_cavaliers.jpg"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/description> "Null"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/headline> "LeBron James lifts hot-shooting Cavaliers past Grizzlies"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/url> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_nba_highlight_grizzlies_cavaliers/dm_141221_nba_highlight_grizzlies_cavaliers.jpg"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/text> "LeBron James lifts hot-shooting Cavaliers past Grizzlies"@en .
+_:node6542238287ab504d2127c0c2158a447f <http://schema.org/caption> "LeBron James lifts hot-shooting Cavaliers past Grizzlies"@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/445866_1280x720.jpg"@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/445866_1280x720.jpg"@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/description> "AJ Ross has the details on the suspect."@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/headline> "Ismaaiyl Brinsley, suspect in NYPD killings, has criminal history"@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/445866_1280x720.jpg"@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/text> "Ismaaiyl Brinsley, suspect in NYPD killings, has criminal history"@en .
+_:nodeab5e7ab62d591c846b488afb94e94d <http://schema.org/caption> "Ismaaiyl Brinsley, suspect in NYPD killings, has criminal history"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/445974_1280x720.jpg"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/445974_1280x720.jpg"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/description> "An ABC7 News viewer says, \"Harley wanted nothing to do with Santa!!!\" (Photo submitted via uReport)"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/headline> "PHOTOS: ABC7 viewers meet Santa!"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/445974_1280x720.jpg"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/text> "PHOTOS: ABC7 viewers meet Santa!"@en .
+_:node53efffee1ec41f24bb587d0356f7c91 <http://schema.org/caption> "PHOTOS: ABC7 viewers meet Santa!"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/name> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_NFL_MANZIEL_SOUND/dm_141221_NFL_MANZIEL_SOUND.jpg"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/contentUrl> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_NFL_MANZIEL_SOUND/dm_141221_NFL_MANZIEL_SOUND.jpg"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/description> "Null"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/headline> "Johnny Manziel (hammy) exits game"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/url> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_NFL_MANZIEL_SOUND/dm_141221_NFL_MANZIEL_SOUND.jpg"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/text> "Johnny Manziel (hammy) exits game"@en .
+_:node4e7384993d97b9f1e47dbe36767a4bf <http://schema.org/caption> "Johnny Manziel (hammy) exits game"@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/445851_1280x720.jpg"@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/445851_1280x720.jpg"@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/description> "President Obama says the U.S. is reviewing whether to put North Korea back on its list of state sponsors of terrorism."@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/headline> "US mulls putting North Korea on terrorism sponsor list"@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/445851_1280x720.jpg"@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/text> "US mulls putting North Korea on terrorism sponsor list"@en .
+_:nodef530a235e462e8bcfaae6e7d3219d56 <http://schema.org/caption> "US mulls putting North Korea on terrorism sponsor list"@en .
+_:node2f37241241a52395df952bd7fc582360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2f37241241a52395df952bd7fc582360 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/kgo/images/logos/header-large.png> .
+_:node2f37241241a52395df952bd7fc582360 <http://schema.org/url> <http://abc7news.com/> .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/name> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_nfl_packers_buccs_highlight/dm_141221_nfl_packers_buccs_highlight.jpg"@en .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/contentUrl> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_nfl_packers_buccs_highlight/dm_141221_nfl_packers_buccs_highlight.jpg"@en .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/description> "Null"@en .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/headline> "Aaron Rodgers, Packers bounce back against Bucs, seal playoff berth"@en .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/url> "http://a.espncdn.com/media/motion/2014/1221/dm_141221_nfl_packers_buccs_highlight/dm_141221_nfl_packers_buccs_highlight.jpg"@en .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/text> "Aaron Rodgers, Packers bounce back against Bucs, seal playoff berth"@en .
+_:node2ecaf1114ac1ba41efebf076f4245a <http://schema.org/caption> "Aaron Rodgers, Packers bounce back against Bucs, seal playoff berth"@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/442858_1280x720.jpg"@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/442858_1280x720.jpg"@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/description> "A dog named Derby was able to run for the first time thanks to 3-D-printed legs."@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/headline> "PHOTOS: Dog runs for first time thanks to 3-D-printed legs"@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/442858_1280x720.jpg"@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/text> "PHOTOS: Dog runs for first time thanks to 3-D-printed legs"@en .
+_:node4a8ce5e7f3f4e3ce8f26118a8c478f0 <http://schema.org/caption> "PHOTOS: Dog runs for first time thanks to 3-D-printed legs"@en .
+_:node91442d43f64c65e552f20148fef8f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node91442d43f64c65e552f20148fef8f8 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/kgo/images/logos/header-large.png> .
+_:node91442d43f64c65e552f20148fef8f8 <http://schema.org/url> <http://abc7news.com/> .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/425865_1280x720.jpg"@en .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/425865_1280x720.jpg"@en .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/description> "A massive oak tree crashed onto a home and a four unit building in Menlo Park on Saturday, Dec. 6, 2014."@en .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/headline> "PHOTOS: Strong rain, wind hits the Bay Area"@en .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/425865_1280x720.jpg"@en .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/text> "PHOTOS: Strong rain, wind hits the Bay Area"@en .
+_:node0eb871350cbd7b9a8fb9fdbf2d02ecc <http://schema.org/caption> "PHOTOS: Strong rain, wind hits the Bay Area"@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/445881_1280x720.jpg"@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/445881_1280x720.jpg"@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/description> "Photos of slain NYPD officers Wenjian Liu, left, and Rafael Ramos are placed in a memorial at the 84th Precinct in Brooklyn, where the officers were stationed, Dec. 21, 2014."@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/headline> "PHOTOS: 2 NYPD police officers shot in Brooklyn"@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/445881_1280x720.jpg"@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/text> "PHOTOS: 2 NYPD police officers shot in Brooklyn"@en .
+_:node2ed072fb956c55b03b55fee814d71c6d <http://schema.org/caption> "PHOTOS: 2 NYPD police officers shot in Brooklyn"@en .
+_:node91e0cef882b9e552b1ddc016f8a5353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

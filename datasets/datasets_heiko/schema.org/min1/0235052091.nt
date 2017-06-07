@@ -1,0 +1,4 @@
+_:node7e17b68897985072227a627b34738dc6 <http://schema.org/name> "Millennium Koozie" .
+_:node7e17b68897985072227a627b34738dc6 <http://schema.org/description> "Null" .
+_:node7e17b68897985072227a627b34738dc6 <http://schema.org/image> <http://discsunlimited.net/image/cache/data/millennium/koozies-280x280.jpg> .
+_:node1d89c51f3e24d0d9d892915e5cf5218d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

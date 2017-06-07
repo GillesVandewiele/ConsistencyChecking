@@ -1,0 +1,17 @@
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/genre> "Jobs, Education & Resumes"@en .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/inLanguage> "en"@en .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/publisher> _:nodeb66bb8473704dedbdde5051d169e114 .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/copyrightYear> "2014"@en .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/headline> "demur - definition, meaning, audio pronunciation, synonyms and more. What is demur? to express disagreement or refuse to do something: : See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201Cdemur\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t demurverb [I] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t/d\u026A\u02C8m\u025C\u02D0r/  us \n\t\t\t\u00A0\n\t\t\n\t\t\t\u00A0/-\u02C8m\u025D\u02D0/ (-rr-)  formal  \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t \n\t\t\t\t\t\t\u203A to express disagreement or refuse to do something: The lawyer requested a break in the court case, but the judge demurred. demur noun [U] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t us \n\t\t\t\u00A0\n\t\t\n\t\t\t \u203A She agreed to his request without demur.\n\t\t\t\t\t"@en .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:nodec35e1dec1da64951b391757167b2371 <http://schema.org/author> _:nodea77f6fd21fc269a5db19493c4e7ca993 .
+_:nodeb66bb8473704dedbdde5051d169e114 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb66bb8473704dedbdde5051d169e114 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:nodeb66bb8473704dedbdde5051d169e114 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:nodea77f6fd21fc269a5db19493c4e7ca993 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea77f6fd21fc269a5db19493c4e7ca993 <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:nodea77f6fd21fc269a5db19493c4e7ca993 <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:nodefff511af11e518e613fb76de63ff1cf6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodefff511af11e518e613fb76de63ff1cf6 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node333d618cf3b517112ce0d2c535d3e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .

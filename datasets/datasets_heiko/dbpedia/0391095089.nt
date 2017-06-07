@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Red> <http://dbpedia.org/ontology/connotation> <http://dbpedia.org/resource/Seduction> .
+<http://dbpedia.org/resource/Red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Colour> .

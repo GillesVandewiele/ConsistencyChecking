@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/John_Hay> <http://dbpedia.org/ontology/militaryRank> <http://dbpedia.org/resource/Major_(United_States)> .
+<http://dbpedia.org/resource/John_Hay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/John_Hay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Hay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

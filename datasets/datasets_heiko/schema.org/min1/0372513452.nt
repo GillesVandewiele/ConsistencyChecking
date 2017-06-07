@@ -1,0 +1,9 @@
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/worksFor> <http://investing.businessweek.com/research/stocks/private/person.asp?personId=4057427&privcapId=3770293&previousCapId=24000601&previousTitle=The%20Swarthmore%20Group,%20Inc/../../stocks/snapshot/snapshot.asp?capId=3770293> .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/description> "\n\t\tMs. Catherine R. Ebert is a current Trustee at Berea College.\t\n\t" .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/telephone> "859-985-3000" .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/jobTitle> "Trustee," .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/workLocation> "--Berea, Kentucky 40404United States" .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/faxNumber> "859-985-3919" .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/name> "Berea College" .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://schema.org/name> "Catherine R. Ebert  " .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

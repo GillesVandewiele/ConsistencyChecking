@@ -1,0 +1,16 @@
+<http://www.modani.com/furniture-stores/#address> <http://www.w3.org/2006/vcard/ns#country-name> "United States"@en .
+<http://www.modani.com/furniture-stores/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.modani.com/furniture-stores/#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-20T13:41:07-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-20T13:41:07-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/#offering> <http://purl.org/goodrelations/v1#description> ""@en .
+<http://www.modani.com/furniture-stores/#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/#offering> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.modani.com/furniture-stores/> .
+<http://www.modani.com/furniture-stores/#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Enduser> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://www.w3.org/2006/vcard/ns#fn> "Modani Furniture"@en .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://purl.org/goodrelations/v1#legalName> "Modani Furniture"@en .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://www.w3.org/2006/vcard/ns#adr> <http://www.modani.com/furniture-stores/#address> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://www.w3.org/2000/01/rdf-schema#label> "Modani Furniture"@en .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://www.w3.org/2006/vcard/ns#url> <http://www.modani.com/furniture-stores/> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.modani.com/furniture-stores/#offering> .
+<http://www.polar-ray.com/cree-led-t8-lamp-ledt8-48-21l-35k.html#UnitPriceSpecification_494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

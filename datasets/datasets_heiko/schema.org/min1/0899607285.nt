@@ -1,0 +1,9 @@
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/name> <http://hr.hotels.com/de1679495/hoteli-pored-sveuciliste-tohoku-sendai-japan//> .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/name> <http://hr.hotels.com/co108/hoteli-japan/> .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/name> <http://hr.hotels.com/de729735/hoteli-sendai-japan/> .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/name> "Hoteli blizu Sveu\u010Dili\u0161te Tohoku"@hr .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/breadcrumb> "HoteliHoteli u zemlji: JapanHoteli u SendaiHoteli blizu Sveu\u010Dili\u0161te Tohoku"@hr .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/url> <http://hr.hotels.com/de1679495/hoteli-pored-sveuciliste-tohoku-sendai-japan//> .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/url> <http://hr.hotels.com/co108/hoteli-japan/> .
+_:node5c176e1586713284c5985f0860dcfb <http://schema.org/url> <http://hr.hotels.com/de729735/hoteli-sendai-japan/> .
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebApplication> .

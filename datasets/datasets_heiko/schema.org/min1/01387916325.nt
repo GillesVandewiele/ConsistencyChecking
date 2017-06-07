@@ -1,0 +1,12 @@
+_:nodeb2793cc2f78a4b37ca0c3e2801784bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:noded16f256fb82cffca6a2c8657d6ddbb73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:nodea53fe06498ab0f29c63e81eac934055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:node5cbf3361a273fd769a313660c76cc427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:node849239f3ded717effed3e2df92a451e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node849239f3ded717effed3e2df92a451e <http://schema.org/headline> "Manage subscriptions"@en-us .
+_:node849239f3ded717effed3e2df92a451e <http://schema.org/text> "\nYou can follow the discussion on Illinois\u2026STFU without having to leave a comment. Cool, huh? Just enter your email address in the form here below and you\u2019re all set.\n\n\nEmail\n\n\n\n\n\nShare this:PrintEmailFacebookTwitterRedditStumbleUpon"@en-us .
+_:node6d3855dc63be96adaf5657882927a9b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:node2d838b5579fb9cd7ce3f41711fbd36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:node665da3bdf581599e6953ca99d87180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:nodeac598d5c23998623f5cd6a899679ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:node9aedc151bace1c5917410b6c3d04449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemPage> .

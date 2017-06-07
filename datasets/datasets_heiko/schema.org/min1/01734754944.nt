@@ -1,0 +1,24 @@
+_:nodea832e9501c7611ae245d1e91ee88b <http://schema.org/logo> <http://a.abcnews.com/assets/images/navigation/abc-logo.png> .
+_:nodea832e9501c7611ae245d1e91ee88b <http://schema.org/url> <http://abcnews.go.com> .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/datemodified> "2009-03-03T14:49:14Z" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/author> "gerald naccarelli, m.d., clinical associate director, penn state hershey heart and vascular institute" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/identifier> "5211914" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/headline> "What Are The Types Of Heart Rhythm Medicines Available, And Do Some Work Better Than Others?" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/genre> "News" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/copyrightyear> "2008" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleSection> <http://abcnews.go.com/Health/> .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/sourceorganization> "ABC News" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/inlanguage> "en-US" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleBody> "\nQuestion: What are the types of heart rhythm medicines available, and do some work better than others?\n" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleBody> "\nAnswer :There are a number of heart rhythm medicines that are available to us. Most of them are channel blockers. Some are sodium channel blockers -- drugs such as flecainide and propafenone fall in this class.\n" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleBody> "\nWe actually use beta blockers commonly for arrhythmias. These are drugs that block adrenaline. There are more than half-a-dozen commercially available beta blockers.\n" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleBody> "\nA big group of agents that we use for heart rhythm disturbances are actually potassium channel blockers. And these include drugs like dofetilide sotalol which is a little bit of a mixture of a potassium channel blocker and a beta-blocker -- an anti-adrenaline drug.\n" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleBody> "\nAnd then the most complicated drugs are multi-channel blockers. Amiodarone is one of these -- this blocks everything. It blocks the sodium channels, potassium channels, the calcium channels. And it's also an anti-adrenaline drug.\n" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/articleBody> "\nThe last set of drugs that we use are calcium channel blockers, and they're mainly used for controlling heart rate in people that have fast rhythms. These are drugs like verapamil and diltiazem." .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/description> "There are a number of heart rhythm medicines that are available to us. Most of them are channel blockers. Some are sodium channel blockers -- drugs such as flecainide and propafenone fall in this class." .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/datepublished> "2008-11-18T19:12:39Z" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/alternativeheadline> "What Are The Types Of Heart Rhythm Medicines Available, And Do Some Work Better Than Others?" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/thumbnailurl> "Null" .
+_:nodebb466b82a4f8f06d9390542e4540dec <http://schema.org/usageterms> "http://disneytermsofuse.com/english/" .
+_:node428650715c4a81eea63f6f6a4e3b528e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

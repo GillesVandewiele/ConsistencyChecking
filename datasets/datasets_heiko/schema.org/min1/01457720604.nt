@@ -1,0 +1,6 @@
+_:nodeb5fa23aa8a94467c8bfe59723c7f461a <http://schema.org/name> "Quel est le sens de l'abr\u00E9viation ETS" .
+_:nodeb5fa23aa8a94467c8bfe59723c7f461a <http://schema.org/title> "Quel est le sens de l'abr\u00E9viation ETS" .
+_:nodeb5fa23aa8a94467c8bfe59723c7f461a <http://schema.org/description> "J'ai souvent vu \u00E9crit ETS sur des panneaux d'entreprise et je n'arrive pas \u00E0 en trouver le sens. Par exemple ETS TONON VIRAZEIL\n\n\n\nIn the context of a business or an enterprise what does ETS mean. An " .
+_:nodeb5fa23aa8a94467c8bfe59723c7f461a <http://schema.org/image> "http://cdn.sstatic.net/french/img/apple-touch-icon.png?v=c049958c0aff" .
+_:nodeb5fa23aa8a94467c8bfe59723c7f461a <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/french/img/apple-touch-icon.png?v=c049958c0aff" .
+_:node5a63846c45db941fe94e4aa1c12dc93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

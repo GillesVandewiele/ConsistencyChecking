@@ -1,0 +1,6 @@
+_:nodeb514c9341b15f7268ebf7bcf4b2c6eb6 <http://schema.org/name> "Working with SIP and VOIP" .
+_:nodeb514c9341b15f7268ebf7bcf4b2c6eb6 <http://schema.org/title> "Working with SIP and VOIP" .
+_:nodeb514c9341b15f7268ebf7bcf4b2c6eb6 <http://schema.org/description> "What is the best way to start off with SIP and VOIP other than SIPdemo and SIPdroid in android?    \n\nPlease do suggest some good tutorial on this.\n" .
+_:nodeb514c9341b15f7268ebf7bcf4b2c6eb6 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodeb514c9341b15f7268ebf7bcf4b2c6eb6 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node89b6702b70ee749dd264ce86833502f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

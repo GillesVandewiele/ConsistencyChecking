@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Consider_Phlebas> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/The_Player_of_Games> .
+<http://dbpedia.org/resource/Consider_Phlebas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Consider_Phlebas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Consider_Phlebas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/The_Player_of_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/The_Player_of_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/The_Player_of_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

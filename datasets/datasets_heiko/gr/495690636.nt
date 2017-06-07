@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=67997> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=67997> .
+_:genid2d3356d7407a924b29adff97635e2765392dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d3356d7407a924b29adff97635e2765392dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrencyValue> "23.99"@en .
+<http://www.joke.co.uk/sexy-christmas-fancy-dress/christmas-tree-costume-festive~67997/?currency=GBP#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/sexy-christmas-fancy-dress/christmas-tree-costume-festive~67997/?currency=GBP#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3356d7407a924b29adff97635e2765392dINSIDE5fN68285 .
+_:genid2d3356d7407a924b29adff97635e2765392dINSIDE5fN68285 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d3356d7407a924b29adff97635e2765392dN68236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3356d7407a924b29adff97635e2765392dN68236 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3356d7407a924b29adff97635e2765392dINSIDE5fN68236 .
+<http://www.joke.co.uk/sexy-christmas-fancy-dress/christmas-tree-costume-festive~67997/?currency=GBP#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/sexy-christmas-fancy-dress/christmas-tree-costume-festive~67997/?currency=GBP#main> <http://purl.org/goodrelations/v1#name> "Christmas Tree Costume (Festive)"@en .
+<http://www.mallybeauty.com/lip-magnifier#UnitPriceSpecification_511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

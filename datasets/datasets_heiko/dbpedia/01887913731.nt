@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/People's_Liberation_Army_Navy> <http://dbpedia.org/ontology/aircraftHelicopter> <http://dbpedia.org/resource/Mil_Mi-8> .
+<http://dbpedia.org/resource/People's_Liberation_Army_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/People's_Liberation_Army_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/People's_Liberation_Army_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> .
+<http://dbpedia.org/resource/Mil_Mi-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Aircraft> .
+<http://dbpedia.org/resource/Mil_Mi-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .

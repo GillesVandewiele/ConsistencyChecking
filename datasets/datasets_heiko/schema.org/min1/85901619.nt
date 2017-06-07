@@ -1,0 +1,13 @@
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/keywords> "Football, NFL, AFC East, Miami Dolphins"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/about> "Football, NFL, AFC East, Miami Dolphins"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/name> "Dolphins Practice Report: CB Carroll Practicing, CB Grimes at Practice "@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/author> "\n     \n        \n            From\n            \n                Sun-Sentinel.com\n            \n        \n    \n\n    \n        Dec 17, 2013\n    \n"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/headline> "Dolphins Practice Report: CB Carroll Practicing, CB Grimes at Practice "@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/articleBody> "\n              \n     DAVIE \u2013 Dolphins cornerbacks Nolan Carroll (knee) and Brent Grimes, who both left Sunday's 24-20 victory over New England with injuries, were at practice Tuesday. Carroll was participating in special teams drills during the portion of practice media is allowed to watch while Grimes, as usual, was on the sideline for that segment of practice.\n    \n        Continue Reading on Sun-Sentinel.com \u00BB\n    \n\n            "@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/interactionCount> "UserComments:0"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/interactionCount> "Null"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/interactionCount> "Null"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/isFamilyFriendly> "true"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/description> "Miami Dolphins news, rumors, scores, schedules, predictions, picks against the spread, free agent updates, power rankings, mock drafts and more"@en .
+_:nodec53fa40bb9bbaba3dbb4be83a6cf6c <http://schema.org/associatedMedia> "\n      \n                  \n              \n          \n\n          \n              \n          \n        \n        \n          \n            Kevin Jairaj-USA TODAY Sports \n            \n          \n        \n\n        \n      \n    "@en .
+_:node6faef5bf44d3d42eb37a51e7651c665 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

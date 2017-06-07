@@ -1,0 +1,5 @@
+<http://books.google.com/> <http://schema.org/Thing/url> "http://books.google.com/?utm_source=gb-gplus-share" .
+<http://books.google.com/> <http://schema.org/Thing/name> "Google Books" .
+<http://books.google.com/> <http://schema.org/Thing/description> "Search and preview millions of books from libraries and publishers worldwide using Google Book Search. Discover a new favorite or unearth an old classic." .
+<http://books.google.com/> <http://schema.org/Thing/image> <https://www.google.com/images/icons/product/ebooks-64.png> .
+<http://books.google.com/books/about/Le_Nouveau_Testament_de_notre_seigneur_J.html?id=WPA2AAAAMAAJ&q=%C3%AAtes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

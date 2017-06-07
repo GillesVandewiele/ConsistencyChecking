@@ -1,0 +1,3 @@
+_:nodea93c76a77ff87bf9d2b9aa6fa96639ea <http://schema.org/name> "Manage subscriptions"@en-us .
+_:nodea93c76a77ff87bf9d2b9aa6fa96639ea <http://schema.org/articleBody> "\nYou can follow the discussion on  Amazon.Com Offers Exclusive Look at Kite Runner Author\u2019s Sophomore Effort without having to leave a comment. Cool, huh? Just enter your email address in the form here below and you\u2019re all set.\n\n\nEmail\n\n\n\n\n\n\n\n \n \n \n"@en-us .
+_:node703e9995554be5affb7a37c24f75a7c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

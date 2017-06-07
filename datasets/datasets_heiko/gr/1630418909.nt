@@ -1,0 +1,15 @@
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/360050.jpg" .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://ogp.me/ns#description> "Welcome your dinner guests with tasty entr\u00E9es served on the colorful Rachael Ray 12-c. Orange Serveware Sittin' Pretty Egg Tray from Cooking.com. This contemporary egg server is microwave, freezer and dishwasher safe for extra convenience." .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/orange-12-c-serveware-sittin-pretty-egg-tray-by-rachael-ray_360050_11/" .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://ogp.me/ns#title> "Orange 12-c. Serveware Sittin' Pretty Egg Tray by Rachael Ray at Cooking.com" .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/orange-12-c-serveware-sittin-pretty-egg-tray-by-rachael-ray_360050_11/> .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

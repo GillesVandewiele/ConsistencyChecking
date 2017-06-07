@@ -1,0 +1,3 @@
+_:node46b9632f8ffe8f3428d17e7926b5126 <http://schema.org/logo> <http://a.abcnews.com/assets/images/navigation/abc-logo.png> .
+_:node46b9632f8ffe8f3428d17e7926b5126 <http://schema.org/url> <http://abcnews.go.com> .
+_:node8c28438e641278967d6c2e20eaad6fdc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

@@ -1,0 +1,36 @@
+<http://www.modani.com/furniture-stores/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.modani.com/furniture-stores/homedecor/moha-pillow#TypeAndQuantityNode_1143> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "Moha pillow"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://purl.org/goodrelations/v1#description> "Distinctive and elegant, this decorative accent pillow is versatile enough to be used in any room of the home. The Moha Pillow features an opulent and luxurious feel, with a minimalist silhouette that hallmarks the effortless and contemporary design. The solid clean-cut color scheme of the Moha pillow is ideal for pairing with prints. Mix and match with the Fabiana Pillow for a fun and inviting atmosphere."@en .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://purl.org/goodrelations/v1#category> "Home Decor"@en .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://purl.org/goodrelations/v1#category> "Home Decor/Pillows"@en .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://purl.org/goodrelations/v1#name> "Moha pillow"@en .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2de99a23fa3fea4c568deb710d1c70f3e72dN66963 .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T00:00:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T10:12:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://xmlns.com/foaf/0.1/page> <http://www.modani.com/furniture-stores/homedecor/moha-pillow> .
+_:genid2de99a23fa3fea4c568deb710d1c70f3e72dN66963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2de99a23fa3fea4c568deb710d1c70f3e72dN66963 <http://purl.org/goodrelations/v1#hasMinValue> "493"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2de99a23fa3fea4c568deb710d1c70f3e72dN66963 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T10:12:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T10:12:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#UnitPriceSpecification_1143> <http://purl.org/goodrelations/v1#hasCurrencyValue> "29"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#TypeAndQuantityNode_1143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#TypeAndQuantityNode_1143> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#TypeAndQuantityNode_1143> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#TypeAndQuantityNode_1143> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.modani.com/furniture-stores/homedecor/moha-pillow#product_data> .
+_:genid2de99a23fa3fea4c568deb710d1c70f3e72dN67004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2de99a23fa3fea4c568deb710d1c70f3e72dN67004 <http://purl.org/goodrelations/v1#hasMinValue> "493"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2de99a23fa3fea4c568deb710d1c70f3e72dN67004 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#description> "Distinctive and elegant, this decorative accent pillow is versatile enough to be used in any room of the home. The Moha Pillow features an opulent and luxurious feel, with a minimalist silhouette that hallmarks the effortless and contemporary design. The solid clean-cut color scheme of the Moha pillow is ideal for pairing with prints. Mix and match with the Fabiana Pillow for a fun and inviting atmosphere."@en .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#name> "Moha pillow"@en .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/homedecor/moha-pillow#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2de99a23fa3fea4c568deb710d1c70f3e72dN67004 .
+<http://www.swimoutlet.com/p/body-glove-basic-juniors-s-s-rashguard-14113/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2da5874af88de8441ea9c27f896ce3756a2dN71874 .

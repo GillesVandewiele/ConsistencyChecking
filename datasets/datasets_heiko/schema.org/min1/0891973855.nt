@@ -1,0 +1,94 @@
+_:node2c27a0e181e445d849069dc9c445b <http://schema.org/name> "Gini Conner"@en-us .
+_:node3eab31d6f69e328d6ff92b80b73d93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node3eab31d6f69e328d6ff92b80b73d93 <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38925> .
+_:node3eab31d6f69e328d6ff92b80b73d93 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI have had healings through prayer numerous times. Healings of physical illness and injury, relationships, finding peace when upset, working with students in a teaching situation, driving, sports related, looking for peace when all around me there is confusion etc. God\u2019s goodness is always with me. Trusting that we  each are made in God\u2019s image and likeness [see Genesis 1:26,27] and understanding that God is our Father and Mother and only creator help each of us understand  goodness and peace as our natural nature.  Thank you for this article.\n\t\t"@en-us .
+_:node3eab31d6f69e328d6ff92b80b73d93 <http://schema.org/creator> _:nodeb42de92236a5cb317d5a16242a5ad .
+_:node3eab31d6f69e328d6ff92b80b73d93 <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node12bad9b5152261e930595355dcbdfbb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node12bad9b5152261e930595355dcbdfbb <http://schema.org/name> "Diana U"@en-us .
+_:nodeb42de92236a5cb317d5a16242a5ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb42de92236a5cb317d5a16242a5ad <http://schema.org/name> "sue"@en-us .
+_:node12e58c7e59bc2e1119d3293bcdfb13f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node12e58c7e59bc2e1119d3293bcdfb13f <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38933> .
+_:node12e58c7e59bc2e1119d3293bcdfb13f <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI have found that with people who are not familiar with Christian Science or don\u2019t use prayer for physical healing, it\u2019s good to \u201Cbe still and know that I am God.\u201D This quietude doesn\u2019t bring on any negative reaction, and I can pray for healing without  animosity or criticism  from  others.\nI actually had this happened once. Not feeling well, I excused myself from a group activity to pray silently. Very quickly I felt the presence of God\u2019s healing power and was completely free from any discomfort. So I rejoined the group and one or two people were amazed at the quickness of my return. One was mildly curious as to what had happened, and so I shared my prayerful experience.  The person was quite interested, and we had a stimulating conversation about it.\nWhatever our experience, standing for the truth and relying on God\u2019s infinite ability to always heal is the important thing, as this blog so ably illustrates.\nThank you.\n\t\t"@en-us .
+_:node12e58c7e59bc2e1119d3293bcdfb13f <http://schema.org/creator> _:noded7f2d4d5fde061e279fa40a7f4409092 .
+_:node12e58c7e59bc2e1119d3293bcdfb13f <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3bb95d41ef38daadb748c90411e1418 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node3bb95d41ef38daadb748c90411e1418 <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38963> .
+_:node3bb95d41ef38daadb748c90411e1418 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tThis article is so beautiful because it points out that 1) we need not think it is unnatural to be healed through prayer and 2) sharing these healings can only bless  even in the face of rebuke.  For example, someone shared Christian Science with me on a blind date when I was an undergraduate at a large university,  and I was favorably impressed with its healing effectiveness.  Today I am a class taught student.   Since God\u2019s goodness knows no limit, we can expect healing every day.\nElizabeth A. Nelson\n\t\t"@en-us .
+_:node3bb95d41ef38daadb748c90411e1418 <http://schema.org/creator> _:node2cd144a661a301b799cbed727678d2 .
+_:node3bb95d41ef38daadb748c90411e1418 <http://schema.org/commentTime> "2014-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node81b61b196bc59ac9ad47bd3f2c9da7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node81b61b196bc59ac9ad47bd3f2c9da7 <http://schema.org/name> "Evelyn, Laguna Hills"@en-us .
+_:nodeb8982fb9082ed35cfaa583a99722d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:nodeb8982fb9082ed35cfaa583a99722d <http://schema.org/mainContentOfPage> _:node5fe225148b1a174ab80e762075a2ff .
+_:node8e9c23f1bcd6e9463359835355b96fce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8e9c23f1bcd6e9463359835355b96fce <http://schema.org/name> "Belle"@en-us .
+_:node15a539f92268a77ecf75d9ade402dd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node15a539f92268a77ecf75d9ade402dd7 <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38929> .
+_:node15a539f92268a77ecf75d9ade402dd7 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tThank you,\n\t\t"@en-us .
+_:node15a539f92268a77ecf75d9ade402dd7 <http://schema.org/creator> _:nodefce0a86132e1b9ed9fda94b2dd5460 .
+_:node15a539f92268a77ecf75d9ade402dd7 <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node352db8d279d43d41d988de7c290e6fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node352db8d279d43d41d988de7c290e6fd <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38921> .
+_:node352db8d279d43d41d988de7c290e6fd <http://schema.org/commentText> "\n\t\t\t\n\t\t\tClearly explained. Thank you.\n\t\t"@en-us .
+_:node352db8d279d43d41d988de7c290e6fd <http://schema.org/creator> _:node81b61b196bc59ac9ad47bd3f2c9da7 .
+_:node352db8d279d43d41d988de7c290e6fd <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node7850569f7b579ab43eccd93b510a08f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node7850569f7b579ab43eccd93b510a08f <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38981> .
+_:node7850569f7b579ab43eccd93b510a08f <http://schema.org/commentText> "\n\t\t\t\n\t\t\tThank you Donna, this is a wonderful help.  I am very grateful for your sharing these ideas!\n\t\t"@en-us .
+_:node7850569f7b579ab43eccd93b510a08f <http://schema.org/creator> _:node2c27a0e181e445d849069dc9c445b .
+_:node7850569f7b579ab43eccd93b510a08f <http://schema.org/commentTime> "2014-01-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec4efb12a6ea891d3df3574c7c147942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec4efb12a6ea891d3df3574c7c147942 <http://schema.org/url> <http://gravatar.com/pamelascsplace> .
+_:nodec4efb12a6ea891d3df3574c7c147942 <http://schema.org/name> "Pamela"@en-us .
+_:node3f67ab8c7fc489ba0d64482d9f93c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3f67ab8c7fc489ba0d64482d9f93c1 <http://schema.org/name> "M. Bark"@en-us .
+_:nodefce0a86132e1b9ed9fda94b2dd5460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefce0a86132e1b9ed9fda94b2dd5460 <http://schema.org/name> "marsha"@en-us .
+_:node437d71c770d021b92936eb5f53a22015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node437d71c770d021b92936eb5f53a22015 <http://schema.org/datePublished> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node437d71c770d021b92936eb5f53a22015 <http://schema.org/text> "\u00A9 GLOW IMAGES Models used for illustrative purposes\nA guest post written by Donna Clifton from Whittier, California.\n\nI vividly remember the first time someone made a disparaging remark to me about the power of prayer to heal. Having been raised as a Christian Scientist, I was used to turning to God in prayer whenever a healing was needed. I took it for granted that my prayers\u2014and those of my parents\u2014would always be effective. As a child, long before I understood much about God\u2019s law that governs us all, I simply trusted that because God is all-good, all powerful, and all-loving, healing would always result from my prayers.\nSo I was taken by surprise that day when someone I scarcely knew made a sarcastic comment to me about praying for healing. I was a freshman in college and had been planning to go somewhere with a group of friends but at the last minute declined because of a severe headache. A friend in the group who knew I was a Christian Scientist informed the others that I wouldn\u2019t be going with them because I need to stay behind to pray for a healing.\nImmediately one of the young men in the group that I had just met spoke up and said, \u201CWell, pray hard!\u201D in a very sarcastic voice. Several of the others laughed at his remark. I didn\u2019t reply, not knowing what to say just then. But I did get healed through prayer that day, just as I had many times before.\nWhy is it so difficult for some to believe that prayer heals? I think it\u2019s because 1) they don\u2019t know what prayer is, 2) they have been taught that healing results from medical treatment, and 3) they don\u2019t understand that \u201CGod is a very present help in trouble\u201D as the Bible states (Psalms 46:1). Christian Scientists have learned that they can certainly trust God, not only with physical problems, but also with any problems that need healing \u2013 relationships, employment, bad habits, etc. We also know that it isn\u2019t blind belief that heals. Neither is it repetition of words nor any \u201Cmagic\u201D phrases that bring healing.\nIn her book, Science & Health with Key to the Scriptures, Mary Baker Eddy describes prayer as an \u201Cabsolute faith that all things are possible to God, \u2014a spiritual understanding of Him, an unselfed love.\u201D (S&H 1:2) She distinguishes between absolute faith that is based on an understanding of God\u2019s power to heal and \u201Cmere belief\u201D (or blind belief) which denotes no understanding and is not a reliable means of healing.\nAs a young child, I could put my faith in God through simple trust in His goodness and omnipotence. But as I grew older, I realized that I needed a deeper understanding of God\u2019s healing power. And as I gain this understanding day by day, I continue to have healings. Once after a long cross-country flight, I again faced a debilitating headache that prevented me from even sitting up or eating anything. I asked my sister to read to me from Science & Health, and while I listened, I acquired a better understanding of how God\u2019s law governs me and everyone, and that my health is not precarious.\nSuddenly the headache was gone, and I felt strong and completely well. The healing was so instantaneous that it was as if a light switch had been flicked on and light flooded the room, vanquishing the darkness. I realized that listening for messages of healing and accepting them was a form of prayer, and that was what healed me.\nThis kind of prayer is based on the spiritual understanding of God\u2019s healing power and of our true spiritual nature. And this understanding leads to healing.\nNow that I\u2019m wiser about how prayer heals, if I were to meet up with the same guy whose sarcasm had disconcerted me that day in college, I would reassure him that prayer really does heal, and that I am a living testament to that fact. Spiritual healing is the proof of God\u2019s healing power.\nArticle originally published January 29, 2013\n\t\t\t\t\t\tAbout the author\t\t\t\t\t\t\tWe are pleased to present Notes from the Field authors, who are assistant committees and church members in the Southern California region; and Notes from The Mother Church authors, who are Committees from the United States and around the world, as well as the Federal Committee on Publication office.\t\t\tvar addthis_product = 'wpp-1.0.10';\nShare this:FacebookTwitterLinkedInGoogleStumbleUponMoreTumblrPocketPinterestRedditEmailPrint\n"@en-us .
+_:node437d71c770d021b92936eb5f53a22015 <http://schema.org/headline> "Absolute Faith vs Blind Belief"@en-us .
+_:node437d71c770d021b92936eb5f53a22015 <http://schema.org/author> _:nodefa4feaadc99258a0a2183fc39a39cfd3 .
+_:nodecbd42173ca55ca89eed8b6fa05ba1c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodecbd42173ca55ca89eed8b6fa05ba1c1 <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38924> .
+_:nodecbd42173ca55ca89eed8b6fa05ba1c1 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tThank you.\n\t\t"@en-us .
+_:nodecbd42173ca55ca89eed8b6fa05ba1c1 <http://schema.org/creator> _:node3f67ab8c7fc489ba0d64482d9f93c1 .
+_:nodecbd42173ca55ca89eed8b6fa05ba1c1 <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodebe1f9b9d2cd2a18e89331deb5ead851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodebe1f9b9d2cd2a18e89331deb5ead851 <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38923> .
+_:nodebe1f9b9d2cd2a18e89331deb5ead851 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tVery well written and explained. I too have been in your position where someone made a sarcastic remark about healing through prayer.  But my answer was probably a bit sarcastic in return because as a teenager I was quick to think on my feet.  I merely retorted, \u201CWell you know the old saying, \u2018If you haven\u2019t tried it, don\u2019t knock it.\u201D  That stopped the conversation instantly, but today I think my answer would be a bit more loving.  Interesting how we learn over time that you catch more flies with honey than with vinegar.  Ha Ha.   I think people make those comments because as you said they really don\u2019t know what prayer is and have been educated to believe that matter is real.  The world is waking slowly and we just need to be patient with those who don\u2019t understand.   Thanks so much for this blog.\n\t\t"@en-us .
+_:nodebe1f9b9d2cd2a18e89331deb5ead851 <http://schema.org/creator> _:nodec4efb12a6ea891d3df3574c7c147942 .
+_:nodebe1f9b9d2cd2a18e89331deb5ead851 <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node67ac59b21c13176496651732bd07398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:node67ac59b21c13176496651732bd07398 <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38920> .
+_:node67ac59b21c13176496651732bd07398 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI love your list: Why is it so difficult for some to believe that prayer heals? I think it\u2019s because 1) they don\u2019t know what prayer is, 2) they have been taught that healing results from medical treatment, and 3) they don\u2019t understand that \u201CGod is a very present help in trouble\u201D as the Bible states (Psalms 46:1). Christian Scientists have learned that they can certainly trust God, not only with physical problems, but also with any problems that need healing \u2013 relationships, employment, bad habits, etc.  Thanks!\n\t\t"@en-us .
+_:node67ac59b21c13176496651732bd07398 <http://schema.org/creator> _:node12bad9b5152261e930595355dcbdfbb .
+_:node67ac59b21c13176496651732bd07398 <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5fe225148b1a174ab80e762075a2ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:nodeac28b53dc9ff5c7bdcaf5d93c284ea .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node67ac59b21c13176496651732bd07398 .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node352db8d279d43d41d988de7c290e6fd .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:nodebe1f9b9d2cd2a18e89331deb5ead851 .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:nodecbd42173ca55ca89eed8b6fa05ba1c1 .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node3eab31d6f69e328d6ff92b80b73d93 .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node15a539f92268a77ecf75d9ade402dd7 .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node12e58c7e59bc2e1119d3293bcdfb13f .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node3bb95d41ef38daadb748c90411e1418 .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/comment> _:node7850569f7b579ab43eccd93b510a08f .
+_:node5fe225148b1a174ab80e762075a2ff <http://schema.org/blogPost> _:node437d71c770d021b92936eb5f53a22015 .
+_:nodefa4feaadc99258a0a2183fc39a39cfd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefa4feaadc99258a0a2183fc39a39cfd3 <http://schema.org/url> <http://csinsocal.com/author/admin/> .
+_:nodefa4feaadc99258a0a2183fc39a39cfd3 <http://schema.org/name> "Guest"@en-us .
+_:noded7f2d4d5fde061e279fa40a7f4409092 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded7f2d4d5fde061e279fa40a7f4409092 <http://schema.org/name> "Anne"@en-us .
+_:nodeac28b53dc9ff5c7bdcaf5d93c284ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeac28b53dc9ff5c7bdcaf5d93c284ea <http://schema.org/url> <http://csinsocal.com/2014/01/14/absolute-faith-vs-blind-belief-2/#comment-38919> .
+_:nodeac28b53dc9ff5c7bdcaf5d93c284ea <http://schema.org/commentText> "\n\t\t\t\n\t\t\tFunny how those who disparage prayer fail to hang around to see the healing results!!\n\t\t"@en-us .
+_:nodeac28b53dc9ff5c7bdcaf5d93c284ea <http://schema.org/creator> _:node8e9c23f1bcd6e9463359835355b96fce .
+_:nodeac28b53dc9ff5c7bdcaf5d93c284ea <http://schema.org/commentTime> "2014-01-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2cd144a661a301b799cbed727678d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2cd144a661a301b799cbed727678d2 <http://schema.org/url> <http://nelsonconsultingandtraining.com> .
+_:node2cd144a661a301b799cbed727678d2 <http://schema.org/name> "Elizabeth Anne Nelson"@en-us .
+_:node9e7f6159a41aefcb3aca06bf691ea6f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

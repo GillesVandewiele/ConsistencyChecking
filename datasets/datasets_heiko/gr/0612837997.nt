@@ -1,0 +1,24 @@
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71266 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71266 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71266 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#description> "<p> This Versailles Passion Top is a top that will make you feel like you're walking around in a palace. With its fully lined design, you'll be comfortable and supported any time that you head into the water. </p> <ul> <li> Fabric is Nylon and Spandex. </li> <li> V-cut design. </li> <li> Fully lined. </li> <li> Efficient while in the water. </li> </ul>" .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#name> "EQ Swimwear Versailles Passion Top" .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71266 .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/eq-swimwear-versailles-passion-top-8119060/?color=16329#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71314 .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71314 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71314 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71314 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d76e867435bfc45ea9e5debe14c8774bd2dN71314 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$30.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74264 <http://rdf.data-vocabulary.org/#rating> _:genid2d25877399fc934267ac0ec4de8c21684e2dN74280 .

@@ -1,0 +1,803 @@
+_:nodeed59e79b464b2eeba17adc5cc14e55a3 <http://schema.org/datePublished> "2012-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeed59e79b464b2eeba17adc5cc14e55a3 <http://schema.org/text> "Trader Joe\u2019s sells packages of organic chicken drumsticks for about $3.30. That yields two meals. This week I made the absolutely best chicken drumsticks I\u2019ve ever had using a Cajun Seasoning spice sent to me by Aviva, who lives in the New Orleans area. This Cajun Seasoning spice blend includes salt, garlic, red pepper, paprika [\u2026]\n"@en-us .
+_:nodeed59e79b464b2eeba17adc5cc14e55a3 <http://schema.org/headline> "Cajun Chicken Drumsticks"@en-us .
+_:nodeed59e79b464b2eeba17adc5cc14e55a3 <http://schema.org/author> _:node37739cff3c17676658b5e4c5122498 .
+_:node12fc70476d383fa8afc2c5c1d946958d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node12fc70476d383fa8afc2c5c1d946958d <http://schema.org/datePublished> "2014-11-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node12fc70476d383fa8afc2c5c1d946958d <http://schema.org/text> "When I haven\u2019t planned for a meal or don\u2019t know what to make, I know I can always quickly make a few bowls\u00A0of delicious Korean soup. All you need are\u00A0some basic ingredients and then follow this guide. It should be noted that I am not Korean. I am from\u00A0Ohio, yet I\u2019ve had two different women [\u2026]\n"@en-us .
+_:node12fc70476d383fa8afc2c5c1d946958d <http://schema.org/headline> "Your Fast and Easy Guide to Making Korean Soup"@en-us .
+_:node12fc70476d383fa8afc2c5c1d946958d <http://schema.org/author> _:nodee91e6f2295dee614cc875e2d28eed33 .
+_:node4c93d08fa8a039c724f7f3b18d591d8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4c93d08fa8a039c724f7f3b18d591d8f <http://schema.org/name> "MAS"@en-us .
+_:node7a3e3a26b73a5cd42f0f38114e69d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node7a3e3a26b73a5cd42f0f38114e69d8 <http://schema.org/datePublished> "2011-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node7a3e3a26b73a5cd42f0f38114e69d8 <http://schema.org/text> "Update: This is technically a beef stock, as it uses roasted bones. I\u2019ve recently discovered a magical elixir. It helps me recovery from workouts faster, protects me from incoming radiation, keeps my skin looking great and it tastes awesome. The magical potion is a homemade beef broth. It takes 24-72 hours to make, but is [\u2026]\n"@en-us .
+_:node7a3e3a26b73a5cd42f0f38114e69d8 <http://schema.org/headline> "Homemade Beef Broth"@en-us .
+_:node7a3e3a26b73a5cd42f0f38114e69d8 <http://schema.org/author> _:node99e0708170bee6239e3fe88b1c86c6fb .
+_:node6974d1beaf37f9b8e891e1a3bb22a3d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6974d1beaf37f9b8e891e1a3bb22a3d6 <http://schema.org/name> "MAS"@en-us .
+_:node85702c2b3cb6835705f2bbad73525ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node85702c2b3cb6835705f2bbad73525ce <http://schema.org/name> "MAS"@en-us .
+_:node3a4d5f8b6e82ab54375d7c2c1e20252d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3a4d5f8b6e82ab54375d7c2c1e20252d <http://schema.org/name> "MAS"@en-us .
+_:node3428f08f30fdebc3a7765bb0906dcf8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3428f08f30fdebc3a7765bb0906dcf8b <http://schema.org/name> "MAS"@en-us .
+_:node8f9c96d3c4381659c5ae3d7c91aeca3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8f9c96d3c4381659c5ae3d7c91aeca3a <http://schema.org/name> "MAS"@en-us .
+_:nodebff2a33b8eb91cc3a91c23e040f8e832 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodebff2a33b8eb91cc3a91c23e040f8e832 <http://schema.org/datePublished> "2012-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodebff2a33b8eb91cc3a91c23e040f8e832 <http://schema.org/text> "My latest food project moves to Vietnam. I used the average of a few pho recipes online. It turned out to be very tasty. The funny thing is that I never actually had pho before*, so I can\u2019t tell you how\u00A0authentic\u00A0my version turned out. I suspect I did OK. * I\u2019ve been to Pho\u00A0restaurants\u00A0twice before [\u2026]\n"@en-us .
+_:nodebff2a33b8eb91cc3a91c23e040f8e832 <http://schema.org/headline> "Pho Photos"@en-us .
+_:nodebff2a33b8eb91cc3a91c23e040f8e832 <http://schema.org/author> _:nodedcec51999bd3d8d9db9d3aa1f57d8a8a .
+_:nodeda04e8ab18b65823b143835f96946 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeda04e8ab18b65823b143835f96946 <http://schema.org/datePublished> "2012-07-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeda04e8ab18b65823b143835f96946 <http://schema.org/text> "When I first read the recipe for paneer, my initial thought was \u201Cit can\u2019t be that easy\u201D. So I checked a few other recipes and confirmed that it was really a ridiculously easy thing to make. QFC had a gallon of full fat milk marked down to 99 cents. Perfect price for\u00A0practice! Here is my [\u2026]\n"@en-us .
+_:nodeda04e8ab18b65823b143835f96946 <http://schema.org/headline> "Making Paneer"@en-us .
+_:nodeda04e8ab18b65823b143835f96946 <http://schema.org/author> _:nodebf70093c5651497b32d8ed8dfb7b3b .
+_:noded632fc2631c88fdc64657eb7fa5017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:noded632fc2631c88fdc64657eb7fa5017 <http://schema.org/datePublished> "2011-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded632fc2631c88fdc64657eb7fa5017 <http://schema.org/text> "They all can\u2019t be winners. After successfully reverse engineering Firefly\u2019s Cortido Sauerkraut on the first try and my amazing Ghost Pepper Sauerkraut invention, I was on a fermentation hot streak. Even my Dill Sauerkraut was pretty good and my green cabbage kimchi also was amazing. But I did have one dud. This summer I bought [\u2026]\n"@en-us .
+_:noded632fc2631c88fdc64657eb7fa5017 <http://schema.org/headline> "Fermentation Flop \u2013 Smoked Sauerkraut"@en-us .
+_:noded632fc2631c88fdc64657eb7fa5017 <http://schema.org/author> _:node583a89135af41d31c5a138f92955561 .
+_:nodeb382a7e1a53a318269ab693f9bd529d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb382a7e1a53a318269ab693f9bd529d3 <http://schema.org/datePublished> "2012-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb382a7e1a53a318269ab693f9bd529d3 <http://schema.org/text> "One of the most impressive sections of Korean grocery stores is the seafood section. Lots of care and attention is placed on the seafood options. Up until recently, I hadn\u2019t purchased any fish and instead focused on the beef and pork dishes. Last week I bought some salted yellow croakers. I had no idea what [\u2026]\n"@en-us .
+_:nodeb382a7e1a53a318269ab693f9bd529d3 <http://schema.org/headline> "Korean Yellow Croaker Soup"@en-us .
+_:nodeb382a7e1a53a318269ab693f9bd529d3 <http://schema.org/author> _:nodec07f4ef0241943a6375c1926a4badd7 .
+_:nodef6f8752599cbdd8d46c95e6fd5dc1ed0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef6f8752599cbdd8d46c95e6fd5dc1ed0 <http://schema.org/datePublished> "2012-08-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef6f8752599cbdd8d46c95e6fd5dc1ed0 <http://schema.org/text> "I\u2019ve made pickles a few times this summer. They tasted great, but they weren\u2019t crunchy. Then I read on a forum how one can use a tea bag in the ferment to preserve the crunchy. I tested it out this week and it works. You need to use black tea. Check out the Awesome Pickle [\u2026]\n"@en-us .
+_:nodef6f8752599cbdd8d46c95e6fd5dc1ed0 <http://schema.org/headline> "Using Tea Bags To Make Your Pickles More Crunchy"@en-us .
+_:nodef6f8752599cbdd8d46c95e6fd5dc1ed0 <http://schema.org/author> _:node18f8ac7d5cc94d984ea44c9361f70c5 .
+_:nodead0ce777a2c25f33c23d7ed992bea1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodead0ce777a2c25f33c23d7ed992bea1 <http://schema.org/name> "MAS"@en-us .
+_:node81fd2e67abf87dc9a6a7b8a89912b821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node81fd2e67abf87dc9a6a7b8a89912b821 <http://schema.org/datePublished> "2012-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node81fd2e67abf87dc9a6a7b8a89912b821 <http://schema.org/text> "Last month I created a meatball recipe that mimicked the taste of gyro meat in the post My Gyro Obsession and The Meatball Solution. Well I have taken the same principles and applied them to meatloaf for even better results. This is the best tasting meatloaf I\u2019ve ever had. It tastes like just gyro meat. [\u2026]\n"@en-us .
+_:node81fd2e67abf87dc9a6a7b8a89912b821 <http://schema.org/headline> "The Gyro Meatloaf Recipe"@en-us .
+_:node81fd2e67abf87dc9a6a7b8a89912b821 <http://schema.org/author> _:nodebe0cf3c6ae0f8ae1784462a6431f1c .
+_:noded8fbb35e1a3a4e7f0b987ac0fdbee7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded8fbb35e1a3a4e7f0b987ac0fdbee7 <http://schema.org/name> "MAS"@en-us .
+_:node51628438597a49e625c7c3fb1e54ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node51628438597a49e625c7c3fb1e54ffd <http://schema.org/name> "MAS"@en-us .
+_:node838ccad6b4ea34da94baedf940a92722 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node838ccad6b4ea34da94baedf940a92722 <http://schema.org/name> "MAS"@en-us .
+_:node30f1dced7d3e92b5544f22c30333065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node30f1dced7d3e92b5544f22c30333065 <http://schema.org/datePublished> "2010-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node30f1dced7d3e92b5544f22c30333065 <http://schema.org/text> "Bok Choy Kimchi Recipe UPDATE October 2011: I no longer use the Brine method described in this recipe. Instead I prefer the \u201CRub in by Hand\u201D method, which I outline in the post Kimchi 101. My bok choy version of the classic kimchi recipe. Ingredients 1 \u2013 1.5 tablespoons of Redmond Sea Salt 4 cups [\u2026]\n"@en-us .
+_:node30f1dced7d3e92b5544f22c30333065 <http://schema.org/headline> "Bok Choy Kimchi Recipe"@en-us .
+_:node30f1dced7d3e92b5544f22c30333065 <http://schema.org/author> _:nodeca99766864c8744b31c482cb37992cb4 .
+_:nodeaf7de1c5e28c2b0e369c8286c775b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeaf7de1c5e28c2b0e369c8286c775b15 <http://schema.org/datePublished> "2012-06-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeaf7de1c5e28c2b0e369c8286c775b15 <http://schema.org/text> "Recently, I was gifted a large amount of sweet potatoes. They were getting old and had already started to grow little vines. I needed to make use of them quick, but I didn\u2019t have the appetite to roast them all. Soup! The great thing about making soup is whatever I can\u2019t eat right away can [\u2026]\n"@en-us .
+_:nodeaf7de1c5e28c2b0e369c8286c775b15 <http://schema.org/headline> "Sweet Potato Soup \u2013 So Simple, So Yummy"@en-us .
+_:nodeaf7de1c5e28c2b0e369c8286c775b15 <http://schema.org/author> _:nodef1772bc6d4deddb64bf3064a8721d6 .
+_:nodef7f3f21c7ef94640bf8a8c12b6d17d32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef7f3f21c7ef94640bf8a8c12b6d17d32 <http://schema.org/datePublished> "2012-09-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef7f3f21c7ef94640bf8a8c12b6d17d32 <http://schema.org/text> "I few weeks ago I kicked off three new food projects. From left to right: Beet Kvass \u2013 Basically ferment some beets for a couple of days and then drink the juice. It tasted fine, but since I have nothing to compare it to, I don\u2019t know how well my ferment went. The remaining beets [\u2026]\n"@en-us .
+_:nodef7f3f21c7ef94640bf8a8c12b6d17d32 <http://schema.org/headline> "Beet Kvass, Fermented Salsa, Red Clover Infusion"@en-us .
+_:nodef7f3f21c7ef94640bf8a8c12b6d17d32 <http://schema.org/author> _:node7c69d2b71e882a3a2d2c9e88c45b8cf .
+_:nodef1f4913f199c48437b249bb96fcc9e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef1f4913f199c48437b249bb96fcc9e <http://schema.org/name> "MAS"@en-us .
+_:nodecd6073e24933cfb9fff9c6a859fd615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodecd6073e24933cfb9fff9c6a859fd615 <http://schema.org/datePublished> "2012-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodecd6073e24933cfb9fff9c6a859fd615 <http://schema.org/text> "I wonder if anyone has ever combined Cajun spices with Icelandic sheep testicles\u00A0before? Besides the fact they taste great, why would anyone eat animal testicles? They are loaded with protein and high in cholesterol. Cholesterol has been demonozed as being unhealthy and a cause of heart disease. That is a myth. Several books have been [\u2026]\n"@en-us .
+_:nodecd6073e24933cfb9fff9c6a859fd615 <http://schema.org/headline> "Cajun Style Sheep Testicles"@en-us .
+_:nodecd6073e24933cfb9fff9c6a859fd615 <http://schema.org/author> _:node13a5d72edc1640deb81cba8771e0be4c .
+_:noded9f06cda718e31cad385e472d4dc5bdd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded9f06cda718e31cad385e472d4dc5bdd <http://schema.org/name> "MAS"@en-us .
+_:nodee91e6f2295dee614cc875e2d28eed33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee91e6f2295dee614cc875e2d28eed33 <http://schema.org/name> "MAS"@en-us .
+_:node162d144933a4314bfa30cda073ecbd35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node162d144933a4314bfa30cda073ecbd35 <http://schema.org/datePublished> "2012-08-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node162d144933a4314bfa30cda073ecbd35 <http://schema.org/text> "I\u2019ve never made a lasagna before, but I love the dish. When I gave up the gluten a few years ago, I also gave up the lasagna. Well I got to chatting with a local gluten free chef that mentioned using wide rice noodles for the pasta portion. The wide rice noodles are available in [\u2026]\n"@en-us .
+_:node162d144933a4314bfa30cda073ecbd35 <http://schema.org/headline> "Gluten Free Lasagna"@en-us .
+_:node162d144933a4314bfa30cda073ecbd35 <http://schema.org/author> _:nodee71a323f871a649a6a7e3c88e2bce2 .
+_:nodefcf9a442e9a347d373509e4e43351249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodefcf9a442e9a347d373509e4e43351249 <http://schema.org/datePublished> "2012-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodefcf9a442e9a347d373509e4e43351249 <http://schema.org/text> "I finally got around to cooking up some bone marrow. Instead of putting the gooey center on toast, I cooked up some\u00A0cauliflower and onions. Butter was also added. The bones were cooked for 15 minutes at 420 F, although I\u2019ve seen recipes that use as low as 350 F. The marrow tasted creamy and wonderful. [\u2026]\n"@en-us .
+_:nodefcf9a442e9a347d373509e4e43351249 <http://schema.org/headline> "Bone Marrow and Cauliflower"@en-us .
+_:nodefcf9a442e9a347d373509e4e43351249 <http://schema.org/author> _:node2570cca5cc3d3d621554d4fd2b6b74af .
+_:node5d58d51bf0ea38ab50cbeb2682ce8ec2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node5d58d51bf0ea38ab50cbeb2682ce8ec2 <http://schema.org/datePublished> "2012-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5d58d51bf0ea38ab50cbeb2682ce8ec2 <http://schema.org/text> "Back in January I posted Pig Uterus Recipe: An Offal Idea. When I went to\u00A0Ranch 99, I knew wanted a new kitchen challenge. Something that I never had before. Something exotic. When I saw the package of pork uterus, I hesitated for a moment and then threw it in the cart. The rest of the [\u2026]\n"@en-us .
+_:node5d58d51bf0ea38ab50cbeb2682ce8ec2 <http://schema.org/headline> "Pig Uterus \u2013 Still an Offal Idea"@en-us .
+_:node5d58d51bf0ea38ab50cbeb2682ce8ec2 <http://schema.org/author> _:node38d89919a1213af4f65d3562730427a .
+_:nodef8a5a358a216dca7fbaa02f14483f27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef8a5a358a216dca7fbaa02f14483f27 <http://schema.org/datePublished> "2013-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef8a5a358a216dca7fbaa02f14483f27 <http://schema.org/text> "Call this super fusion. Korea meets Mexico meets El Salvador. I took the recipe I posted for Gluten Free Korean Bulgogi Tacos and made one change. Instead of topping with kimchi, I used my Cortido Sauerkraut. It was even better. Beef bulgogi tacos with cilantro, Sriracha and Cortido sauerkraut.\n"@en-us .
+_:nodef8a5a358a216dca7fbaa02f14483f27 <http://schema.org/headline> "Korean Bulgogi Tacos with Cortido Sauerkraut"@en-us .
+_:nodef8a5a358a216dca7fbaa02f14483f27 <http://schema.org/author> _:node65d866bca65671524ff474c1a198131c .
+_:node876d95268f64275823e15368aefa1521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node876d95268f64275823e15368aefa1521 <http://schema.org/name> "MAS"@en-us .
+_:node6674f6f5d97b3a59d9a8dc403fc87a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node6674f6f5d97b3a59d9a8dc403fc87a <http://schema.org/datePublished> "2013-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6674f6f5d97b3a59d9a8dc403fc87a <http://schema.org/text> "I want to thank Stephan at Biohacks.net for sending me an email about natto. I was well aware of how healthy the Japanese ferment was, especially its very high vitamin K2 levels. What I didn\u2019t know until I researched it further was the fermentation time was just 24 hours. For some reason, I had always [\u2026]\n"@en-us .
+_:node6674f6f5d97b3a59d9a8dc403fc87a <http://schema.org/headline> "How to Ferment Natto"@en-us .
+_:node6674f6f5d97b3a59d9a8dc403fc87a <http://schema.org/author> _:nodee517fd33b2eb62d15f942047626aac2 .
+_:node40adecaa332d4a5f1ad1cd563859142d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node40adecaa332d4a5f1ad1cd563859142d <http://schema.org/name> "MAS"@en-us .
+_:nodef7c0ab292fe91a2512779379b70f1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef7c0ab292fe91a2512779379b70f1f <http://schema.org/datePublished> "2012-02-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef7c0ab292fe91a2512779379b70f1f <http://schema.org/text> "I decided to take a break from the spicy ferments and focus on making something sweet. Something kid friendly! This ferment is super easy to do. You can adjust the salt and ginger level up or down and it will still taste good. It tastes good with a 3 day ferment or a 10 day [\u2026]\n"@en-us .
+_:nodef7c0ab292fe91a2512779379b70f1f <http://schema.org/headline> "Fermented Carrots and Ginger Recipe"@en-us .
+_:nodef7c0ab292fe91a2512779379b70f1f <http://schema.org/author> _:node876d95268f64275823e15368aefa1521 .
+_:nodebf70093c5651497b32d8ed8dfb7b3b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebf70093c5651497b32d8ed8dfb7b3b <http://schema.org/name> "MAS"@en-us .
+_:node585d0ede788e526f4e3ebf56b4a1663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node585d0ede788e526f4e3ebf56b4a1663 <http://schema.org/datePublished> "2012-07-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node585d0ede788e526f4e3ebf56b4a1663 <http://schema.org/text> "I just had to try this recipe. I never could find the masubi maker locally, so I rolled the sushi together by hand. I also left out the furikake, as every type I located at the Asian market had either MSG or gluten. Spam may not be the greatest quality of pork. Oh well. This [\u2026]\n"@en-us .
+_:node585d0ede788e526f4e3ebf56b4a1663 <http://schema.org/headline> "Spam Sushi"@en-us .
+_:node585d0ede788e526f4e3ebf56b4a1663 <http://schema.org/author> _:node58c5faa2b1d8e32440764dd3b9a4293c .
+_:node2595bfd269473198ea8f2644dbc99484 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2595bfd269473198ea8f2644dbc99484 <http://schema.org/name> "MAS"@en-us .
+_:node4b3960b5cabface1cdb3f82b551702e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node4b3960b5cabface1cdb3f82b551702e <http://schema.org/datePublished> "2012-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node4b3960b5cabface1cdb3f82b551702e <http://schema.org/text> "I did a twist on my Bacon Egg Cupcakes by adding some chopped spinach and Mexican ricotta cheese. Yummy!\n"@en-us .
+_:node4b3960b5cabface1cdb3f82b551702e <http://schema.org/headline> "Bacon Egg Cupcakes Now With Spinach and Ricotta"@en-us .
+_:node4b3960b5cabface1cdb3f82b551702e <http://schema.org/author> _:node414626d593826671c68db458a2f1464 .
+_:node373962ebd5cdafbc89b34e9672efeb9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node373962ebd5cdafbc89b34e9672efeb9 <http://schema.org/datePublished> "2011-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node373962ebd5cdafbc89b34e9672efeb9 <http://schema.org/text> "Yesterday I cooked up some ground pork and cabbage. This is a low carb twist on a classic Irish dish that uses potatoes. If you just got back from lifting weights at the gym, add the potatoes back into the recipe. Otherwise proceed as described. Before I get to the recipe, I want to discuss [\u2026]\n"@en-us .
+_:node373962ebd5cdafbc89b34e9672efeb9 <http://schema.org/headline> "Ground Pork and Cabbage Recipe"@en-us .
+_:node373962ebd5cdafbc89b34e9672efeb9 <http://schema.org/author> _:nodeee43ff2437e7df6ef1e1cb29ed6ba90 .
+_:nodea3f4ff3263ddd582daf89b35691459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea3f4ff3263ddd582daf89b35691459 <http://schema.org/datePublished> "2013-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea3f4ff3263ddd582daf89b35691459 <http://schema.org/text> "For my latest batch of ghee or clarified butter, depending upon where you draw the line, I put away the saucepan and plugged in the slow cooker. I loaded up the slow cooker with 2 pounds of unsalted butter and put it on low with the lid off. Once the milk solids separate and it [\u2026]\n"@en-us .
+_:nodea3f4ff3263ddd582daf89b35691459 <http://schema.org/headline> "Making Ghee in a Slow Cooker"@en-us .
+_:nodea3f4ff3263ddd582daf89b35691459 <http://schema.org/author> _:node8325beada0f4c4f674c6726086142a57 .
+_:nodeb6f4eda13a4a4b653a62e318e494dbea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb6f4eda13a4a4b653a62e318e494dbea <http://schema.org/datePublished> "2010-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb6f4eda13a4a4b653a62e318e494dbea <http://schema.org/text> "I buy the majority of my meat from Thundering Hooves. This is a pasture farm in the Walla Walla Valley of Washington that sells beef, lamb, pork and chicken. One of the items they sell is for pets. It is 1 lb of Beef and Organ Meets for Pets. The description reads: A nice blend [\u2026]\n"@en-us .
+_:nodeb6f4eda13a4a4b653a62e318e494dbea <http://schema.org/headline> "Making Meatloaf Using Pet Food"@en-us .
+_:nodeb6f4eda13a4a4b653a62e318e494dbea <http://schema.org/author> _:nodea0de3837f6e669456c24ad7725bc5f .
+_:nodeb4d1e4da88667a7bb27cdf1c5311be1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb4d1e4da88667a7bb27cdf1c5311be1 <http://schema.org/datePublished> "2013-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb4d1e4da88667a7bb27cdf1c5311be1 <http://schema.org/text> "Every so often I\u2019ll get inspired to make a dish that requires stock before I have time to pull one out of the freezer. When this happens, I create a little warm water bath for the jar inside the sink. This process seems to take forever. I\u2019m always adding more warm water to speed up [\u2026]\n"@en-us .
+_:nodeb4d1e4da88667a7bb27cdf1c5311be1 <http://schema.org/headline> "A Fast Way to Thaw Frozen Stock"@en-us .
+_:nodeb4d1e4da88667a7bb27cdf1c5311be1 <http://schema.org/author> _:node4f92da5a506755d77fb7c9d5a516c7ce .
+_:nodedbf2ff1f9b5f7f55c894a0e5627c0a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodedbf2ff1f9b5f7f55c894a0e5627c0a1 <http://schema.org/name> "MAS"@en-us .
+_:nodeb6b161bd16f745571b17236f8e9aa1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb6b161bd16f745571b17236f8e9aa1 <http://schema.org/name> "MAS"@en-us .
+_:nodea9cd63df2b1e6e2c2b9ce4bcd1bef13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodea9cd63df2b1e6e2c2b9ce4bcd1bef13 <http://schema.org/name> "MAS"@en-us .
+_:node222d8fe0d45fde5426ed1729e1df12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node222d8fe0d45fde5426ed1729e1df12 <http://schema.org/datePublished> "2014-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node222d8fe0d45fde5426ed1729e1df12 <http://schema.org/text> "I wanted to do a quick follow up to my Faster Pho recipe. If I have an extra hour, I alter the recipe to provide a richer and more flavorful dish. In the prior recipe I explained how using Chinese 5 Spice you could quickly hack your way to faster pho. Well, maybe my palate [\u2026]\n"@en-us .
+_:node222d8fe0d45fde5426ed1729e1df12 <http://schema.org/headline> "Faster Pho 2.0 \u2013 A Little Slower, But More Tasty"@en-us .
+_:node222d8fe0d45fde5426ed1729e1df12 <http://schema.org/author> _:nodea47fd932f5dd2926ec394e52db8ff9 .
+_:node7ba6a691515b45d351af236845ecd4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node7ba6a691515b45d351af236845ecd4 <http://schema.org/datePublished> "2011-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node7ba6a691515b45d351af236845ecd4 <http://schema.org/text> "A traditional Shepard\u2019s Pie recipe uses ground lamb topped with mashed potatoes and is then baked. What I did this week was use grass-fed ground beef and instead of topping it with mashed potatoes, I covered it with a mixture of mashed parsnips, sunchokes and celery root. Tasted great. I used the Easy Shepard\u2019s Pie [\u2026]\n"@en-us .
+_:node7ba6a691515b45d351af236845ecd4 <http://schema.org/headline> "The No Potato Shepard\u2019s Pie"@en-us .
+_:node7ba6a691515b45d351af236845ecd4 <http://schema.org/author> _:nodee93ce9a32561ae50626a89313c83ddb5 .
+_:node28ae7c3a9db555bb1c45ba84b831c68b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node28ae7c3a9db555bb1c45ba84b831c68b <http://schema.org/datePublished> "2012-01-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node28ae7c3a9db555bb1c45ba84b831c68b <http://schema.org/text> "On my recent trip to Los Angeles, I met up with a friend that grew up on Oahu. She taught me about the traditional Hawaiian dish of Lau Lau. It is very simple to make provided you don\u2019t mind waiting 3 hours for it to steam cook. Recipe: Lau Lau Summary: The traditional Hawaiian dish. [\u2026]\n"@en-us .
+_:node28ae7c3a9db555bb1c45ba84b831c68b <http://schema.org/headline> "Making Lau Lau"@en-us .
+_:node28ae7c3a9db555bb1c45ba84b831c68b <http://schema.org/author> _:node6eaed1c479a3f392debb7dcc6f89a5b .
+_:node13a5d72edc1640deb81cba8771e0be4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node13a5d72edc1640deb81cba8771e0be4c <http://schema.org/name> "MAS"@en-us .
+_:node9c965d3f5b997552ed39035889338ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node9c965d3f5b997552ed39035889338ee <http://schema.org/datePublished> "2012-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node9c965d3f5b997552ed39035889338ee <http://schema.org/text> "One of the easiest things to ferment is carrots. Earlier this year I posted Fermented Carrots and Ginger as a kid-friendly sweet tasting ferment. I make this frequently, especially when I buy too many carrots and they look like they are going to go bad before I can consume them all. Fermentation is an outstanding [\u2026]\n"@en-us .
+_:node9c965d3f5b997552ed39035889338ee <http://schema.org/headline> "Vietnamese Fermented Carrots"@en-us .
+_:node9c965d3f5b997552ed39035889338ee <http://schema.org/author> _:node263690b16a88ee69a4cc3636b30347f .
+_:nodec9d3dd3bacb19c29b57aa33cb18b4196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodec9d3dd3bacb19c29b57aa33cb18b4196 <http://schema.org/datePublished> "2013-02-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec9d3dd3bacb19c29b57aa33cb18b4196 <http://schema.org/text> "Two years ago I posted a recipe for Beef Heart Stew. Although it was better than my beef heart curry attempt, it was just \u201Coffal good\u201C, not \u201Cawfully good\u201C. So I revisited this recipe and came up with something far better. This time I added some potatoes and red wine. I also removed the Thai [\u2026]\n"@en-us .
+_:nodec9d3dd3bacb19c29b57aa33cb18b4196 <http://schema.org/headline> "Beef Heart Stew Rebooted (Slow Cooker Recipe)"@en-us .
+_:nodec9d3dd3bacb19c29b57aa33cb18b4196 <http://schema.org/author> _:node829331e6169b511342c284d7b1b6a1fc .
+_:nodebe0cf3c6ae0f8ae1784462a6431f1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebe0cf3c6ae0f8ae1784462a6431f1c <http://schema.org/name> "MAS"@en-us .
+_:nodefcff849b1887e6a39d74d20d7e940ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefcff849b1887e6a39d74d20d7e940ec <http://schema.org/name> "MAS"@en-us .
+_:node60f69573f54ad4c0ad22e7e548bd34a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node60f69573f54ad4c0ad22e7e548bd34a3 <http://schema.org/datePublished> "2012-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node60f69573f54ad4c0ad22e7e548bd34a3 <http://schema.org/text> "When I went to Ranch 99, I knew wanted a new kitchen challenge. Something that I never had before. Something exotic. When I saw the package of pork uterus, I hesitated for a moment and then threw it in the cart. After I got home, I went looking for a recipe. There really isn\u2019t much [\u2026]\n"@en-us .
+_:node60f69573f54ad4c0ad22e7e548bd34a3 <http://schema.org/headline> "Pig Uterus Recipe: An Offal Idea"@en-us .
+_:node60f69573f54ad4c0ad22e7e548bd34a3 <http://schema.org/author> _:noded7d225e405e87b1d3633ba2f5ffea3 .
+_:node2570cca5cc3d3d621554d4fd2b6b74af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2570cca5cc3d3d621554d4fd2b6b74af <http://schema.org/name> "MAS"@en-us .
+_:noded7bc8affe75ca1d1bed28d173dbfb7a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded7bc8affe75ca1d1bed28d173dbfb7a0 <http://schema.org/name> "MAS"@en-us .
+_:nodefa922165b4c925cae221ff460d4f55c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodefa922165b4c925cae221ff460d4f55c <http://schema.org/datePublished> "2012-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodefa922165b4c925cae221ff460d4f55c <http://schema.org/text> "Last month I worked on perfecting a shake that mixes avocados with coffee. I just posted that recipe over on INeedCoffee. The Coffee Avocado Shake The Coffee Avocado Shake\n"@en-us .
+_:nodefa922165b4c925cae221ff460d4f55c <http://schema.org/headline> "Speaking of Coffee"@en-us .
+_:nodefa922165b4c925cae221ff460d4f55c <http://schema.org/author> _:nodea9cd63df2b1e6e2c2b9ce4bcd1bef13 .
+_:node829331e6169b511342c284d7b1b6a1fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node829331e6169b511342c284d7b1b6a1fc <http://schema.org/name> "MAS"@en-us .
+_:node701948f3d31e17812276d09eb2bc4571 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node701948f3d31e17812276d09eb2bc4571 <http://schema.org/name> "MAS"@en-us .
+_:nodef89b234c61a4de6fe84f52ee7d282596 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef89b234c61a4de6fe84f52ee7d282596 <http://schema.org/name> "MAS"@en-us .
+_:node57ae9c97bdcfa91ad946424891f03bb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node57ae9c97bdcfa91ad946424891f03bb4 <http://schema.org/datePublished> "2012-08-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node57ae9c97bdcfa91ad946424891f03bb4 <http://schema.org/text> "This summer I\u2019ve made some of my best ferments to date,\u00A0however\u00A0this week I had two failures. It happens from time to time, especially when you are trying something new. I\u2019d like to share what I learned. Photo by Hans Gerwitz #1 Earl Grey Pickles = Yuck! Fresh off the success I had using tea bags [\u2026]\n"@en-us .
+_:node57ae9c97bdcfa91ad946424891f03bb4 <http://schema.org/headline> "Lessons From Two Failed Ferments"@en-us .
+_:node57ae9c97bdcfa91ad946424891f03bb4 <http://schema.org/author> _:nodef4fc6982e777c1cd0567c78c0ac657 .
+_:node705678d75d5f6d7eab79cffc2efd3e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node705678d75d5f6d7eab79cffc2efd3e2 <http://schema.org/datePublished> "2013-03-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node705678d75d5f6d7eab79cffc2efd3e2 <http://schema.org/text> "Sunday morning a friend of mine posted a photo of Kimchi Chips now being sold at Trader Joe\u2019s. Instead of strolling over the one mile to the store to try them out, I pulled out my food dehydrator and proceeded to make my own. Using this article as a template, I was able to convert [\u2026]\n"@en-us .
+_:node705678d75d5f6d7eab79cffc2efd3e2 <http://schema.org/headline> "Kimchi Chips \u2013 Super Delicious But Ridiculously Impractical"@en-us .
+_:node705678d75d5f6d7eab79cffc2efd3e2 <http://schema.org/author> _:node701948f3d31e17812276d09eb2bc4571 .
+_:nodebe49c0909318c4cebe6f59dbf61ebc1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebe49c0909318c4cebe6f59dbf61ebc1 <http://schema.org/name> "MAS"@en-us .
+_:nodedbc6911b2b1947ef31bdba543a84ec4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodedbc6911b2b1947ef31bdba543a84ec4 <http://schema.org/name> "MAS"@en-us .
+_:node6de46f38b0e6ff6040fec354c097 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node6de46f38b0e6ff6040fec354c097 <http://schema.org/datePublished> "2010-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6de46f38b0e6ff6040fec354c097 <http://schema.org/text> "I got this recipe idea from my friend Sue in Portland. Turns out chicken hearts are loaded with that miracle nutrient Co-enzyme Q10 (aka Co Q 10). According to the Wikipedia, it is really good for heart health (yours, not the chicken). Chicken hearts taste like a milder version of chicken livers, which is why [\u2026]\n"@en-us .
+_:node6de46f38b0e6ff6040fec354c097 <http://schema.org/headline> "Chicken Hearts + Bacon + Apples + Onions"@en-us .
+_:node6de46f38b0e6ff6040fec354c097 <http://schema.org/author> _:nodeb6b161bd16f745571b17236f8e9aa1 .
+_:nodee550a4233079dbb68342724915f09d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee550a4233079dbb68342724915f09d <http://schema.org/name> "MAS"@en-us .
+_:node69d9b3ecca99de92ac2b322c9cbcb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node69d9b3ecca99de92ac2b322c9cbcb1 <http://schema.org/name> "MAS"@en-us .
+_:node4fb96dbc577230f0226fe2a11261558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node4fb96dbc577230f0226fe2a11261558 <http://schema.org/datePublished> "2013-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node4fb96dbc577230f0226fe2a11261558 <http://schema.org/text> "A year ago, I made pho for the first time. Since then I have been making it regularly and hacking away at the recipe to make it faster and better tasting. Fewer steps and minimal ingredients. I\u2019ve seen other Quick Pho or Faux Pho recipes online. They are a good start, but I believe mine\u00A0is [\u2026]\n"@en-us .
+_:node4fb96dbc577230f0226fe2a11261558 <http://schema.org/headline> "Faster Pho Recipe"@en-us .
+_:node4fb96dbc577230f0226fe2a11261558 <http://schema.org/author> _:node85702c2b3cb6835705f2bbad73525ce .
+_:node37971e33ae38a1ec5c413d4cb8b2a46a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node37971e33ae38a1ec5c413d4cb8b2a46a <http://schema.org/datePublished> "2012-07-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node37971e33ae38a1ec5c413d4cb8b2a46a <http://schema.org/text> "The Perfect Pantry posted a slow cooker recipe for nihari, which is a curry from Pakistan. It also has the nickname of \u201Cold clothes\u201D, which is what the beef brisket looks like when you pull the meat apart with forks\u00A0after hours of cooking\u00A0. Recipe for Pakistani \u201Cold clothes\u201D beef curry (nihari) in the slow cooker [\u2026]\n"@en-us .
+_:node37971e33ae38a1ec5c413d4cb8b2a46a <http://schema.org/headline> "Beef Brisket Curry From Pakistan"@en-us .
+_:node37971e33ae38a1ec5c413d4cb8b2a46a <http://schema.org/author> _:noded9f06cda718e31cad385e472d4dc5bdd .
+_:nodedc403c86a76fb09dff969c2917cb1a70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodedc403c86a76fb09dff969c2917cb1a70 <http://schema.org/name> "MAS"@en-us .
+_:node8c211835fb391a206a1136d3dec3cb8d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node8c211835fb391a206a1136d3dec3cb8d <http://schema.org/datePublished> "2012-05-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8c211835fb391a206a1136d3dec3cb8d <http://schema.org/text> "Did you know that Seattle is just a 7 hour direct flight from Iceland? That means I was able to score some Icelandic sheep\u00A0liver at my local Farmers Market. Thank you little buddy! I\u2019ve had pastured beef liver many times and goat liver a few times. It tastes closer to goat liver, but I found [\u2026]\n"@en-us .
+_:node8c211835fb391a206a1136d3dec3cb8d <http://schema.org/headline> "Icelandic Sheep Liver"@en-us .
+_:node8c211835fb391a206a1136d3dec3cb8d <http://schema.org/author> _:node6599513c1ccb13262673b146ce7d4b .
+_:node4f92da5a506755d77fb7c9d5a516c7ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4f92da5a506755d77fb7c9d5a516c7ce <http://schema.org/name> "MAS"@en-us .
+_:node2554a8f472aa5834f2b5d75cbd4cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node2554a8f472aa5834f2b5d75cbd4cb <http://schema.org/datePublished> "2012-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2554a8f472aa5834f2b5d75cbd4cb <http://schema.org/text> "There a few schools of thought when it comes to making vegetable ferments. One is to create the anaerobic environment using stronger seals or air locks. Someday I plan to experiment with those, but for now I don\u2019t do that. The fermentation is taking place below the water line. The worst thing that could happen [\u2026]\n"@en-us .
+_:node2554a8f472aa5834f2b5d75cbd4cb <http://schema.org/headline> "Fermenting Vegetables \u2013 Taste As You Go"@en-us .
+_:node2554a8f472aa5834f2b5d75cbd4cb <http://schema.org/author> _:node4c93d08fa8a039c724f7f3b18d591d8f .
+_:node21969670b5d142b83da3fc5c57be6a9f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node21969670b5d142b83da3fc5c57be6a9f <http://schema.org/name> "MAS"@en-us .
+_:node58c5faa2b1d8e32440764dd3b9a4293c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node58c5faa2b1d8e32440764dd3b9a4293c <http://schema.org/name> "MAS"@en-us .
+_:nodef1772bc6d4deddb64bf3064a8721d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef1772bc6d4deddb64bf3064a8721d6 <http://schema.org/name> "MAS"@en-us .
+_:nodec07f4ef0241943a6375c1926a4badd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec07f4ef0241943a6375c1926a4badd7 <http://schema.org/name> "MAS"@en-us .
+_:node6599513c1ccb13262673b146ce7d4b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6599513c1ccb13262673b146ce7d4b <http://schema.org/name> "MAS"@en-us .
+_:node20e2ad372e92468f897eab7bd81d7c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node20e2ad372e92468f897eab7bd81d7c6 <http://schema.org/datePublished> "2012-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node20e2ad372e92468f897eab7bd81d7c6 <http://schema.org/text> "This week I made the recipe Unbelievable Crockpot Apple/Onion Pork Butt. The only thing I changed in the recipe was I added fennel. It was cheap and tasty. Let me run the numbers. 2.76 pounds of pork butt = $5.76 1 onion = $0.40 1/2 can of apple juice concentrate = $0.75 Total cost was [\u2026]\n"@en-us .
+_:node20e2ad372e92468f897eab7bd81d7c6 <http://schema.org/headline> "Slow Cooking Another Cheap Delicious Meal"@en-us .
+_:node20e2ad372e92468f897eab7bd81d7c6 <http://schema.org/author> _:node29b7c862c1c672d44ca79567bd847e1f .
+_:node514d5ec7ce9fe47dca9b7b2b4f4ed8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node514d5ec7ce9fe47dca9b7b2b4f4ed8 <http://schema.org/name> "MAS"@en-us .
+_:node397680d7f6654bc81336ccabaa9f815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node397680d7f6654bc81336ccabaa9f815 <http://schema.org/datePublished> "2011-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node397680d7f6654bc81336ccabaa9f815 <http://schema.org/text> "UPDATE Feb 2013: This recipe has been updated. See Beef Heart Stew Rebooted (Slow Cooker Recipe) I recently bought my first beef heart at the farmers market. Then I watched the video below, which detailed how to trim the meat. Cleaning a Beef Heart by offalchris Once it was cleaned and trimmed, I cut the [\u2026]\n"@en-us .
+_:node397680d7f6654bc81336ccabaa9f815 <http://schema.org/headline> "Beef Heart Stew"@en-us .
+_:node397680d7f6654bc81336ccabaa9f815 <http://schema.org/author> _:nodeba9e83abcae46d927fe1db84a556b .
+_:nodeae243f20e784e55916aded85416397ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeae243f20e784e55916aded85416397ba <http://schema.org/datePublished> "2012-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeae243f20e784e55916aded85416397ba <http://schema.org/text> "I\u2019ve been making kimchi on a frequent basis now for almost three years. Each time I make kimchi, I tweak the recipe. I\u2019ll add something new or take something out. Then I\u2019ll increase or reduce the\u00A0quantity\u00A0of other ingredients. I play with the salt level and the\u00A0spiciness. My tweaking has landed me on a new recipe [\u2026]\n"@en-us .
+_:nodeae243f20e784e55916aded85416397ba <http://schema.org/headline> "Kimchi 2.0"@en-us .
+_:nodeae243f20e784e55916aded85416397ba <http://schema.org/author> _:node8f9c96d3c4381659c5ae3d7c91aeca3a .
+_:node6724931dfed9ac801c413ec2a91ef5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6724931dfed9ac801c413ec2a91ef5b <http://schema.org/name> "MAS"@en-us .
+_:node6770a862d3b6efca06ca18ef0829040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6770a862d3b6efca06ca18ef0829040 <http://schema.org/name> "MAS"@en-us .
+_:nodeeac6a7dbf7cb3b71369e24bebc40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeeac6a7dbf7cb3b71369e24bebc40 <http://schema.org/datePublished> "2012-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeeac6a7dbf7cb3b71369e24bebc40 <http://schema.org/text> "Last night I decided to make Shrimp Jambalaya. When I visited New Orleans in 2009, I was completely underwhelmed by the food there. It was either too salty, too bland or when it did taste good the portions were too small. Before I get comments, let me say that I\u2019m sure there is good food [\u2026]\n"@en-us .
+_:nodeeac6a7dbf7cb3b71369e24bebc40 <http://schema.org/headline> "Shrimp Jambalaya"@en-us .
+_:nodeeac6a7dbf7cb3b71369e24bebc40 <http://schema.org/author> _:nodef1f4913f199c48437b249bb96fcc9e .
+_:nodeeab31ad34add28ef2794a9c793c10e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeeab31ad34add28ef2794a9c793c10e6 <http://schema.org/datePublished> "2013-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeeab31ad34add28ef2794a9c793c10e6 <http://schema.org/text> "Last year I posted my gyro meatloaf recipe. It mimics the flavor profile of gyro meat in convenient meatloaf format. Unlike commercial gyro meat, my recipe is 100% gluten free. I discovered you don\u2019t need bread crumbs. A single egg is enough to bind the meatloaf. However, I started experimenting with bread crumb substitutes to [\u2026]\n"@en-us .
+_:nodeeab31ad34add28ef2794a9c793c10e6 <http://schema.org/headline> "Meatloaf Rebooted \u2013 We Don\u2019t Need No Stinking Breadcrumbs"@en-us .
+_:nodeeab31ad34add28ef2794a9c793c10e6 <http://schema.org/author> _:noded845d3e530771fcf6abfedd55b1d4b1f .
+_:nodee517fd33b2eb62d15f942047626aac2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee517fd33b2eb62d15f942047626aac2 <http://schema.org/name> "MAS"@en-us .
+_:node8fbba87bbcee59fd64129540164f5e91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node8fbba87bbcee59fd64129540164f5e91 <http://schema.org/datePublished> "2012-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8fbba87bbcee59fd64129540164f5e91 <http://schema.org/text> "Recently I started teaching myself Korean cooking and I noticed that one of the core ingredients \u2013 Gochujnag \u2013 has gluten in it. Gochujang is the Korean chili paste used in several dishes including Bibimbop. I went to many different Asian markets, including the Korean H Mart, and read the labels of every brand. Every [\u2026]\n"@en-us .
+_:node8fbba87bbcee59fd64129540164f5e91 <http://schema.org/headline> "Making Gluten Free Korean Chili Paste (Gochujang)"@en-us .
+_:node8fbba87bbcee59fd64129540164f5e91 <http://schema.org/author> _:nodefa73539170b32c137431e6e2c819ba2a .
+_:node97109438e7c37426732f8051eedab77d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node97109438e7c37426732f8051eedab77d <http://schema.org/datePublished> "2012-05-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node97109438e7c37426732f8051eedab77d <http://schema.org/text> "My quest to tackle Indian food continues. Since my 5 Spices, 50 Dishes review, I\u2019ve made two vindaloo dishes in my slow cooker. I read several recipes online and used the spice guidelines in the 5 Spices book to come up with this recipe.\u00A0The first one used pork shoulder and then second used lamb. The [\u2026]\n"@en-us .
+_:node97109438e7c37426732f8051eedab77d <http://schema.org/headline> "Pork Vindaloo in the Slow Cooker"@en-us .
+_:node97109438e7c37426732f8051eedab77d <http://schema.org/author> _:node2595bfd269473198ea8f2644dbc99484 .
+_:nodeca99766864c8744b31c482cb37992cb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeca99766864c8744b31c482cb37992cb4 <http://schema.org/name> "MAS"@en-us .
+_:node583a89135af41d31c5a138f92955561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node583a89135af41d31c5a138f92955561 <http://schema.org/name> "MAS"@en-us .
+_:node38d89919a1213af4f65d3562730427a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node38d89919a1213af4f65d3562730427a <http://schema.org/name> "MAS"@en-us .
+_:nodea51c69521351d3650e81682d39e31d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea51c69521351d3650e81682d39e31d <http://schema.org/datePublished> "2012-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea51c69521351d3650e81682d39e31d <http://schema.org/text> "I\u2019m continuing my\u00A0journey\u00A0into Indian cooking. My most recent challenge was the lentil dal. I\u2019ve always loved this soup when I\u2019ve gone to Indian restauaunts, but I had not tried to make it at home yet. Glad I did, because not only was it super tasty, it was super easy. Not Paleo! WAPF to the Rescue! [\u2026]\n"@en-us .
+_:nodea51c69521351d3650e81682d39e31d <http://schema.org/headline> "Making Lentil Dal"@en-us .
+_:nodea51c69521351d3650e81682d39e31d <http://schema.org/author> _:node1395d9a4802a877ea3ce788dfa45c9f7 .
+_:node2cf347d4116a5b6ca1dfee4fe5fed41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2cf347d4116a5b6ca1dfee4fe5fed41 <http://schema.org/name> "MAS"@en-us .
+_:node877af66f1c93393e67eafc8fcaf88172 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node877af66f1c93393e67eafc8fcaf88172 <http://schema.org/datePublished> "2012-09-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node877af66f1c93393e67eafc8fcaf88172 <http://schema.org/text> "I love celery, but it annoys me how quickly it loses it crunch and goes limp. The trick to bringing celery back from the dead is to soak the stalks in cold water. For a while I was doing 30 minute ice baths for the celery in a flat tray. Then a few days ago [\u2026]\n"@en-us .
+_:node877af66f1c93393e67eafc8fcaf88172 <http://schema.org/headline> "Celery Resurrection"@en-us .
+_:node877af66f1c93393e67eafc8fcaf88172 <http://schema.org/author> _:node3e25bd35b6688b115f5cf1b934df38a .
+_:node6beceed49beed1398b755ab933b2ccff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node6beceed49beed1398b755ab933b2ccff <http://schema.org/datePublished> "2012-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6beceed49beed1398b755ab933b2ccff <http://schema.org/text> "After my success in creating a meatloaf recipe that has the flavor of gyro meat, I decided to continue my research in advanced meatloaf studies. This week I give you The Taco Meatloaf. A super simple recipe that yields a meatloaf that tastes like taco meat. Why would you make a meatloaf that tastes like [\u2026]\n"@en-us .
+_:node6beceed49beed1398b755ab933b2ccff <http://schema.org/headline> "Taco Meatloaf Recipe"@en-us .
+_:node6beceed49beed1398b755ab933b2ccff <http://schema.org/author> _:nodeb021f9655b6140a765575013cfe96672 .
+_:node05c64cc738e5ff51de66f25e4c5c59f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node05c64cc738e5ff51de66f25e4c5c59f <http://schema.org/datePublished> "2014-01-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node05c64cc738e5ff51de66f25e4c5c59f <http://schema.org/text> "Ready for a super easy Korean soup recipe. Here it is. Heat water. Add chopped kimchi. Add sliced or cubed SPAM. Serve when warm. I heated mine for 10 minutes. You can also throw in any cooked rice if you like. Super easy, super fast and tasty. I didn\u2019t measure anything. Old kimchi would be [\u2026]\n"@en-us .
+_:node05c64cc738e5ff51de66f25e4c5c59f <http://schema.org/headline> "Kimchi Spam Soup"@en-us .
+_:node05c64cc738e5ff51de66f25e4c5c59f <http://schema.org/author> _:nodead0ce777a2c25f33c23d7ed992bea1 .
+_:nodef7c72c597f9ea98999d35bc177f197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef7c72c597f9ea98999d35bc177f197 <http://schema.org/name> "MAS"@en-us .
+_:node4693381bca142bd5d46a10d6a7dbc814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4693381bca142bd5d46a10d6a7dbc814 <http://schema.org/name> "MAS"@en-us .
+_:nodefdb25281c299559e169f7db573aa163d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodefdb25281c299559e169f7db573aa163d <http://schema.org/datePublished> "2011-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodefdb25281c299559e169f7db573aa163d <http://schema.org/text> "Several people have asked that I post an updated kimchi recipe. I\u2019ve learned a lot since my original Bok Choy kimchi recipe was posted. One of the things I learned is there are infinite ways to make kimchi. In this post, I want go over the basics for creating your own custom kimchi recipe. It [\u2026]\n"@en-us .
+_:nodefdb25281c299559e169f7db573aa163d <http://schema.org/headline> "Kimchi 101"@en-us .
+_:nodefdb25281c299559e169f7db573aa163d <http://schema.org/author> _:node451c1872c349bbc37cc65746eed1c47 .
+_:node936771f6a2787ba60c5fe35494976d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node936771f6a2787ba60c5fe35494976d2 <http://schema.org/datePublished> "2011-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node936771f6a2787ba60c5fe35494976d2 <http://schema.org/text> "Here is my go to recipe when I want something sweet. It is Almond Butter Cookies made without any grains or dairy. The inspiration for this recipe came from the Gluten Free Girl. My version uses less sugar, less baking powder and doesn\u2019t include chocolate chips. Almond butter cookies without grain or dairy Ingredients 1 [\u2026]\n"@en-us .
+_:node936771f6a2787ba60c5fe35494976d2 <http://schema.org/headline> "Grain Free and Dairy Free Almond Butter Cookies Recipe"@en-us .
+_:node936771f6a2787ba60c5fe35494976d2 <http://schema.org/author> _:nodedbf2ff1f9b5f7f55c894a0e5627c0a1 .
+_:node1d739824334881fc1859f6ffe88d632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node1d739824334881fc1859f6ffe88d632 <http://schema.org/datePublished> "2012-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node1d739824334881fc1859f6ffe88d632 <http://schema.org/text> "One of my favorite hobbies these days is looking for interesting food at Asian grocery stores. Recently I was looking through the frozen seafood section at a Viet Wah grocery store when one item caught my eye. It was labeled \u201CFrozen Ground Cucumber\u201D, but it appeared to be bugs. I pulled out my phone, did [\u2026]\n"@en-us .
+_:node1d739824334881fc1859f6ffe88d632 <http://schema.org/headline> "Eating Silkworm Pupae (aka Ground Cucumber)"@en-us .
+_:node1d739824334881fc1859f6ffe88d632 <http://schema.org/author> _:node867aa6bd4d1fead782eea1deee563f3 .
+_:nodef15b639bb78c4c54a4146ee41af56e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef15b639bb78c4c54a4146ee41af56e4 <http://schema.org/datePublished> "2010-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef15b639bb78c4c54a4146ee41af56e4 <http://schema.org/text> "Version 1 = Chicken Hearts + Bacon + Apples + Onions. Version 2 = swap out the apples for Brussels sprouts. The dish was outstanding. For whatever reason, the chicken hearts tasted much better. It had none of the liver like gamy and bitter tastes that were slightly present before. The meat was sweeter and [\u2026]\n"@en-us .
+_:nodef15b639bb78c4c54a4146ee41af56e4 <http://schema.org/headline> "Chicken Hearts with Brussels Sprouts"@en-us .
+_:nodef15b639bb78c4c54a4146ee41af56e4 <http://schema.org/author> _:nodefcff849b1887e6a39d74d20d7e940ec .
+_:node16ad166a9042481155a95ee42bbb62d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node16ad166a9042481155a95ee42bbb62d <http://schema.org/mainContentOfPage> _:nodeab556d782ddc5bbcd32df3e3f585b0 .
+_:node65d866bca65671524ff474c1a198131c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node65d866bca65671524ff474c1a198131c <http://schema.org/name> "MAS"@en-us .
+_:nodea5917de87ce6ef9793c7422f9aad7aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea5917de87ce6ef9793c7422f9aad7aa <http://schema.org/datePublished> "2011-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea5917de87ce6ef9793c7422f9aad7aa <http://schema.org/text> "I just sampled my best fermentation to date. It took 3.5 weeks, but it was worth it. Inspired by Firefly Kitchens, I decided to make my own Cortido Sauerkraut. This is a Latin American style sauerkraut. It is has some heat, but not as much as kimchi. The Mexican Oregano really brings out the flavor. [\u2026]\n"@en-us .
+_:nodea5917de87ce6ef9793c7422f9aad7aa <http://schema.org/headline> "Cortido Sauerkraut Recipe"@en-us .
+_:nodea5917de87ce6ef9793c7422f9aad7aa <http://schema.org/author> _:node514d5ec7ce9fe47dca9b7b2b4f4ed8 .
+_:nodeb043edb861c45ada7c13cde3bfe716c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb043edb861c45ada7c13cde3bfe716c <http://schema.org/datePublished> "2010-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb043edb861c45ada7c13cde3bfe716c <http://schema.org/text> "I received this recipe from a vendor at the farmers market. I used raw milk in place of cream and adjusted the ratio of ingredients. This soup was super delicious. Give it a try. If you don\u2019t have goat sausage, go ahead and use a quality pork sausage. Recipe: Toscana Goat Soup Sausage Soup Summary: [\u2026]\n"@en-us .
+_:nodeb043edb861c45ada7c13cde3bfe716c <http://schema.org/headline> "Toscana Goat Sausage Soup Recipe"@en-us .
+_:nodeb043edb861c45ada7c13cde3bfe716c <http://schema.org/author> _:nodef42ab63d776f857b060dc4d3de5cf63 .
+_:nodee5643bd283f2ac9c14ee425df4a84810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee5643bd283f2ac9c14ee425df4a84810 <http://schema.org/name> "MAS"@en-us .
+_:nodee6bf5fab4b3d638ca62a44f2943a7756 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodee6bf5fab4b3d638ca62a44f2943a7756 <http://schema.org/datePublished> "2013-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodee6bf5fab4b3d638ca62a44f2943a7756 <http://schema.org/text> "I was reading the book The Knockoff Economy: How Imitation Sparks Innovation, which had the history of Korean tacos in the Los Angeles area. My mind started to wander. I didn\u2019t care about the economic lesson. I just wanted to eat those tacos. So I put the book down and drove to the nearest Korean [\u2026]\n"@en-us .
+_:nodee6bf5fab4b3d638ca62a44f2943a7756 <http://schema.org/headline> "Gluten Free Korean Bulgogi Tacos"@en-us .
+_:nodee6bf5fab4b3d638ca62a44f2943a7756 <http://schema.org/author> _:node2eadf6e680921fc2a2501477936657 .
+_:node8e179867e3daf234ba15b12f8b71e0f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node8e179867e3daf234ba15b12f8b71e0f0 <http://schema.org/datePublished> "2012-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8e179867e3daf234ba15b12f8b71e0f0 <http://schema.org/text> "It was just 2 months ago that I posted Kimchi 2.0. It was my \u201Cmajor release\u201D of all the tricks and ingredients that had been working for me since my original kimchi recipe. It is probably too soon for a Kimchi 3.0, but I just recently made my favorite kimchi to date. I removed the [\u2026]\n"@en-us .
+_:node8e179867e3daf234ba15b12f8b71e0f0 <http://schema.org/headline> "Chive Talking Kimchi"@en-us .
+_:node8e179867e3daf234ba15b12f8b71e0f0 <http://schema.org/author> _:node51628438597a49e625c7c3fb1e54ffd .
+_:nodef5d84079bf55a1dda09bc1baeefe3995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef5d84079bf55a1dda09bc1baeefe3995 <http://schema.org/datePublished> "2012-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef5d84079bf55a1dda09bc1baeefe3995 <http://schema.org/text> "My Indian cooking project is still going strong. Yesterday I decided to make my own ghee. It was even easier to make than paneer. I can\u2019t believe I used to buy $7 jars of this stuff. Never again. Here is how you make it. Slowly heat unsalted butter on a low for about 30 minutes [\u2026]\n"@en-us .
+_:nodef5d84079bf55a1dda09bc1baeefe3995 <http://schema.org/headline> "Ghee and the Canolification of India"@en-us .
+_:nodef5d84079bf55a1dda09bc1baeefe3995 <http://schema.org/author> _:node6770a862d3b6efca06ca18ef0829040 .
+_:node5a3baabe2ce8441844352b15c6434563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node5a3baabe2ce8441844352b15c6434563 <http://schema.org/datePublished> "2011-07-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5a3baabe2ce8441844352b15c6434563 <http://schema.org/text> "Earlier this week I saw a video showing how to make bacon-wrapped egg cupcakes. I was so inspired that I made the recipe twice. The first time I did a scrambled egg version, The second time, I took the advice in the video and did the eggs \u201Csunny side up\u201D. I had made up bacon [\u2026]\n"@en-us .
+_:node5a3baabe2ce8441844352b15c6434563 <http://schema.org/headline> "Bacon Egg Cupcakes"@en-us .
+_:node5a3baabe2ce8441844352b15c6434563 <http://schema.org/author> _:node6f5177cf427b6e90762dfb55dd59b62 .
+_:nodea849b44191efce6b527bbd43e3678ff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodea849b44191efce6b527bbd43e3678ff6 <http://schema.org/name> "MAS"@en-us .
+_:nodee68965decc1f2b82fc06b2271a27c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee68965decc1f2b82fc06b2271a27c0 <http://schema.org/name> "MAS"@en-us .
+_:noded550ca2539629836fb8ddcb59ba595a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:noded550ca2539629836fb8ddcb59ba595a <http://schema.org/datePublished> "2012-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded550ca2539629836fb8ddcb59ba595a <http://schema.org/text> "Each time I visit an Asian grocery store I make it a point to buy something foreign to me. I want the challenge of taking home a food item that puzzles or scares me. On a recent adventure, I bought a box of baby octopus. I had no clue how I was going to prepare [\u2026]\n"@en-us .
+_:noded550ca2539629836fb8ddcb59ba595a <http://schema.org/headline> "My First Octopus"@en-us .
+_:noded550ca2539629836fb8ddcb59ba595a <http://schema.org/author> _:node783e56c2ee84d451b6fd5bf835d0ee .
+_:node9852e29fd4a6a565e398575aeb686246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node9852e29fd4a6a565e398575aeb686246 <http://schema.org/datePublished> "2013-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node9852e29fd4a6a565e398575aeb686246 <http://schema.org/text> "I\u2019ve now been making kinchi for three years. During that time I have made it different almost every single time. Also during this period, I have shared my kimchi with many people. The feedback has been extremely positive. One of the compliments I have received several times is that some people that state they normally [\u2026]\n"@en-us .
+_:node9852e29fd4a6a565e398575aeb686246 <http://schema.org/headline> "Why My Kimchi is Awesome"@en-us .
+_:node9852e29fd4a6a565e398575aeb686246 <http://schema.org/author> _:node3428f08f30fdebc3a7765bb0906dcf8b .
+_:nodeb021f9655b6140a765575013cfe96672 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeb021f9655b6140a765575013cfe96672 <http://schema.org/name> "MAS"@en-us .
+_:nodee4525f916a30e2cd95d5fee339dc88ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee4525f916a30e2cd95d5fee339dc88ed <http://schema.org/name> "MAS"@en-us .
+_:nodec26f8c2fa6531a9369c114dfdaeb55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodec26f8c2fa6531a9369c114dfdaeb55 <http://schema.org/datePublished> "2014-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec26f8c2fa6531a9369c114dfdaeb55 <http://schema.org/text> "Shortly after arriving in Seattle in 2007,\u00A0I broke down and bought a good coffee grinder. After years of thinking my old grinder was good enough to grind fine and consistent for espresso, I spent the $350 for the Rancilio\u00A0Rocky. I\u2019m frugal, so the purchase was tough to make. I\u2019m the guy that tries to squeeze [\u2026]\n"@en-us .
+_:nodec26f8c2fa6531a9369c114dfdaeb55 <http://schema.org/headline> "The Pressure Cooker is a Game Changer"@en-us .
+_:nodec26f8c2fa6531a9369c114dfdaeb55 <http://schema.org/author> _:nodec897fbb12a516c622510613288de7092 .
+_:noded845d3e530771fcf6abfedd55b1d4b1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded845d3e530771fcf6abfedd55b1d4b1f <http://schema.org/name> "MAS"@en-us .
+_:nodec77adf8781d88223f7e5e7c7f48bf0dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodec77adf8781d88223f7e5e7c7f48bf0dd <http://schema.org/datePublished> "2013-04-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec77adf8781d88223f7e5e7c7f48bf0dd <http://schema.org/text> "In the comments of the post Celery Resurrection, I got an idea from Mark to ferment celery. I sliced a bunch of celery and placed into a jar. Then I added a tablespoon of sea salt, covered with water and sat on the counter for 10 days. The taste was OK. It retained most of [\u2026]\n"@en-us .
+_:nodec77adf8781d88223f7e5e7c7f48bf0dd <http://schema.org/headline> "Fermented Celery"@en-us .
+_:nodec77adf8781d88223f7e5e7c7f48bf0dd <http://schema.org/author> _:node6974d1beaf37f9b8e891e1a3bb22a3d6 .
+_:node3e25bd35b6688b115f5cf1b934df38a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3e25bd35b6688b115f5cf1b934df38a <http://schema.org/name> "MAS"@en-us .
+_:node188b3eb91b6abf97bd75e63ce6994e88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node188b3eb91b6abf97bd75e63ce6994e88 <http://schema.org/datePublished> "2012-06-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node188b3eb91b6abf97bd75e63ce6994e88 <http://schema.org/text> "A month ago I outlined all the food restrictions involved in a low histamine diet. One of the no-no foods is vinegar, which is a sneaky food ingredient. I was just getting ready to load up the slow cooker with pork and BBQ sauce, when I realized that vinegar was in the sauce. I didn\u2019t [\u2026]\n"@en-us .
+_:node188b3eb91b6abf97bd75e63ce6994e88 <http://schema.org/headline> "An Asian Alternative to Slow Cooked Pork"@en-us .
+_:node188b3eb91b6abf97bd75e63ce6994e88 <http://schema.org/author> _:node8a1dbf80d56cb749bf2791321e50a346 .
+_:node2bd9a7a0819dc46f411a4ed59742fae6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node2bd9a7a0819dc46f411a4ed59742fae6 <http://schema.org/datePublished> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2bd9a7a0819dc46f411a4ed59742fae6 <http://schema.org/text> "I know I\u2019ve said it before, but I just love making Cajun Style Roasted Pumpkin Seeds. Here is how I make mine. Preheat oven to 385F Take rinsed pumpkin seeds and place into bowl. Add some olive oil. Add some Cajun spices. Mix it up. Look at photos below to see how covered the seeds [\u2026]\n"@en-us .
+_:node2bd9a7a0819dc46f411a4ed59742fae6 <http://schema.org/headline> "Cajun Style Pumpkin Seeds"@en-us .
+_:node2bd9a7a0819dc46f411a4ed59742fae6 <http://schema.org/author> _:node9d709a95bbbf4531da747b351939af .
+_:nodea7e3df5a80f017d34bbb6a6dba9f34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea7e3df5a80f017d34bbb6a6dba9f34 <http://schema.org/datePublished> "2012-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea7e3df5a80f017d34bbb6a6dba9f34 <http://schema.org/text> "Back in August I had my first attempt cooking octopus. The result was a little on the chewy side. I followed this advice for the first few octopus and 3 minutes was too much. Way too\u00A0chewy. The remaining ones took about half that time. The chewiness was far less, but still not absent. Even though [\u2026]\n"@en-us .
+_:nodea7e3df5a80f017d34bbb6a6dba9f34 <http://schema.org/headline> "Octopus Take 2"@en-us .
+_:nodea7e3df5a80f017d34bbb6a6dba9f34 <http://schema.org/author> _:nodee68965decc1f2b82fc06b2271a27c0 .
+_:node29b7c862c1c672d44ca79567bd847e1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node29b7c862c1c672d44ca79567bd847e1f <http://schema.org/name> "MAS"@en-us .
+_:node2c175334411f35e910281fa0d73279f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node2c175334411f35e910281fa0d73279f6 <http://schema.org/datePublished> "2012-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2c175334411f35e910281fa0d73279f6 <http://schema.org/text> "Probably the most asked question to me about making kimchi or sauerkraut is about salt levels. How much salt should one add to their ferment? My experience tells me that there isn\u2019t a single perfect ratio. It depends upon a few factors, with the most important variable being personal taste. If you like or dislike [\u2026]\n"@en-us .
+_:node2c175334411f35e910281fa0d73279f6 <http://schema.org/headline> "Fermenting Vegetables and Salt Levels"@en-us .
+_:node2c175334411f35e910281fa0d73279f6 <http://schema.org/author> _:nodec2b5064e4ca2af8266f1fc43a8f94 .
+_:nodee93ce9a32561ae50626a89313c83ddb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee93ce9a32561ae50626a89313c83ddb5 <http://schema.org/name> "MAS"@en-us .
+_:node5cb2f2f6c1238bb1ce191366689276ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node5cb2f2f6c1238bb1ce191366689276ef <http://schema.org/datePublished> "2011-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5cb2f2f6c1238bb1ce191366689276ef <http://schema.org/text> "My latest kitchen project came from an idea I read in the comments the Beef Stock post over at brilliantly named blog CheeseSlave. I\u2019d had already been making beef stock for a while now, when I read this from commenter riceinmay. Ouch! My heart hurt when I saw you throw those bones away!!!!! Did you [\u2026]\n"@en-us .
+_:node5cb2f2f6c1238bb1ce191366689276ef <http://schema.org/headline> "Beef Stock Remouillage"@en-us .
+_:node5cb2f2f6c1238bb1ce191366689276ef <http://schema.org/author> _:node4693381bca142bd5d46a10d6a7dbc814 .
+_:nodeba9e83abcae46d927fe1db84a556b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeba9e83abcae46d927fe1db84a556b <http://schema.org/name> "MAS"@en-us .
+_:nodef4fc6982e777c1cd0567c78c0ac657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef4fc6982e777c1cd0567c78c0ac657 <http://schema.org/name> "MAS"@en-us .
+_:nodec7ecb02c6a8d2292322ddd5376cfe1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec7ecb02c6a8d2292322ddd5376cfe1 <http://schema.org/name> "MAS"@en-us .
+_:node71e35b6a66c8d23c8cfd7466eb4fb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node71e35b6a66c8d23c8cfd7466eb4fb2 <http://schema.org/datePublished> "2011-09-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node71e35b6a66c8d23c8cfd7466eb4fb2 <http://schema.org/text> "Are you ready for a sauerkraut with some heat? If you fear spicy, you can stop reading now. The Bhut Jolokia chili pepper is also called Ghost Pepper. How hot is it? According to the Wikipedia, it is 401.5 times hotter than Tabasco sauce. It is so hot that India announced plans to use this [\u2026]\n"@en-us .
+_:node71e35b6a66c8d23c8cfd7466eb4fb2 <http://schema.org/headline> "Ghost Pepper Sauerkraut"@en-us .
+_:node71e35b6a66c8d23c8cfd7466eb4fb2 <http://schema.org/author> _:nodee4525f916a30e2cd95d5fee339dc88ed .
+_:node6eaed1c479a3f392debb7dcc6f89a5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6eaed1c479a3f392debb7dcc6f89a5b <http://schema.org/name> "MAS"@en-us .
+_:node1329776332473e3adc8ef13918244655 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node1329776332473e3adc8ef13918244655 <http://schema.org/datePublished> "2013-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node1329776332473e3adc8ef13918244655 <http://schema.org/text> "I started making dairy kefir again in December and I\u2019m loving it. Not only do I like the taste, but I\u2019m no longer buying containers of yogurt, which means I\u2019m saving money. And unlike the crap kefir products sold at Whole Fools and other grocery stores, I don\u2019t use low-fat milk. Full fat dairy for [\u2026]\n"@en-us .
+_:node1329776332473e3adc8ef13918244655 <http://schema.org/headline> "Making Dairy Kefir is Super Easy"@en-us .
+_:node1329776332473e3adc8ef13918244655 <http://schema.org/author> _:node5f6924bf49f075b8b8fdd819b5630e0 .
+_:node7c69d2b71e882a3a2d2c9e88c45b8cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node7c69d2b71e882a3a2d2c9e88c45b8cf <http://schema.org/name> "MAS"@en-us .
+_:node3d40ce99df24d8dcf6c2c2344d206ac7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node3d40ce99df24d8dcf6c2c2344d206ac7 <http://schema.org/name> "MAS"@en-us .
+_:node5799817a377348b423aa11e3c80c07c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node5799817a377348b423aa11e3c80c07c <http://schema.org/datePublished> "2012-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5799817a377348b423aa11e3c80c07c <http://schema.org/text> "I was poking around on Kayotic Kitchen and I found a recipe for Slow-Cooked\u00A0Bombay\u00A0Potatoes. It was a great idea, but I didn\u2019t have any potatoes. What I did have was a lot of\u00A0cauliflower. Instead of making a single dish, I loaded up my slow cooker and made the dish in bulk. Usually I never would [\u2026]\n"@en-us .
+_:node5799817a377348b423aa11e3c80c07c <http://schema.org/headline> "Indian Style Spicy Cauliflower"@en-us .
+_:node5799817a377348b423aa11e3c80c07c <http://schema.org/author> _:noded1f4268f9b61818400a5141c9a416 .
+_:node9ebbcc5f745043d867e82aa6778cc6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node9ebbcc5f745043d867e82aa6778cc6 <http://schema.org/datePublished> "2011-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node9ebbcc5f745043d867e82aa6778cc6 <http://schema.org/text> "My latest kitchen project was rendering lard using my Crock Pot. After all, lard is healthy. Using the slow cooker allowed me to leave the house and even go to sleep while it did its magic. Note that I had hoped to be finished with my lard before bedtime, but miscalculated how long it would [\u2026]\n"@en-us .
+_:node9ebbcc5f745043d867e82aa6778cc6 <http://schema.org/headline> "Rendering Lard in a Crock Pot"@en-us .
+_:node9ebbcc5f745043d867e82aa6778cc6 <http://schema.org/author> _:nodee5643bd283f2ac9c14ee425df4a84810 .
+_:node611ce741a654eeee71e9d7e3820e32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node611ce741a654eeee71e9d7e3820e32 <http://schema.org/name> "MAS"@en-us .
+_:node5f6924bf49f075b8b8fdd819b5630e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5f6924bf49f075b8b8fdd819b5630e0 <http://schema.org/name> "MAS"@en-us .
+_:node14fed79766a08e9abcf4bf3af422bac0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node14fed79766a08e9abcf4bf3af422bac0 <http://schema.org/datePublished> "2011-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node14fed79766a08e9abcf4bf3af422bac0 <http://schema.org/text> "Today I rendered beef tallow from suet. The beef fat came from 100% grass pastured animal. I used the instructions from the post Make Your Own Beef Tallow with one exception. Instead of using an oven, I used my Crock Pot on the low setting. Here are the delicious crunchy remains (aka \u201Cthe cracklins\u201D). The [\u2026]\n"@en-us .
+_:node14fed79766a08e9abcf4bf3af422bac0 <http://schema.org/headline> "Rendering Beef Tallow in a Crock Pot"@en-us .
+_:node14fed79766a08e9abcf4bf3af422bac0 <http://schema.org/author> _:node69d9b3ecca99de92ac2b322c9cbcb1 .
+_:nodeebf8ee888257cd86268a653611d1e93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeebf8ee888257cd86268a653611d1e93 <http://schema.org/datePublished> "2013-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeebf8ee888257cd86268a653611d1e93 <http://schema.org/text> "I\u2019ve been making\u00A0Shepherd\u2019s Pie a lot lately. It is a nice break from my normal gyro meatloaf staple. Using my larger Pyrex, I double this recipe. It is a perfect leftover food. Just warm and serve.\n"@en-us .
+_:nodeebf8ee888257cd86268a653611d1e93 <http://schema.org/headline> "Shepherd\u2019s Pie"@en-us .
+_:nodeebf8ee888257cd86268a653611d1e93 <http://schema.org/author> _:node3d40ce99df24d8dcf6c2c2344d206ac7 .
+_:nodef48851ae064c1a3abd5aa664d46bbdb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef48851ae064c1a3abd5aa664d46bbdb <http://schema.org/datePublished> "2011-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef48851ae064c1a3abd5aa664d46bbdb <http://schema.org/text> "My latest vegetable ferment is a dill and caraway seed sauerkraut. Even though the standard advice is to use fresh dill, I used a spice jar of dill to see what would happen. Dill is known to be anti-microbial. I have discovered that vegetable ferments that use anti-microbial foods such as peppers, garlic and ginger [\u2026]\n"@en-us .
+_:nodef48851ae064c1a3abd5aa664d46bbdb <http://schema.org/headline> "Dill and Caraway Sauerkraut"@en-us .
+_:nodef48851ae064c1a3abd5aa664d46bbdb <http://schema.org/author> _:nodef7c72c597f9ea98999d35bc177f197 .
+_:nodecb69581f84efc71e70c9d66b93cfd189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodecb69581f84efc71e70c9d66b93cfd189 <http://schema.org/datePublished> "2013-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodecb69581f84efc71e70c9d66b93cfd189 <http://schema.org/text> "For the second edition of making natto, I traded my homemade incubator (styrofoam cooler with a light bulb) for a slow cooker. You can read about that in the post How to Ferment Natto. This one didn\u2019t go so well. Natto needs a stable temperature between 100-113 F for optimal fermentation. Slow cookers, even on [\u2026]\n"@en-us .
+_:nodecb69581f84efc71e70c9d66b93cfd189 <http://schema.org/headline> "Natto 2: Fermentation Boogaloo"@en-us .
+_:nodecb69581f84efc71e70c9d66b93cfd189 <http://schema.org/author> _:node5fea854dc77e8f64804ffd975c92d3b2 .
+_:noded7d225e405e87b1d3633ba2f5ffea3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded7d225e405e87b1d3633ba2f5ffea3 <http://schema.org/name> "MAS"@en-us .
+_:node18f8ac7d5cc94d984ea44c9361f70c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node18f8ac7d5cc94d984ea44c9361f70c5 <http://schema.org/name> "MAS"@en-us .
+_:node8d7996f85ed4957c88df7c8ec32c8fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node8d7996f85ed4957c88df7c8ec32c8fd <http://schema.org/datePublished> "2012-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8d7996f85ed4957c88df7c8ec32c8fd <http://schema.org/text> "I\u2019ve been loosely following the series of posts over on Free the Animal on how potatoes might useful hack in\u00A0accelerating\u00A0fat loss. Now that I\u2019ve porked out from my month without coffee, I decided to try his\u00A0potato soup recipe.\u00A0Read Richard\u2019s post The Latest Diet & Exercise Hacking Towards a Goal for an explanation on why regular [\u2026]\n"@en-us .
+_:node8d7996f85ed4957c88df7c8ec32c8fd <http://schema.org/headline> "Potato Soup with Bugs"@en-us .
+_:node8d7996f85ed4957c88df7c8ec32c8fd <http://schema.org/author> _:node4cd7124ebc7ea2790d5a468e0f73c25 .
+_:nodeee43ff2437e7df6ef1e1cb29ed6ba90 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeee43ff2437e7df6ef1e1cb29ed6ba90 <http://schema.org/name> "MAS"@en-us .
+_:node451c1872c349bbc37cc65746eed1c47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node451c1872c349bbc37cc65746eed1c47 <http://schema.org/name> "MAS"@en-us .
+_:node783e56c2ee84d451b6fd5bf835d0ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node783e56c2ee84d451b6fd5bf835d0ee <http://schema.org/name> "MAS"@en-us .
+_:node8325beada0f4c4f674c6726086142a57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8325beada0f4c4f674c6726086142a57 <http://schema.org/name> "MAS"@en-us .
+_:node3d5d714b27a482c3f75eb87dd42ab0a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node3d5d714b27a482c3f75eb87dd42ab0a9 <http://schema.org/datePublished> "2012-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3d5d714b27a482c3f75eb87dd42ab0a9 <http://schema.org/text> "Making beef stock is something I\u2019ve been doing regularly for a few years now. As wonderful as that magic elixir is, I have been meaning to make a fish based stock for a long time. My motivation came recently when I started teaching myself Korean cooking. One of the base stocks for Korean recipes is [\u2026]\n"@en-us .
+_:node3d5d714b27a482c3f75eb87dd42ab0a9 <http://schema.org/headline> "Anchovy Kelp Stock"@en-us .
+_:node3d5d714b27a482c3f75eb87dd42ab0a9 <http://schema.org/author> _:nodec3d11555371333e21c188108675fa .
+_:node5414f5b944dbdd38d45fdc61418f6f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5414f5b944dbdd38d45fdc61418f6f <http://schema.org/name> "MAS"@en-us .
+_:nodef074fbc10ee44458469a822e436ed4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef074fbc10ee44458469a822e436ed4 <http://schema.org/datePublished> "2014-01-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef074fbc10ee44458469a822e436ed4 <http://schema.org/text> "Recently I went to a local Mexican place and instead of getting my normal tacos, I tried the posole soup. I never had it before. It was great, so I decided to go home and make my own. I figured it would be hard to replicate the flavor, but it turned out to be very [\u2026]\n"@en-us .
+_:nodef074fbc10ee44458469a822e436ed4 <http://schema.org/headline> "Simple Soup Idea \u2013 Posole"@en-us .
+_:nodef074fbc10ee44458469a822e436ed4 <http://schema.org/author> _:node2cf347d4116a5b6ca1dfee4fe5fed41 .
+_:nodefa73539170b32c137431e6e2c819ba2a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefa73539170b32c137431e6e2c819ba2a <http://schema.org/name> "MAS"@en-us .
+_:node226f917ece568104e3a74da6116cd46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node226f917ece568104e3a74da6116cd46 <http://schema.org/name> "MAS"@en-us .
+_:nodef42ab63d776f857b060dc4d3de5cf63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef42ab63d776f857b060dc4d3de5cf63 <http://schema.org/name> "MAS"@en-us .
+_:node414626d593826671c68db458a2f1464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node414626d593826671c68db458a2f1464 <http://schema.org/name> "MAS"@en-us .
+_:node4cd7124ebc7ea2790d5a468e0f73c25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4cd7124ebc7ea2790d5a468e0f73c25 <http://schema.org/name> "MAS"@en-us .
+_:nodea0de3837f6e669456c24ad7725bc5f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodea0de3837f6e669456c24ad7725bc5f <http://schema.org/name> "MAS"@en-us .
+_:nodea47fd932f5dd2926ec394e52db8ff9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodea47fd932f5dd2926ec394e52db8ff9 <http://schema.org/name> "MAS"@en-us .
+_:noded232950f84a139558b9c7bdaba8250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:noded232950f84a139558b9c7bdaba8250 <http://schema.org/datePublished> "2011-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded232950f84a139558b9c7bdaba8250 <http://schema.org/text> "This is for all you cereal eaters that don\u2019t have the time and energy to make eggs in the morning. Make a tray or two of these crust-less quiches in the evening. Place them in the refrigerator and eat them on the way out the door. Pre-heat oven to 400 F. Cook up some veggies. [\u2026]\n"@en-us .
+_:noded232950f84a139558b9c7bdaba8250 <http://schema.org/headline> "Mini Quiches With No Crust"@en-us .
+_:noded232950f84a139558b9c7bdaba8250 <http://schema.org/author> _:noded8fbb35e1a3a4e7f0b987ac0fdbee7 .
+_:node16ed42fcdf43a468b8508548e137ec84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node16ed42fcdf43a468b8508548e137ec84 <http://schema.org/datePublished> "2012-02-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node16ed42fcdf43a468b8508548e137ec84 <http://schema.org/text> "This week my plan was to cook up beef liver with a side of asparagus, but I realized I was short on pans. So I decided to cook everything together. It totally worked and I had one less dish to wash. Recipe: Beef Liver + Asparagus + Garlic Recipe Summary: A simple way to prepare [\u2026]\n"@en-us .
+_:node16ed42fcdf43a468b8508548e137ec84 <http://schema.org/headline> "Beef Liver + Asparagus + Garlic"@en-us .
+_:node16ed42fcdf43a468b8508548e137ec84 <http://schema.org/author> _:node611ce741a654eeee71e9d7e3820e32 .
+_:node10a96921851dca935e64678a09ea9a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node10a96921851dca935e64678a09ea9a9 <http://schema.org/datePublished> "2011-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node10a96921851dca935e64678a09ea9a9 <http://schema.org/text> "I\u2019ve been making kimchi now for over two years. I\u2019d say that about 90% of the people that have tasted my kimchi have found the heat level to be perfect. But I have yet to win over that last 10%, who feel it could be hotter. The problem isn\u2019t easily solved. Adding more Korean red [\u2026]\n"@en-us .
+_:node10a96921851dca935e64678a09ea9a9 <http://schema.org/headline> "Ghost Pepper Kimchi Recipe"@en-us .
+_:node10a96921851dca935e64678a09ea9a9 <http://schema.org/author> _:node226f917ece568104e3a74da6116cd46 .
+_:node2eadf6e680921fc2a2501477936657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2eadf6e680921fc2a2501477936657 <http://schema.org/name> "MAS"@en-us .
+_:nodea74d7c30b2af83cc5977abcfb40861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea74d7c30b2af83cc5977abcfb40861 <http://schema.org/datePublished> "2012-07-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea74d7c30b2af83cc5977abcfb40861 <http://schema.org/text> "When I first starting making kimchi I thought I would never make a soup or stew using that prized ingredient. The reasons were it takes a decent amount of effort to make kimchi and that the heat from the soup would kill off all the probiotic benefits. So in other words, why bother going through [\u2026]\n"@en-us .
+_:nodea74d7c30b2af83cc5977abcfb40861 <http://schema.org/headline> "Kimchi Stew \u2013 Kicking It Korean Style"@en-us .
+_:nodea74d7c30b2af83cc5977abcfb40861 <http://schema.org/author> _:node6724931dfed9ac801c413ec2a91ef5b .
+_:nodea27b1e25b66768fdeb6b6a43382a75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodea27b1e25b66768fdeb6b6a43382a75 <http://schema.org/datePublished> "2010-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodea27b1e25b66768fdeb6b6a43382a75 <http://schema.org/text> "Who needs bread? Not me. I created a primal tuna melt using a carved out red bell pepper. Topped it off with some cheese and then put in under the broiler for a few minutes. Very tasty. I\u2019ll be making this again. Primal Tuna Melt A tuna melt made without bread. Ingredients Tuna Red Bell [\u2026]\n"@en-us .
+_:nodea27b1e25b66768fdeb6b6a43382a75 <http://schema.org/headline> "Primal Tuna Melt"@en-us .
+_:nodea27b1e25b66768fdeb6b6a43382a75 <http://schema.org/author> _:node5e96ab4ed17b5af65d1cd48c4ff57 .
+_:node8b7344f91e8bb7e806df3fb2733be69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8b7344f91e8bb7e806df3fb2733be69 <http://schema.org/name> "MAS"@en-us .
+_:nodec3d11555371333e21c188108675fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec3d11555371333e21c188108675fa <http://schema.org/name> "MAS"@en-us .
+_:node5fea854dc77e8f64804ffd975c92d3b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5fea854dc77e8f64804ffd975c92d3b2 <http://schema.org/name> "MAS"@en-us .
+_:node1395d9a4802a877ea3ce788dfa45c9f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node1395d9a4802a877ea3ce788dfa45c9f7 <http://schema.org/name> "MAS"@en-us .
+_:nodeed2b5f16396d87114a1a66b2cf81166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeed2b5f16396d87114a1a66b2cf81166 <http://schema.org/datePublished> "2013-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeed2b5f16396d87114a1a66b2cf81166 <http://schema.org/text> "It has been almost two years since I last made pemmican. Today I made another batch, only this time I used some Cajun spices. It was a last minutes decision to throw in the Cajun spices. I knew that I didn\u2019t want to use the Montreal Steak blend, so I reached for the Cajun blend. [\u2026]\n"@en-us .
+_:nodeed2b5f16396d87114a1a66b2cf81166 <http://schema.org/headline> "Making Pemmican Cajun Style"@en-us .
+_:nodeed2b5f16396d87114a1a66b2cf81166 <http://schema.org/author> _:node3a4d5f8b6e82ab54375d7c2c1e20252d .
+_:nodeef0a0463a552ec7ae3cc059393f4995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeef0a0463a552ec7ae3cc059393f4995 <http://schema.org/datePublished> "2011-01-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeef0a0463a552ec7ae3cc059393f4995 <http://schema.org/text> "Start with a basic Hoppin\u2019 John recipe. Then replace the rice with cauliflower and don\u2019t use any beans.\n"@en-us .
+_:nodeef0a0463a552ec7ae3cc059393f4995 <http://schema.org/headline> "Paleo Hoppin\u2019 John"@en-us .
+_:nodeef0a0463a552ec7ae3cc059393f4995 <http://schema.org/author> _:nodec7ecb02c6a8d2292322ddd5376cfe1 .
+_:node5e96ab4ed17b5af65d1cd48c4ff57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5e96ab4ed17b5af65d1cd48c4ff57 <http://schema.org/name> "MAS"@en-us .
+_:node6f5177cf427b6e90762dfb55dd59b62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node6f5177cf427b6e90762dfb55dd59b62 <http://schema.org/name> "MAS"@en-us .
+_:nodedcec51999bd3d8d9db9d3aa1f57d8a8a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodedcec51999bd3d8d9db9d3aa1f57d8a8a <http://schema.org/name> "MAS"@en-us .
+_:noded059eb7ea29c729b030f8d822176536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:noded059eb7ea29c729b030f8d822176536 <http://schema.org/datePublished> "2012-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded059eb7ea29c729b030f8d822176536 <http://schema.org/text> "Some people go to the Farmers Market to buy colorful and overpriced produce. I used to play that game, but not anymore. My primary interest is to get the highest nutritional density per dollar. Paying $4 for a bunch of kale doesn\u2019t cut it for me. The most nutrient dense food you can buy comes [\u2026]\n"@en-us .
+_:noded059eb7ea29c729b030f8d822176536 <http://schema.org/headline> "Sheep Testicles Taste Wonderful"@en-us .
+_:noded059eb7ea29c729b030f8d822176536 <http://schema.org/author> _:nodebe49c0909318c4cebe6f59dbf61ebc1 .
+_:node867aa6bd4d1fead782eea1deee563f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node867aa6bd4d1fead782eea1deee563f3 <http://schema.org/name> "MAS"@en-us .
+_:nodeb543065b0a04e1ec069f5b7561d7cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb543065b0a04e1ec069f5b7561d7cf <http://schema.org/datePublished> "2012-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb543065b0a04e1ec069f5b7561d7cf <http://schema.org/text> "Back in June, I posted An Asian Alternative to Slow Cooked Pork. A few days ago I forgot about that recipe and made Slow Cooker Sweet and Spicy Asian Pork Shoulder from Real Simple, which is a little bit different. This one is more sweet and less spicy. If you make this recipe, I think [\u2026]\n"@en-us .
+_:nodeb543065b0a04e1ec069f5b7561d7cf <http://schema.org/headline> "Another Asian Pork Slow Cooker Meal"@en-us .
+_:nodeb543065b0a04e1ec069f5b7561d7cf <http://schema.org/author> _:nodedbc6911b2b1947ef31bdba543a84ec4 .
+_:node69bd8d3e339efa26bf18f902ff98162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node69bd8d3e339efa26bf18f902ff98162 <http://schema.org/datePublished> "2010-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node69bd8d3e339efa26bf18f902ff98162 <http://schema.org/text> "Today I broke in my new kitchen by making a 3 pound batch of spicy kimchi. Since I am now spiking the fermentation using a few tablespoons of the previous kimchi, I expect it to be finished in 5 days instead of 7 days.\n"@en-us .
+_:node69bd8d3e339efa26bf18f902ff98162 <http://schema.org/headline> "New Kitchen, New Kimchi"@en-us .
+_:node69bd8d3e339efa26bf18f902ff98162 <http://schema.org/author> _:node838ccad6b4ea34da94baedf940a92722 .
+_:nodeacf66d3522ce1b29d91d4fe26a401f3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeacf66d3522ce1b29d91d4fe26a401f3c <http://schema.org/datePublished> "2012-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeacf66d3522ce1b29d91d4fe26a401f3c <http://schema.org/text> "When I go to the Farmers Market, I walk past all the produce and head for the meat vendors. When I get to the meat vendors, I go straight to the cooler with the nasty bits. Nasty bits is a term used to describe offal or organ meat and other less popular cuts of meat. [\u2026]\n"@en-us .
+_:nodeacf66d3522ce1b29d91d4fe26a401f3c <http://schema.org/headline> "Beef Sweetbread Recipe"@en-us .
+_:nodeacf66d3522ce1b29d91d4fe26a401f3c <http://schema.org/author> _:node5414f5b944dbdd38d45fdc61418f6f .
+_:nodec2b5064e4ca2af8266f1fc43a8f94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec2b5064e4ca2af8266f1fc43a8f94 <http://schema.org/name> "MAS"@en-us .
+_:noded224f2a5daf963af17c9e223aaa3d09a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:noded224f2a5daf963af17c9e223aaa3d09a <http://schema.org/datePublished> "2012-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded224f2a5daf963af17c9e223aaa3d09a <http://schema.org/text> "I just cooked beef kidney for the first time and it came out great. I decided not to look at other recipes and instead take my best ideas from cooking beef liver and apply them to the kidney. My plan worked! I enjoyed the flavor even more than beef liver. Why would anyone want to [\u2026]\n"@en-us .
+_:noded224f2a5daf963af17c9e223aaa3d09a <http://schema.org/headline> "Beef Kidney With Mushrooms and Garlic"@en-us .
+_:noded224f2a5daf963af17c9e223aaa3d09a <http://schema.org/author> _:nodec56311cd94c0a4bc79bc324c7e9a35c .
+_:node86d539f63e131d1ed8b87158a64485 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node86d539f63e131d1ed8b87158a64485 <http://schema.org/datePublished> "2014-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node86d539f63e131d1ed8b87158a64485 <http://schema.org/text> "The dish I have been most obsessed with in the past few months has been Vietnamese Chicken Congee (Ch\u00E1o G\u00E0). The combination of black pepper and fresh herbs over a rice porridge is simple yet has amazing flavor. Prior to getting a pressure cooker, I made the dish a few times using my rice cooker. [\u2026]\n"@en-us .
+_:node86d539f63e131d1ed8b87158a64485 <http://schema.org/headline> "Vietnamese Chicken Congee in the Pressure Cooker"@en-us .
+_:node86d539f63e131d1ed8b87158a64485 <http://schema.org/author> _:nodea849b44191efce6b527bbd43e3678ff6 .
+_:nodec897fbb12a516c622510613288de7092 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec897fbb12a516c622510613288de7092 <http://schema.org/name> "MAS"@en-us .
+_:nodec56311cd94c0a4bc79bc324c7e9a35c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodec56311cd94c0a4bc79bc324c7e9a35c <http://schema.org/name> "MAS"@en-us .
+_:node263690b16a88ee69a4cc3636b30347f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node263690b16a88ee69a4cc3636b30347f <http://schema.org/name> "MAS"@en-us .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node12fc70476d383fa8afc2c5c1d946958d .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node86d539f63e131d1ed8b87158a64485 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodec26f8c2fa6531a9369c114dfdaeb55 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node222d8fe0d45fde5426ed1729e1df12 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef074fbc10ee44458469a822e436ed4 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node05c64cc738e5ff51de66f25e4c5c59f .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodecb69581f84efc71e70c9d66b93cfd189 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node6674f6f5d97b3a59d9a8dc403fc87a .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeb4d1e4da88667a7bb27cdf1c5311be1 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeed2b5f16396d87114a1a66b2cf81166 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeeab31ad34add28ef2794a9c793c10e6 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node4fb96dbc577230f0226fe2a11261558 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeebf8ee888257cd86268a653611d1e93 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodec77adf8781d88223f7e5e7c7f48bf0dd .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef8a5a358a216dca7fbaa02f14483f27 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node705678d75d5f6d7eab79cffc2efd3e2 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node9852e29fd4a6a565e398575aeb686246 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node1329776332473e3adc8ef13918244655 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodec9d3dd3bacb19c29b57aa33cb18b4196 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodee6bf5fab4b3d638ca62a44f2943a7756 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodea3f4ff3263ddd582daf89b35691459 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node8d7996f85ed4957c88df7c8ec32c8fd .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeb382a7e1a53a318269ab693f9bd529d3 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodea7e3df5a80f017d34bbb6a6dba9f34 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node8e179867e3daf234ba15b12f8b71e0f0 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node8fbba87bbcee59fd64129540164f5e91 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeacf66d3522ce1b29d91d4fe26a401f3c .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node5d58d51bf0ea38ab50cbeb2682ce8ec2 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node3d5d714b27a482c3f75eb87dd42ab0a9 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodefa922165b4c925cae221ff460d4f55c .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef7f3f21c7ef94640bf8a8c12b6d17d32 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeb543065b0a04e1ec069f5b7561d7cf .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodefcf9a442e9a347d373509e4e43351249 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node1d739824334881fc1859f6ffe88d632 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node877af66f1c93393e67eafc8fcaf88172 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeae243f20e784e55916aded85416397ba .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:noded550ca2539629836fb8ddcb59ba595a .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node4b3960b5cabface1cdb3f82b551702e .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node9c965d3f5b997552ed39035889338ee .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node57ae9c97bdcfa91ad946424891f03bb4 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef6f8752599cbdd8d46c95e6fd5dc1ed0 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node162d144933a4314bfa30cda073ecbd35 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node37971e33ae38a1ec5c413d4cb8b2a46a .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodea74d7c30b2af83cc5977abcfb40861 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef5d84079bf55a1dda09bc1baeefe3995 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeda04e8ab18b65823b143835f96946 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node585d0ede788e526f4e3ebf56b4a1663 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodebff2a33b8eb91cc3a91c23e040f8e832 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node2554a8f472aa5834f2b5d75cbd4cb .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeaf7de1c5e28c2b0e369c8286c775b15 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node5799817a377348b423aa11e3c80c07c .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node188b3eb91b6abf97bd75e63ce6994e88 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodecd6073e24933cfb9fff9c6a859fd615 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node2c175334411f35e910281fa0d73279f6 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodea51c69521351d3650e81682d39e31d .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:noded059eb7ea29c729b030f8d822176536 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node64589f315b8bcc69063bb3f705973c7 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node7f149b12e2a594f10fcae5c3cd9dccc .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node8c211835fb391a206a1136d3dec3cb8d .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node97109438e7c37426732f8051eedab77d .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node20e2ad372e92468f897eab7bd81d7c6 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node6beceed49beed1398b755ab933b2ccff .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeed59e79b464b2eeba17adc5cc14e55a3 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node81fd2e67abf87dc9a6a7b8a89912b821 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodece1694d6e68cde57f64518b919ca5b53 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef557ae4eea3b4d81df728832c5d9bdc7 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node16ed42fcdf43a468b8508548e137ec84 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeeac6a7dbf7cb3b71369e24bebc40 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node984483a0cff7e548ed5e5e893da44be9 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef7c0ab292fe91a2512779379b70f1f .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:noded224f2a5daf963af17c9e223aaa3d09a .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node0c5b5ebd9d2fe3607dd418546b97ec .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node28ae7c3a9db555bb1c45ba84b831c68b .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node60f69573f54ad4c0ad22e7e548bd34a3 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node10a96921851dca935e64678a09ea9a9 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:noded632fc2631c88fdc64657eb7fa5017 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node71e35b6a66c8d23c8cfd7466eb4fb2 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node5cb2f2f6c1238bb1ce191366689276ef .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef48851ae064c1a3abd5aa664d46bbdb .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node5a3baabe2ce8441844352b15c6434563 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node9ebbcc5f745043d867e82aa6778cc6 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node92abeccc17f846319777495ba232464 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node936771f6a2787ba60c5fe35494976d2 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodea5917de87ce6ef9793c7422f9aad7aa .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node7a3e3a26b73a5cd42f0f38114e69d8 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node373962ebd5cdafbc89b34e9672efeb9 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node397680d7f6654bc81336ccabaa9f815 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodefdb25281c299559e169f7db573aa163d .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node7ba6a691515b45d351af236845ecd4 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:noded232950f84a139558b9c7bdaba8250 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node14fed79766a08e9abcf4bf3af422bac0 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeef0a0463a552ec7ae3cc059393f4995 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodef15b639bb78c4c54a4146ee41af56e4 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node6de46f38b0e6ff6040fec354c097 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeb043edb861c45ada7c13cde3bfe716c .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node69bd8d3e339efa26bf18f902ff98162 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodeb6f4eda13a4a4b653a62e318e494dbea .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:nodea27b1e25b66768fdeb6b6a43382a75 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node30f1dced7d3e92b5544f22c30333065 .
+_:nodeab556d782ddc5bbcd32df3e3f585b0 <http://schema.org/blogPost> _:node2bd9a7a0819dc46f411a4ed59742fae6 .
+_:node984483a0cff7e548ed5e5e893da44be9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node984483a0cff7e548ed5e5e893da44be9 <http://schema.org/datePublished> "2012-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node984483a0cff7e548ed5e5e893da44be9 <http://schema.org/text> "The past few years I have really taken up the hobby of cooking. Not only has it increased the quality of my health and saved me money, but I honestly love reverse engineering recipes. The one dish over the past few years that has eluded me has been gyro meat. Gyro meat is mix of [\u2026]\n"@en-us .
+_:node984483a0cff7e548ed5e5e893da44be9 <http://schema.org/headline> "My Gyro Obsession and The Meatball Solution"@en-us .
+_:node984483a0cff7e548ed5e5e893da44be9 <http://schema.org/author> _:node8b7344f91e8bb7e806df3fb2733be69 .
+_:node99e0708170bee6239e3fe88b1c86c6fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node99e0708170bee6239e3fe88b1c86c6fb <http://schema.org/name> "MAS"@en-us .
+_:nodee71a323f871a649a6a7e3c88e2bce2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee71a323f871a649a6a7e3c88e2bce2 <http://schema.org/name> "MAS"@en-us .
+_:noded1f4268f9b61818400a5141c9a416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded1f4268f9b61818400a5141c9a416 <http://schema.org/name> "MAS"@en-us .
+_:node92abeccc17f846319777495ba232464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node92abeccc17f846319777495ba232464 <http://schema.org/datePublished> "2011-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node92abeccc17f846319777495ba232464 <http://schema.org/text> "If you find kimchi is too spicy or have a food intolerance to nightshade vegetables, you will want to make your kimchi without red pepper flakes. The first time I made White Kimchi, I was unimpressed with the flavor. Kimchi without red pepper flakes can be rather bland. I\u2019ve learned a few tricks since then. [\u2026]\n"@en-us .
+_:node92abeccc17f846319777495ba232464 <http://schema.org/headline> "White Kimchi"@en-us .
+_:node92abeccc17f846319777495ba232464 <http://schema.org/author> _:node21969670b5d142b83da3fc5c57be6a9f .
+_:node0c5b5ebd9d2fe3607dd418546b97ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node0c5b5ebd9d2fe3607dd418546b97ec <http://schema.org/datePublished> "2012-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node0c5b5ebd9d2fe3607dd418546b97ec <http://schema.org/text> "It was not my intention to make a vegan friendly recipe, but this turned out so good that I had to share it. I\u2019ve made this Thai curry twice now and I love it. And as good as it tastes, the best part might be that it costs very little to make. In fact, I [\u2026]\n"@en-us .
+_:node0c5b5ebd9d2fe3607dd418546b97ec <http://schema.org/headline> "Thai Pumpkin and Broccoli Curry (Vegan)"@en-us .
+_:node0c5b5ebd9d2fe3607dd418546b97ec <http://schema.org/author> _:nodee550a4233079dbb68342724915f09d .
+_:node64589f315b8bcc69063bb3f705973c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node64589f315b8bcc69063bb3f705973c7 <http://schema.org/datePublished> "2012-05-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node64589f315b8bcc69063bb3f705973c7 <http://schema.org/text> "Years ago I attempted to make risotto and it didn\u2019t turn out that well. I don\u2019t recall what I did wrong, but after seeing the\u00A0Creamy Vegetable Risotto\u00A0recipe on\u00A0dishes and dishes, I decided to try again. I\u2019m glad I did, because it turned out great. I was missing a few items when I went to make [\u2026]\n"@en-us .
+_:node64589f315b8bcc69063bb3f705973c7 <http://schema.org/headline> "Shrimp Risotto"@en-us .
+_:node64589f315b8bcc69063bb3f705973c7 <http://schema.org/author> _:noded7bc8affe75ca1d1bed28d173dbfb7a0 .
+_:node7f149b12e2a594f10fcae5c3cd9dccc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node7f149b12e2a594f10fcae5c3cd9dccc <http://schema.org/datePublished> "2012-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node7f149b12e2a594f10fcae5c3cd9dccc <http://schema.org/text> "Recently I made my first ever cucumber kimchi. I\u2019m still dialing in the recipe, so I have nothing to post at this time. This is a shorter fermentation than regular kimchi, because there is no cabbage. I pulled mine after two days. It is sliced\u00A0cucumbers, chopped garlic, Korean red pepper flakes, sea salt all topped [\u2026]\n"@en-us .
+_:node7f149b12e2a594f10fcae5c3cd9dccc <http://schema.org/headline> "Cucumber Kimchi and the Sardine Solution"@en-us .
+_:node7f149b12e2a594f10fcae5c3cd9dccc <http://schema.org/author> _:nodedc403c86a76fb09dff969c2917cb1a70 .
+_:node9d709a95bbbf4531da747b351939af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node9d709a95bbbf4531da747b351939af <http://schema.org/name> "MAS"@en-us .
+_:node37739cff3c17676658b5e4c5122498 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node37739cff3c17676658b5e4c5122498 <http://schema.org/name> "MAS"@en-us .
+_:nodef557ae4eea3b4d81df728832c5d9bdc7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef557ae4eea3b4d81df728832c5d9bdc7 <http://schema.org/datePublished> "2012-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodef557ae4eea3b4d81df728832c5d9bdc7 <http://schema.org/text> "Green beans with onions, garlic, red pepper flakes and bacon with a side of baked sweet potato.\n"@en-us .
+_:nodef557ae4eea3b4d81df728832c5d9bdc7 <http://schema.org/headline> "Green Beans are Better With Bacon"@en-us .
+_:nodef557ae4eea3b4d81df728832c5d9bdc7 <http://schema.org/author> _:nodef89b234c61a4de6fe84f52ee7d282596 .
+_:nodece1694d6e68cde57f64518b919ca5b53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodece1694d6e68cde57f64518b919ca5b53 <http://schema.org/datePublished> "2012-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodece1694d6e68cde57f64518b919ca5b53 <http://schema.org/text> "I\u2019ve long since given up regular spaghetti. These days I use the spaghetti squash. I detailed my pasta journey in the post Spaghetti Evolution The Road to Paleolithic Pasta. This week I was inspired by a recipe online\u00A0to swap out the ground beef for Italian Sausage. It turned out great, both as dinner and for [\u2026]\n"@en-us .
+_:nodece1694d6e68cde57f64518b919ca5b53 <http://schema.org/headline> "Spaghetti Squash Now With Italian Sausage"@en-us .
+_:nodece1694d6e68cde57f64518b919ca5b53 <http://schema.org/author> _:node40adecaa332d4a5f1ad1cd563859142d .
+_:node8a1dbf80d56cb749bf2791321e50a346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8a1dbf80d56cb749bf2791321e50a346 <http://schema.org/name> "MAS"@en-us .
+_:node983dca73344eecb54de4c6681bcf2445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

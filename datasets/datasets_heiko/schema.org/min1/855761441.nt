@@ -1,0 +1,7 @@
+_:nodecc5b20a5112fe87abdd0b6c36aab782f <http://schema.org/name> "Chris Dupin"@en-us .
+_:node3043f217d5f432c5b3e4cc19559cb5a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node3043f217d5f432c5b3e4cc19559cb5a7 <http://schema.org/name> "Commission: LA-Long Beach port merger a 'no-brainer'"@en-us .
+_:node3043f217d5f432c5b3e4cc19559cb5a7 <http://schema.org/author> _:nodecc5b20a5112fe87abdd0b6c36aab782f .
+_:node3043f217d5f432c5b3e4cc19559cb5a7 <http://schema.org/datePublished> "Thursday, April 10, 2014"@en-us .
+_:node3043f217d5f432c5b3e4cc19559cb5a7 <http://schema.org/alternateName> "Null"@en-us .
+_:nodea9a38db8de78e74e12948b5edce65d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

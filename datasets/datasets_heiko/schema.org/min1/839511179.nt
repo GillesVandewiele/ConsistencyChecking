@@ -1,0 +1,18 @@
+_:node40886931de7fa1d496c3ed6c65c5b34 <http://schema.org/breadcrumb> "\n           \n               \n                                            \n                                                            Home\n                                                    \n                                            \n                                                            Takeaways delivering to South Woodford E18\n                                                    \n                                            \n                                                            Jamuna Tandoori\n                                                    \n                                            \n                                                            Checkout\n                                                    \n                                    \n\t\t\t\t\n           \n        " .
+_:nodec62d6ed0bb63ee1a3697d08e519cfc88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodec62d6ed0bb63ee1a3697d08e519cfc88 <http://schema.org/ratingCount> "7" .
+_:nodec62d6ed0bb63ee1a3697d08e519cfc88 <http://schema.org/bestRating> "5" .
+_:nodec62d6ed0bb63ee1a3697d08e519cfc88 <http://schema.org/ratingValue> "3.7" .
+_:nodec62d6ed0bb63ee1a3697d08e519cfc88 <http://schema.org/worstRating> "1" .
+_:nodec62d6ed0bb63ee1a3697d08e519cfc88 <http://schema.org/itemReviewed> "Jamuna Tandoori" .
+_:nodec03034eaed9072a9b7b7575c251908d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodec03034eaed9072a9b7b7575c251908d <http://schema.org/postalCode> "E18 2PB\n\t                                    " .
+_:nodec03034eaed9072a9b7b7575c251908d <http://schema.org/addressLocality> "London" .
+_:nodec03034eaed9072a9b7b7575c251908d <http://schema.org/streetAddress> "\n\t                                    \t249 High Road, South Woodford\n\t                                    " .
+_:node539d704b35e7bc89b109a59aebf2cc3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> .
+_:node539d704b35e7bc89b109a59aebf2cc3 <http://schema.org/logo> <http://static.hungryhouse.co.uk/images/restlogos/12911/jamuna-tandoori.gif> .
+_:node539d704b35e7bc89b109a59aebf2cc3 <http://schema.org/aggregateRating> _:nodec62d6ed0bb63ee1a3697d08e519cfc88 .
+_:node539d704b35e7bc89b109a59aebf2cc3 <http://schema.org/url> <http://hungryhouse.co.uk/jamuna-tandoori/offline//jamuna-tandoori> .
+_:node539d704b35e7bc89b109a59aebf2cc3 <http://schema.org/name> "\n                                \n                                    Jamuna Tandoori\n                            " .
+_:node539d704b35e7bc89b109a59aebf2cc3 <http://schema.org/address> _:nodec03034eaed9072a9b7b7575c251908d .
+_:node726c3cff306f6540299e8e9e63b6816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

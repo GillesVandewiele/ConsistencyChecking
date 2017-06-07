@@ -1,0 +1,16 @@
+_:genid2d05a0ff74e41f4eda804e04123a35f03f2dN67673 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d05a0ff74e41f4eda804e04123a35f03f2dN67673 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d05a0ff74e41f4eda804e04123a35f03f2dN67673 .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/6538f5e0c9ef6985800523059f3c3404.jpg> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#name> "100643Q Tensioned Signature/V Motorized Front Projection Screen (50x80&quot;) With 94&quot; Diagonal Image Size, 16:10 Format, 16:10 Aspect Ratio, Quiet Motor &amp; Hi Def Grey Finish - Ceiling Recess" .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "The Draper Signature/V 50x80\" Motorized Front Projection Screen is ideal for boardrooms and meeting rooms. The Signature Series offers the clean appearance of a ceiling-recessed screen in virtually any size through 16' wide, with any viewing surface." .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Draper 100643Q Projector Screens" .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/draper-100643q-i162333.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dd8aab8e71b664527b007f6fed2ee11922dN66490 <http://rdf.data-vocabulary.org/#child> _:genid2dd8aab8e71b664527b007f6fed2ee11922dN66512 .

@@ -1,0 +1,3 @@
+_:nodecb1db9141da897551607319cd5f8d58 <http://schema.org/name> "Marian Anderson Contralto, 1932 :: Nashville Public Library Digital Collection" .
+_:nodecb1db9141da897551607319cd5f8d58 <http://schema.org/image> "http://digital.library.nashville.org/utils/getthumbnail/collection/nr/id/829" .
+_:node6ca2c1b97282bfef6a9a68c9262020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,3 @@
+_:node9fc385ac55c5b76dd55af2b50ddc11 <http://schema.org/name> "CRI&P train, engine number 218 + additional diesel unit, engine type Ge U25B :: Western History" .
+_:node9fc385ac55c5b76dd55af2b50ddc11 <http://schema.org/image> "http://cdm15330.contentdm.oclc.org/utils/getthumbnail/collection/p15330coll22/id/46741" .
+_:nodea2aaf747a5b8d63f87f49d3bb88b3ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Epicurus> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Metrodorus_of_Lampsacus_(the_younger)> .
+<http://dbpedia.org/resource/Epicurus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Epicurus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Metrodorus_of_Lampsacus_(the_younger)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Metrodorus_of_Lampsacus_(the_younger)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Epicurus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Metrodorus_of_Lampsacus_(the_younger)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .

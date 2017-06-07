@@ -1,0 +1,24 @@
+<http://www.aquacave.com/aquarium-additives/zeovit-aquarium-additives-supplements/zeovit-zeostart-3.html> <http://xmlns.com/foaf/0.1/depiction> <http://www.aquacave.com/media/catalog/product/cache/1/image/8f39017fa9e41584ae4b73c321149768/z/e/zeovitzeostart31_6.jpg> .
+<http://www.aquacave.com/aquarium-additives/zeovit-aquarium-additives-supplements/zeovit-zeostart-3.html> <http://purl.org/goodrelations/v1#description> "<p><br />ZeoVit ZeoStart 3.<br /><br /> ZEOstart 2 was developed for reefers who want optimum water parameters in a biological way. It promotes the reproduction of all nitrifying bacteria in the aquarium and is therefore very effective in reducing phosphate and nitrate, nitrite and several inhibitors. <br />The skimmer removes up to 100 % more concentrated adsorbent. Bacteria dependent slime algae dissappears rapidly and a biological balance is re-established. <br /><br /> To start a new tank it shortens the inital phase enormously to about only 14 days. <br /><br /> This product is not only for the initial phase, it should be dosed every day in all tanks. It enhances the metallic colors on Acropora, Montipora, Poccilopora and Stylophora. Soft corals grow faster and open the polyps wider. <br /><br /> Dose directly into the water. Swich off the skimmer briefly if possible. Do not increase dosage of 2 ml per 250 gallons/1000 L daily - please not that it is highly concentrated. Overdosing is dangerous for all fish!</p>"@en .
+<http://www.aquacave.com/aquarium-additives/zeovit-aquarium-additives-supplements/zeovit-zeostart-3.html> <http://purl.org/goodrelations/v1#name> "ZeoVit ZeoStart 3"@en .
+<http://www.aquacave.com/aquarium-additives/zeovit-aquarium-additives-supplements/zeovit-zeostart-3.html> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68059 <http://rdf.data-vocabulary.org/#itemreviewed> "ZeoVit ZeoStart 3"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68025 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68025 <http://purl.org/goodrelations/v1#hasMinCurrencyValue> "42.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68059 <http://rdf.data-vocabulary.org/#votes> "1"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68059 <http://rdf.data-vocabulary.org/#count> "1"@en .
+<http://www.aquacave.com/media/catalog/product/cache/1/image/8f39017fa9e41584ae4b73c321149768/z/e/zeovitzeostart31_6.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.aquacave.com/media/catalog/product/cache/1/image/8f39017fa9e41584ae4b73c321149768/z/e/zeovitzeostart31_6.jpg> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68101 <http://rdf.data-vocabulary.org/#dtreviewed> "2014-08-09 21:06:15"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68101 <http://rdf.data-vocabulary.org/#reviewer> "mike"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68101 <http://rdf.data-vocabulary.org/#description> "Starting using this product about a week ago. Don't quiet know the results yet but I am sure it going to boost my good bacteria which will help keep the phosphates and nitrates in check."@en .
+<http://www.aquacave.com/aquarium-additives/zeovit-aquarium-additives-supplements/zeovit-zeostart-3.html> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68075 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68075 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68075 <http://rdf.data-vocabulary.org/#average> "5"@en .
+<http://www.aquacave.com/aquarium-additives/zeovit-aquarium-additives-supplements/zeovit-zeostart-3.html> <http://rdf.data-vocabulary.org/#itemreviewed> "Great additive"@en .
+_:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68059 <http://rdf.data-vocabulary.org/#rating> _:genid2d4f97ad80a9a44989b16a38d2ff07fc412dN68075 .
+_:genid2dad5eaa94e6fe48b5bf5b07eac0ed7c652dN66115 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

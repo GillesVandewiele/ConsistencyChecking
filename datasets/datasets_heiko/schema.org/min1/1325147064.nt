@@ -1,0 +1,8 @@
+_:node37a42c25fc3df6ac7cf949abace6521e <http://schema.org/name> "Chevrolet"@en-us .
+_:node7963aab0995335dca5f9fcf1709f777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node7963aab0995335dca5f9fcf1709f777 <http://schema.org/name> "2007 Chevrolet HHR Panel SUV"@en-us .
+_:node7963aab0995335dca5f9fcf1709f777 <http://schema.org/url> <http://autos.jdpower.com/research/Chevrolet/HHR+Panel/2007/SUV/specs.htm//research/Chevrolet/HHR+Panel/2007/SUV/index.htm> .
+_:node7963aab0995335dca5f9fcf1709f777 <http://schema.org/brand> _:node37a42c25fc3df6ac7cf949abace6521e .
+_:node63740b58a526bc263d9bf18f825d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node63740b58a526bc263d9bf18f825d7 <http://schema.org/breadcrumb> "\nHome /\nResearch /\nChevrolet /\nSUVs /\n2007 Chevrolet HHR Panel /\nSpecs\n"@en-us .
+_:node3ba878d17d4859aa6240d3fc5525ba1a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Ringworld_(role-playing_game)> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/Sherman_Kahn> .
+<http://dbpedia.org/resource/Ringworld_(role-playing_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> .
+<http://dbpedia.org/resource/Ringworld_(role-playing_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Game> .

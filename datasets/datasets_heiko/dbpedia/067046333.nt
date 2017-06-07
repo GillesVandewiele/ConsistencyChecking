@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Stew> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Meat> .
+<http://dbpedia.org/resource/Stew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> .

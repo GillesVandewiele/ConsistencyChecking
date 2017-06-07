@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Jackson_Pollock> <http://dbpedia.org/ontology/training> <http://dbpedia.org/resource/Art_Students_League_of_New_York> .
+<http://dbpedia.org/resource/Jackson_Pollock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jackson_Pollock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Jackson_Pollock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .

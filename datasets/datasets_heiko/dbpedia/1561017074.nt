@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Lionel_Hampton> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Gloria_Parker> .
+<http://dbpedia.org/resource/Lionel_Hampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lionel_Hampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Lionel_Hampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Lionel_Hampton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+<http://dbpedia.org/resource/Gloria_Parker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Gloria_Parker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

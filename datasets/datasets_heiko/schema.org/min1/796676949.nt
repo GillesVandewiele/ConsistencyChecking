@@ -1,0 +1,14 @@
+_:nodefd8af991b0b797dc47635b81397d29ac <http://schema.org/image> <http://www.gravatar.com/avatar/66cab488e2f08b60d2d8caa592167a82?s=100&d=http%3A%2F%2Fforums.xbox-scene.com%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:nodefd8af991b0b797dc47635b81397d29ac <http://schema.org/name> "kgross"@en .
+_:node85adfa12a825e1c7111c719bb99b373a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node85adfa12a825e1c7111c719bb99b373a <http://schema.org/image> <http://www.gravatar.com/avatar/66cab488e2f08b60d2d8caa592167a82?s=100&d=http%3A%2F%2Fforums.xbox-scene.com%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:node85adfa12a825e1c7111c719bb99b373a <http://schema.org/name> "kgross"@en .
+_:node5f22f35cc3fd6d78c7ae3e975f6f6ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5f22f35cc3fd6d78c7ae3e975f6f6ab <http://schema.org/image> <http://www.gravatar.com/avatar/66cab488e2f08b60d2d8caa592167a82?s=100&d=http%3A%2F%2Fforums.xbox-scene.com%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:node5f22f35cc3fd6d78c7ae3e975f6f6ab <http://schema.org/name> "kgross"@en .
+_:node744ddf2cfa19798b948b45c7147152a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node744ddf2cfa19798b948b45c7147152a <http://schema.org/dateCreated> "Oct 31 2009 03:54 AM"@en .
+_:node744ddf2cfa19798b948b45c7147152a <http://schema.org/name> "Possible Bios Issue"@en .
+_:node744ddf2cfa19798b948b45c7147152a <http://schema.org/interactionCount> "UserComments:3"@en .
+_:node744ddf2cfa19798b948b45c7147152a <http://schema.org/creator> "\n\tkgross\n"@en .
+_:node4f24d7d99ef274ff76b6c64cd5d4284b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

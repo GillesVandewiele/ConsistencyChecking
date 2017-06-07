@@ -1,0 +1,16 @@
+_:genid2dd73beb7656d14dc89b2ceb72c8c259ac2dN67288 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dd73beb7656d14dc89b2ceb72c8c259ac2dN67288 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dd73beb7656d14dc89b2ceb72c8c259ac2dN67288 .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/143bdb0d71aa9a29318ccc93f5cc3de0.jpg> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "0079000403234"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#name> "AH19 Stereo Hook-Up Cable (6 ft)" .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "<FONT size=2>Stereo Hook-up Cables With RCA Plugs</FONT>" .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Crystal Platinum AH19 Audio Cables" .
+<http://www.tvszone.com/crystal-platinum-ah19-i9323.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.divers-supply.com/armor-camera-bag.html> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

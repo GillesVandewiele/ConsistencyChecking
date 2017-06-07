@@ -1,0 +1,3 @@
+_:node6cca118f1b91a4f3d07a82f5bf745263 <http://schema.org/name> "Glenn Foster, Inc. --El Paso, Texas car dealership :: Stout-Feldman Studio photographs, PH074" .
+_:node6cca118f1b91a4f3d07a82f5bf745263 <http://schema.org/image> "http://cdm15823.contentdm.oclc.org/utils/getthumbnail/collection/p15823coll13/id/162" .
+_:node4d8ae372f152bd8fb8a54eb48533780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

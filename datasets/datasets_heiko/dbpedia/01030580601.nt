@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Hutu> <http://dbpedia.org/ontology/populationPlace> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> .
+<http://dbpedia.org/resource/Hutu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .
+<http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> .
+<http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

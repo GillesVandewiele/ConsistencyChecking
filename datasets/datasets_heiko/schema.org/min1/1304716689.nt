@@ -1,0 +1,3 @@
+_:nodee79bb8d5f1d438fa19721f1bbbb7f62a <http://schema.org/name> "Bob and Howard Sowre :: Jack L. Demmons' Photographs of  Bonner, Montana" .
+_:nodee79bb8d5f1d438fa19721f1bbbb7f62a <http://schema.org/image> "http://cdm15018.contentdm.oclc.org/utils/getthumbnail/collection/p15018coll37/id/2604" .
+_:node51ee966103ca9f7a5c6038e5f0b256 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

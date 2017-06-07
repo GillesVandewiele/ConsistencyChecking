@@ -1,0 +1,6 @@
+_:nodea874afc9e7350a3e8547b4ed552c36d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:node581abbc5f0b067e7d95eeeda425a1bb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:node581abbc5f0b067e7d95eeeda425a1bb <http://schema.org/description> "Houston Texas Blog | Parenting Lifestyle | Crafts | Recipes"@en-us .
+_:node581abbc5f0b067e7d95eeeda425a1bb <http://schema.org/headline> "formula: mom"@en-us .
+_:node1538dde5379fc65ce32a714e8469b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodea3279d7bf16aa34e7169d5f7d935c6b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

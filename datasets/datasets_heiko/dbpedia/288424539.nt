@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Ladin_language> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/Gallo-Iberian_languages> .
+<http://dbpedia.org/resource/Ladin_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language> .

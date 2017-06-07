@@ -1,0 +1,19 @@
+_:node4f468f46e6a793cfc142a47aadbde94a <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node4f468f46e6a793cfc142a47aadbde94a <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/genre> "Leisure, Food & Travel"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/genre> "Law, Government & Military"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/genre> "Sports, Sporting & Goods"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/inLanguage> "en"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/publisher> _:node668bd2dee446b8332d6b684199aa4d9 .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/copyrightYear> "2014"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/headline> "rocket science - definition, meaning, audio pronunciation, synonyms and more. What is rocket science? the scientific study of rockets: See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201Crocket science\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t rocket sciencenoun [U] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t us \n\t\t\t\u00A0\n\t\t\n\t\t\t \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t\n\t\t\t\t\t\t\u203A the scientific study of rockets rocket scientist noun [C] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t us \n\t\t\t\u00A0\n\t\t\n\t\t\t Idioms\n                it's not rocket science\n\t\t\t\t\t"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:node43a4c3a866ba7891f5a3821545baf <http://schema.org/author> _:node4f468f46e6a793cfc142a47aadbde94a .
+_:node668bd2dee446b8332d6b684199aa4d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node668bd2dee446b8332d6b684199aa4d9 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:node668bd2dee446b8332d6b684199aa4d9 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:node70aff29df4f949f069ed4459aa3b6e48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node70aff29df4f949f069ed4459aa3b6e48 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:nodedb488ef450708a506d16ab675156389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

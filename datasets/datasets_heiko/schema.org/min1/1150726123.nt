@@ -1,0 +1,18 @@
+_:node91e0cef882b9e552b1ddc016f8a5353 <http://schema.org/url> <http://activerain.trulia.com/blogsview/4228519/louisville--ky-community-guides> .
+_:node91e0cef882b9e552b1ddc016f8a5353 <http://schema.org/name> "\n                        Louisville, KY Community Guides\n                    " .
+_:node91e0cef882b9e552b1ddc016f8a5353 <http://schema.org/author> _:node7bc01fd0357c64968367c7b8747a1f9f .
+_:node46345178c8b8d950cf42a0ba2dde64b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node46345178c8b8d950cf42a0ba2dde64b <http://schema.org/url> <http://activerain.trulia.com/blogsview/505424/thinking-out-of-the-box-//profile/bobsokoler> .
+_:node46345178c8b8d950cf42a0ba2dde64b <http://schema.org/name> "\n                    Bob Sokoler\n                " .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/interactionCount> "UserComments:0" .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/datePublished> "2008-05-11T07:42:21" .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/articleBody> "\n        I've just completed a new video testimonial video from our clients. I wanted to share the idea with all of you (I actually based it on a RE/MAX campaign. But I also wanted to see if any of you had ideas where it could be used. I'm posting it on my websites and Blogs. Any other thoughts or comments would be appreciated.\n\n\n\n\t\t\t\tBuyers Talk About Working With The Medley Sokoler Team from Louisville Homes on Vimeo.\n      " .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/articleSection> <http://activerain.trulia.com/blogsview/505424/thinking-out-of-the-box-//blogs/bobsokoler/tags/agent%20promotions> .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/articleSection> <http://activerain.trulia.com/blogsview/505424/thinking-out-of-the-box-//blogs/bobsokoler/tags/advertising> .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/name> "\n          Thinking out of the box?\n    " .
+_:nodefdb526a43c77ae01e5ee19c19a75b4f <http://schema.org/author> _:node46345178c8b8d950cf42a0ba2dde64b .
+_:node7bc01fd0357c64968367c7b8747a1f9f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node7bc01fd0357c64968367c7b8747a1f9f <http://schema.org/givenName> "Bob" .
+_:node7bc01fd0357c64968367c7b8747a1f9f <http://schema.org/familyName> "Sokoler" .
+_:nodeb8ab074f0d8be4f6b18a7eed29c1cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

@@ -1,0 +1,11 @@
+<http://logos.warszawa.pl/#company> <http://purl.org/goodrelations/v1#legalName> "Logos Oficyna Wydawnicza"@pl .
+<http://logos.warszawa.pl/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dcccfbc2ec51e4223959110261d871a1a2dN66490 .
+<http://logos.warszawa.pl/#company> <http://www.w3.org/2006/vcard/ns#tel> "22 793 09 04"@pl .
+<http://logos.warszawa.pl/#company> <http://xmlns.com/foaf/0.1/depiction> <http://logos.warszawa.pl/img/logo.jpg> .
+<http://logos.warszawa.pl/#company> <http://xmlns.com/foaf/0.1/page> <http://logos.warszawa.pl/> .
+_:genid2dcccfbc2ec51e4223959110261d871a1a2dN66490 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dcccfbc2ec51e4223959110261d871a1a2dN66490 <http://www.w3.org/2006/vcard/ns#postal-code> "01-913"@pl .
+_:genid2dcccfbc2ec51e4223959110261d871a1a2dN66490 <http://www.w3.org/2006/vcard/ns#locality> "Warszawa"@pl .
+_:genid2dcccfbc2ec51e4223959110261d871a1a2dN66490 <http://www.w3.org/2006/vcard/ns#street-address> "ul. Szekspira 4/386"@pl .
+_:genid2dcccfbc2ec51e4223959110261d871a1a2dN66490 <http://www.w3.org/2006/vcard/ns#country-name> "Poland"@pl .
+<http://www.cineshop-museum.com/samurai-champloo-collector-s-box-set-1-2,us,4,DVDJASCHAMPP.cfm#offer_data> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .

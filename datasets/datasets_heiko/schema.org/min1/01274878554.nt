@@ -1,0 +1,5 @@
+_:node6de317e377e3339f3775c6386b9bd52 <http://schema.org/name> "\n\t\tHolloway Ladies Low Rise Crush Softball Pants\n\t"@en .
+_:node6de317e377e3339f3775c6386b9bd52 <http://schema.org/description> "Holloway Ladies Low Rise Crush Softball Pants. Dry-Excel Defend Performance Double Knit, 15 oz. polyester with wicking and soil-release properties. Revolutionary fabric technology features tough filament surface yarns for durability and abrasion resistance and soft spun inside yarns for added comfort next to skin. Ventilated inseam gusset provides breathability at heat zones and wider range of motion."@en .
+_:node6de317e377e3339f3775c6386b9bd52 <http://schema.org/image> <http://epicsports.cachefly.net/images/35185/300/holloway-ladies-low-rise-crush-softball-pants.jpg> .
+_:node6de317e377e3339f3775c6386b9bd52 <http://schema.org/brand> "Holloway"@en .
+_:node89bc42b879617fe5eb52a21cc4e2419d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

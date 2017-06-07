@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dc72911e7d17b40e092a170628a77d9ac2dN71625 .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71625 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71625 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71625 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71625 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$23.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71577 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71577 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71577 <http://rdf.data-vocabulary.org/#rating> "3"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dc72911e7d17b40e092a170628a77d9ac2dN71606 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#description> "<p> Add a splash of color into your swimsuit collection with the Sorry for Party Blocking Hipster Bottom.</p> <ul> <li> Classic hipster style.</li> <li> Moderate coverage.</li> <li> All over print.</li> <li> Secure fit.</li> <li> Colorblock print.</li> <li> 82% Nylon / 18% Elastane.</li> <li> Lining: 100% Polyester.</li> </ul>" .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#name> "Bikini Lab Sorry for Party Blocking Hot Pant Hipster Bottom" .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dc72911e7d17b40e092a170628a77d9ac2dN71577 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2dd7c765fc168742f5baabed4c99c2d6642dN69193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Organization> .

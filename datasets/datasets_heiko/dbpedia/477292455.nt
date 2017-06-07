@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Martin_Sheen> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Ramon_Estevez> .
+<http://dbpedia.org/resource/Martin_Sheen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Martin_Sheen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Ramon_Estevez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ramon_Estevez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

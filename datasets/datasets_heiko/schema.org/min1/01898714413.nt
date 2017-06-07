@@ -1,0 +1,11 @@
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/name> <http://et.hotels.com/de1461817-am2048/otsiterminiga-tasuta-hommikusoogiga-hotellid-asukohas-fairport-new-york//> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/name> <http://et.hotels.com/co225/hotellid-riigis-ameerika-uhendriigid/> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/name> <http://et.hotels.com/sa33/hotellid-asukohas-new-york-ameerika-uhendriigid/> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/name> <http://et.hotels.com/de1461817/hotellid-asukohas-fairport-new-york/> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/name> "Tasuta hommikus\u00F6\u00F6giga hotellid Fairport"@et .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/breadcrumb> "HotellidAmeerika \u00DChendriigid hotellidNew York hotellidHotellid FairportTasuta hommikus\u00F6\u00F6giga hotellid Fairport"@et .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/url> <http://et.hotels.com/de1461817-am2048/otsiterminiga-tasuta-hommikusoogiga-hotellid-asukohas-fairport-new-york//> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/url> <http://et.hotels.com/co225/hotellid-riigis-ameerika-uhendriigid/> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/url> <http://et.hotels.com/sa33/hotellid-asukohas-new-york-ameerika-uhendriigid/> .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://schema.org/url> <http://et.hotels.com/de1461817/hotellid-asukohas-fairport-new-york/> .
+_:node256746cccf16ff59756f9f44cef2a81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

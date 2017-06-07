@@ -1,0 +1,3 @@
+_:nodefc485466cee6547975db5f865eebd7 <http://schema.org/name> "1938 Agricola :: BAC-CSU-SUSC Yearbooks" .
+_:nodefc485466cee6547975db5f865eebd7 <http://schema.org/image> "http://contentdm.li.suu.edu/utils/getthumbnail/collection/yearbooks/id/1907" .
+_:nodea0a3ba941963c16571fca4cc995a4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

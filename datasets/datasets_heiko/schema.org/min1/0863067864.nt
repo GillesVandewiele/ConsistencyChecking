@@ -1,0 +1,6 @@
+_:node47fc20716bc2c80bb559d43273e6c5 <http://schema.org/name> "error in counting white pixels in image,matlab" .
+_:node47fc20716bc2c80bb559d43273e6c5 <http://schema.org/title> "error in counting white pixels in image,matlab" .
+_:node47fc20716bc2c80bb559d43273e6c5 <http://schema.org/description> "I have a proplem when dealing with images in matlab, i have a white image and when i try to print the gray level of the image and increment it by 1 , it gives me 255, it never give me 256.\nand here..." .
+_:node47fc20716bc2c80bb559d43273e6c5 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node47fc20716bc2c80bb559d43273e6c5 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node439b8e3e61aae78c849c9292fcd844a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

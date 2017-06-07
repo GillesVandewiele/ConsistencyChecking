@@ -1,0 +1,14 @@
+_:nodea465ec24b2927c746fcf6ae2429708c <http://schema.org/image> <http://forum.parkinson.org/uploads/av-6462.jpg?_r=0> .
+_:nodea465ec24b2927c746fcf6ae2429708c <http://schema.org/name> "Dr. Okun"@en .
+_:node7e49596b928435a5f4d1a7e263bea1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node7e49596b928435a5f4d1a7e263bea1b <http://schema.org/image> <http://forum.parkinson.org/uploads/av-6462.jpg?_r=0> .
+_:node7e49596b928435a5f4d1a7e263bea1b <http://schema.org/name> "Dr. Okun"@en .
+_:node9b83d12522dd06180c21215391c060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node9b83d12522dd06180c21215391c060 <http://schema.org/image> <http://www.gravatar.com/avatar/498f09c1c40d881c26d8ad8886500be9?s=100&d=http%3A%2F%2Fforum.parkinson.org%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:node9b83d12522dd06180c21215391c060 <http://schema.org/name> "Heblye"@en .
+_:node5514cf53dc4d80bd5ab3b527fab1a876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node5514cf53dc4d80bd5ab3b527fab1a876 <http://schema.org/dateCreated> "Aug 05 2011 07:31 AM"@en .
+_:node5514cf53dc4d80bd5ab3b527fab1a876 <http://schema.org/name> "Post of the Week: Outlining the Economics of DBS"@en .
+_:node5514cf53dc4d80bd5ab3b527fab1a876 <http://schema.org/interactionCount> "UserComments:3"@en .
+_:node5514cf53dc4d80bd5ab3b527fab1a876 <http://schema.org/creator> "\n\tDr. Okun\n"@en .
+_:nodee79c2edfa63c81835174b84a9c0912f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

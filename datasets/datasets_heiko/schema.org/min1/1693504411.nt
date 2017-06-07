@@ -1,0 +1,14 @@
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/image> "http://allaboutwindowsphone.com/images/icons/1_ativ-1001.jpg"@en .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/reviewRating> _:noded4777263dece3d97f89d87cd384e5d0 .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/comment> "Null"@en .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/datePublished> "2013-01-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/description> "And so to our third Windows Phone 8 'flagship' - except that in Samsung's case it's the only Windows Phone 8 device it currently makes (though see also here), so the point is moot. The ATIV S is an impressive device in several ways though, not least because it's got by far the largest screen in the WP8 pantheon, yet remains (just about) manageable and also offers full flexibility in terms of battery changing and memory expansion. A win all round? Perhaps - though the bundled extra software fails to get close to the package in the Nokia Lumias..."@en .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/author> "Steve Litchfield"@en .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/author> <http://allaboutwindowsphone.com/authors/steve-litchfield.php> .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/url> "http://allaboutwindowsphone.com/reviews/item/16590_Samsung_ATIV_S1.php"@en .
+_:node6b14288eeea928c42dfbb1c44392c753 <http://schema.org/itemReviewed> "Samsung ATIV S"@en .
+_:noded4777263dece3d97f89d87cd384e5d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:noded4777263dece3d97f89d87cd384e5d0 <http://schema.org/worstRating> "1"@en .
+_:noded4777263dece3d97f89d87cd384e5d0 <http://schema.org/ratingValue> "80%"@en .
+_:noded4777263dece3d97f89d87cd384e5d0 <http://schema.org/bestRating> "100"@en .
+_:node9c27181274fd6e638bd24b5698237b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

@@ -1,0 +1,6 @@
+_:nodefd383f242305541df27f55f669ed1 <http://schema.org/name> "Reusing NSArrayController in multiple places" .
+_:nodefd383f242305541df27f55f669ed1 <http://schema.org/title> "Reusing NSArrayController in multiple places" .
+_:nodefd383f242305541df27f55f669ed1 <http://schema.org/description> "I have a simple NSArrayController hooked up to one of my coreData models. I can easily show all the items in a NSTableView without problem, however, if I try to bind a NSTableColumn containing a " .
+_:nodefd383f242305541df27f55f669ed1 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodefd383f242305541df27f55f669ed1 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node27c73c5debe98687b13f191cc4fa1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

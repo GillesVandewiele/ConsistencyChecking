@@ -1,0 +1,15 @@
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/298989.jpg" .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://ogp.me/ns#description> "Buy 4-qt. Simply Calphalon Nonstick Pour and Strain Saucepan by Calphalon by Calphalon at Cooking.com. Get Cookware and Calphalon, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/4-qt.%20simply%20calphalon%20nonstick%20pour%20and%20strain%20sauce%20pan%20by%20calphalon_298989_11/" .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://ogp.me/ns#title> "4-qt. Simply Calphalon Nonstick Pour and Strain Saucepan by Calphalon at Cooking.com" .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/4-qt.%20simply%20calphalon%20nonstick%20pour%20and%20strain%20sauce%20pan%20by%20calphalon_298989_11/> .
+_:genid2ddb39c46b757148cf8ee5b890d883abf72dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.modani.com/furniture-stores/outdoor/modern-contemporary-outdoor-armchairs#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

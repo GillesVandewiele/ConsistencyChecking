@@ -1,0 +1,18 @@
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/genre> "Arts, Entertainment & Media"@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/genre> "Law, Government & Military"@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/inLanguage> "en"@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/publisher> _:node348e41fa256824c850b548c088cf883 .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/copyrightYear> "2014"@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/headline> "dynamite - definition, audio pronunciation and more for dynamite: a type of explosive: : See more in Learner's Dictionary - Cambridge Dictionaries Online"@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/text> "\n                English definition of \u201Cdynamite\u201D\n                            \n        \n                    See all translations\n                \n        dynamite noun [U] \u00A0\n        \n            \u00A0\n        \n            /\u02C8da\u026An\u0259ma\u026At/ \n                \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n        \n\n            \n                        EXPLOSIVE \u203A a type of explosive: a stick of dynamiteExplosives in general \n                        PERSON/THING  informal  \u203A someone or something that is very exciting, powerful, or dangerous: The issue is political dynamite.Exciting and interestingPower and intensityEnergy, force and power\n                    "@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://schema.org/author> _:node55cd3917bd4fa63e7e6c7a824a7e1c .
+_:node348e41fa256824c850b548c088cf883 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node348e41fa256824c850b548c088cf883 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:node348e41fa256824c850b548c088cf883 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:node66f9bfe34087210bc3cfbf4422f28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node66f9bfe34087210bc3cfbf4422f28 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node55cd3917bd4fa63e7e6c7a824a7e1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node55cd3917bd4fa63e7e6c7a824a7e1c <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node55cd3917bd4fa63e7e6c7a824a7e1c <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:node3d17583a7b1736c7d28b3374874af2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

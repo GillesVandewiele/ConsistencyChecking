@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Mikhail_Kalashnikov> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Married_and_maiden_names> .
+<http://dbpedia.org/resource/Mikhail_Kalashnikov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mikhail_Kalashnikov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

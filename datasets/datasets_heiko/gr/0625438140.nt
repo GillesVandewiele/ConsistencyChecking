@@ -1,0 +1,10 @@
+<http://www.rightstuf.com/96724/4/0/0#company> <http://purl.org/goodrelations/v1#legalName> "Right Stuf, Inc." .
+<http://www.rightstuf.com/96724/4/0/0#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d8e2271c800d44f4e92e22cb6627f4c9c2dN66927 .
+<http://www.rightstuf.com/96724/4/0/0#company> <http://www.w3.org/2006/vcard/ns#tel> "1-515-986-1028" .
+<http://www.rightstuf.com/96724/4/0/0#company> <http://xmlns.com/foaf/0.1/page> <http://www.rightstuf.com/96724/4/0/0> .
+_:genid2d8e2271c800d44f4e92e22cb6627f4c9c2dN66927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d8e2271c800d44f4e92e22cb6627f4c9c2dN66927 <http://www.w3.org/2006/vcard/ns#postal-code> "50111" .
+_:genid2d8e2271c800d44f4e92e22cb6627f4c9c2dN66927 <http://www.w3.org/2006/vcard/ns#locality> "Grimes" .
+_:genid2d8e2271c800d44f4e92e22cb6627f4c9c2dN66927 <http://www.w3.org/2006/vcard/ns#street-address> "512 NE Main Street" .
+_:genid2d8e2271c800d44f4e92e22cb6627f4c9c2dN66927 <http://www.w3.org/2006/vcard/ns#country-name> "US" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

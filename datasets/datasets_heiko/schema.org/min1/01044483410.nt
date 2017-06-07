@@ -1,0 +1,12 @@
+_:node24767292ad266c67299666ead64418a <http://schema.org/price> "2.72"@en .
+_:node24767292ad266c67299666ead64418a <http://schema.org/availability> <http://schema.org/InStock> .
+_:node24767292ad266c67299666ead64418a <http://schema.org/priceCurrency> "USD"@en .
+_:node38208dc6d2909deea8837d1feb1d4017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node38208dc6d2909deea8837d1feb1d4017 <http://schema.org/ratingValue> "4.5"@en .
+_:node38208dc6d2909deea8837d1feb1d4017 <http://schema.org/reviewCount> "2"@en .
+_:node41f628c72647428334d15aae87c8d43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node41f628c72647428334d15aae87c8d43 <http://schema.org/offers> _:node24767292ad266c67299666ead64418a .
+_:node41f628c72647428334d15aae87c8d43 <http://schema.org/name> "Glow Cap - Green"@en .
+_:node41f628c72647428334d15aae87c8d43 <http://schema.org/description> "Our green glow caps are fun accessories for any occasion. Wear them backwards, sideways, or with the brim to the front. These glow hats measure approximately 8 inches in diameter, and they glow 1 time, for 6-8 hours. Each cap is comprised of 14 glow sticks and 10 connectors. To assemble and activate the glow cap: Snap and shake the glow sticks. Sold 1 cap per box."@en .
+_:node41f628c72647428334d15aae87c8d43 <http://schema.org/aggregateRating> _:node38208dc6d2909deea8837d1feb1d4017 .
+_:nodefd4bfafb66975e753e811d6e494cf71d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

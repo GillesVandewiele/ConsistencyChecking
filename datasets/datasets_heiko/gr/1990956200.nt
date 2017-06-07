@@ -1,0 +1,11 @@
+<http://www.e-comfortusa.com/categories/radiant-heating/electric-radiant-heating/electric-heating-mats/240-vac-underfloor-mats/333_102_205_218#company> <http://purl.org/goodrelations/v1#legalName> "eComfort.com" .
+<http://www.e-comfortusa.com/categories/radiant-heating/electric-radiant-heating/electric-heating-mats/240-vac-underfloor-mats/333_102_205_218#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d1ff725b323914961beaeebc7aa399edc2dN71357 .
+<http://www.e-comfortusa.com/categories/radiant-heating/electric-radiant-heating/electric-heating-mats/240-vac-underfloor-mats/333_102_205_218#company> <http://www.w3.org/2006/vcard/ns#tel> "866-554-4328" .
+<http://www.e-comfortusa.com/categories/radiant-heating/electric-radiant-heating/electric-heating-mats/240-vac-underfloor-mats/333_102_205_218#company> <http://xmlns.com/foaf/0.1/depiction> <http://ecomfort.com/logo.jpg> .
+<http://www.e-comfortusa.com/categories/radiant-heating/electric-radiant-heating/electric-heating-mats/240-vac-underfloor-mats/333_102_205_218#company> <http://xmlns.com/foaf/0.1/page> <http://ecomfort.com/> .
+_:genid2d1ff725b323914961beaeebc7aa399edc2dN71357 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d1ff725b323914961beaeebc7aa399edc2dN71357 <http://www.w3.org/2006/vcard/ns#postal-code> "60089" .
+_:genid2d1ff725b323914961beaeebc7aa399edc2dN71357 <http://www.w3.org/2006/vcard/ns#locality> "Buffalo Grove" .
+_:genid2d1ff725b323914961beaeebc7aa399edc2dN71357 <http://www.w3.org/2006/vcard/ns#street-address> "1374 Abbott Court" .
+_:genid2d1ff725b323914961beaeebc7aa399edc2dN71357 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

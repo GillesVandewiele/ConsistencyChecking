@@ -1,0 +1,13 @@
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/keywords> "Hockey, NHL, NHL Atlantic, New York Rangers"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/about> "Hockey, NHL, NHL Atlantic, New York Rangers"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/name> "Callahan: '(Avery) Did Not Speak for Us as a Team When He Was Here'"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/author> "\n     \n        \n            From\n            \n                NYDailyNews.com\n            \n        \n    \n\n    \n        Mar 31, 2013\n    \n"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/headline> "Callahan: '(Avery) Did Not Speak for Us as a Team When He Was Here'"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/articleBody> "\n              \n    Rangers captain Ryan Callahan essentially echoed John Tortorella\u2019s famous phrase when he fired back Sunday at ex-teammate Sean Avery for Avery\u2019s Saturday night tweet that the team should \u201Cfire this CLOWN,\u201D referring to Tortorella. ...\n    \n        Continue Reading on NYDailyNews.com \u00BB\n    \n\n            "@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/interactionCount> "UserComments:0"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/interactionCount> "Null"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/interactionCount> "Null"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/isFamilyFriendly> "true"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/description> "The latest New York Rangers news, trade rumors, scores, live coverage, free agent updates, power rankings, mock drafts and more"@en .
+_:nodef19e1687d26426bc8ef2588a5e7b2c <http://schema.org/associatedMedia> "\n      \n                  \n              \n          \n\n          \n              \n          \n        \n        \n          \n            Elsa/Getty Images \n            \n          \n        \n\n        \n      \n    "@en .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

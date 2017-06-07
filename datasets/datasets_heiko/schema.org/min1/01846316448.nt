@@ -1,0 +1,12 @@
+_:node983dca73344eecb54de4c6681bcf2445 <http://schema.org/price> "2.93"@en .
+_:node983dca73344eecb54de4c6681bcf2445 <http://schema.org/availability> <http://schema.org/InStock> .
+_:node983dca73344eecb54de4c6681bcf2445 <http://schema.org/priceCurrency> "USD"@en .
+_:node60557471dc22bbb7fb8a8ea84274af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node60557471dc22bbb7fb8a8ea84274af <http://schema.org/ratingValue> "4.0"@en .
+_:node60557471dc22bbb7fb8a8ea84274af <http://schema.org/reviewCount> "1"@en .
+_:node57a4818d97d590c223fc390fe8f4729 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node57a4818d97d590c223fc390fe8f4729 <http://schema.org/offers> _:node983dca73344eecb54de4c6681bcf2445 .
+_:node57a4818d97d590c223fc390fe8f4729 <http://schema.org/name> "LED Spike Choker Necklace - Blue"@en .
+_:node57a4818d97d590c223fc390fe8f4729 <http://schema.org/description> "If you love partying, raving, clubbing, or just having a good time, then our LED spike choker necklace is perfect for you! Each choker features bright flashing LEDs that can be turned on/off by pressing a button. Measure 17 inches long. We also offer a matching LED spike bracelet and ring! Batteries are included and installed. Each box includes 1 necklace."@en .
+_:node57a4818d97d590c223fc390fe8f4729 <http://schema.org/aggregateRating> _:node60557471dc22bbb7fb8a8ea84274af .
+_:node15f5c29f6aa8b771ac1c62f8ca2ba8c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

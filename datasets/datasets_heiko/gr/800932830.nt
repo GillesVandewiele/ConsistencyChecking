@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=63594> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=63594> .
+<http://www.joke.co.uk/adult-scarecrow-ghost-face-costume~63594/#notify-stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/adult-scarecrow-ghost-face-costume~63594/#notify-stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d96aa6bbf0c31454db5a98467b350575f2dINSIDE5fN68278 .
+_:genid2d96aa6bbf0c31454db5a98467b350575f2dN68226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d96aa6bbf0c31454db5a98467b350575f2dN68226 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d96aa6bbf0c31454db5a98467b350575f2dINSIDE5fN68226 .
+_:genid2d96aa6bbf0c31454db5a98467b350575f2dINSIDE5fN68226 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d96aa6bbf0c31454db5a98467b350575f2dINSIDE5fN68226 <http://purl.org/goodrelations/v1#hasCurrencyValue> "25.99"@en .
+_:genid2d96aa6bbf0c31454db5a98467b350575f2dINSIDE5fN68278 <http://purl.org/goodrelations/v1#hasMinValue> "0"@en .
+<http://www.joke.co.uk/adult-scarecrow-ghost-face-costume~63594/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/adult-scarecrow-ghost-face-costume~63594/#main> <http://purl.org/goodrelations/v1#name> "Adult Scarecrow Ghost Face Costume"@en .
+_:genid2d5e1aca6870654305b84a994de9d23b172dN65983 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

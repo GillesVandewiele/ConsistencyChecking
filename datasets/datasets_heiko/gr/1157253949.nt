@@ -1,0 +1,12 @@
+_:genid2d787908787d0b46c7b0ab5ecdf214fd842dN69176 <http://www.w3.org/2006/vcard/ns#postal-code> "55122"@de .
+_:genid2d787908787d0b46c7b0ab5ecdf214fd842dN69176 <http://www.w3.org/2006/vcard/ns#locality> "Mainz"@de .
+_:genid2d787908787d0b46c7b0ab5ecdf214fd842dN69176 <http://www.w3.org/2006/vcard/ns#street-address> "Wallstra\u00DFe 56"@de .
+_:genid2d787908787d0b46c7b0ab5ecdf214fd842dN69176 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+_:genid2d787908787d0b46c7b0ab5ecdf214fd842dINSIDE5fN69198 <http://www.w3.org/2006/vcard/ns#longitude> "8.24835"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d787908787d0b46c7b0ab5ecdf214fd842dINSIDE5fN69198 <http://www.w3.org/2006/vcard/ns#latitude> "50.00487"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.bestwestern.de/hotels/Mainz/BEST-WESTERN-Hotel-Mainz/freizeit-erholung#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.bestwestern.de/hotels/Mainz/BEST-WESTERN-Hotel-Mainz/freizeit-erholung#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN Hotel Mainz"@de .
+<http://www.bestwestern.de/hotels/Mainz/BEST-WESTERN-Hotel-Mainz/freizeit-erholung#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d787908787d0b46c7b0ab5ecdf214fd842dN69176 .
+<http://www.bestwestern.de/hotels/Mainz/BEST-WESTERN-Hotel-Mainz/freizeit-erholung#company> <http://www.w3.org/2006/vcard/ns#tel> "+496131 30400"@de .
+<http://www.bestwestern.de/hotels/Mainz/BEST-WESTERN-Hotel-Mainz/freizeit-erholung> <http://www.w3.org/2006/vcard/ns#geo> _:genid2d787908787d0b46c7b0ab5ecdf214fd842dINSIDE5fN69198 .
+_:genid2db81845f33ea44fb7afd50d0fd41d9db82dN68172 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Four_Feather_Falls> <http://dbpedia.org/ontology/voice> <http://dbpedia.org/resource/Kenneth_Connor> .
+<http://dbpedia.org/resource/Four_Feather_Falls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Four_Feather_Falls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Kenneth_Connor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kenneth_Connor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

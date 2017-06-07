@@ -1,0 +1,13 @@
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/name> "Village Lodge" .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/description> "The lodges are an architectural tribute to the distinct heritage of California while recalling the rich traditions of European mountain villages. Surrounded by towering pines and dramatic snow capped white mountains yet steps from the vibrant Village at Mammoth, this enviable location provides convenient access to the high-speed gondola that goes straight up the mountain.The Village is the central hub of activity with shops, restaurants and entertainment venues giving this old mining town a true ski resort personality. Convenient underground parking provides easy access to a wide selection of restaurants, cafes, boutiques and shops nestled along cobblestone pathways winding throughout the village.                      " .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/mammoth_villagelodgeatmammoth1.jpg> .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/mammoth_villagelodgeatmammoth2.jpg> .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/mammoth_villagelodgeatmammoth3.jpg> .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/mammoth_villagelodgeatmammoth4.jpg> .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/mammoth_villagelodgeatmammoth5.jpg> .
+_:nodec8a1f937d3dbbbcf214a4591ac3d1d <http://schema.org/aggregateRating> _:nodea6d524f225859127717de834eece046 .
+_:nodea6d524f225859127717de834eece046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodea6d524f225859127717de834eece046 <http://schema.org/bestRating> "5" .
+_:nodea6d524f225859127717de834eece046 <http://schema.org/ratingValue> "3.5" .
+_:nodea6d524f225859127717de834eece046 <http://schema.org/reviewCount> "1" .
+_:node957bb24031d2df7f797658c0fe513f76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .

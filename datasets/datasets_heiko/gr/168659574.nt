@@ -1,0 +1,27 @@
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/10278-228x228.jpg> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> <http://purl.org/goodrelations/v1#description> "File Bar Length 46" .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "10278"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Abus File Cabinet Locking Bar, 4 Drawer MKL-4/07040" .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> <http://purl.org/goodrelations/v1#name> "Abus File Cabinet Locking Bar, 4 Drawer MKL-4/07040" .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/abus-file-cabinet-bar-4-drawer-mkl-4-07040> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d7ed64d90cad54bd481670be81906c6332dN66868 .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/10278-228x228.jpg> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#description> "File Bar Length 46" .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "10278"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#name> "Abus File Cabinet Locking Bar, 4 Drawer MKL-4/07040" .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/10278.html?id=oRDIe4Qi#product> .
+<http://www.mrlock.com/10278.html?id=oRDIe4Qi#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/abus-file-cabinet-bar-4-drawer-mkl-4-07040> .
+_:genid2d7ed64d90cad54bd481670be81906c6332dN66868 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d7ed64d90cad54bd481670be81906c6332dN66868 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d7ed64d90cad54bd481670be81906c6332dN66868 <http://purl.org/goodrelations/v1#hasCurrencyValue> "31.9800"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.aquacave.com/ushio-70w-hqi-metal-halide-bulb-double-ended.html> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

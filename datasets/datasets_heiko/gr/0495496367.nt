@@ -1,0 +1,24 @@
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72424 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72424 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72424 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$59.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72414 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d44a4b696b8d048aab6cdbb81635034e62dN72424 .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#description> "<p> These comfy and cute bottoms are perfect for flaunting at the beach, pool, or lake.</p> <p> <b>Sizes on our site are US sizes, but products may arrive with the Australian size tags. You should still be receiving the US size you ordered.</b></p> <p> \u2022 Boyleg bottom.<br /> \u2022 Fold over waist.<br /> \u2022 Solid.<br /> \u2022 Full bottom coverage.<br /> \u2022 93% (Meryl) Nylon / 7% Elastane.<br /> \u2022 Imported.</p> <p> \u00A0</p>" .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#name> "Seafolly Goddess Roll Top Boyleg Bottom" .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d44a4b696b8d048aab6cdbb81635034e62dN72376 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72405 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72376 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72376 <http://rdf.data-vocabulary.org/#count> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d44a4b696b8d048aab6cdbb81635034e62dN72376 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/seafolly-goddess-roll-top-boyleg-bottom-36300/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/tiger-joe-boys-jungle-fever-boardshorts-(6mos-8yrs)-44936#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d9909583997804d109a14554c8b63afad2dN71329 .

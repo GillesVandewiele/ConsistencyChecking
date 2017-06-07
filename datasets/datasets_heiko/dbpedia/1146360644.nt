@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/David_Foster_Wallace> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Postmodern_literature> .
+<http://dbpedia.org/resource/David_Foster_Wallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/David_Foster_Wallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/David_Foster_Wallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+<http://dbpedia.org/resource/David_Foster_Wallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .

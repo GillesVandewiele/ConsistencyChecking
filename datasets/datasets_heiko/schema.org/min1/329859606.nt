@@ -1,0 +1,6 @@
+_:node7ad3b6c7df8fb9b83e4d88e3b83bf423 <http://schema.org/name> "Lac Du Bonnet Vintage Ovals Jan 19 2013 - bettyshobby" .
+_:node7ad3b6c7df8fb9b83e4d88e3b83bf423 <http://schema.org/description> "This gallery hosted by SmugMug; your photos look better here." .
+_:node7ad3b6c7df8fb9b83e4d88e3b83bf423 <http://schema.org/url> "http://bettyshobby.smugmug.com/Competitions/LacDuBonnetVintageRaces/28132333_LKZ8pN" .
+_:node7ad3b6c7df8fb9b83e4d88e3b83bf423 <http://schema.org/image> "http://bettyshobby.smugmug.com/Competitions/LacDuBonnetVintageRaces/i-VjSzh54/0/L/DSC_0527-L.jpg" .
+_:node7ad3b6c7df8fb9b83e4d88e3b83bf423 <http://schema.org/caption> "This gallery hosted by SmugMug; your photos look better here." .
+_:nodeacaab6f64576de47ec761e95878692a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

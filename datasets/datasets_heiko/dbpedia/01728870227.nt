@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Christian_Democratic_Appeal> <http://dbpedia.org/ontology/europeanParliamentGroup> <http://dbpedia.org/resource/European_People's_Party_(European_Parliament_group)> .
+<http://dbpedia.org/resource/Christian_Democratic_Appeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Christian_Democratic_Appeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Christian_Democratic_Appeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .

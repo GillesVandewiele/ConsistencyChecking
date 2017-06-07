@@ -1,0 +1,4 @@
+_:nodeabaf98e02f85d214e9989641e657a65 <http://schema.org/name> "Lone hound, recently abandoned, needs warm home"@en .
+_:nodeabaf98e02f85d214e9989641e657a65 <http://schema.org/image> "Null"@en .
+_:nodeabaf98e02f85d214e9989641e657a65 <http://schema.org/description> "Carol Kreidemaker collects strays. Puppies. Kittens. Rabbits. Roosters. She\u2019s a master trapper and nurturer."@en .
+<http://books.google.com/books/about/Jet.html?hl=En&id=jkEDAAAAMBAJ&q=William> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

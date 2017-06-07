@@ -1,0 +1,27 @@
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/chi9de-228x228.jpg> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> <http://purl.org/goodrelations/v1#description> "Key blank for various Chicago/Steelcase file cabinet locks. Key blanks sold each. Compatible with EZ AP1, Ilco 101AM." .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "CHI9DE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Key blank, JMA CHI9DE for Chicago AP1/101AM" .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> <http://purl.org/goodrelations/v1#name> "Key blank, JMA CHI9DE for Chicago AP1/101AM" .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/jma-key-blank-chicago-ap1-101am-chi-9de-br-> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d27b8b0000caf4c2ca52f653e3befb18c2dN66764 .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/chi9de-228x228.jpg> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#description> "Key blank for various Chicago/Steelcase file cabinet locks. Key blanks sold each. Compatible with EZ AP1, Ilco 101AM." .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "CHI9DE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#name> "Key blank, JMA CHI9DE for Chicago AP1/101AM" .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d27b8b0000caf4c2ca52f653e3befb18c2dN66764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d27b8b0000caf4c2ca52f653e3befb18c2dN66764 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d27b8b0000caf4c2ca52f653e3befb18c2dN66764 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.3900"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#product> .
+<http://www.mrlock.com/CHI9DE.html?id=EIkqDSQU#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/jma-key-blank-chicago-ap1-101am-chi-9de-br-> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#company> <http://xmlns.com/foaf/0.1/logo> <http://www.cungmua.com/Content/Images/cungmua-logo.png> .

@@ -1,0 +1,11 @@
+<http://www.insurancelevel.com/ga/85292/shanda-rushing.cfm#company> <http://xmlns.com/foaf/0.1/page> <http://www.insurancelevel.com/ga/85292/shanda-rushing.cfm> .
+<http://www.insurancelevel.com/ga/85292/shanda-rushing.cfm#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.insurancelevel.com/ga/85292/shanda-rushing.cfm#company> <http://purl.org/goodrelations/v1#legalName> "SOUTHERN FINANCIAL RESOURCES" .
+<http://www.insurancelevel.com/ga/85292/shanda-rushing.cfm#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d0573cc48dd954110ae4a70d1bdcdaa6b2dN65863 .
+<http://www.insurancelevel.com/ga/85292/shanda-rushing.cfm#company> <http://www.w3.org/2006/vcard/ns#tel> "+19124894335" .
+_:genid2d0573cc48dd954110ae4a70d1bdcdaa6b2dN65863 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d0573cc48dd954110ae4a70d1bdcdaa6b2dN65863 <http://www.w3.org/2006/vcard/ns#postal-code> "30458" .
+_:genid2d0573cc48dd954110ae4a70d1bdcdaa6b2dN65863 <http://www.w3.org/2006/vcard/ns#locality> "STATESBORO" .
+_:genid2d0573cc48dd954110ae4a70d1bdcdaa6b2dN65863 <http://www.w3.org/2006/vcard/ns#street-address> "616 E GRADY ST" .
+_:genid2d0573cc48dd954110ae4a70d1bdcdaa6b2dN65863 <http://www.w3.org/2006/vcard/ns#country-name> "USA" .
+<http://mg1700-seo.maxim.web.ra/index.php/electronics/cell-phones/nokia-4-1-x-1-7-x-0-7-inches-black-2610-n2610.html#QuantitativeValue_6327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

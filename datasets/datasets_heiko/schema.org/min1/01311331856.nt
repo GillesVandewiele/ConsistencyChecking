@@ -1,0 +1,6 @@
+_:node1ff681d22c95ab2e543d27dda43d9f1 <http://schema.org/name> "How to power a 1.5V motor with a 3V source?" .
+_:node1ff681d22c95ab2e543d27dda43d9f1 <http://schema.org/title> "How to power a 1.5V motor with a 3V source?" .
+_:node1ff681d22c95ab2e543d27dda43d9f1 <http://schema.org/description> "I just started getting into electronics so I'm still a major noob. Any help would be much appreciated!\n\nI have an Arduino UNO and have made a few basic circuits with LEDs and a small speaker using " .
+_:node1ff681d22c95ab2e543d27dda43d9f1 <http://schema.org/image> "http://cdn.sstatic.net/electronics/img/apple-touch-icon@2.png?v=9f23bff8b9e4" .
+_:node1ff681d22c95ab2e543d27dda43d9f1 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/electronics/img/apple-touch-icon@2.png?v=9f23bff8b9e4" .
+_:node15545a51e545ec017a55c0ea7211ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

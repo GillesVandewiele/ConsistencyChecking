@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Werner_Heisenberg> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/%C5%9Eerban_%C5%A2i%C5%A3eica> .
+<http://dbpedia.org/resource/Werner_Heisenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Werner_Heisenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Werner_Heisenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .

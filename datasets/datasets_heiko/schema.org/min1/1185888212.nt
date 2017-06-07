@@ -1,0 +1,10 @@
+_:nodeffa08c6b481e70f175ab2134987cd611 <http://schema.org/blogPost> _:noded7ba2583ed5d60c0f347192bcfa6a23 .
+_:nodeffa08c6b481e70f175ab2134987cd611 <http://schema.org/image> "http://publicradio1.wpengine.netdna-cdn.com/todays-question/wp-content/themes/mpr-news-blogs/images/todays-question-opengraph.png?v=2"@en-us .
+_:nodeffa08c6b481e70f175ab2134987cd611 <http://schema.org/image> "http://publicradio1.wpengine.netdna-cdn.com/todays-question/wp-content/themes/mpr-news-blogs/images/todays-question-opengraph.png?v=2"@en-us .
+_:nodeffa08c6b481e70f175ab2134987cd611 <http://schema.org/image> <http://blogs.mprnews.org/todays-question> .
+_:noded7ba2583ed5d60c0f347192bcfa6a23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:noded7ba2583ed5d60c0f347192bcfa6a23 <http://schema.org/interactionCount> <http://blogs.mprnews.org/todays-question/2011/01/if-tim-pawlenty-runs-for-president-can-he-win/#comments> .
+_:noded7ba2583ed5d60c0f347192bcfa6a23 <http://schema.org/description> "\n\t\t\tFormer Gov. Tim Pawlenty has been making the rounds of the national talk shows, promoting his book and preparing for a possible White House run. Today\u2019s Question: If Tim Pawlenty runs for president, can he win?\n\t    \n\t\t\t\t\t"@en-us .
+_:noded7ba2583ed5d60c0f347192bcfa6a23 <http://schema.org/datePublished> "January 13, 2011, 5:00 AM"@en-us .
+_:noded7ba2583ed5d60c0f347192bcfa6a23 <http://schema.org/headline> "If Tim Pawlenty runs for president, can he win?"@en-us .
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

@@ -1,0 +1,4 @@
+_:node2f5f6d4389c3349de4d520b6c5bb2588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> .
+_:node2f5f6d4389c3349de4d520b6c5bb2588 <http://schema.org/name> "Afro"@en-us .
+_:node2f5f6d4389c3349de4d520b6c5bb2588 <http://schema.org/logo> <http://afro.com/wp-content/uploads/2014/01/Afro-Smaller.png> .
+_:node2459945d20a1b39e901068562a483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

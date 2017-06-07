@@ -1,0 +1,5 @@
+<http://books.google.com.au/books/about/Mechanism_and_theory_in_organic_chemistr.html?id=mrYPAQAAMAAJ> <http://schema.org/Book/image> <http://books.google.com.au/books/content?id=mrYPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71CYl4N-WgIpvbst71F3VYJ_CZmeUBtQwfOnbCIsHSu2-idP9smhkDh2DPNL1DI5eeW44c9h7WtDM_O1BiK0eZoGAlZAeY-ih48b9nwfeIOX90Yrq4> .
+<http://books.google.com.au/books/about/Mechanism_and_theory_in_organic_chemistr.html?id=mrYPAQAAMAAJ> <http://schema.org/Book/url> "http://books.google.com.au/books/about/Mechanism_and_theory_in_organic_chemistr.html?id=mrYPAQAAMAAJ&utm_source=gb-gplus-share" .
+<http://books.google.com.au/books/about/Mechanism_and_theory_in_organic_chemistr.html?id=mrYPAQAAMAAJ> <http://schema.org/Book/name> "Mechanism and theory in organic chemistry" .
+<http://books.google.com.au/books/about/Mechanism_and_theory_in_organic_chemistr.html?id=mrYPAQAAMAAJ> <http://schema.org/Book/description> "books.google.com.au" .
+_:nodebbf4b79e02789f372f281a7d3bdcece <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .

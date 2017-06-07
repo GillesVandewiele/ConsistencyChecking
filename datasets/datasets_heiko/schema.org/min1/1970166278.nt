@@ -1,0 +1,3 @@
+_:node775f1866632a3dfd756d33fde7a75cc5 <http://schema.org/name> "I know what it means to miss New Orleans; circa 1966-1984 :: AAEC Editorial Cartoons" .
+_:node775f1866632a3dfd756d33fde7a75cc5 <http://schema.org/image> "http://digilib.usm.edu/utils/getthumbnail/collection/cartoon/id/1271" .
+_:node8705533301d949cbab55daa9f3a955 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

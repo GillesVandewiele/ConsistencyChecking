@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71123 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71123 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71123 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#description> "<p> Keep your feet from sliding with the Gorilla Fish Traction Pad.</p> <ul> <li> Ideal for fishes.</li> <li> Ideal for wider-tailed boards.</li> <li> Diamond groove.</li> <li> Slice wedge.</li> <li> Two piece.</li> </ul>" .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#name> "Gorilla Fish Black Traction Pad" .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dda868fe4d3764dc4939830c00a6b249b2dN71123 .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71152 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71161 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71171 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71171 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dda868fe4d3764dc4939830c00a6b249b2dN71171 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$35.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/gorilla-fish-black-traction-pad-43556/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dda868fe4d3764dc4939830c00a6b249b2dN71171 .
+_:genid2d0c12072bdc144a07974cac9aa78dc62d2dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

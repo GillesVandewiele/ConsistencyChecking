@@ -1,0 +1,5 @@
+_:node26651c68349e47f84f3d8ee4ee7be6 <http://schema.org/name> "Griffin's Guide to Hunting and Fishing"@en-us .
+_:node26651c68349e47f84f3d8ee4ee7be6 <http://schema.org/name> "\n                                        daypack\n                "@en-us .
+_:node26651c68349e47f84f3d8ee4ee7be6 <http://schema.org/breadcrumb> <http://griffinsguide.com> .
+_:node26651c68349e47f84f3d8ee4ee7be6 <http://schema.org/url> <http://griffinsguide.com> .
+_:nodee31a15828c14a78a895e92609b2e192a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

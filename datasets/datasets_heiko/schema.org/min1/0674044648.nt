@@ -1,0 +1,12 @@
+_:nodeb836e7ad10314dac7f7563c9f75f9e <http://schema.org/gtin13> "5053516430040" .
+_:nodeb836e7ad10314dac7f7563c9f75f9e <http://schema.org/price> "\u00A31.00" .
+_:nodeb836e7ad10314dac7f7563c9f75f9e <http://schema.org/mpn> "816928" .
+_:nodeb836e7ad10314dac7f7563c9f75f9e <http://schema.org/availability> <http://schema.org/OutOfStock> .
+_:nodeb836e7ad10314dac7f7563c9f75f9e <http://schema.org/priceCurrency> "GBP" .
+_:node4a5782e233a4d263d1b3ac6211e6a64e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node4a5782e233a4d263d1b3ac6211e6a64e <http://schema.org/offers> _:nodeb836e7ad10314dac7f7563c9f75f9e .
+_:node4a5782e233a4d263d1b3ac6211e6a64e <http://schema.org/name> "Metallic Floral Thong" .
+_:node4a5782e233a4d263d1b3ac6211e6a64e <http://schema.org/url> "http://direct.asda.com/george/womens-lingerie/metallic-floral-thong/G004340019,default,pd.html" .
+_:node4a5782e233a4d263d1b3ac6211e6a64e <http://schema.org/description> "For a shimmering foundation opt for this metallic thong. Crafted with high-shine fabric and trimmed with metallic floral lace it\u2019s a  feminine, glamorous design. <br />\n<br />\n\u2022  Floral lace trims<br />\n<br />\nFabric composition: 81% Nylon, 16% Elastane, 3% Metallic Yawn<br />\nGusset: 100% Cotton<br />\n<br />\nProduct Code: 4339427" .
+_:node4a5782e233a4d263d1b3ac6211e6a64e <http://schema.org/image> "http://asda.scene7.com/is/image/Asda/5053516430040?hei=298&wid=298&resmode=sharp&op_usm=1.1,0.5,0,0" .
+_:node83c5ff6c116d9bd53355cfbd22b11d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

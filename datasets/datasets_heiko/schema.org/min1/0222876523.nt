@@ -1,0 +1,14 @@
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/87064690/Cinematic.jpg> .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/audio> _:node95c696d6d2a4f7993bc9e3c69cab68ce .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/offers> _:node774210efeaddbd58fda8645f3b6472 .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/genre> <http://audiojungle.net/category/music/cinematic/dramatic-action-adventure> .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/description> "\n        Cinematic orchestral music with expressive intense sound\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      "@en .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/discussionUrl> <http://audiojungle.net/item/action-cinematic-theme-10/4459614//item/action-cinematic-theme-10/4459614/comments> .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/name> "  Action Cinematic Theme 10\n"@en .
+_:node172b053e7b253a4b41e4c6f8078df4d <http://schema.org/interactionCount> "UserDownloads:0"@en .
+_:node774210efeaddbd58fda8645f3b6472 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node774210efeaddbd58fda8645f3b6472 <http://schema.org/price> "18.00"@en .
+_:node95c696d6d2a4f7993bc9e3c69cab68ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AudioObject> .
+_:node95c696d6d2a4f7993bc9e3c69cab68ce <http://schema.org/duration> "2:49"@en .
+_:node95c696d6d2a4f7993bc9e3c69cab68ce <http://schema.org/contentUrl> <https://0.s3.envato.com/files/53307708/preview.mp3> .
+<http://books.google.com.au/books/about/Green_Eyes.html?id=kWIgAQAAIAAJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

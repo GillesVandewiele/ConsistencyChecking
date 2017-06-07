@@ -1,0 +1,5 @@
+<http://www.rakuten.de/faber-castell#brand> <http://purl.org/goodrelations/v1#description> ""@de .
+<http://www.rakuten.de/faber-castell#brand> <http://purl.org/goodrelations/v1#name> "FABER CASTELL"@de .
+<http://www.rakuten.de/faber-castell#brand> <http://xmlns.com/foaf/0.1/logo> <http://files.rakuten-static.de/brands/faber-castell-b280566.png> .
+<http://www.rakuten.de/faber-castell#brand> <http://xmlns.com/foaf/0.1/page> <http://www.rakuten.de/faber-castell> .
+<http://www.eastwood.com/contact-tips-0-025.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-21T00:00:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bill_Haley_&_His_Comets> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Orfe%C3%B3n> .
+<http://dbpedia.org/resource/Bill_Haley_&_His_Comets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Bill_Haley_&_His_Comets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Bill_Haley_&_His_Comets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .

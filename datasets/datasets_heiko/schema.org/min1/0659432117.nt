@@ -1,0 +1,6 @@
+_:node65073f1206be1aef953f8bd54945169 <http://schema.org/name> "Anguilla Wallblake"@en .
+_:node65073f1206be1aef953f8bd54945169 <http://schema.org/url> <http://flightaware.com/live/flight/N70VP//live/airport/TQPF> .
+_:nodeab7917393763141ea119aa36528e726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeab7917393763141ea119aa36528e726 <http://schema.org/name> "Point Salines Int'l"@en .
+_:nodeab7917393763141ea119aa36528e726 <http://schema.org/url> <http://flightaware.com/live/flight/N70VP//live/airport/TGPY> .
+_:node62bbca2bad32ebb2841ac1b0f5f586f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

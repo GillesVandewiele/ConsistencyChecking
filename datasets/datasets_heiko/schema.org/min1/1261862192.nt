@@ -1,0 +1,11 @@
+_:node64f5862983f14ebc16fdb85441dad53 <http://schema.org/image> <http://dnb.alacrastore.com/storecontent/dnb2/595252528//alacrastore/images/logos/dnb.gif> .
+_:node64f5862983f14ebc16fdb85441dad53 <http://schema.org/name> "D&B" .
+_:node63e030c1e3317d2d55ba89da537b4a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node63e030c1e3317d2d55ba89da537b4a7 <http://schema.org/price> "$615.00" .
+_:nodee9d6a7a5164bbec5648279dde7673faa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:nodee9d6a7a5164bbec5648279dde7673faa <http://schema.org/provider> _:node64f5862983f14ebc16fdb85441dad53 .
+_:nodee9d6a7a5164bbec5648279dde7673faa <http://schema.org/offers> _:node63e030c1e3317d2d55ba89da537b4a7 .
+_:nodee9d6a7a5164bbec5648279dde7673faa <http://schema.org/publisher> "D&B" .
+_:nodee9d6a7a5164bbec5648279dde7673faa <http://schema.org/description> "International Business Information Report (IBIR) is a solid source of data that can help you perform critical analysis of a business' operations, profitability and stability. Designed to help you evaluate your medium-to-higher risk decisions, the report contains in-depth information that can include: financial statements and payment performance data to help you make daily credit decisions, plan sales calls and discover business opportunities." .
+_:nodee9d6a7a5164bbec5648279dde7673faa <http://schema.org/name> "W H MARATHON PTE. LTD. (Headquarters)" .
+_:node86f75a5fb8214746cee899d3d773115 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

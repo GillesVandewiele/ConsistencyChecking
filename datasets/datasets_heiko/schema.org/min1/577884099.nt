@@ -1,0 +1,17 @@
+_:node80d2fddce0f3ab51b49027e8259e78 <http://schema.org/bestRating> "10" .
+_:node80d2fddce0f3ab51b49027e8259e78 <http://schema.org/ratingValue> "7.1143" .
+_:node80d2fddce0f3ab51b49027e8259e78 <http://schema.org/worstRating> "1" .
+_:nodeaa22dbb9668a7797e2a4a2c4e9e5df2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeaa22dbb9668a7797e2a4a2c4e9e5df2 <http://schema.org/price> "$0" .
+_:nodeaa22dbb9668a7797e2a4a2c4e9e5df2 <http://schema.org/priceCurrency> "USD" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/aggregateRating> _:node80d2fddce0f3ab51b49027e8259e78 .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/datePublished> "2005-12-12" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/SoftwareApplicationCategory> "http://schema.org/DesktopEnhancementApplication" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/image> "http://cache.filehippo.com/img/ex/69__grs__konfab.png" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/offers> _:nodeaa22dbb9668a7797e2a4a2c4e9e5df2 .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/name> "\nYahoo! Widget Engine 3.0" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/softwareVersion> "Yahoo! Widget Engine 3.0" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/url> "http://filehippo.com/fr/download_yahoo_widget/619/" .
+_:nodef2b915afbcd31df4917e40c46e658ca3 <http://schema.org/SoftwareApplicationSubCategory> "Widgets" .
+_:node4462c85845a14b9b217dd23efb29a1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

@@ -1,0 +1,111 @@
+_:nodebeb0343a7b9666f0fd481c7f52bc216d <http://schema.org/ratingValue> "5" .
+_:nodeab187df3310375ee492f65d8952f686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodeab187df3310375ee492f65d8952f686 <http://schema.org/ratingValue> "4.199769" .
+_:nodeab187df3310375ee492f65d8952f686 <http://schema.org/reviewCount> "720" .
+_:nodeb7d4a5c4866a879865478a5b34ba78d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeb7d4a5c4866a879865478a5b34ba78d <http://schema.org/reviewRating> _:node17161f9deed0167c1a3764f2d2aecfd6 .
+_:nodeb7d4a5c4866a879865478a5b34ba78d <http://schema.org/dateCreated> "Sep 15, 2007" .
+_:nodeb7d4a5c4866a879865478a5b34ba78d <http://schema.org/description> "I wanted to make a cake from scratch for my wife's birthday when I came across this recipe.  After reading all of the reviews I carefully measured the flour after sifting and I beat the egg-whites separately.  I used slightly less flour and butter hoping to make the cake fluffier.  It still ended up being a fairly dense cake (but still delicious).\n\nI made the strawberry puree from scratch just using strawberries and sugar.\n\nFor the frosting I used a homemade whip cream with more strawberry puree.\n\nI used 3x 9\" pans for a triple layer cake.  In between the layers I placed thinly sliced strawberries on top of a thin layer of icing.  I covered those with splashes of the strawberry puree then added more frosting.\n\nTo top it off I soaked halved strawberries in more puree and placed them on top.\n\nThe only reason I don't give it 5 stars is because it didn't come out as fluffy as I would have liked.  However I'm not much of a baker so it's just as likely my fault as it is the recipe.  But my wife loved it so I'm in her good graces until next year!\n" .
+_:nodeb7d4a5c4866a879865478a5b34ba78d <http://schema.org/author> "Berenger" .
+_:nodeb7d4a5c4866a879865478a5b34ba78d <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:node8c58ca6741e968be12d50516cf5e757 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.schema.org/VideoObject> .
+_:node8c58ca6741e968be12d50516cf5e757 <http://www.schema.org/VideoObject/description> "This impressive cake is rich with the flavor of real strawberries. " .
+_:node8c58ca6741e968be12d50516cf5e757 <http://www.schema.org/VideoObject/url> "http://allrecipes.com/video/1338/strawberry-cake-from-scratch/detail.aspx" .
+_:node8c58ca6741e968be12d50516cf5e757 <http://www.schema.org/VideoObject/interactionCount> "UserPlays:74570" .
+_:node8c58ca6741e968be12d50516cf5e757 <http://www.schema.org/VideoObject/thumbnail> "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1813332726001_th-1793986802001.jpg?pubId=1033249144001" .
+_:node8c58ca6741e968be12d50516cf5e757 <http://www.schema.org/VideoObject/name> "Strawberry Cake from Scratch" .
+_:nodee83c018ffad049a7187c5e9572319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodee83c018ffad049a7187c5e9572319 <http://schema.org/ratingValue> "4" .
+_:nodecf7f795d1a4cb205dbdff2b832d7b68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodecf7f795d1a4cb205dbdff2b832d7b68 <http://schema.org/reviewRating> _:nodef94f3f1fe6c4728dd07141c52b93ad89 .
+_:nodecf7f795d1a4cb205dbdff2b832d7b68 <http://schema.org/dateCreated> "Apr 08, 2007" .
+_:nodecf7f795d1a4cb205dbdff2b832d7b68 <http://schema.org/description> "My sister and I made this cake the day before Easter Sunday and let it sit in the refrigerator until we served it for dessert... it was WONDERFUL!!! We took three recommendations from reviews that really helped the strawberry cake to turn out great! \n1~ We seperated the egg whites and yolks and whipped the egg whites and then added them in to the mixture.     2~ Also we sifted the flour and then after sifting measured it again. \n3~ We spread strawberry puree in between the two cake layers along with icing to make them stick together well. (mmmmm!!!:D)Furthermore we made the strawberry puree by blending clean, cut strawberries together in the blender which made a really fresh puree. As a finishing touch, after icing the entire cake with vanilla icing, we placed extra sliced strawberries on the top of the cake! The cake was BIG hit but make sure to make room in the refrigerator for leftovers!" .
+_:nodecf7f795d1a4cb205dbdff2b832d7b68 <http://schema.org/author> "Katia" .
+_:nodecf7f795d1a4cb205dbdff2b832d7b68 <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:noded89bf85fbd6cc446aec09b4ec2f3e92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:noded89bf85fbd6cc446aec09b4ec2f3e92 <http://schema.org/ratingValue> "5" .
+_:node31cfa9cd509bc17955a7ab1aea7f7d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node31cfa9cd509bc17955a7ab1aea7f7d3 <http://schema.org/reviewRating> _:node14adaae6f458c74614edacfacdbe90e2 .
+_:node31cfa9cd509bc17955a7ab1aea7f7d3 <http://schema.org/dateCreated> "Oct 19, 2006" .
+_:node31cfa9cd509bc17955a7ab1aea7f7d3 <http://schema.org/description> "I think I know why everyone complained about density. The measurements for the flour are for sifted flour not the amount to be sifted. Sift the cake flour and then measure the amount to be put into the cake. The batter seems to be runny, but bakes up fluffy" .
+_:node31cfa9cd509bc17955a7ab1aea7f7d3 <http://schema.org/author> "MOMMY 2 XO & XY" .
+_:node31cfa9cd509bc17955a7ab1aea7f7d3 <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:node633794a0748cf31e9a58e1b929f24ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node633794a0748cf31e9a58e1b929f24ae <http://schema.org/reviewRating> _:nodebeb0343a7b9666f0fd481c7f52bc216d .
+_:node633794a0748cf31e9a58e1b929f24ae <http://schema.org/dateCreated> "Mar 01, 2007" .
+_:node633794a0748cf31e9a58e1b929f24ae <http://schema.org/description> "I was very pleasantly suprised with this cake. There was so many reviewers claiming that the cake was too dense. I think that the problem maybe that they used 2 pans instead of 3. I went with my instinct and used three 9 inch cake pans and did everything else the same and my cake came out wonderful, very light and fluffy. I used the remaining strawberry puree, mixed it with some extra chopped strawberries, sprinkled it with sugar and a little cornstarch. After mixing it and letting it sit, I poured it between the layers and frosted the top and sides with my buttercream frosting. Delish, to say the least!! The cake itself was defenitely better than any boxed version, a keeper!!" .
+_:node633794a0748cf31e9a58e1b929f24ae <http://schema.org/author> "Verena" .
+_:node633794a0748cf31e9a58e1b929f24ae <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:node429e815fbb86aadf47444ed91a78497 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node429e815fbb86aadf47444ed91a78497 <http://schema.org/ratingValue> "5" .
+_:node996320dd39d281f0d0aaec40a7654fba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node996320dd39d281f0d0aaec40a7654fba <http://schema.org/reviewRating> _:noded89bf85fbd6cc446aec09b4ec2f3e92 .
+_:node996320dd39d281f0d0aaec40a7654fba <http://schema.org/dateCreated> "Jan 28, 2005" .
+_:node996320dd39d281f0d0aaec40a7654fba <http://schema.org/description> "I am a caterer as well and have not found a good strawberry cake recipe until now!  My daughter asked for a Strawberry cake I had to find a recipe.  Everyone LOVED it, even my picky eater that does not like strawberries! It is a keeper!  Thank you for sharing. I made the recipe like I do all of my cakes and it came out fluffy and moist.  I seperated the egg whites and yolks. Whipped the whites into soft peaks and folded them in at the end.  I also always line the pans with parchment paper, this keeps them from sticking to the bottom." .
+_:node996320dd39d281f0d0aaec40a7654fba <http://schema.org/author> "BUSYMOMOF6" .
+_:node996320dd39d281f0d0aaec40a7654fba <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/sodiumContent> "233mg" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/carbohydrateContent> "59.3g" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/proteinContent> "5.4g" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/saturatedFatContent> "9.1g" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/fatContent> "15.4g" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/calories> "393" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/servingSize> "1/14 of a recipe" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/fiberContent> "0.7g" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/cholesterolContent> "97mg" .
+_:node9f9fae2146d2fe4a978f6caa7fa33c9 <http://schema.org/sugarContent> "37g" .
+_:node14adaae6f458c74614edacfacdbe90e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node14adaae6f458c74614edacfacdbe90e2 <http://schema.org/ratingValue> "4" .
+_:node17161f9deed0167c1a3764f2d2aecfd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node17161f9deed0167c1a3764f2d2aecfd6 <http://schema.org/ratingValue> "4" .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/video> _:node8c58ca6741e968be12d50516cf5e757 .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/name> "Strawberry Cake from Scratch" .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            2 cups\n                            white sugar\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            1 (3 ounce) package\n                            strawberry flavored Jell-O\u00AE\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            1 cup\n                            butter, softened\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            4\n                            eggs (room temperature)\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            2 3/4 cups\n                            sifted cake flour\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            2 1/2 teaspoons\n                            baking powder\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            1 cup\n                            whole milk, room temperature\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            1 tablespoon\n                            vanilla extract\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/ingredients> "\n                            1/2 cup\n                            strawberry puree made from frozen sweetened strawberries\n                            \n                        " .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/author> "GothicGirl" .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/description> "\"It is hard to find scratch strawberry cakes, so this one is worth it weight in gold to me as a caterer. I made this cake for a child's birthday party. It was a major hit! Frost with cream cheese or vanilla frosting - or for a treat, use a chocolate glaze!\"" .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:node31cfa9cd509bc17955a7ab1aea7f7d3 .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:noded71fc3f0fa9e2fdfa2bbac497b9f13ab .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:node996320dd39d281f0d0aaec40a7654fba .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:nodecf7f795d1a4cb205dbdff2b832d7b68 .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:nodeb7d4a5c4866a879865478a5b34ba78d .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:nodeb7b1dbc81e02cd89f9cd755f2eec6ad .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:node633794a0748cf31e9a58e1b929f24ae .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/review> _:node43c1eb899d31cf9137b4810197a38e1 .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/image> <http://images.media-allrecipes.com/userphotos/250x250/00/96/29/962955.jpg> .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/nutrition> _:node9f9fae2146d2fe4a978f6caa7fa33c9 .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/recipeYield> "2 - 9 inch cake layers" .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/recipeInstructions> "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPreheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9 inch round cake pans.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIn a large bowl, cream together the butter, sugar and dry strawberry gelatin until light and fluffy. Beat in eggs one at a time, mixing well after each. Combine the flour and baking powder; stir into the batter alternately with the milk. Blend in vanilla and strawberry puree. Divide the batter evenly between the prepared pans.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBake for 25 to 30 minutes in the preheated oven, or until a small knife inserted into the center of the cake comes out clean. Allow cakes to cool in their pans over a wire rack for at least 10 minutes, before tapping out to cool completely.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tKitchen-Friendly View\n\n\t\t\t\t" .
+_:nodef6a47733f916404e1ade38f208b6c3d <http://schema.org/aggregateRating> _:nodeab187df3310375ee492f65d8952f686 .
+_:nodef94f3f1fe6c4728dd07141c52b93ad89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodef94f3f1fe6c4728dd07141c52b93ad89 <http://schema.org/ratingValue> "5" .
+_:node5032d45390ee7bc397c657cba1e52cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node5032d45390ee7bc397c657cba1e52cf <http://schema.org/ratingValue> "3" .
+_:noded71fc3f0fa9e2fdfa2bbac497b9f13ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:noded71fc3f0fa9e2fdfa2bbac497b9f13ab <http://schema.org/reviewRating> _:node5032d45390ee7bc397c657cba1e52cf .
+_:noded71fc3f0fa9e2fdfa2bbac497b9f13ab <http://schema.org/dateCreated> "Jan 24, 2011" .
+_:noded71fc3f0fa9e2fdfa2bbac497b9f13ab <http://schema.org/description> "This cake turned out absolutely delicious but the reason I am giving it 3 stars is because it can be a bit tricky to make. Definitely follow the recipe exactly, otherwise it can turn out a bit dense. I make mine in a 9x13 cake pan. For a yummy light frosting, I blended together 8 oz of cream cheese, with a container of cool whip and 1 tsp of vanilla." .
+_:noded71fc3f0fa9e2fdfa2bbac497b9f13ab <http://schema.org/author> "iKat" .
+_:noded71fc3f0fa9e2fdfa2bbac497b9f13ab <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:node43c1eb899d31cf9137b4810197a38e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node43c1eb899d31cf9137b4810197a38e1 <http://schema.org/reviewRating> _:node429e815fbb86aadf47444ed91a78497 .
+_:node43c1eb899d31cf9137b4810197a38e1 <http://schema.org/dateCreated> "May 19, 2008" .
+_:node43c1eb899d31cf9137b4810197a38e1 <http://schema.org/description> "I am so glad I read the reviews-this turned out great with some tweaking! Here's what I did different from the original:\n* sifted cake flour, then measured out\n* separated yolk/white and beat whites to soft peaks, then folded in at the end\n* reduced sugar to 1 3/4 c.(will try 1.5 c. next time)\n* baked in three, 9 in. pans\n* frosting=two store bought vanillas and 1/3 c. puree (plus a little red food color)\nCake was dense, moist and great! I liberally coated/greased/floured the pans, put wax paper on bottom, too. I really want to try this with raspberries as a local baker that is now out of business had the best raspberry cake and frosting. This turned out great! Thanks! " .
+_:node43c1eb899d31cf9137b4810197a38e1 <http://schema.org/author> "NANCYH" .
+_:node43c1eb899d31cf9137b4810197a38e1 <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:nodeb7b1dbc81e02cd89f9cd755f2eec6ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeb7b1dbc81e02cd89f9cd755f2eec6ad <http://schema.org/reviewRating> _:nodee83c018ffad049a7187c5e9572319 .
+_:nodeb7b1dbc81e02cd89f9cd755f2eec6ad <http://schema.org/dateCreated> "Apr 07, 2010" .
+_:nodeb7b1dbc81e02cd89f9cd755f2eec6ad <http://schema.org/description> "A little sweet for me, but Hubs loved it.  Pretty pink, lots of strawberry flavor.  I creamed the butter, sugar and gelatin well, as directed, adding the eggs one at a time and beating well after each addition. I added the flour in thirds with the milk AND the strawberry puree, beginning and ending with the flour. This differed from the instruction to add the puree at the end.  To give the cake a little extra lift I used a full tablespoon of baking powder.  Also, salt makes flavor come alive, so I added a teaspoon.  The batter was so light, fluffy and voluminous I felt better using three pans rather than two and I'm glad I did.  I filled the cake with my own strawberry buttercream: 2 c.  powdered sugar, 1/2 c. butter, approximately 2 T. of sweetened strawberry puree and a dribble of strawberry extract.  It was awesome good and complemented the cake perfectly.  I frosted the cake with \"Sturdy Whipped Cream Frosting,\" also from this site, which Hubs and I both agree was a major disappointment and, in our opinion, ruined what otherwise would have been a perfect cake.  The strawberry buttercream I made for the filling would have been perfect to frost the cake as well and in hindsight I wish I would have done that. This cake is fluffy, moist and flavorful - pretty too! If I have any criticism at all, it would be that using the gelatin kind of turned me off. I would much rather find a true \"Strawberry Cake from SCRATCH\" that didn't use it." .
+_:nodeb7b1dbc81e02cd89f9cd755f2eec6ad <http://schema.org/author> "naples34102" .
+_:nodeb7b1dbc81e02cd89f9cd755f2eec6ad <http://schema.org/itemReviewed> "Strawberry Cake from Scratch" .
+_:nodea91736d429324a2c4b43976c85ccd943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

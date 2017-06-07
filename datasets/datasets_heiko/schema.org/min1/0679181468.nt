@@ -1,0 +1,6 @@
+_:node71faedef18784fb26de0a6fb294a8753 <http://schema.org/name> "Newest &#39;bootstrapper&#39; Questions" .
+_:node71faedef18784fb26de0a6fb294a8753 <http://schema.org/title> "Newest &#39;bootstrapper&#39; Questions" .
+_:node71faedef18784fb26de0a6fb294a8753 <http://schema.org/description> "Q&A for professional and enthusiast programmers" .
+_:node71faedef18784fb26de0a6fb294a8753 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node71faedef18784fb26de0a6fb294a8753 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node2480937945f0bc8c86128a722a1fdca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,33 @@
+<http://www.cleversafe.com/#company> <http://xmlns.com/foaf/0.1/page> <http://www.cleversafe.com/> .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65585 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65585 <http://www.w3.org/2006/vcard/ns#postal-code> "60606" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65585 <http://www.w3.org/2006/vcard/ns#locality> "Chicago" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65585 <http://www.w3.org/2006/vcard/ns#street-address> "222 South Riverside Plaza #1700" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65585 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+<http://www.cleversafe.com/#store> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d68a62198d9874a3da7fea3e5545c16562dN65640 .
+<http://www.cleversafe.com/#store> <http://www.w3.org/2006/vcard/ns#tel> "312-423-6640" .
+<http://www.cleversafe.com/#store> <http://purl.org/goodrelations/v1#name> "Cleversafe | Limitless Data Storage" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65640 <http://www.w3.org/2006/vcard/ns#postal-code> "60606" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65640 <http://www.w3.org/2006/vcard/ns#locality> "Chicago" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65640 <http://www.w3.org/2006/vcard/ns#street-address> "222 South Riverside Plaza #1700" .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dN65640 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+<http://www.cleversafe.com/#store> <http://purl.org/goodrelations/v1#hasOpeningHoursSpecification> <http://www.cleversafe.com/#mon_fri> .
+<http://www.cleversafe.com/#mon_fri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#closes> "16:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Monday> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Tuesday> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Wednesday> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Thursday> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Friday> .
+<http://www.cleversafe.com/#mon_fri> <http://purl.org/goodrelations/v1#opens> "09:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.cleversafe.com#company> <http://purl.org/goodrelations/v1#hasPOS> <http://www.cleversafe.com/#store> .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dINSIDE5fN65661 <http://www.w3.org/2006/vcard/ns#longitude> "-87.63895"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d68a62198d9874a3da7fea3e5545c16562dINSIDE5fN65661 <http://www.w3.org/2006/vcard/ns#latitude> "41.87865"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.cleversafe.com/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.cleversafe.com/#company> <http://purl.org/goodrelations/v1#legalName> "Cleversafe, Inc" .
+<http://www.cleversafe.com/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d68a62198d9874a3da7fea3e5545c16562dN65585 .
+<http://www.cleversafe.com/#company> <http://www.w3.org/2006/vcard/ns#tel> "312-423-6640" .
+<http://www.cleversafe.com/#store> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Location> .
+<http://www.cleversafe.com/#store> <http://www.w3.org/2006/vcard/ns#geo> _:genid2d68a62198d9874a3da7fea3e5545c16562dINSIDE5fN65661 .
+<http://www.swimoutlet.com/p/roxy-deep-sea-one-piece-7534156/#offering> <http://purl.org/goodrelations/v1#description> "<p>The Deep Sea swimsuit allows you to endure your favorite outdoor adventures in an on-trend one piece; designed with cute chevron print and a flattering, functional fit.</p> <ul> <li> One piece.</li> <li> Open back with adjustable crossover straps.</li> <li> Straps allow free range of motion.</li> <li> Gather detail at front chest and lower back for flattering fit.</li> <li> Chlorine resistant.</li> <li> Lightweight, quick drying.</li> <li> Fully lined.</li> <li> Removable cups.</li> <li> UPF 50+.</li> <li> 73% Recycled Nylon / 27% Xtra Life LYCRA\u00AE Spandex Tricot.</li> </ul>" .

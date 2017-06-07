@@ -1,0 +1,11 @@
+<http://www.macmall.com/n/macNavLinks-307?q=9425080&qt=9428001#company> <http://www.w3.org/2006/vcard/ns#tel> "800.MACMALL"@en .
+<http://www.macmall.com/n/macNavLinks-307?q=9425080&qt=9428001#company> <http://xmlns.com/foaf/0.1/page> <http://www.macmall.com/n/macNavLinks-307?q=9425080&qt=9428001> .
+<http://www.macmall.com/n/macNavLinks-307?q=9425080&qt=9428001#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.macmall.com/n/macNavLinks-307?q=9425080&qt=9428001#company> <http://purl.org/goodrelations/v1#legalName> "MacMall"@en .
+<http://www.macmall.com/n/macNavLinks-307?q=9425080&qt=9428001#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2db14c24c4a5524ca3b3800a5514d9d5072dN71544 .
+_:genid2db14c24c4a5524ca3b3800a5514d9d5072dN71544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2db14c24c4a5524ca3b3800a5514d9d5072dN71544 <http://www.w3.org/2006/vcard/ns#postal-code> "90504"@en .
+_:genid2db14c24c4a5524ca3b3800a5514d9d5072dN71544 <http://www.w3.org/2006/vcard/ns#locality> "Torrance"@en .
+_:genid2db14c24c4a5524ca3b3800a5514d9d5072dN71544 <http://www.w3.org/2006/vcard/ns#street-address> "2555 West 190th Street"@en .
+_:genid2db14c24c4a5524ca3b3800a5514d9d5072dN71544 <http://www.w3.org/2006/vcard/ns#country-name> "CA"@en .
+<http://www.warmyourfloor.com/floor-heating-mats/sun-touch-mats-120v/suntouch-tapemat-120v-36-x-15-12001536.html#UnitPriceSpecification_1146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

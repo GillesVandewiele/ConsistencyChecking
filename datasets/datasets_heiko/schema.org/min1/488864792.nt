@@ -1,0 +1,3 @@
+_:node7176a529154128b6e8d6a99443e8cf6 <http://schema.org/name> "2001,07,26 :: Freeport Memorial Library-The Leader 2001" .
+_:node7176a529154128b6e8d6a99443e8cf6 <http://schema.org/image> "http://cdm16373.contentdm.oclc.org/utils/getthumbnail/collection/p15281coll130/id/565" .
+_:nodebc901341b75c4d838aba34fb803b9a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

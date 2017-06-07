@@ -1,0 +1,20 @@
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74455 .
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/a/latexcap-white-hero-hr_1.jpg> .
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://purl.org/goodrelations/v1#description> "Lightweight, durable and comfortable latex swim cap."@en .
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://purl.org/goodrelations/v1#name> "Finis Latex Swim Cap"@en .
+<http://www.triathletesports.com/swim/swim-gear/swim-caps/finis-latex-swim-cap.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74476 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74476 <http://rdf.data-vocabulary.org/#count> ""@en .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74476 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74476 <http://rdf.data-vocabulary.org/#itemreviewed> "Finis Latex Swim Cap"@en .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74455 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74455 <http://purl.org/goodrelations/v1#hasCurrencyValue> "2.29"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74492 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74492 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74492 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74492 <http://rdf.data-vocabulary.org/#average> "0"@en .
+_:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74476 <http://rdf.data-vocabulary.org/#rating> _:genid2d931c1642d07145bc99bffa7b5a23bebc2dN74492 .
+<http://www.charlestonnaturally.com/dr-hauschka/dr-hauschka-regenerating-serum.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .

@@ -1,0 +1,7 @@
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://schema.org/name> "crossflex"@en .
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://schema.org/url> "http://adidasgolf.com/adidasGolf/footwear/DW-V3974.html"@en .
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://schema.org/productID> "DW-V3974"@en .
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://schema.org/productID> "DW-V3974"@en .
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://schema.org/image> <http://demandware.edgesuite.net/aais_prd/on/demandware.static/Sites-TMaG-Site/Sites-tmag-master-catalog/default/v1418839796329/zoom/Q47097_zoom.jpg> .
+_:node25cdcffeb1b6228cffcbecca4ac2be8 <http://schema.org/image> <http://demandware.edgesuite.net/aais_prd/on/demandware.static/Sites-TMaG-Site/Sites-tmag-master-catalog/default/v1418839796329/zoom/Q47097_zoom.jpg> .
+_:node3ba55cb95d119f5e2b8ce0b086a725fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

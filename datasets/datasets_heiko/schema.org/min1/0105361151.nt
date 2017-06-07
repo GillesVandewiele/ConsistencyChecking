@@ -1,0 +1,4 @@
+_:node69ca6afbd7a931e603b114c6f8724e <http://schema.org/name> "How to create AutoCAD Blocks to reuse standard geometry"@en-us .
+_:node69ca6afbd7a931e603b114c6f8724e <http://schema.org/image> "http://cso-cdn.cadsetteroutcom.netdna-cdn.com/wp-content/uploads/2011/07/AutoCAD-Save-Block-or-save-block-as.png?91b6da"@en-us .
+_:node69ca6afbd7a931e603b114c6f8724e <http://schema.org/description> "AutoCAD Blocks are a great way of creating standard symbols and details of standard items such as bolts or screws.\u2026"@en-us .
+_:node243dbae28896f6d9acda616a86f66d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

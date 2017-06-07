@@ -1,0 +1,16 @@
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#rating> "4"@en .
+<http://www.joke.co.uk/skeleton-costumes/complete-zombie-halloween-costume-plus-size~21459/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/skeleton-costumes/complete-zombie-halloween-costume-plus-size~21459/#main> <http://purl.org/goodrelations/v1#name> "Complete Zombie Halloween Costume (PLUS SIZE)"@en .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrencyValue> "34.99"@en .
+<http://www.joke.co.uk/skeleton-costumes/complete-zombie-halloween-costume-plus-size~21459/#main> <http://purl.org/goodrelations/v1#description> "Plus size Complete Zombie Halloween Costume includes long sleeve tattered shirt with attached rotted flesh, chest and forearm rubber pieces and matching tattered trousers with elasticated waist plus realistic exposed rubber thigh and knee bones.Completing this deluxe costume is a pair of black gloves with 3D rubber rotting flesh and exposed bones and a deluxe rubber mask with attached long grey hair and netted eyes so you can see out but no-one can see in.Sprinkle with blood for a fantastic look!"@en .
+<http://www.joke.co.uk/skeleton-costumes/complete-zombie-halloween-costume-plus-size~21459/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/skeleton-costumes/complete-zombie-halloween-costume-plus-size~21459/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68301 .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dN68263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dN68263 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68263 .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=21459> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=21459> .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dN68197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dN68197 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68197 .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dN68197 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=21459> .
+_:genid2d65e4790a7bac494b9914d1b07b3607d52dINSIDE5fN68301 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-2-cycle-27cc-handheld-blower-vac-w-speed-start/p-07179472000P?prdNo=8#product> .

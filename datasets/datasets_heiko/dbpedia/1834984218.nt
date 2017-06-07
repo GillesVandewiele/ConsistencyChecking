@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Saludos_Amigos> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Mary_Blair> .
+<http://dbpedia.org/resource/Saludos_Amigos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Saludos_Amigos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Saludos_Amigos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://dbpedia.org/resource/Mary_Blair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mary_Blair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Mary_Blair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .

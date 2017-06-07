@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mission:_Impossible> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Mission:_Impossible_(1988_TV_series)> .
+<http://dbpedia.org/resource/Mission:_Impossible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Mission:_Impossible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Mission:_Impossible_(1988_TV_series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Mission:_Impossible_(1988_TV_series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .

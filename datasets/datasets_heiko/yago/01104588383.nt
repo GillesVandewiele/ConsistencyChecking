@@ -1,0 +1,5 @@
+<http://yago-knowledge.org/resource/Rushbrooke_inequality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Rushbrooke_inequality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_physical_entity_100001930> .
+<http://yago-knowledge.org/resource/Rushbrooke_inequality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Critical_phenomena> .
+<http://yago-knowledge.org/resource/Rushbrooke_inequality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_phenomenon_100034213> .
+<http://yago-knowledge.org/resource/Rushbrooke_inequality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_process_100029677> .

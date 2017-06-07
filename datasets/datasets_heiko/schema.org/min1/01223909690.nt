@@ -1,0 +1,300 @@
+_:nodecf1114599862f89624488855cdcb87 <http://schema.org/name> "\n\t\t\t\t\tGreat Books and Fresh Coffee\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecf1114599862f89624488855cdcb87 <http://schema.org/url> <http://www.meetup.com/Great-Books-and-Fresh-Coffee/> .
+_:node3a9f15f0b2fe7bd7fcdb1ec18e449be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3a9f15f0b2fe7bd7fcdb1ec18e449be <http://schema.org/name> "\n\t\t\t\t\tNorth Dallas Toy Show Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3a9f15f0b2fe7bd7fcdb1ec18e449be <http://schema.org/url> <http://www.meetup.com/North-Dallas-Toy-Show-Meetup/> .
+_:node44cbfff5c043b8d29f3ab4808399969f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node44cbfff5c043b8d29f3ab4808399969f <http://schema.org/name> "\n\t\t\t\t\tCity Girls Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node44cbfff5c043b8d29f3ab4808399969f <http://schema.org/url> <http://www.meetup.com/City-Girls-Social-Group/> .
+_:node8efc283d76a822b8835a4ed8c6c64ad8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8efc283d76a822b8835a4ed8c6c64ad8 <http://schema.org/name> "\n\t\t\t\t\tBook Brew\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8efc283d76a822b8835a4ed8c6c64ad8 <http://schema.org/url> <http://www.meetup.com/Book-Brew/> .
+_:node8a390fd9a39cec4f4763ecd897c682 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8a390fd9a39cec4f4763ecd897c682 <http://schema.org/name> "\n\t\t\t\t\tGirlfriends NOW\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8a390fd9a39cec4f4763ecd897c682 <http://schema.org/url> <http://www.meetup.com/girlfriends-now/> .
+_:nodeea27035da851bca76abd8869a06637 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeea27035da851bca76abd8869a06637 <http://schema.org/name> "\n\t\t\t\t\tNerdettes - Nerdy Girls of Dallas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeea27035da851bca76abd8869a06637 <http://schema.org/url> <http://www.meetup.com/nerdettes/> .
+_:node1ae6c9472d632223c1719b3fb6922d63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1ae6c9472d632223c1719b3fb6922d63 <http://schema.org/name> "\n\t\t\t\t\tPlano Readers Book Exchange\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node1ae6c9472d632223c1719b3fb6922d63 <http://schema.org/url> <http://www.meetup.com/Plano-Readers-and-Book-Exchange-Meetup/> .
+_:noded06a594eb3a1c54a1451b233e873f1e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded06a594eb3a1c54a1451b233e873f1e <http://schema.org/name> "\n\t\t\t\t\tDallas Gay and Lesbian Singles\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded06a594eb3a1c54a1451b233e873f1e <http://schema.org/url> <http://www.meetup.com/Dallas-Gay-and-Lesbian-Singles-Group/> .
+_:node52d040689a7b893315b1c1fde9e8a765 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node52d040689a7b893315b1c1fde9e8a765 <http://schema.org/name> "\n\t\t\t\t\tDFW Words & Wine\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node52d040689a7b893315b1c1fde9e8a765 <http://schema.org/url> <http://www.meetup.com/Words-and-Wine/> .
+_:nodee97bcfcdafba6a64684dc4541f4c9f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee97bcfcdafba6a64684dc4541f4c9f7 <http://schema.org/name> "\n\t\t\t\t\t*THE NIGHTLIFE & ADVENTURE GROUP!*\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee97bcfcdafba6a64684dc4541f4c9f7 <http://schema.org/url> <http://www.meetup.com/NIGHTLIFE-ADVENTURE/> .
+_:node5424ab5be43a5ac2236361acaa73e72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5424ab5be43a5ac2236361acaa73e72 <http://schema.org/name> "\n\t\t\t\t\tThe Mom Squad 2011\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5424ab5be43a5ac2236361acaa73e72 <http://schema.org/url> <http://www.meetup.com/themomsquad2011/> .
+_:nodecd1a7214e78cf8b1152f6a9c891f59e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodecd1a7214e78cf8b1152f6a9c891f59e <http://schema.org/name> "\n\t\t\t\t\tMcKinney / Allen / Plano Fiction Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecd1a7214e78cf8b1152f6a9c891f59e <http://schema.org/url> <http://www.meetup.com/McKinney-Allen-Plano_Fiction_Book_Club/> .
+_:nodee2c742dc111b899f94bf49aa27e78f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee2c742dc111b899f94bf49aa27e78f8 <http://schema.org/name> "\n\t\t\t\t\tDFW Cosplay Photography Connection\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee2c742dc111b899f94bf49aa27e78f8 <http://schema.org/url> <http://www.meetup.com/DFW-Cosplay-Photography-Connection/> .
+_:nodeffb7c61021ca178dd4156e2f144049b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeffb7c61021ca178dd4156e2f144049b0 <http://schema.org/name> "\n\t\t\t\t\tWine, Dine and Underline - Book & fun lovers of North DFW\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeffb7c61021ca178dd4156e2f144049b0 <http://schema.org/url> <http://www.meetup.com/Wine-Dine-and-Underline-Book-fun-lovers-of-North-DFW/> .
+_:node3f646c3f7d1ba7113136545ffe52072 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3f646c3f7d1ba7113136545ffe52072 <http://schema.org/name> "\n\t\t\t\t\tAuthentic Swirls and Twirls\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3f646c3f7d1ba7113136545ffe52072 <http://schema.org/url> <http://www.meetup.com/AuthenticSwirls-and-Twirls-Playgroup/> .
+_:node3cca3308febb04e156fe6dab0f72d86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3cca3308febb04e156fe6dab0f72d86 <http://schema.org/name> "\n\t\t\t\t\tSo Novel!\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3cca3308febb04e156fe6dab0f72d86 <http://schema.org/url> <http://www.meetup.com/SoNovel/> .
+_:nodec880f5d1a3d0a13c8acde52ccf4283 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec880f5d1a3d0a13c8acde52ccf4283 <http://schema.org/name> "\n\t\t\t\t\tMetaphysics Book Club  with Guided Visioning for Expansion\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec880f5d1a3d0a13c8acde52ccf4283 <http://schema.org/url> <http://www.meetup.com/Metaphysics-and-Me-books-and-guided-visioning-for-expansion/> .
+_:nodeead3e44e6adfa0831ea444fdda3d5d8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeead3e44e6adfa0831ea444fdda3d5d8e <http://schema.org/name> "\n\t\t\t\t\tDallas Area Transhumanist Association\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeead3e44e6adfa0831ea444fdda3d5d8e <http://schema.org/url> <http://www.meetup.com/DallasTranshumanists/> .
+_:node4f542a9940ea7f942194183550fdba2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4f542a9940ea7f942194183550fdba2e <http://schema.org/name> "\n\t\t\t\t\tCurlFriendsAbroad\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4f542a9940ea7f942194183550fdba2e <http://schema.org/url> <http://www.meetup.com/CurlFriendsAbroad/> .
+_:nodeb7778ffabd22782976b94deb3a7ef753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb7778ffabd22782976b94deb3a7ef753 <http://schema.org/name> "\n\t\t\t\t\tLifetime Girlfriends\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb7778ffabd22782976b94deb3a7ef753 <http://schema.org/url> <http://www.meetup.com/Lifetime-Girlfriends/> .
+_:node442df8c1c547f366709a1825fb915f3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node442df8c1c547f366709a1825fb915f3f <http://schema.org/name> "\n\t\t\t\t\tMOMS Club\u00AE of McKinney-Central, TX\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node442df8c1c547f366709a1825fb915f3f <http://schema.org/url> <http://www.meetup.com/MOMS-Club-of-McKinney-Central-TX/> .
+_:node6fc0cb605c447a3447f4f035dea7ee9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6fc0cb605c447a3447f4f035dea7ee9 <http://schema.org/name> "\n\t\t\t\t\tR.E.A.D- Women's Social Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6fc0cb605c447a3447f4f035dea7ee9 <http://schema.org/url> <http://www.meetup.com/R-E-A-D-Womens-Social-Book-Club/> .
+_:nodea3eed1123e5ba893d30a1295198faa4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea3eed1123e5ba893d30a1295198faa4 <http://schema.org/name> "\n\t\t\t\t\tDallas Songwriters Association\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea3eed1123e5ba893d30a1295198faa4 <http://schema.org/url> <http://www.meetup.com/Dallas-Songwriters-Association/> .
+_:node84a01a34d73bf17953b82e5ea459db2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node84a01a34d73bf17953b82e5ea459db2 <http://schema.org/name> "\n\t\t\t\t\tThe Dallas Gay Geeks Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node84a01a34d73bf17953b82e5ea459db2 <http://schema.org/url> <http://www.meetup.com/The-Dallas-Gay-Geeks-Meetup-Group/> .
+_:nodea8d37de38da5932d2c1dc2ba59f82741 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea8d37de38da5932d2c1dc2ba59f82741 <http://schema.org/name> "\n\t\t\t\t\tModern Moms, Badass Babies\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea8d37de38da5932d2c1dc2ba59f82741 <http://schema.org/url> <http://www.meetup.com/ModernMomsBadassBabies/> .
+_:nodefc1a55a6574c50628b3d37b22599e53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefc1a55a6574c50628b3d37b22599e53 <http://schema.org/name> "\n\t\t\t\t\tSpeaker Co-op - The Original Business Speaking Org\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodefc1a55a6574c50628b3d37b22599e53 <http://schema.org/url> <http://www.meetup.com/SpeakerCoop/> .
+_:nodefed3f81d151e115615d6d711874e1ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefed3f81d151e115615d6d711874e1ab <http://schema.org/name> "\n\t\t\t\t\tFabulous Females - Dallas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodefed3f81d151e115615d6d711874e1ab <http://schema.org/url> <http://www.meetup.com/Fabulous-Females-of-Dallas/> .
+_:nodec693f5ef18303e61b29795346ccf53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec693f5ef18303e61b29795346ccf53 <http://schema.org/name> "\n\t\t\t\t\tMany Shades of Brown Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec693f5ef18303e61b29795346ccf53 <http://schema.org/url> <http://www.meetup.com/Many-Shades-of-Brown-Book-Club/> .
+_:nodeae5bcfba3a9b505c6d5f96b52ba61f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeae5bcfba3a9b505c6d5f96b52ba61f <http://schema.org/name> "\n\t\t\t\t\tFrisco Area Writers' Network\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeae5bcfba3a9b505c6d5f96b52ba61f <http://schema.org/url> <http://www.meetup.com/Frisco-Area-Writers-Network/> .
+_:node731cd7c23ff63ca86a3eff1b5f88a2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node731cd7c23ff63ca86a3eff1b5f88a2b <http://schema.org/name> "\n\t\t\t\t\tNorth DFW Broader Horizons Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node731cd7c23ff63ca86a3eff1b5f88a2b <http://schema.org/url> <http://www.meetup.com/North-DFW-Broader-Horizons-Book-Club/> .
+_:node49c083b43f65331924dc1789693399e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node49c083b43f65331924dc1789693399e <http://schema.org/name> "\n\t\t\t\t\tNo BS Marketing DFW (and Networking too)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node49c083b43f65331924dc1789693399e <http://schema.org/url> <http://www.meetup.com/No-BS-Marketing-DFW-Networking/> .
+_:node29c4597e78f9449586f6684b41f2ddb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node29c4597e78f9449586f6684b41f2ddb6 <http://schema.org/name> "\n\t\t\t\t\tPlano Book Club for Adventurous Readers!\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node29c4597e78f9449586f6684b41f2ddb6 <http://schema.org/url> <http://www.meetup.com/Plano-Book-Club-for-Adventurous-Readers/> .
+_:node86a915e49e54b4aac1fde2a18ea32e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node86a915e49e54b4aac1fde2a18ea32e0 <http://schema.org/name> "\n\t\t\t\t\tMommy Manders: \"Parent with Purpose\" Dallas Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node86a915e49e54b4aac1fde2a18ea32e0 <http://schema.org/url> <http://www.meetup.com/Mommy-Manders-Parent-with-Purpose-Dallas-Meetup-Group/> .
+_:node5d9a4f12539d9bc2ce8d0c39891fd57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5d9a4f12539d9bc2ce8d0c39891fd57 <http://schema.org/name> "\n\t\t\t\t\tGirlfriend Therapy\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5d9a4f12539d9bc2ce8d0c39891fd57 <http://schema.org/url> <http://www.meetup.com/GirlfriendTherapy/> .
+_:nodee6ec5fa7228a8a9a8a56d887846111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee6ec5fa7228a8a9a8a56d887846111 <http://schema.org/name> "\n\t\t\t\t\tDallas Great Books and Movies Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee6ec5fa7228a8a9a8a56d887846111 <http://schema.org/url> <http://www.meetup.com/Dallas-Great-Books-and-Movie-Club/> .
+_:nodea958e9a8b6d84cecda8eb9211e9952b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea958e9a8b6d84cecda8eb9211e9952b <http://schema.org/name> "\n\t\t\t\t\tThe Monroe Institute - Dallas Local Chapter\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea958e9a8b6d84cecda8eb9211e9952b <http://schema.org/url> <http://www.meetup.com/The-Monroe-Institute-Dallas-Local-Chapter/> .
+_:nodeb090544e1fddda72d78fd1ee477697e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb090544e1fddda72d78fd1ee477697e <http://schema.org/name> "\n\t\t\t\t\tNorth Texas Objectivist Society (NTOS)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb090544e1fddda72d78fd1ee477697e <http://schema.org/url> <http://www.meetup.com/Objectivist-Society/> .
+_:nodee3bfc1b8b443d98b69f687bc2347e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee3bfc1b8b443d98b69f687bc2347e9 <http://schema.org/name> "\n\t\t\t\t\tOur Village - Fit4Mom Hurst\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee3bfc1b8b443d98b69f687bc2347e9 <http://schema.org/url> <http://www.meetup.com/our-village-moms-hurst/> .
+_:nodef4f742494a31c72ef556812a4fbe096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef4f742494a31c72ef556812a4fbe096 <http://schema.org/name> "\n\t\t\t\t\tDFW WordPress Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef4f742494a31c72ef556812a4fbe096 <http://schema.org/url> <http://www.meetup.com/dfwwordpress/> .
+_:node505ae9b05a6ecb2f147357c6df3a3de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node505ae9b05a6ecb2f147357c6df3a3de <http://schema.org/name> "\n\t\t\t\t\tNorth Dallas 20somethings Book, Movie, & Music Exchange\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node505ae9b05a6ecb2f147357c6df3a3de <http://schema.org/url> <http://www.meetup.com/North-Dallas-20s-Culture-Club/> .
+_:node1dcb215bf17dac36bfaa4d7d1af2be5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1dcb215bf17dac36bfaa4d7d1af2be5 <http://schema.org/name> "\n\t\t\t\t\tNorth Fort Worth Romance Book Lovers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node1dcb215bf17dac36bfaa4d7d1af2be5 <http://schema.org/url> <http://www.meetup.com/NorthFortWorthRomanceBookLovers/> .
+_:node59ba20820af2e8e7af51b1c923fd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node59ba20820af2e8e7af51b1c923fd6 <http://schema.org/name> "\n\t\t\t\t\tLearn about Self-Publishing & Traditional Publishing -Dallas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node59ba20820af2e8e7af51b1c923fd6 <http://schema.org/url> <http://www.meetup.com/Learn-about-Self-Publishing-Traditional-Publishing-Dallas/> .
+_:node5d3bea15a4ab1babb0a1c72627b0561c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5d3bea15a4ab1babb0a1c72627b0561c <http://schema.org/name> "\n\t\t\t\t\tUptown Ladies Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5d3bea15a4ab1babb0a1c72627b0561c <http://schema.org/url> <http://www.meetup.com/Uptown-Ladies-Book-Club/> .
+_:nodeffa78bd0b9ea245547dcd4889a854e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeffa78bd0b9ea245547dcd4889a854e8 <http://schema.org/name> "\n\t\t\t\t\tDallas Atheist Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeffa78bd0b9ea245547dcd4889a854e8 <http://schema.org/url> <http://www.meetup.com/Dallas-Atheist-Book-Club/> .
+_:nodee02240fbcea123ac0e01816c6f5d682 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee02240fbcea123ac0e01816c6f5d682 <http://schema.org/name> "\n\t\t\t\t\tBishop Arts Book Club (for women)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee02240fbcea123ac0e01816c6f5d682 <http://schema.org/url> <http://www.meetup.com/Bishop-Arts-Book-Club-for-women/> .
+_:node66f794ed58dab3c95d646f56e229ebd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node66f794ed58dab3c95d646f56e229ebd <http://schema.org/name> "\n\t\t\t\t\tDallas Drinking Liberally Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node66f794ed58dab3c95d646f56e229ebd <http://schema.org/url> <http://www.meetup.com/Dallas-Drinking-Liberally-Group/> .
+_:node454980718ccca0a468cdc3373fe08f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node454980718ccca0a468cdc3373fe08f9 <http://schema.org/name> "\n\t\t\t\t\tTequila Mockingbird Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node454980718ccca0a468cdc3373fe08f9 <http://schema.org/url> <http://www.meetup.com/TequilaMockingbird/> .
+_:node1e97cd6927347e9c85b864451efb5d55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1e97cd6927347e9c85b864451efb5d55 <http://schema.org/name> "\n\t\t\t\t\tTable for 6\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node1e97cd6927347e9c85b864451efb5d55 <http://schema.org/url> <http://www.meetup.com/Table-for-6/> .
+_:node97fc76a43d2458d82ac50d0c8d6b526 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node97fc76a43d2458d82ac50d0c8d6b526 <http://schema.org/name> "\n\t\t\t\t\tDallas Moms Club (DMC)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node97fc76a43d2458d82ac50d0c8d6b526 <http://schema.org/url> <http://www.meetup.com/dallasmomsclub/> .
+_:nodee5123e36fc28fe861e450c8b18c6a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee5123e36fc28fe861e450c8b18c6a2 <http://schema.org/name> "\n\t\t\t\t\tKeller Ladies Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee5123e36fc28fe861e450c8b18c6a2 <http://schema.org/url> <http://www.meetup.com/Keller-Ladies-Social/> .
+_:nodef0c3ebe239b72ee160db3446a13c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef0c3ebe239b72ee160db3446a13c2 <http://schema.org/name> "\n\t\t\t\t\tHorror, SciFi, and Fantasy Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef0c3ebe239b72ee160db3446a13c2 <http://schema.org/url> <http://www.meetup.com/Horror-SciFi-and-Fantasy-Book-Club/> .
+_:node6f9da844a5296a3a81e147ff60a9f51b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6f9da844a5296a3a81e147ff60a9f51b <http://schema.org/name> "\n\t\t\t\t\tWhite Light Circle - Open Forum and Classes\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6f9da844a5296a3a81e147ff60a9f51b <http://schema.org/url> <http://www.meetup.com/White-Light-Circle-Open-Forum-All-areTeachers-Students/> .
+_:nodece1d6a88ae21b382d3fc5bd80f6d0e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodece1d6a88ae21b382d3fc5bd80f6d0e8 <http://schema.org/name> "\n\t\t\t\t\tIn Stitches In McKinney!\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodece1d6a88ae21b382d3fc5bd80f6d0e8 <http://schema.org/url> <http://www.meetup.com/institchesinmckinney/> .
+_:node227f9822c1e35957d59ad9da3f1b1c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node227f9822c1e35957d59ad9da3f1b1c9 <http://schema.org/name> "\n\t\t\t\t\tDallas Atlas Shrugged Reading Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node227f9822c1e35957d59ad9da3f1b1c9 <http://schema.org/url> <http://www.meetup.com/Dallas-Atlas-Shrugged-Reading-Group/> .
+_:node513785f18eec9e2365b4f517f85ede3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node513785f18eec9e2365b4f517f85ede3 <http://schema.org/name> "\n\t\t\t\t\tMOMS Club \u00AE of McKinney-West, TX\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node513785f18eec9e2365b4f517f85ede3 <http://schema.org/url> <http://www.meetup.com/MOMS-Club-of-McKinney-West/> .
+_:node785e3ef767dc43036fa96af7d61465c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node785e3ef767dc43036fa96af7d61465c <http://schema.org/name> "\n\t\t\t\t\tTexas Lit - A Book Club for Men\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node785e3ef767dc43036fa96af7d61465c <http://schema.org/url> <http://www.meetup.com/Texas-Lit-A-Book-Club-for-Men/> .
+_:node886cc1cff384fdb4bcc799cbd7adda <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node886cc1cff384fdb4bcc799cbd7adda <http://schema.org/name> "\n\t\t\t\t\tDFW Independent Publishers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node886cc1cff384fdb4bcc799cbd7adda <http://schema.org/url> <http://www.meetup.com/DFW-IndiePub/> .
+_:node65f84e6363edddcea72f37ea08aca1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node65f84e6363edddcea72f37ea08aca1f <http://schema.org/name> "\n\t\t\t\t\tNorth TX Chapter Glazer-Kennedy Marketing & Networking group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node65f84e6363edddcea72f37ea08aca1f <http://schema.org/url> <http://www.meetup.com/North-TX-Chapter-Glazer-Kennedy-Marketing-Networking-group/> .
+_:node8f5f5111d49328e66675c172853a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8f5f5111d49328e66675c172853a9 <http://schema.org/name> "\n\t\t\t\t\tThe Dallas Voice Acting Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8f5f5111d49328e66675c172853a9 <http://schema.org/url> <http://www.meetup.com/voiceover/> .
+_:nodec8173056fd2bc861ea97a8e3dea88b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec8173056fd2bc861ea97a8e3dea88b <http://schema.org/name> "\n\t\t\t\t\tYoung @ Heart\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec8173056fd2bc861ea97a8e3dea88b <http://schema.org/url> <http://www.meetup.com/YAH-Book-Club/> .
+_:node72845c1a9e3eb7c2ba2daed7191932a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node72845c1a9e3eb7c2ba2daed7191932a0 <http://schema.org/name> "\n\t\t\t\t\tBased on a True Story\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node72845c1a9e3eb7c2ba2daed7191932a0 <http://schema.org/url> <http://www.meetup.com/basedonatruestory/> .
+_:node349336d1b62d50b023cbb8bb2c457 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node349336d1b62d50b023cbb8bb2c457 <http://schema.org/name> "\n\t\t\t\t\tDallas Sci-Fi Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node349336d1b62d50b023cbb8bb2c457 <http://schema.org/url> <http://www.meetup.com/Dallas-Sci-Fi-Book-Club-Meetup/> .
+_:nodecd9fcd7c325991e39c885371ab8830cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodecd9fcd7c325991e39c885371ab8830cc <http://schema.org/name> "\n\t\t\t\t\tGood book and a glass of wine - Women's Book Club - Addison\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecd9fcd7c325991e39c885371ab8830cc <http://schema.org/url> <http://www.meetup.com/Good-book-and-a-glass-of-wine-Womens-Book-Club-Addison/> .
+_:node4b7b50ae4df89bb53d74bc5a6ea67059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4b7b50ae4df89bb53d74bc5a6ea67059 <http://schema.org/name> "\n\t\t\t\t\tYoung Black Women in Dallas Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4b7b50ae4df89bb53d74bc5a6ea67059 <http://schema.org/url> <http://www.meetup.com/YBWDallas/> .
+_:nodef528f37835dc35bf625df64065fe5f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef528f37835dc35bf625df64065fe5f9 <http://schema.org/name> "\n\t\t\t\t\tThe DFW Altered Art Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef528f37835dc35bf625df64065fe5f9 <http://schema.org/url> <http://www.meetup.com/The-DFW-Altered-Art-Meetup-Group/> .
+_:nodea3a45f8fb81939d577ca1a79d5fd77e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea3a45f8fb81939d577ca1a79d5fd77e <http://schema.org/name> "\n\t\t\t\t\tHip Happy Homeschoolers :  Dallas Homeschool Co-op\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea3a45f8fb81939d577ca1a79d5fd77e <http://schema.org/url> <http://www.meetup.com/hip-happy-homeschoolers/> .
+_:node6cc3a7b14ac55b6d67ff6fbde92ffefc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6cc3a7b14ac55b6d67ff6fbde92ffefc <http://schema.org/name> "\n\t\t\t\t\tChristian Homeschoolers Learning Together\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6cc3a7b14ac55b6d67ff6fbde92ffefc <http://schema.org/url> <http://www.meetup.com/Christian-Homeschoolers-Learning-Together/> .
+_:node441a5bb2f2829982b9324e3814c882ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node441a5bb2f2829982b9324e3814c882ac <http://schema.org/name> "\n\t\t\t\t\tNovel Ideas Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node441a5bb2f2829982b9324e3814c882ac <http://schema.org/url> <http://www.meetup.com/Novel-Ideas-Social/> .
+_:node8fa73b7d30466e954f251e3dd37f2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8fa73b7d30466e954f251e3dd37f2b <http://schema.org/name> "\n\t\t\t\t\tDallas Women's Business & Leadership Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8fa73b7d30466e954f251e3dd37f2b <http://schema.org/url> <http://www.meetup.com/Dallas-Womens-Business-Leadership-Book-Club/> .
+_:node8fd7c21c6967eabc5b946f9f9eab255 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8fd7c21c6967eabc5b946f9f9eab255 <http://schema.org/name> "\n\t\t\t\t\tCognitive Computing Experts - Dallas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8fd7c21c6967eabc5b946f9f9eab255 <http://schema.org/url> <http://www.meetup.com/Cognitive-Computing-Experts-Dallas/> .
+_:node31d78863872a293cf224268d7e81251 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node31d78863872a293cf224268d7e81251 <http://schema.org/name> "\n\t\t\t\t\tSocial Girlfriends of North Dallas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node31d78863872a293cf224268d7e81251 <http://schema.org/url> <http://www.meetup.com/Social-Girlfriends-of-North-Dallas/> .
+_:node844c5b958e62733fc6c36edbe7612ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node844c5b958e62733fc6c36edbe7612ac <http://schema.org/name> "\n\t\t\t\t\tOur Village - FIT4MOM Grapevine/Coppell\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node844c5b958e62733fc6c36edbe7612ac <http://schema.org/url> <http://www.meetup.com/Our-Village-Grapevine/> .
+_:nodecdf5b9e7464851d4e975bafd9128f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodecdf5b9e7464851d4e975bafd9128f1 <http://schema.org/name> "\n\t\t\t\t\tThe  DFW Motherless Daughters Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecdf5b9e7464851d4e975bafd9128f1 <http://schema.org/url> <http://www.meetup.com/motherlessdaug-236/> .
+_:nodeee41ea31ba1951caf61d5147b3c64a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeee41ea31ba1951caf61d5147b3c64a <http://schema.org/name> "\n\t\t\t\t\tMid-Cities Buddhist Meditation and Dharma Study\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeee41ea31ba1951caf61d5147b3c64a <http://schema.org/url> <http://www.meetup.com/Mid-Cities-Buddhist-Meditation-and-Dharma-Study/> .
+_:node45e8f81f1b33bf43bbac7663bddce054 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node45e8f81f1b33bf43bbac7663bddce054 <http://schema.org/name> "\n\t\t\t\t\tBook Worms of Denton\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node45e8f81f1b33bf43bbac7663bddce054 <http://schema.org/url> <http://www.meetup.com/Book-Worms-of-Denton/> .
+_:nodea1b93ce14de9786cae2692074dbf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea1b93ce14de9786cae2692074dbf <http://schema.org/name> "\n\t\t\t\t\tPlano Great Books Group ~ Classic & World Literature Sundays\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea1b93ce14de9786cae2692074dbf <http://schema.org/url> <http://www.meetup.com/Plano-Great-Books-Group/> .
+_:nodea2457d2a915612fb89847fcc8e85a29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea2457d2a915612fb89847fcc8e85a29 <http://schema.org/name> "\n\t\t\t\t\tDallas Outlanders\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea2457d2a915612fb89847fcc8e85a29 <http://schema.org/url> <http://www.meetup.com/NorthDallas-Outlanders/> .
+_:node4d2bba4abea6cce8b6fa728fda9556f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4d2bba4abea6cce8b6fa728fda9556f4 <http://schema.org/name> "\n\t\t\t\t\tMid 20's Addison Ladies Book/Social Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4d2bba4abea6cce8b6fa728fda9556f4 <http://schema.org/url> <http://www.meetup.com/Mid-20s-Addison-Ladies-Book-Social-Club/> .
+_:node622bdf6eaaa6eba92b9cf5ced1c23f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node622bdf6eaaa6eba92b9cf5ced1c23f7 <http://schema.org/name> "\n\t\t\t\t\tNovel Ideas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node622bdf6eaaa6eba92b9cf5ced1c23f7 <http://schema.org/url> <http://www.meetup.com/NovelIdeas/> .
+_:node8c8ae9b1a37335e3079e75cb4b7548d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8c8ae9b1a37335e3079e75cb4b7548d <http://schema.org/name> "\n\t\t\t\t\tOn Another Level Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8c8ae9b1a37335e3079e75cb4b7548d <http://schema.org/url> <http://www.meetup.com/OnAnother-LevelBookClub/> .
+_:nodec318c3d998965ece6e46486327dec5d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec318c3d998965ece6e46486327dec5d <http://schema.org/name> "\n\t\t\t\t\tThe Dallas Integral Community\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec318c3d998965ece6e46486327dec5d <http://schema.org/url> <http://www.meetup.com/dallasintegral/> .
+_:node5194d179cff39ba16ef29a5228629a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5194d179cff39ba16ef29a5228629a3 <http://schema.org/name> "\n\t\t\t\t\tZorba Studio - Osho Dallas Meditation Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5194d179cff39ba16ef29a5228629a3 <http://schema.org/url> <http://www.meetup.com/zorbastudio/> .
+_:node5f1cc9aabac7d3ae8da71c8fd8cea46e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5f1cc9aabac7d3ae8da71c8fd8cea46e <http://schema.org/name> "\n\t\t\t\t\tGirlfriends of Mid-Cities\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5f1cc9aabac7d3ae8da71c8fd8cea46e <http://schema.org/url> <http://www.meetup.com/Girlfriends-of-Mid-Cities/> .
+_:node13fb85d740e2b98bfe191d01b33e488 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node13fb85d740e2b98bfe191d01b33e488 <http://schema.org/name> "\n\t\t\t\t\tDFW Explorers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node13fb85d740e2b98bfe191d01b33e488 <http://schema.org/url> <http://www.meetup.com/DFW-Explorers/> .
+_:nodef9f3b7593162a67b75b2467af8101fca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef9f3b7593162a67b75b2467af8101fca <http://schema.org/name> "\n\t\t\t\t\tDFW (North Texas) Radical Honesty Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef9f3b7593162a67b75b2467af8101fca <http://schema.org/url> <http://www.meetup.com/North-Texas-Radical-Honesty/> .
+_:node775450e973ecf55e356545b18f4f64c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node775450e973ecf55e356545b18f4f64c8 <http://schema.org/name> "\n\t\t\t\t\tSaint Elizabeth Mothers and Others\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node775450e973ecf55e356545b18f4f64c8 <http://schema.org/url> <http://www.meetup.com/Saint-Elizabeth-Mothers-and-Others/> .
+_:node32ead7674868f41517fcbca0793216f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node32ead7674868f41517fcbca0793216f0 <http://schema.org/name> "\n\t\t\t\t\tDallas Modern Quilt Guild\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node32ead7674868f41517fcbca0793216f0 <http://schema.org/url> <http://www.meetup.com/DallasMQG/> .
+_:nodef59257859f5189c4dcf6f6dadebaee8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef59257859f5189c4dcf6f6dadebaee8 <http://schema.org/name> "\n\t\t\t\t\tThe Unbiological Sisterhood\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef59257859f5189c4dcf6f6dadebaee8 <http://schema.org/url> <http://www.meetup.com/collin-county-sisters/> .
+_:node8d5cafc3a665c8f690c27e19f73d6766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8d5cafc3a665c8f690c27e19f73d6766 <http://schema.org/name> "\n\t\t\t\t\tCollin Co. 2014 New Moms\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8d5cafc3a665c8f690c27e19f73d6766 <http://schema.org/url> <http://www.meetup.com/2014newmoms/> .
+_:node6c9c021affa82340ede65565e48090 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6c9c021affa82340ede65565e48090 <http://schema.org/name> "\n\t\t\t\t\tThe Dallas YA Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6c9c021affa82340ede65565e48090 <http://schema.org/url> <http://www.meetup.com/The-Dallas-YA-Book-Club/> .
+_:node84fd8a89af59dd842a9f98148c957 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node84fd8a89af59dd842a9f98148c957 <http://schema.org/name> "\n\t\t\t\t\tCanada Club of North Texas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node84fd8a89af59dd842a9f98148c957 <http://schema.org/url> <http://www.meetup.com/NTX-Canadians/> .
+_:node6c93b7065ae2968871ef0c3552574cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6c93b7065ae2968871ef0c3552574cf <http://schema.org/name> "\n\t\t\t\t\tVixens, Vino, and Volumes\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6c93b7065ae2968871ef0c3552574cf <http://schema.org/url> <http://www.meetup.com/Vixens-Vino-and-Volumes/> .
+_:nodebefca2bb367f3fef7cf0edc293578dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodebefca2bb367f3fef7cf0edc293578dc <http://schema.org/name> "\n\t\t\t\t\tFreshFiction Book Clubs\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodebefca2bb367f3fef7cf0edc293578dc <http://schema.org/url> <http://www.meetup.com/DFWTea/> .
+_:nodeb18ced28f6c11cb294d1a2bccf269ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb18ced28f6c11cb294d1a2bccf269ae <http://schema.org/name> "\n\t\t\t\t\tNorth Oak Cliff Netweavers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb18ced28f6c11cb294d1a2bccf269ae <http://schema.org/url> <http://www.meetup.com/oakcliffnetweavers/> .
+_:nodecb4f2aef46e5a9664ee2c6b4630dd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodecb4f2aef46e5a9664ee2c6b4630dd7 <http://schema.org/name> "\n\t\t\t\t\tGirlfriends, Inc.\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecb4f2aef46e5a9664ee2c6b4630dd7 <http://schema.org/url> <http://www.meetup.com/Girlfriends-inc/> .
+_:nodeea75aff0d52b5dfed38491e65c55e2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeea75aff0d52b5dfed38491e65c55e2c <http://schema.org/name> "\n\t\t\t\t\tNorth Dallas Chick Lit Book & Social Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeea75aff0d52b5dfed38491e65c55e2c <http://schema.org/url> <http://www.meetup.com/North-TX-chick-lit-book-club/> .
+_:node6257e34fc2c6efc9ae0e0764b94add7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6257e34fc2c6efc9ae0e0764b94add7 <http://schema.org/name> "\n\t\t\t\t\tBrunch and Books\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6257e34fc2c6efc9ae0e0764b94add7 <http://schema.org/url> <http://www.meetup.com/Brunch-and-Books/> .
+_:nodea2dc248cd142167536498a945e53777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea2dc248cd142167536498a945e53777 <http://schema.org/name> "\n\t\t\t\t\tBooks and Brews Dallas\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea2dc248cd142167536498a945e53777 <http://schema.org/url> <http://www.meetup.com/Books-and-Brews-Dallas/> .
+_:nodeaa4b6da440d91b9d5f7748a3c6f8a4a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeaa4b6da440d91b9d5f7748a3c6f8a4a <http://schema.org/name> "\n\t\t\t\t\tMom-azing\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeaa4b6da440d91b9d5f7748a3c6f8a4a <http://schema.org/url> <http://www.meetup.com/Mom-azing/> .
+_:nodea76fefe44c7cb99f7d5a886837121d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea76fefe44c7cb99f7d5a886837121d5 <http://schema.org/name> "\n\t\t\t\t\tDallas/Ft. Worth Chesterton Society\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea76fefe44c7cb99f7d5a886837121d5 <http://schema.org/url> <http://www.meetup.com/Dallas-Ft-Worth-Chesterton-Society/> .
+_:nodeba6f9b698effe2a06e3ce7f92b7cb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

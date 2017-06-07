@@ -1,0 +1,3 @@
+_:nodec488cecdebc526e4273a72ea6d962 <http://schema.org/name> "Ubuntu: a person is a person through other persons :: Scholar Archive" .
+_:nodec488cecdebc526e4273a72ea6d962 <http://schema.org/image> "http://contentdm.li.suu.edu/utils/getthumbnail/collection/scholar/id/6261" .
+_:node30c91f32d7f784099478f8e9afb97ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

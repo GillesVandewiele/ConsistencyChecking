@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Katyusha_rocket_launcher> <http://dbpedia.org/ontology/usedInWar> <http://dbpedia.org/resource/2006_Lebanon_War> .
+<http://dbpedia.org/resource/Katyusha_rocket_launcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Weapon> .
+<http://dbpedia.org/resource/Katyusha_rocket_launcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> .
+<http://dbpedia.org/resource/2006_Lebanon_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/2006_Lebanon_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/2006_Lebanon_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .

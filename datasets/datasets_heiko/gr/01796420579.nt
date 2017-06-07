@@ -1,0 +1,24 @@
+_:genid2d61b9106fb64641919053861b6bb545702dN72263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72263 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72263 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72263 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$98.65"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d61b9106fb64641919053861b6bb545702dN72263 .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72244 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#description> "<p> Warm, cozy and water resistant, this parka is perfect before, after and in between swims.</p> <h3 style=''color: red;''> <font=red>Order by December 5, 2014, for guaranteed delivery by December 24th!</font=red></h3> <p> \u00A0</p> <p> <b>NOTE:</b>If you want to personalize your parka, please do not add the item to cart. Please contact us and we will process your custom order.</p> <br /><div class=''pakas-description''> <span>\u00A0</span> <h4>PERSONALIZE YOUR PARKA! <span> <div style=''display:none''> <span></span> Embroidery & Tackle Twill available. Additional charges may apply. </div> </span> </h4> <span><a href=''https://clubswim.wufoo.com/forms/parka-personalization-form/'' id=''ContactTeamSales''>Contact Team Sales for more information.</a></span> <div class=''clear''></div> </div> <br /> <p> \u2022 100% polyester shell<br /> \u2022 100% polyester fleece liner<br /> \u2022 water resistant<br /> \u2022 mesh vents</p>" .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://purl.org/goodrelations/v1#name> "Nike Swim Parka Adult" .
+<http://www.swimoutlet.com/p/nike-swim-parka-adult-13287/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d61b9106fb64641919053861b6bb545702dN72215 .
+_:genid2d61b9106fb64641919053861b6bb545702dN72215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72215 <http://rdf.data-vocabulary.org/#count> "44"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d61b9106fb64641919053861b6bb545702dN72215 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.polar-ray.com/lighting-science-led-4-2w-candelabra-bulb.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .

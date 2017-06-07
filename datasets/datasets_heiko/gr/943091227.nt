@@ -1,0 +1,15 @@
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/198014.jpg" .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://ogp.me/ns#description> "Buy 8-in. EarthPan Hard Anodized Nonstick Skillet by EarthPan by EarthPan at Cooking.com. Get Cookware and EarthPan, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/8-in-earthpan-hard-anodized-nonstick-skillet-by-earthpan_198014_11/" .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://ogp.me/ns#title> "8-in. EarthPan Hard Anodized Nonstick Skillet by EarthPan at Cooking.com" .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/8-in-earthpan-hard-anodized-nonstick-skillet-by-earthpan_198014_11/> .
+_:genid2d2de82efecaa84e8ea3592506b38120d62dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d30147ccb015743788b1899efe1eeca352dN74546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .

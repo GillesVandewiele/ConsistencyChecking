@@ -1,0 +1,16 @@
+<http://www.joke.co.uk/hawaiian-fancy-dress/red-hawaiian-leis-set~11657/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/hawaiian-fancy-dress/red-hawaiian-leis-set~11657/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68302 .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68235 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68235 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68235 .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68235 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=11657> .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68165 <http://purl.org/goodrelations/v1#name> "RED Hawaiian Leis Set"@en .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68302 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68265 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68265 <http://purl.org/goodrelations/v1#hasCurrencyValue> "4.99"@en .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68265 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dN68265 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68265 .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=11657> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=11657> .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68235 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d7ba7a6011951428db02ebd7f63e169512dINSIDE5fN68235 <http://rdf.data-vocabulary.org/#rating> "5"@en .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeDirectDownload> .

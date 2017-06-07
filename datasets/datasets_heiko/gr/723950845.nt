@@ -1,0 +1,20 @@
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74325 <http://rdf.data-vocabulary.org/#count> ""@en .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74341 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74341 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74341 <http://rdf.data-vocabulary.org/#average> "0"@en .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74325 <http://rdf.data-vocabulary.org/#itemreviewed> "Shimano HG-91 Hyperglide chain"@en .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74304 .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/2/022255304917-dsb3-2.jpg> .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://purl.org/goodrelations/v1#description> "Chain Compatibility: 6, 7, 8 Speeds: 8-Speed Color: Silver/Gray Links: 116 links Width: 7.4 mm Weight: 334.0 g"@en .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://purl.org/goodrelations/v1#name> "Shimano HG-91 Hyperglide chain"@en .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74325 <http://rdf.data-vocabulary.org/#rating> _:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74341 .
+<http://www.triathletesports.com/bike/shimano-hg-91-hyperglide-chain.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74304 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dfa3aa92eec474d7db2abe025b1ca45ec2dN74304 <http://purl.org/goodrelations/v1#hasCurrencyValue> "35.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/2/022255304917-dsb3-2.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/2/022255304917-dsb3-2.jpg> .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=69487> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=69487> .

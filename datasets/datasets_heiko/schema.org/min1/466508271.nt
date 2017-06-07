@@ -1,0 +1,3 @@
+_:node2480937945f0bc8c86128a722a1fdca <http://schema.org/name> "Carter Museum :: Western History" .
+_:node2480937945f0bc8c86128a722a1fdca <http://schema.org/image> "http://digital.denverlibrary.org/utils/getthumbnail/collection/p15330coll22/id/2455" .
+_:node30b87dcbfa1f94b05cf8744b891f339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

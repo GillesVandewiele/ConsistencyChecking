@@ -1,0 +1,5 @@
+_:node53c47689a5b4532bec3c43f82a869bc <http://schema.org/name> "Dritz Heavy Duty Snap Fastener - Black - Sz 24 - 5/8 in.-6 Ct."@en .
+_:node53c47689a5b4532bec3c43f82a869bc <http://schema.org/url> "http://hancockfabrics.com/dritz-heavy-duty-snap-fastener---black---sz-24---5%2F8-in.-6-ct.-2615482.html"@en .
+_:node53c47689a5b4532bec3c43f82a869bc <http://schema.org/productID> "2615482"@en .
+_:node53c47689a5b4532bec3c43f82a869bc <http://schema.org/image> <http://demandware.edgesuite.net/sits_pod15/dw/image/v2/AAPM_PRD/on/demandware.static/Sites-hkf-Site/Sites-sales-catalog/default/v1419227414452/images/products/2615482.jpg?sw=763&sh=763> .
+_:nodefbb22f8b90d9b8ab686e2f07b1ec7d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

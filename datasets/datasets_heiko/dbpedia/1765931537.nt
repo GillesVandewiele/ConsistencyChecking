@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Gary_Cooper> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Americans> .
+<http://dbpedia.org/resource/Gary_Cooper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gary_Cooper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Americans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .

@@ -1,0 +1,5 @@
+_:nodefb9667fe5ea9fc76cfe79619b6d98499 <http://schema.org/name> "\n\t\tEmerson Street Baylor Bears Womens Cozy Pants\n\t"@en .
+_:nodefb9667fe5ea9fc76cfe79619b6d98499 <http://schema.org/description> "Emerson Street Baylor Bears Womens Cozy Pants. Lounge pant in our own new cozy fabric with drawstring. School mascot/logo featured over floral bohemian print."@en .
+_:nodefb9667fe5ea9fc76cfe79619b6d98499 <http://schema.org/image> <http://epicsports.cachefly.net/images/55915/300/emerson-street-baylor-bears-womens-cozy-pants.jpg> .
+_:nodefb9667fe5ea9fc76cfe79619b6d98499 <http://schema.org/brand> "Emerson Street"@en .
+_:nodec7e77b8f3fcf1d736ba316a0911449ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

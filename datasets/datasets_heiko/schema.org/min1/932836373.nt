@@ -1,0 +1,3 @@
+_:nodeb8a96b054259fc46fd79b1b69b87fdc <http://schema.org/logo> <http://cdn.media.abc.com/m/images/global/butterscotch/abccom_logo.png> .
+_:nodeb8a96b054259fc46fd79b1b69b87fdc <http://schema.org/url> <http://abc.go.com> .
+_:nodec27b3c89914b5c04739d914f8f9b414 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

@@ -1,0 +1,13 @@
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/keywords> "Football, NFL, NFC South, Atlanta Falcons"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/about> "Football, NFL, NFC South, Atlanta Falcons"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/name> "Tony Gonzalez Excused from Atlanta Falcons Minicamp "@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/author> "\n     \n        \n            From\n            \n                NFL.com\n            \n        \n    \n\n    \n        Jun 14, 2013\n    \n"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/headline> "Tony Gonzalez Excused from Atlanta Falcons Minicamp "@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/articleBody> "\n              \n    It's news when a veteran player misses mandatory minicamp. After all, it's the only \"mandatory\" event of the offseason until training camp.\n    \n        Continue Reading on NFL.com \u00BB\n    \n\n            "@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/interactionCount> "UserComments:0"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/interactionCount> "Null"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/interactionCount> "Null"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/isFamilyFriendly> "true"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/description> "Atlanta Falcons news, rumors, scores, schedules, predictions, picks against the spread, free agent updates, power rankings, mock drafts and more"@en .
+_:node0932b91d9cb7a1e23d1788298b49c <http://schema.org/associatedMedia> "\n      \n                  \n              \n          \n\n          \n              \n          \n        \n        \n          \n            Mike Ehrmann/Getty Images \n            \n          \n        \n\n        \n      \n    "@en .
+_:node607898374f6726945e01cd2a8c77b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

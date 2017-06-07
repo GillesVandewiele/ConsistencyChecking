@@ -1,0 +1,9 @@
+_:node9ac21f7c4e9f92848d15ba14a701d7a <http://schema.org/address> _:node6365832876a557c22c7a9d46d25437 .
+_:node6365832876a557c22c7a9d46d25437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node6365832876a557c22c7a9d46d25437 <http://schema.org/name> "Northeast Mississippi Daily Journal"@en-us .
+_:node6365832876a557c22c7a9d46d25437 <http://schema.org/telephone> "(662) 842-2611"@en-us .
+_:node6365832876a557c22c7a9d46d25437 <http://schema.org/postalCode> "38804"@en-us .
+_:node6365832876a557c22c7a9d46d25437 <http://schema.org/addressLocality> "Tupelo, MS"@en-us .
+_:node6365832876a557c22c7a9d46d25437 <http://schema.org/email> "info@journalinc.com"@en-us .
+_:node6365832876a557c22c7a9d46d25437 <http://schema.org/streetAddress> "1242 South Green Street"@en-us .
+_:node877bf9c1e3801e8ff4ff4ba2c126e5fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

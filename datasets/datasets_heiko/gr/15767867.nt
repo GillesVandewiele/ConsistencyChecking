@@ -1,0 +1,15 @@
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/620308.jpg" .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://ogp.me/ns#description> "Buy Palm 7.25-qt. Signature Enameled Cast-Iron Round French Oven by Le Creuset by Le Creuset at Cooking.com. Get Cookware and Le Creuset, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/product_620308_11/?ccaid=CKSCPDSHPZ620308&gdftrk=gdfV23800_a_7c2305_a_7c10277_a_7c620308&szredirectid=SZ_REDIRECT_ID" .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://ogp.me/ns#title> "Palm 7.25-qt. Signature Enameled Cast-Iron Round French Oven by Le Creuset at Cooking.com" .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/product_620308_11/?ccaid=CKSCPDSHPZ620308&gdftrk=gdfV23800_a_7c2305_a_7c10277_a_7c620308&szredirectid=SZ_REDIRECT_ID> .
+_:genid2de806dacb624f468c99fb9b0235fc3e122dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.craftsman.com/craftsman-9-pc-standard-easy-to-read-socket/p-00934563000P?prdNo=12#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

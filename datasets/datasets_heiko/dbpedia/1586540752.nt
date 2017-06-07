@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Maxime_Weygand> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/French_Army> .
+<http://dbpedia.org/resource/Maxime_Weygand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Maxime_Weygand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Maxime_Weygand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryPerson> .
+<http://dbpedia.org/resource/French_Army> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> .
+<http://dbpedia.org/resource/French_Army> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/French_Army> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,9 @@
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/name> <http://hu.hotels.com/de691636-ty4/gyogyszallo-hotelek-kenmare-irorszag//> .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/name> <http://hu.hotels.com/co104/irorszag-hotelei/> .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/name> <http://hu.hotels.com/de691636/hotelek-kenmare-irorszag/> .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/name> "Wellness hotel Kenmare"@hu .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/breadcrumb> "Sz\u00E1ll\u00E1s\u00CDrorsz\u00E1g Sz\u00E1ll\u00E1sKenmare Sz\u00E1ll\u00E1sWellness hotel Kenmare"@hu .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/url> <http://hu.hotels.com/de691636-ty4/gyogyszallo-hotelek-kenmare-irorszag//> .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/url> <http://hu.hotels.com/co104/irorszag-hotelei/> .
+_:nodef2e7e25e89d9c94669e5a6e29278ac5 <http://schema.org/url> <http://hu.hotels.com/de691636/hotelek-kenmare-irorszag/> .
+_:node545cb64b977d964da2f6c86478bafa1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .

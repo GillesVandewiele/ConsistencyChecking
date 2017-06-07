@@ -1,0 +1,12 @@
+_:nodea88dab38c1d0894566c1a44efd877a2e <http://schema.org/offers> _:nodef0e45a634b83bc6388fcaa74ca74e9 .
+_:nodea88dab38c1d0894566c1a44efd877a2e <http://schema.org/name> "Velvet Complete Santa Costume - Adult"@en .
+_:nodea88dab38c1d0894566c1a44efd877a2e <http://schema.org/description> "Includes: Jacket, pants, hat, belt, boot tops, gloves, glasses, eyebrowa, wig, and beard set. Shoes and stuffed torso not included."@en .
+_:nodea88dab38c1d0894566c1a44efd877a2e <http://schema.org/aggregateRating> _:node2e44817aab075baeba6e92f1bb0f216 .
+_:node2e44817aab075baeba6e92f1bb0f216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node2e44817aab075baeba6e92f1bb0f216 <http://schema.org/ratingValue> "Null"@en .
+_:node2e44817aab075baeba6e92f1bb0f216 <http://schema.org/reviewCount> "0"@en .
+_:nodef0e45a634b83bc6388fcaa74ca74e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodef0e45a634b83bc6388fcaa74ca74e9 <http://schema.org/price> "194.20"@en .
+_:nodef0e45a634b83bc6388fcaa74ca74e9 <http://schema.org/availability> <http://schema.org/OutOfStock> .
+_:nodef0e45a634b83bc6388fcaa74ca74e9 <http://schema.org/priceCurrency> "USD"@en .
+_:node92b63667ae22ac74e9798b6ed51430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

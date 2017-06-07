@@ -1,0 +1,3 @@
+_:node49d4321d6ea991fb5a1f66fa97ac16 <http://schema.org/name> "Master Property Record Parcel: 0000-05112-019-00 :: Denver Assessor Records" .
+_:node49d4321d6ea991fb5a1f66fa97ac16 <http://schema.org/image> "http://digital.denverlibrary.org/utils/getthumbnail/collection/p15330coll11/id/196421" .
+_:nodeec521b7c5464e44eae2354263b9dcc84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

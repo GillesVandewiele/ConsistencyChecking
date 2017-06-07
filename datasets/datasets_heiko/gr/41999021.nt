@@ -1,0 +1,24 @@
+_:genid2da04264603ce34d189db5d85080be28392dN67582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2da04264603ce34d189db5d85080be28392dN67582 <http://rdf.data-vocabulary.org/#url> <http://www.otto-office.com/de/Ordnen/010000/s> .
+_:genid2da04264603ce34d189db5d85080be28392dN67582 <http://rdf.data-vocabulary.org/#title> "Ordnen"@en .
+<http://www.otto-office.com/de/Pagna-Pultordner/58656/p#oo-breadcrumb-navigation-home> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+<http://www.otto-office.com/de/Pagna-Pultordner/58656/p#oo-breadcrumb-navigation-home> <http://rdf.data-vocabulary.org/#url> <http://www.otto-office.com/de/homepage.obtshop?> .
+<http://www.otto-office.com/de/Pagna-Pultordner/58656/p#oo-breadcrumb-navigation-home> <http://rdf.data-vocabulary.org/#title> "Homepage"@en .
+_:genid2da04264603ce34d189db5d85080be28392dN67590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2da04264603ce34d189db5d85080be28392dN67590 <http://rdf.data-vocabulary.org/#url> <http://www.otto-office.com/de/Ordnen/Mappen/011800/s> .
+_:genid2da04264603ce34d189db5d85080be28392dN67590 <http://rdf.data-vocabulary.org/#title> "Mappen"@en .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://purl.org/goodrelations/v1#hasCurrency> "EUR"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://purl.org/goodrelations/v1#hasCurrency> "EUR"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://purl.org/goodrelations/v1#hasMaxCurrencyValue> "12,49\u00A0\u20AC"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://purl.org/goodrelations/v1#hasMinCurrencyValue> "11,49\u00A0\u20AC"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:genid2da04264603ce34d189db5d85080be28392dN67793 <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:genid2da04264603ce34d189db5d85080be28392dN67611 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2da04264603ce34d189db5d85080be28392dN67793 .
+_:genid2da04264603ce34d189db5d85080be28392dN67611 <http://purl.org/goodrelations/v1#description> "Aus abwischbarer, schwarzer Hartpappe\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMit dehnbarem Leinenr\u00EF\u00BF\u00BDcken\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZwischenbl\u00EF\u00BF\u00BDtter bestehen aus einem Spezialkarton mit Sichtl\u00EF\u00BF\u00BDchern\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPVC-frei hergestellt\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\u00A0"@en .
+_:genid2da04264603ce34d189db5d85080be28392dN67598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2da04264603ce34d189db5d85080be28392dN67598 <http://rdf.data-vocabulary.org/#url> <http://www.otto-office.com/de/Mappen/Pultordner/011809/s> .
+_:genid2da04264603ce34d189db5d85080be28392dN67598 <http://rdf.data-vocabulary.org/#title> "Pultordner"@en .
+_:genid2da04264603ce34d189db5d85080be28392dN67611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2da04264603ce34d189db5d85080be28392dN67611 <http://purl.org/goodrelations/v1#name> "Pagna Pultordner"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/bic-ht56-i104727.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

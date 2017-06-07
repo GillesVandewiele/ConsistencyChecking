@@ -1,0 +1,7 @@
+_:node3d17583a7b1736c7d28b3374874af2c <http://schema.org/name> "overall rating\u00A0"@en .
+_:node3d17583a7b1736c7d28b3374874af2c <http://schema.org/AggregateRating> _:node883cf2789dbf2831c72ac8822b67e5a .
+_:node883cf2789dbf2831c72ac8822b67e5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node883cf2789dbf2831c72ac8822b67e5a <http://schema.org/ratingCount> "12"@en .
+_:node883cf2789dbf2831c72ac8822b67e5a <http://schema.org/bestRating> "5"@en .
+_:node883cf2789dbf2831c72ac8822b67e5a <http://schema.org/ratingValue> "4.2500"@en .
+_:node63919f777646f04e11a3adab89d55369 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

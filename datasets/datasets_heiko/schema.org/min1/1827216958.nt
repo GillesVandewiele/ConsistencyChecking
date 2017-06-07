@@ -1,0 +1,13 @@
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/name> "D\u00E9fil\u00E9 Julien David fashion week paris automne hiver 2012-2013 - La nouvelle g\u00E9n\u00E9ration de cr\u00E9ateurs ouvre la Fashion Week parisienne - L'EXPRESS | We Heart It" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/thumbnail> "http://data1.whicdn.com/images/24834225/thumbnail.jpg" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/interactionCount> "UserLikes:5" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/interactionCount> "UserInteraction/UserCollections:3" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/contentUrl> "http://data3.whicdn.com/images/24834225/large.jpg" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/uploadDate> "2012-03-14T09:21:39Z" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/width> "400" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/url> "http://weheartit.com/entry/24834225" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/tiny> "http://data1.whicdn.com/images/24834225/tiny.jpg" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/height> "600" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/dateModified> "2014-01-18T21:57:51Z" .
+_:node1a0242d99b8e138694ac2f784ebe2f <http://schema.org/keywords> "fashion week, julien david" .
+_:node2771b48f7e636b1bf7d9668ad8c96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

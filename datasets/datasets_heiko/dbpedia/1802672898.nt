@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Countdown_to_Extinction> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Rust_in_Peace> .
+<http://dbpedia.org/resource/Countdown_to_Extinction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Countdown_to_Extinction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Countdown_to_Extinction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Rust_in_Peace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Rust_in_Peace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Rust_in_Peace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .

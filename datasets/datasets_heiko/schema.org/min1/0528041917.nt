@@ -1,0 +1,17 @@
+_:node74fb361cc958de8d3ceeddb8167ed3e5 <http://schema.org/bestRating> "10" .
+_:node74fb361cc958de8d3ceeddb8167ed3e5 <http://schema.org/ratingValue> "8.274" .
+_:node74fb361cc958de8d3ceeddb8167ed3e5 <http://schema.org/worstRating> "1" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/aggregateRating> _:node74fb361cc958de8d3ceeddb8167ed3e5 .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/datePublished> "2011-06-09" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/SoftwareApplicationCategory> "http://schema.org/DriverApplication" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/image> "http://cache.filehippo.com/img/ex/1875__grs__Intel_icon.png" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/offers> _:node7ff1bcc76e5511cb501035e2bde19c .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/name> "\nIntel PRO/Wireless and WiFi Link Drivers 14.1.1 XP 64-bit" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/softwareVersion> "Intel PRO/Wireless and WiFi Link Drivers 14.1.1 XP 64-bit" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/url> "http://filehippo.com/download_intel_pro_wireless_xp64/9995/" .
+_:node5a79c0119dc4e8776084189575d686a9 <http://schema.org/SoftwareApplicationSubCategory> "Peripherals" .
+_:node7ff1bcc76e5511cb501035e2bde19c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node7ff1bcc76e5511cb501035e2bde19c <http://schema.org/price> "$0" .
+_:node7ff1bcc76e5511cb501035e2bde19c <http://schema.org/priceCurrency> "USD" .
+_:node80d2fddce0f3ab51b49027e8259e78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .

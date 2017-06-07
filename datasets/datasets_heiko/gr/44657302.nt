@@ -1,0 +1,15 @@
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/685995.jpg" .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://ogp.me/ns#description> "Mix batter or toss salad easily with the Amco Set of 3 Nonskid Stainless Steel Mixing Bowl Set from Cooking.com. Each mixing bowl has a non-skid silicone bottom and wide rim, providing a good grip that's easy to hold. The bowls nest for storage." .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/set%20of%203%20non-skid%20mixing%20bowl%20set%20by%20amco_685995_11/" .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://ogp.me/ns#title> "Set of 3 Non-skid Mixing Bowl Set by Amco at Cooking.com" .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/set%20of%203%20non-skid%20mixing%20bowl%20set%20by%20amco_685995_11/> .
+_:genid2d555d07b9f3b44b078f20ae45bd695b502dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d39213a58911545448f7ea753f47329332dN74788 <http://rdf.data-vocabulary.org/#rating> _:genid2d39213a58911545448f7ea753f47329332dN74804 .

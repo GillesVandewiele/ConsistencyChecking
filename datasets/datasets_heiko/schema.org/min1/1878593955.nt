@@ -1,0 +1,4 @@
+_:node4a16bfb8761881b2316810e03df793 <http://schema.org/image> "http://cfda.com/wp-content/themes/cfda/img/brand-top-sq.png"@en-us .
+_:node4a16bfb8761881b2316810e03df793 <http://schema.org/name> "CFDA Members"@en-us .
+_:node4a16bfb8761881b2316810e03df793 <http://schema.org/description> "COUNCIL of FASHION DESIGNERS of AMERICA"@en-us .
+_:nodee0ff2fb2c361fe5a2d638cea11961a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

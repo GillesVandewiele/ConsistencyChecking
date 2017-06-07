@@ -1,0 +1,13 @@
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/operatingSystems> "\n                                Platform:\n                iOS\n            " .
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/aggregateRating> _:node4e334f42db7b9bf5289d511f104fbb .
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/fileSize> "\n                                File Size:\n\n    167.19MB\n            " .
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/reviews> _:nodee3f773712034409b9d947dbaca9b31fa .
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/name> "Retirement Ready" .
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/interactionCount> "\n                                Total Downloads:\n\n    1\n            " .
+_:nodeb8bd7642853293e2c5927145704288e <http://schema.org/interactionCount> "\n                                Downloads Last Week:\n\n    1\n            " .
+_:node50c14fab08e5bdf9385f5d31caf3eb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node50c14fab08e5bdf9385f5d31caf3eb4 <http://schema.org/name> "\n                From  John Hancock: \n    " .
+_:nodee3f773712034409b9d947dbaca9b31fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodee3f773712034409b9d947dbaca9b31fa <http://schema.org/author> _:node50c14fab08e5bdf9385f5d31caf3eb4 .
+_:node4e334f42db7b9bf5289d511f104fbb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

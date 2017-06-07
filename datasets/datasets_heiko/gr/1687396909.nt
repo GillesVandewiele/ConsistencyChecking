@@ -1,0 +1,45 @@
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "4-029"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://xmlns.com/foaf/0.1/depiction> _:genid2d6b0d201a20474be58d21e50fd9ec75b42dN66750 .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://purl.org/goodrelations/v1#description> "Solid corrugated box. Sold In: Packs & cases.. Material: 1/8 ' B-Flute Corrugated Paperboard.. Finish: Matte.. Country of Origin: Italy."@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://purl.org/goodrelations/v1#category> "Wine Packaging Wine Boxes"@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://purl.org/goodrelations/v1#color> ""@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://purl.org/goodrelations/v1#name> "Wine Bottle Dividers for Corrugated Wine Boxes"@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2d6b0d201a20474be58d21e50fd9ec75b42dN66742 .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#UnitPriceSpecification_20690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#UnitPriceSpecification_20690> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#UnitPriceSpecification_20690> <http://purl.org/goodrelations/v1#hasCurrencyValue> "2.23"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#UnitPriceSpecification_20690> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#TypeAndQuantityNode_20690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#TypeAndQuantityNode_20690> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#TypeAndQuantityNode_20690> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.boxandwrap.com/corrugated-wine-dividers.html#SomeItems_20690> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#QuantitativeValue_20690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#QuantitativeValue_20690> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#QuantitativeValue_20690> <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offer_20690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Offer> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offer_20690> <http://rdf.data-vocabulary.org/#offerurl> "http://www.boxandwrap.com/corrugated-wine-dividers.html"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offer_20690> <http://rdf.data-vocabulary.org/#currency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offer_20690> <http://rdf.data-vocabulary.org/#price> "2.23"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offer_20690> <http://rdf.data-vocabulary.org/#availability> "In stock"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Product_20690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Product> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Product_20690> <http://rdf.data-vocabulary.org/#description> "Solid corrugated box. Sold In: Packs & cases.. Material: 1/8 ' B-Flute Corrugated Paperboard.. Finish: Matte.. Country of Origin: Italy."@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Product_20690> <http://rdf.data-vocabulary.org/#name> "Wine Bottle Dividers for Corrugated Wine Boxes"@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Product_20690> <http://rdf.data-vocabulary.org/#image> "http://lghttp.26483.nexcesscdn.net/80B767/magento/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/4/-/4-corrugated-wine-bottle-dividers.jpg"@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.boxandwrap.com/corrugated-wine-dividers.html#QuantitativeValue_20690> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d6b0d201a20474be58d21e50fd9ec75b42dINSIDE5fN66779 .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#validFrom> "2014-12-23 03:59:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.boxandwrap.com/corrugated-wine-dividers.html#Offer_20690> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.boxandwrap.com/corrugated-wine-dividers.html#Product_20690> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.boxandwrap.com/corrugated-wine-dividers.html#UnitPriceSpecification_20690> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#validThrough> "2015-12-23 03:59:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#description> "Solid corrugated box. Sold In: Packs & cases.. Material: 1/8 ' B-Flute Corrugated Paperboard.. Finish: Matte.. Country of Origin: Italy."@en .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#name> "Wine Bottle Dividers for Corrugated Wine Boxes"@en .
+_:genid2d6b0d201a20474be58d21e50fd9ec75b42dINSIDE5fN66779 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+<http://www.boxandwrap.com/corrugated-wine-dividers.html#Offering_20690> <http://purl.org/goodrelations/v1#includesObject> <http://www.boxandwrap.com/corrugated-wine-dividers.html#TypeAndQuantityNode_20690> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-professional-89-1-2-in-hard-edge-flex-back/p-00929364000P?prdNo=8#offering> .

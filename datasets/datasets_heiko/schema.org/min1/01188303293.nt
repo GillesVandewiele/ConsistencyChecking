@@ -1,0 +1,9 @@
+_:node7876775cef857284d828ae57a4ad5ee <http://schema.org/keywords> "Miguel Pilotos" .
+_:node7876775cef857284d828ae57a4ad5ee <http://schema.org/image> "http://m.local10.com/image/view/-/21790418/highRes/1/-/maxh/640/maxw/640/-/ipt5xmz/-/Attempted-robbery-Opa-locka-jpg.jpg" .
+_:node7876775cef857284d828ae57a4ad5ee <http://schema.org/name> "Video shows fatal robbery attempt" .
+_:node7876775cef857284d828ae57a4ad5ee <http://schema.org/description> "Police release surveillance video showing a gunman fatally shoot a 71-year-old man during an attempted robbery." .
+_:node7876775cef857284d828ae57a4ad5ee <http://schema.org/publisher> _:node138b03f9aa0f591f73b70ae8fc5dae7 .
+_:node7876775cef857284d828ae57a4ad5ee <http://schema.org/url> "http://m.local10.com/news/video-shows-fatal-robbery-attempt/21788628" .
+_:node138b03f9aa0f591f73b70ae8fc5dae7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node138b03f9aa0f591f73b70ae8fc5dae7 <http://schema.org/name> "pns-mia-mobile" .
+_:noded063f6118e7d9025e7ccbf301762ed87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

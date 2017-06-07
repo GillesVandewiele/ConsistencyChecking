@@ -1,0 +1,18 @@
+_:nodee9f8e5c936ddc0d1d7ef5ea69bad997e <http://schema.org/name> "Anesthesiology"@en .
+_:node3da1a6266ef36d9f6132993e5b78869b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node3da1a6266ef36d9f6132993e5b78869b <http://schema.org/addressRegion> "CA"@en .
+_:node3da1a6266ef36d9f6132993e5b78869b <http://schema.org/postalCode> "90033"@en .
+_:node3da1a6266ef36d9f6132993e5b78869b <http://schema.org/addressLocality> "Los Angeles,"@en .
+_:node3da1a6266ef36d9f6132993e5b78869b <http://schema.org/streetaddress> "2051 Marengo St Ste C4E100"@en .
+_:nodeb9ed8faaab87a95aa23a59ec5c7f5b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> .
+_:nodeb9ed8faaab87a95aa23a59ec5c7f5b23 <http://schema.org/name> <http://doctor.webmd.com/doctor/david-dix-md-39971745-955e-4e3e-ba40-f2babd112e72-overview//hospital/usc-norris-cancer-hospital-los-angeles-ca-edbc9457-70f3-4738-b3d6-934869808247-overview> .
+_:nodeb9ed8faaab87a95aa23a59ec5c7f5b23 <http://schema.org/name> <http://doctor.webmd.com/doctor/david-dix-md-39971745-955e-4e3e-ba40-f2babd112e72-overview//hospital/lac-usc-medical-center-los-angeles-ca-aa45f1c4-7875-40e2-aef4-e8ab78119c9a-overview> .
+_:nodeb9ed8faaab87a95aa23a59ec5c7f5b23 <http://schema.org/name> <http://doctor.webmd.com/doctor/david-dix-md-39971745-955e-4e3e-ba40-f2babd112e72-overview//hospital/keck-medical-center-of-usc-los-angeles-ca-30c18929-fa05-4386-be00-3b7bf89363b4-overview> .
+_:node1d813563cee565e3a0dae2202163468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Physician> .
+_:node1d813563cee565e3a0dae2202163468 <http://schema.org/address> _:node3da1a6266ef36d9f6132993e5b78869b .
+_:node1d813563cee565e3a0dae2202163468 <http://schema.org/name> "Dr. David O. Dix, MD"@en .
+_:node1d813563cee565e3a0dae2202163468 <http://schema.org/medicalSpecialty> _:nodee9f8e5c936ddc0d1d7ef5ea69bad997e .
+_:node1d813563cee565e3a0dae2202163468 <http://schema.org/hospitalAffiliation> _:nodeb9ed8faaab87a95aa23a59ec5c7f5b23 .
+_:node1d813563cee565e3a0dae2202163468 <http://schema.org/telephone> "(323) 409-6856"@en .
+_:node1d813563cee565e3a0dae2202163468 <http://schema.org/description> "Dr. David O. Dix graduated from the Creighton University School of Medicine in 1991. He works in Los Angeles, CA and specializes in Anesthesiology. Dr. Dix is affiliated with USC Norris Cancer Hospital, LAC USC Medical Center and Keck Medical Center Of USC."@en .
+_:nodecfa3aaa7992db5872e3e70cf1d214b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

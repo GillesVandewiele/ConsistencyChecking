@@ -1,0 +1,3 @@
+_:nodeb19a3c8ed43d8adad7666a1e38e53cb4 <http://schema.org/name> "16th and Champa Street, Denver :: Western History" .
+_:nodeb19a3c8ed43d8adad7666a1e38e53cb4 <http://schema.org/image> "http://cdm16079.contentdm.oclc.org/utils/getthumbnail/collection/p15330coll22/id/82306" .
+_:node732d182f4c266bec6899eb3dcdad121 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

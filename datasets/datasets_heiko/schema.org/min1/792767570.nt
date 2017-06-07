@@ -1,0 +1,29 @@
+_:node9eacfcca88fea6db8a5a14ce740d3d7 <http://schema.org/ratingValue> "4.8" .
+_:node9eacfcca88fea6db8a5a14ce740d3d7 <http://schema.org/reviewCount> "100" .
+_:node2a444fe88fa56f996d17a70192f37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node2a444fe88fa56f996d17a70192f37 <http://schema.org/ratingValue> "4.8" .
+_:node2a444fe88fa56f996d17a70192f37 <http://schema.org/reviewCount> "100" .
+_:nodee673746e47d5b5ba7aba2386d5e5b385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodee673746e47d5b5ba7aba2386d5e5b385 <http://schema.org/price> "Rp. 118.580" .
+_:nodee3357d6321b5cf115735d687b19b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodee3357d6321b5cf115735d687b19b2 <http://schema.org/name> "CYTARABINE VIAL 100 MG" .
+_:nodee3357d6321b5cf115735d687b19b2 <http://schema.org/description> "Vial 100 mg/5 ml x 1 biji." .
+_:nodee3357d6321b5cf115735d687b19b2 <http://schema.org/image> <http://medicastore.com/images/noimg.gif> .
+_:nodee3357d6321b5cf115735d687b19b2 <http://schema.org/aggregateRating> _:node9eacfcca88fea6db8a5a14ce740d3d7 .
+_:nodee3357d6321b5cf115735d687b19b2 <http://schema.org/brand> "Generik" .
+_:node70a966a5361a0499c716e3f655cd32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node70a966a5361a0499c716e3f655cd32 <http://schema.org/name> "FORDERM CREAM 10 G" .
+_:node70a966a5361a0499c716e3f655cd32 <http://schema.org/description> "Krim 0,05% x 10 gram." .
+_:node70a966a5361a0499c716e3f655cd32 <http://schema.org/image> <http://medicastore.com/images/1000008748.png> .
+_:node70a966a5361a0499c716e3f655cd32 <http://schema.org/aggregateRating> _:node8edb1210e449c35a95f05a9c3664b4b9 .
+_:node70a966a5361a0499c716e3f655cd32 <http://schema.org/brand> "Ferron." .
+_:node8edb1210e449c35a95f05a9c3664b4b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node8edb1210e449c35a95f05a9c3664b4b9 <http://schema.org/ratingValue> "4.8" .
+_:node8edb1210e449c35a95f05a9c3664b4b9 <http://schema.org/reviewCount> "100" .
+_:node5b8384ca163a8781db428bc3d7ee47f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node5b8384ca163a8781db428bc3d7ee47f2 <http://schema.org/offers> _:nodee673746e47d5b5ba7aba2386d5e5b385 .
+_:node5b8384ca163a8781db428bc3d7ee47f2 <http://schema.org/name> "OSFIT DHA SOFT CAPSULE" .
+_:node5b8384ca163a8781db428bc3d7ee47f2 <http://schema.org/description> "Memenuhi kebutuhan kalsium dan DHA selama kehamilan dan menyusui." .
+_:node5b8384ca163a8781db428bc3d7ee47f2 <http://schema.org/aggregateRating> _:node2a444fe88fa56f996d17a70192f37 .
+_:node5b8384ca163a8781db428bc3d7ee47f2 <http://schema.org/brand> "Kalbe Farma." .
+_:node23fb18c2a7f8dac5d7a4236bff32fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

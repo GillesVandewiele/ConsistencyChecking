@@ -1,0 +1,11 @@
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/name> <http://da.hotels.com/de1467521-am1048576/handicapfaciliteter-pa-v-relset-hoteller-wasilla-alaska//> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/name> <http://da.hotels.com/co225/hoteller-i-usa/> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/name> <http://da.hotels.com/sa2/hoteller-i-alaska-usa/> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/name> <http://da.hotels.com/de1467521/hoteller-wasilla-alaska/> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/name> "Handicapfaciliteter p\u00E5 v\u00E6relset p\u00E5 hoteller i Wasilla"@da .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/breadcrumb> "HotellerHoteller i USAHoteller i AlaskaHoteller i WasillaHandicapfaciliteter p\u00E5 v\u00E6relset p\u00E5 hoteller i Wasilla"@da .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/url> <http://da.hotels.com/de1467521-am1048576/handicapfaciliteter-pa-v-relset-hoteller-wasilla-alaska//> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/url> <http://da.hotels.com/co225/hoteller-i-usa/> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/url> <http://da.hotels.com/sa2/hoteller-i-alaska-usa/> .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://schema.org/url> <http://da.hotels.com/de1467521/hoteller-wasilla-alaska/> .
+_:nodefb32ae9d82f52dd33a6174b98959c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .

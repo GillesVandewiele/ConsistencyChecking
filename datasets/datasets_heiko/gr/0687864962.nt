@@ -1,0 +1,15 @@
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/622464.jpg" .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://ogp.me/ns#description> "Protect your hands when grilling or cooking with the CHEFS Set of 2 Green Oven Mitts from Cooking.com. The set is made from cotton with a vivid lime green color that will complement any kitchen's decor and handle hot pots with ease." .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/green-set-of-2-oven-mitts-by-chefs_622464_11/" .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://ogp.me/ns#title> "Green Set of 2 Oven Mitts by CHEFS at Cooking.com" .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/green-set-of-2-oven-mitts-by-chefs_622464_11/> .
+_:genid2da84f8b276c90422baa992270cc681d532dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.swimoutlet.com/p/body-glove-womens-serape-layla-d-dd-e-cup-top-45350/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .

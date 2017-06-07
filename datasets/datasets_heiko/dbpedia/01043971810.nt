@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/It%C5%8D_Hirobumi> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Su%C5%8D_Province> .
+<http://dbpedia.org/resource/It%C5%8D_Hirobumi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/It%C5%8D_Hirobumi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/It%C5%8D_Hirobumi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,46 @@
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AU"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "CY"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "FR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "VI"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d53d33a2655c6434d8ac0b263ac7a8d052dN66500 .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18T13:25:47-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://purl.org/goodrelations/v1#validThrough> "2015-03-18T13:25:47-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://purl.org/goodrelations/v1#hasCurrencyValue> "54.9"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "4380181"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.riedelusa.net/media/catalog/product/cache/1/image/265x/0f396e8a55728e79b48334e699243c07/4/3/4380181_bl_2.jpg> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://purl.org/goodrelations/v1#description> "The line vinovino - expression of timeless elegance and convenient advantages. So the filigree and bulbous shape of the glasses provides a large volume, which allows our senses to experience the fine vintage. The use of platinum technology during production makes these glasses extremely dishwasher-safe and almost unbreakable."@en .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://purl.org/goodrelations/v1#category> "Spiegelau/Vinovino"@en .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://purl.org/goodrelations/v1#name> "Red Wine 4 pcs. Gift Box"@en .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> <http://purl.org/goodrelations/v1#hasManufacturer> <http://www.riedelusa.net/#manufacturer_308> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#description> "The line vinovino - expression of timeless elegance and convenient advantages. So the filigree and bulbous shape of the glasses provides a large volume, which allows our senses to experience the fine vintage. The use of platinum technology during production makes these glasses extremely dishwasher-safe and almost unbreakable."@en .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#name> "Red Wine 4 pcs. Gift Box"@en .
+<http://www.riedelusa.net/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> .
+_:genid2d53d33a2655c6434d8ac0b263ac7a8d052dN66500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d53d33a2655c6434d8ac0b263ac7a8d052dN66500 <http://purl.org/goodrelations/v1#hasMinValue> "111"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d53d33a2655c6434d8ac0b263ac7a8d052dN66500 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#TypeAndQuantityNode_608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#TypeAndQuantityNode_608> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#TypeAndQuantityNode_608> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#TypeAndQuantityNode_608> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#product_data> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18T00:00:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#UnitPriceSpecification_608> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-18T13:25:47-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.riedelusa.net/red-wine-4-pcs-gift-box.html#offering> <http://xmlns.com/foaf/0.1/page> <http://www.riedelusa.net/index.php/catalog/product/view/id/608/s/red-wine-4-pcs-gift-box/category/4/> .
+_:genid2d3feb5743cb10433d9ca8eac0e58c237a2dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

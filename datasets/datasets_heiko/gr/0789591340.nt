@@ -1,0 +1,16 @@
+_:genid2d4ff8d61ce93240b4808645f506ca68782dN66890 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d4ff8d61ce93240b4808645f506ca68782dN66890 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d4ff8d61ce93240b4808645f506ca68782dN66890 .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/935b8ee5bd61ee2b30de2cd6ced4deb1.jpg> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#name> "8326 Cannes Series Home Theater Left Seat in Brown" .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "<p> Plush polyurethane foam cushions, hardwood construction, Leggett & Platt style reclining mechanism, plastic cup holders as added value, top grain leather on all the seating surfaces, vinyl leatherette matched to the back and sides.</p>" .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Wholesale Interiors 8326BROWNLEFT Cannes Series Home Theater Seating Brown" .
+<http://www.tvszone.com/wholesale-interiors-8326brownleft-i181314.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://alibi.com/restaurants/entity/426/Chocolate-Maven-Bakery-and-Cafe.html> <http://ogp.me/ns#description> "Chocolate Maven Bakery and Caf\u00E9 (American, Bakery/Sweets) at 821 W. San Mateo: It has chocolate in the name ..."@en .

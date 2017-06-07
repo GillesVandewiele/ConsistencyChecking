@@ -1,0 +1,100 @@
+_:nodef7071331b53f4ac322df44347a39bcd <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=6bf32c99f226c293> .
+_:nodef7071331b53f4ac322df44347a39bcd <http://schema.org/hiringOrganization> "Northern Health" .
+_:nodef7071331b53f4ac322df44347a39bcd <http://schema.org/description> "\nTHE VILLAGE OF QUEEN CHARLOTTE. The Village of Queen Charlotte is a community full of art and culture. Five (5) to seven (7) years of experience in community...\n" .
+_:nodef7071331b53f4ac322df44347a39bcd <http://schema.org/jobLocation> _:node7a689ed6c81ca515341d8892cec786 .
+_:nodef7071331b53f4ac322df44347a39bcd <http://schema.org/name> "Northern Health" .
+_:node2d71a2b47ba52f4025f5c97e5f972021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node2d71a2b47ba52f4025f5c97e5f972021 <http://schema.org/address> _:nodea3cfa748a84c4f4ad860af95755693 .
+_:nodefcba51d0b843b6fdad02cc2c7a6a49b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodefcba51d0b843b6fdad02cc2c7a6a49b <http://schema.org/address> _:node9f4df2e7e2c9145813f8926d34da159 .
+_:node4b251bee345e52b52303e5b5589183f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node4b251bee345e52b52303e5b5589183f <http://schema.org/address> _:node82713412259fb3551f39c31061535fd2 .
+_:nodebe7c51cae0995d69d181c8dabb2381f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodebe7c51cae0995d69d181c8dabb2381f <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//cmp/Standard-Apparel/jobs/Showroom-Internship-8a8330db6aff671b?r=1> .
+_:nodebe7c51cae0995d69d181c8dabb2381f <http://schema.org/hiringOrganization> "Standard Apparel" .
+_:nodebe7c51cae0995d69d181c8dabb2381f <http://schema.org/description> "\nAnd our flagship stores are located in the Queen St. Kindly note that this is an unpaid internship in exchange for school credit and we will ensure that the...\n" .
+_:nodebe7c51cae0995d69d181c8dabb2381f <http://schema.org/jobLocation> _:nodefbcde4dca4afd775dd803045a326cf .
+_:nodebe7c51cae0995d69d181c8dabb2381f <http://schema.org/name> "Standard Apparel" .
+_:nodefce437def83086acb9624c834732d944 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodefce437def83086acb9624c834732d944 <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//cmp/MD-Homecall/jobs/City-General-Manager-a3ea8c956b691aba?r=1> .
+_:nodefce437def83086acb9624c834732d944 <http://schema.org/hiringOrganization> "MD Homecall" .
+_:nodefce437def83086acb9624c834732d944 <http://schema.org/description> "\nMukund is a graduate of the business school at Queens and holds dual masters degrees from Queens as well as HEC Paris....\n" .
+_:nodefce437def83086acb9624c834732d944 <http://schema.org/jobLocation> _:node7883558b6d2c9cf8fd1820778a6767 .
+_:nodefce437def83086acb9624c834732d944 <http://schema.org/name> "MD Homecall" .
+_:nodef3f2b94f2b7dfa1ba9d6f672fcd292aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodef3f2b94f2b7dfa1ba9d6f672fcd292aa <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=fa18620aa8a05822> .
+_:nodef3f2b94f2b7dfa1ba9d6f672fcd292aa <http://schema.org/hiringOrganization> "Sleep Country" .
+_:nodef3f2b94f2b7dfa1ba9d6f672fcd292aa <http://schema.org/description> "\nA high school diploma or equivalent? Effectively work with another associate since all product queen and bigger must be lifted by two associates if equipment is...\n" .
+_:nodef3f2b94f2b7dfa1ba9d6f672fcd292aa <http://schema.org/jobLocation> _:node447ca0385b6a47d5a338abce21c6f67 .
+_:nodef3f2b94f2b7dfa1ba9d6f672fcd292aa <http://schema.org/name> "Sleep Country" .
+_:nodeee8794deb87a5eba16a21923f309fbf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodeee8794deb87a5eba16a21923f309fbf <http://schema.org/addressLocality> "Etobicoke, ON" .
+_:node82713412259fb3551f39c31061535fd2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node82713412259fb3551f39c31061535fd2 <http://schema.org/addressLocality> "Regina, SK" .
+_:node8454cd897859f094c29fb589ee79c928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node8454cd897859f094c29fb589ee79c928 <http://schema.org/addressLocality> "Kingston, ON" .
+_:noded41a8efdee8a6cd59c34d133d395a5d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:noded41a8efdee8a6cd59c34d133d395a5d <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=c728fd1b52d58bc1> .
+_:noded41a8efdee8a6cd59c34d133d395a5d <http://schema.org/hiringOrganization> "Somerset Management Inc o/a Wye Gardens Dairy Quee..." .
+_:noded41a8efdee8a6cd59c34d133d395a5d <http://schema.org/description> "\nCompletion of high school . Business Address & Job Location 192 Ordze Avenue, Sherwood Park, AB, T8B 1M6. Credentials (certificates, licences, memberships,...\n" .
+_:noded41a8efdee8a6cd59c34d133d395a5d <http://schema.org/jobLocation> _:node2d71a2b47ba52f4025f5c97e5f972021 .
+_:noded41a8efdee8a6cd59c34d133d395a5d <http://schema.org/name> "Somerset Management Inc o/a Wye Gardens Dairy Quee..." .
+_:node1fb9898b279cfe4076c37db89c4c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node1fb9898b279cfe4076c37db89c4c1 <http://schema.org/addressLocality> "Queen Charlotte City, BC" .
+_:nodefbcde4dca4afd775dd803045a326cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodefbcde4dca4afd775dd803045a326cf <http://schema.org/address> _:node36b047bdd2c3632e7842e1d0df92fcc4 .
+_:node447ca0385b6a47d5a338abce21c6f67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node447ca0385b6a47d5a338abce21c6f67 <http://schema.org/address> _:nodead6c70f8cea9139b66b97d1edfcefe82 .
+_:nodead6c70f8cea9139b66b97d1edfcefe82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodead6c70f8cea9139b66b97d1edfcefe82 <http://schema.org/addressLocality> "Regina, SK" .
+_:node36b047bdd2c3632e7842e1d0df92fcc4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node36b047bdd2c3632e7842e1d0df92fcc4 <http://schema.org/addressLocality> "Toronto, ON" .
+_:node3d7ce2c66cc56f828078cbf1f47e8df5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node3d7ce2c66cc56f828078cbf1f47e8df5 <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=dfa7b4ca58a2afca> .
+_:node3d7ce2c66cc56f828078cbf1f47e8df5 <http://schema.org/hiringOrganization> "Queen's University" .
+_:node3d7ce2c66cc56f828078cbf1f47e8df5 <http://schema.org/description> "\n\uF0B7 Minimum of three years of post-secondary education in business administration. School March Break Open House and Spring Convocation Reception) and liaises...\n" .
+_:node3d7ce2c66cc56f828078cbf1f47e8df5 <http://schema.org/jobLocation> _:nodee76f5bd5524caa4dd9b4a861b3879f26 .
+_:node3d7ce2c66cc56f828078cbf1f47e8df5 <http://schema.org/name> "Queen's University" .
+_:node82ba646d61d99443f118e012145efc93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node82ba646d61d99443f118e012145efc93 <http://schema.org/address> _:nodec7fde4b76b21f7e14a71dad14ee4 .
+_:nodef1b67d32865ca2e2f9e62f60ac763c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodef1b67d32865ca2e2f9e62f60ac763c0 <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=f390e4041f2f116b> .
+_:nodef1b67d32865ca2e2f9e62f60ac763c0 <http://schema.org/hiringOrganization> "GAP Inc" .
+_:nodef1b67d32865ca2e2f9e62f60ac763c0 <http://schema.org/description> "\nHigh School diploma or equivalent desired. Create and maintain awareness by promoting available resources (Code of Business Conduct Hotline, LP awareness center...\n" .
+_:nodef1b67d32865ca2e2f9e62f60ac763c0 <http://schema.org/jobLocation> _:node68524e727f4bb8564e473aaac9d140c .
+_:nodef1b67d32865ca2e2f9e62f60ac763c0 <http://schema.org/name> "GAP Inc" .
+_:node9f4df2e7e2c9145813f8926d34da159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node9f4df2e7e2c9145813f8926d34da159 <http://schema.org/addressLocality> "Queen Charlotte City, BC" .
+_:nodecc32e26889cad9c9b92f7311f089e1e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodecc32e26889cad9c9b92f7311f089e1e4 <http://schema.org/addressLocality> "Toronto, ON" .
+_:node68524e727f4bb8564e473aaac9d140c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node68524e727f4bb8564e473aaac9d140c <http://schema.org/address> _:nodeee8794deb87a5eba16a21923f309fbf .
+_:node4a56f732b81339a3d2a4d80afd35031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node4a56f732b81339a3d2a4d80afd35031 <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=d46bedfd9f4dcad3> .
+_:node4a56f732b81339a3d2a4d80afd35031 <http://schema.org/hiringOrganization> "Queen's University" .
+_:node4a56f732b81339a3d2a4d80afd35031 <http://schema.org/description> "\n\uF0B7 Two-year post-secondary school diploma in communications, business administration or. Reporting to the Manager, Student Services & Convocation, the...\n" .
+_:node4a56f732b81339a3d2a4d80afd35031 <http://schema.org/jobLocation> _:node82ba646d61d99443f118e012145efc93 .
+_:node4a56f732b81339a3d2a4d80afd35031 <http://schema.org/name> "Queen's University" .
+_:node21924298983805055d01e305c8d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node21924298983805055d01e305c8d1 <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=669bdb2c52aa15a5> .
+_:node21924298983805055d01e305c8d1 <http://schema.org/hiringOrganization> "Northern Health" .
+_:node21924298983805055d01e305c8d1 <http://schema.org/description> "\nTHE VILLAGE OF QUEEN CHARLOTTE. The Village of Queen Charlotte is a community full of art and culture. The village is a friendly community with hospital, school...\n" .
+_:node21924298983805055d01e305c8d1 <http://schema.org/jobLocation> _:nodefcba51d0b843b6fdad02cc2c7a6a49b .
+_:node21924298983805055d01e305c8d1 <http://schema.org/name> "Northern Health" .
+_:node7a689ed6c81ca515341d8892cec786 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node7a689ed6c81ca515341d8892cec786 <http://schema.org/address> _:node1fb9898b279cfe4076c37db89c4c1 .
+_:noded0b2d137f2d39dc0d267fc4a9e9d4086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:noded0b2d137f2d39dc0d267fc4a9e9d4086 <http://schema.org/title> <http://ca.indeed.com/jobs?q=Queen%5C's+School+of+Business//rc/clk?jk=20a1db22fbc70608> .
+_:noded0b2d137f2d39dc0d267fc4a9e9d4086 <http://schema.org/hiringOrganization> "David Aplin Group" .
+_:noded0b2d137f2d39dc0d267fc4a9e9d4086 <http://schema.org/description> "\nAplin Office - Business Development Consultant. David Aplin Group is a winner of Canada's 50 Best Managed Companies program, sponsored by Deloitte, CIBC...\n" .
+_:noded0b2d137f2d39dc0d267fc4a9e9d4086 <http://schema.org/jobLocation> _:node4b251bee345e52b52303e5b5589183f .
+_:noded0b2d137f2d39dc0d267fc4a9e9d4086 <http://schema.org/name> "David Aplin Group" .
+_:nodec7fde4b76b21f7e14a71dad14ee4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodec7fde4b76b21f7e14a71dad14ee4 <http://schema.org/addressLocality> "Kingston, ON" .
+_:node7883558b6d2c9cf8fd1820778a6767 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node7883558b6d2c9cf8fd1820778a6767 <http://schema.org/address> _:nodecc32e26889cad9c9b92f7311f089e1e4 .
+_:nodee76f5bd5524caa4dd9b4a861b3879f26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodee76f5bd5524caa4dd9b4a861b3879f26 <http://schema.org/address> _:node8454cd897859f094c29fb589ee79c928 .
+_:nodea3cfa748a84c4f4ad860af95755693 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodea3cfa748a84c4f4ad860af95755693 <http://schema.org/addressLocality> "Sherwood Park, AB" .
+_:nodea2773b9f4c45839a739e87a41fb6df7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

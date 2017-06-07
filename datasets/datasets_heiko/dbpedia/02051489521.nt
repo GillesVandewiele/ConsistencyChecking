@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Council%E2%80%93manager_government> .
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> .

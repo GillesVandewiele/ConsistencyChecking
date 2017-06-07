@@ -1,0 +1,5 @@
+_:nodec55ed840acaaeb19e632daa684599cf <http://schema.org/thumbnailUrl> <http://mobile17.com/images/artwork//943a4a.jpg> .
+_:nodec55ed840acaaeb19e632daa684599cf <http://schema.org/name> "Cinema (Feat. Gary Go) (Skrillex Remix)" .
+_:nodec55ed840acaaeb19e632daa684599cf <http://schema.org/byArtist> <http://mobile17.com/ringtones/9714250/benny-benassi/cinema-feat-gary-go-skrillex-remix//artist/1398/benny-benassi> .
+_:nodec55ed840acaaeb19e632daa684599cf <http://schema.org/text> "I could watch you for a lifetime\nYou're my favorite movie\nA thousand endings\nYou mean everything to me\nI never know what's comin'\nForever fascina..." .
+_:node661d317ce042df66e4d07823f937645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

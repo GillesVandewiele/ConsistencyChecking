@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Ascaris_lumbricoides> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Nematode> .
+<http://dbpedia.org/resource/Ascaris_lumbricoides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Ascaris_lumbricoides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Ascaris_lumbricoides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .

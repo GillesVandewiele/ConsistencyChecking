@@ -1,0 +1,11 @@
+<http://ecomfort.com/waterproof-flashing-572/#company> <http://xmlns.com/foaf/0.1/page> <http://ecomfort.com/> .
+_:genid2d2ade5eccdc324557b260f52c79c49e902dN71708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d2ade5eccdc324557b260f52c79c49e902dN71708 <http://www.w3.org/2006/vcard/ns#postal-code> "60089" .
+_:genid2d2ade5eccdc324557b260f52c79c49e902dN71708 <http://www.w3.org/2006/vcard/ns#locality> "Buffalo Grove" .
+_:genid2d2ade5eccdc324557b260f52c79c49e902dN71708 <http://www.w3.org/2006/vcard/ns#street-address> "1374 Abbott Court" .
+_:genid2d2ade5eccdc324557b260f52c79c49e902dN71708 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+<http://ecomfort.com/waterproof-flashing-572/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://ecomfort.com/waterproof-flashing-572/#company> <http://purl.org/goodrelations/v1#legalName> "eComfort.com" .
+<http://ecomfort.com/waterproof-flashing-572/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d2ade5eccdc324557b260f52c79c49e902dN71708 .
+<http://ecomfort.com/waterproof-flashing-572/#company> <http://www.w3.org/2006/vcard/ns#tel> "866-554-4328" .
+<http://www.coffeeforless.com/barrie-house-sumatra-decaf-coffee-beans-3-5lb-bags.html#QuantitativeValue_3711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

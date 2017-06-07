@@ -1,0 +1,3 @@
+_:node83b0299e65e8d8bd76411a85771b8324 <http://schema.org/name> "Miami Hurricane, February 22, 1946 :: Miami Hurricane" .
+_:node83b0299e65e8d8bd76411a85771b8324 <http://schema.org/image> "http://merrick.library.miami.edu/utils/getthumbnail/collection/hurricane/id/5286" .
+_:node9e7ea2b5bbe590b0cf80d92aba103515 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

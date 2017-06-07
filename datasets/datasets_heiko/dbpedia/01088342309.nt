@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Stevia> <http://dbpedia.org/ontology/domain> <http://dbpedia.org/resource/Eukaryote> .
+<http://dbpedia.org/resource/Eukaryote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Eukaryote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .

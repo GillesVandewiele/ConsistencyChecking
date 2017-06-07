@@ -1,0 +1,106 @@
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/keywords> "\nm\u00E9decine"@fr .
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/j-ai-vu-la-medecine-du-futur-et-elle-fait-plutot-peur> .
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/name> "Journal \u00ABJ\u2019ai vu la m\u00E9decine du futur, et elle fait plut\u00F4t peur\u00BB"@fr .
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/articleBody> "\nLe titre n'est pas de moi, c'est celui d'un post sur un blog que je suis depuis un moment.\nL'article parle d'une conf\u00E9rence sur l'\u00AB\u00A0 e-Medecine et prospectives humaines \u00A0\u00BB \u2026 L'auteur (d\u00E9veloppeur, et visiblement libriste mais je ne me souviens pas o\u00F9 j'ai trouv\u00E9 son blog)  nous livre donc ses impressions sur cette m\u00E9decine \u00E0 venir et bien que les th\u00E8mes soient enthousiasmant (main bionique, r\u00E9seau social d\u00E9di\u00E9 aux malades \u2026) un certain malaise se d\u00E9gage de la fermeture (...)\n"@fr .
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/interactionCount> "UserLikes:13"@fr .
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/interactionCount> "UserComments:15"@fr .
+_:noded03bd6da5a63b414e17593a1775b0e7 <http://schema.org/image> "Null"@fr .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/contre-la-phobie-du-root> .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://schema.org/name> "Journal Contre la phobie du root"@fr .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://schema.org/articleBody> "\nJ'ai crois\u00E9 cette hypoth\u00E8se dans la r\u00E9cente d\u00E9p\u00EAche sur Toutou Linux et vu que je n'avais jamais rien lu de tel apr\u00E8s dix ans d'utilisation assidue de Linux, je voudrais votre avis.\n\nVersion courte : Sur un syst\u00E8me mono-utilisateur classique le compte root ne repr\u00E9sente pas un si grand danger qu'on nous le r\u00E9p\u00E8te. La pr\u00E9cision en gras est importante, ces explications ne s'appliquent pas \u00E0 un syst\u00E8me multi-utilisateurs.\n\nLa version d\u00E9taill\u00E9e est une tentative de r\u00E9sum\u00E9/traduction de l'article Fear (...)\n"@fr .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://schema.org/interactionCount> "UserLikes:20"@fr .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://schema.org/interactionCount> "UserComments:208"@fr .
+_:nodea3915a8d66811d35a6a551df826a2deb <http://schema.org/image> "Null"@fr .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/lug-madinina> .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://schema.org/name> "Journal LUG Madinina ?"@fr .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://schema.org/articleBody> "\nBonjour, je me permet de poster cette \"question\" dans les journaux car la section d\u00E9di\u00E9e n'existe pas dans le forum (il y a bien cherche logiciel / mat\u00E9riel mais pas cherche amis\u00A0!)\nPour faire court, je cherche des personnes vivant en Martinique partageant mes deux hobbies, le code et le libre, dans le but dans lancer un LUG ou pourquoi pas un fablab si la sauce prend.\n\nVersion longue \"calim\u00E9ro\" : suis d\u00E9veloppeur web (bouh\u00A0!) de m\u00E9tier, d\u00E9veloppeur tout court (...)\n"@fr .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://schema.org/interactionCount> "UserLikes:19"@fr .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://schema.org/interactionCount> "UserComments:4"@fr .
+_:nodef41d6b8f46ad738e21fd83be1264ba <http://schema.org/image> "Null"@fr .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/keywords> "\ncopyright\ntzdata\njuridique\nproc\u00E8s"@fr .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/tzdata-en-danger> .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/name> "Journal tzdata en danger"@fr .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/articleBody> "\nBonjour,\n\nUn journal semi-bookmark pour vous rapporter une info trouv\u00E9e sur developpez.com :\nLe service tzdata qui permet \u00E0 nos syst\u00E8mes de \"conna\u00EEtre l'heure dans le monde\" serait en train de fermer. En cause une obscure histoire d'astrologues et de livre qui aurait \u00E9t\u00E9 utilis\u00E9 par les cr\u00E9ateurs du service.\nUn serveur aurait d\u00E9j\u00E0 \u00E9t\u00E9 arr\u00EAt\u00E9 mais nous n'en sommes qu'au stade de la plainte.\n\nJe ne sais pas exactement quelles r\u00E9percussions cela aura sur nos distributions mais j'ai souvent (...)\n"@fr .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/interactionCount> "UserLikes:19"@fr .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/interactionCount> "UserComments:13"@fr .
+_:nodec44822dc7e97e5e0fa260e934d41d76 <http://schema.org/image> "Null"@fr .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/keywords> "\ndomaine_public\ndroitauteur\nabandonware"@fr .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/suppression-des-droits-d-auteurs> .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/name> "Journal Suppression des droits d'auteurs"@fr .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/articleBody> "\nBonjour,\n\nJe n'ai rien vu passer sur le sujet donc je bookmark :http://www.agoravox.fr/actualites/societe/article/suppression-des-droits-d-auteur-113680\n\nEt je cite :\n\"Depuis le 1er mars 2012, apr\u00E8s un vote obtenu \u00E0 la nuit tomb\u00E9e par une poign\u00E9e de d\u00E9put\u00E9s de la majorit\u00E9 pr\u00E9sidentielle, les droits d'auteur sur les oeuvres publi\u00E9es avant le 1er janvier 2001 et non r\u00E9\u00E9dit\u00E9es sont supprim\u00E9s dans le cas d'une diffusion num\u00E9rique\u2026\"\nDonc en gros, les m\u00EAme qui nous ont sorti la loi Hadopi pour lutter contre le piratage, (...)\n"@fr .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/interactionCount> "UserLikes:12"@fr .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/interactionCount> "UserComments:78"@fr .
+_:nodeeec48fcc04ebc327569e97e1938d40 <http://schema.org/image> "Null"@fr .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/keywords> "\njavascript"@fr .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/si-hemingway-ecrivait-en-javascript> .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/name> "Journal \u00AB Si Hemingway \u00E9crivait en JavaScript \u00BB"@fr .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/articleBody> "\nI / Bookmark\n\"Le concept du livre If Hemingway Wrote JavaScript, c'est d'explorer les libert\u00E9s de style de JavaScript en les mettant entre les mains (imaginaires) des poids lourds de la litt\u00E9rature anglophone, de Shakespeare \u00E0 Douglas Adams en passant par James Joyce\", r\u00E9sume Ars Technica.\n\nApparemment, tous les exemples du livre fonctionnent et certains sont tr\u00E8s originaux. Voir ci-apr\u00E8s.\n\nLu sur http://www.courrierinternational.com/article/2014/12/03/si-hemingway-ecrivait-en-javascript\nTir\u00E9 de http://arstechnica.com/information-technology/2014/11/holiday-reading-for-a-certain-sort-if-hemingway-wrote-javascript/\nII / Forum Javascript\n\nCe morceau de code, tir\u00E9 du livre en question, affiche (...)\n"@fr .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/interactionCount> "UserLikes:13"@fr .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/interactionCount> "UserComments:25"@fr .
+_:nodec1dce6aeb22fecacd8aaa636db58f68 <http://schema.org/image> "Null"@fr .
+_:nodeb2b2281384433587efab6796d8c2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/keywords> "\nschadenfreude"@fr .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/klaire-veut-faire-un-don-a-frigide> .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/name> "Journal Klaire veut faire un don \u00E0 Frigide"@fr .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/articleBody> "\nBonsoir.\n\nPardon pour ce journal tr\u00E8s bookmark mais je tenais \u00E0 partager cette tranche de rigolade avec vous :\n\nKlaire fait grrr nous explique pourquoi elle tient \u00E0 faire un don \u00E0 Frigide Barjot. Cette derni\u00E8re comme vous ne l'ignorez peut-\u00EAtre pas vient de lancer un appel aux dons pour lui permettre \u00ABd'avoir un toit, de nourrir ma famille, de payer l'\u00E9ducation de mes enfants qui sont \u00E0 l'\u00E9cole publique et de pouvoir aller \u00E9ventuellement de temps en temps (...)\n"@fr .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/interactionCount> "UserLikes:28"@fr .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/interactionCount> "UserComments:30"@fr .
+_:nodeb2b2281384433587efab6796d8c2d <http://schema.org/image> "Null"@fr .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/l-ouvertisation-le-nouveau-green-washing> .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://schema.org/name> "Journal \u00ABL\u2019ouvertisation\u00BB, le nouveau green washing."@fr .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://schema.org/articleBody> "\nLa r\u00E9cente traduction sur Framapad de l'article de Evgeny Morozov devrait faire plaisir \u00E0 beaucoup ici (suive Z mon regard). Il y traite de l'usage galvaud\u00E9 du mot 'open', en voulant s'approprier les vertus de l'open source.\nD'ailleurs je ne suis pas s\u00FBr d'avoir bien compris son probl\u00E8me avec \u00ABl'open gouvernement\u00BB donc si une \u00E2me charitable veut bien simplifier\u00A0?\nVoil\u00E0, un journal semi-bookmark (quatre phrases sans compter celle-l\u00E0) sur un sujet \u00E9puis\u00E9 ici m\u00EAme mais on a surtout parl\u00E9 (...)\n"@fr .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://schema.org/interactionCount> "UserLikes:8"@fr .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://schema.org/interactionCount> "UserComments:11"@fr .
+_:node1decf4cc49242566667adfdf7b5d5564 <http://schema.org/image> "Null"@fr .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/pourquoi-je-n-ai-rien-a-cacher-n-est-pas-la-solution-proposition-de-traduction> .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://schema.org/name> "Journal Pourquoi \"je n'ai rien \u00E0 cacher\" n'est pas la solution. (proposition de traduction)"@fr .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://schema.org/articleBody> "\nBonjour,\n\n\u00C0 la lecture de l'article Prism, \u00E9coutes: r\u00E9signez-vous! publi\u00E9 dans la derni\u00E8re revue de presse de l'April, j'ai suivi un lien en anglais sur \u00ABPourquoi \"je n'ai rien \u00E0 cacher\" est une mauvaise r\u00E9action \u00E0 la surveillance\u00BB.\n\nCet article publi\u00E9 sur wired.com expose certaines \u00E9volutions l\u00E9gislatives qu'ont connu les citoyens am\u00E9ricains et expliquent que ces nouvelles lois n'auraient pu voir le jour sans la possibilit\u00E9 d'enfreindre la loi; possibilit\u00E9 qui tendrait \u00E0 dispara\u00EEtre si l'on \u00E9pie chacun de (...)\n"@fr .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://schema.org/interactionCount> "UserLikes:17"@fr .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://schema.org/interactionCount> "UserComments:22"@fr .
+_:nodec83dd5a1bab98f3c6fb489593faf35 <http://schema.org/image> "Null"@fr .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/google-news-quitte-l-espagne> .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://schema.org/name> "Journal Google News quitte l'Espagne"@fr .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://schema.org/articleBody> "\n\u00AB\u00A0\u00C7a, s'est fait\u00A0\u00BB comme disent les hipsters des intertubes.\nl\u2019AEDE, \u00ABl\u2019association regroupant les principaux quotidiens du pays\u00BB, avait provoqu\u00E9 l'adoption par le parlement espagnol d'une loi imposant \u00E0 Google News (entre autres) de reverser de l'argent aux \u00E9diteurs. Et Google \u00E0 dit merde. Parce que \u00ABle service est compl\u00E8tement gratuit et sans pubs\u00BB donc ne leur rapporterait aucun revenu.\n\nCette m\u00EAme AEDE, s'\u00E9tant s\u00FBrement rendue compte qu'elle n'\u00E9tait pas taille \u00E0 lutter et risquait de perdre une partie substantielle de (...)\n"@fr .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://schema.org/interactionCount> "UserLikes:20"@fr .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://schema.org/interactionCount> "UserComments:77"@fr .
+_:node2bb7ae9dba9c3ffc742617c565853cf <http://schema.org/image> "Null"@fr .
+_:node869575e85181684c2f328ac28f0f914 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/keywords> "\ngtd\nautoh\u00E9bergement\nceci_n_est_pas_un_journal"@fr .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/ou-se-trouvent-les-services-gtd-libres> .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/name> "Journal O\u00F9 se trouvent les services GTD libres !?"@fr .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/articleBody> "\nBonjour,\n\nJe cherche un logiciel depuis fort longtemps, ou plut\u00F4t deux logiciels en un (prise de note + agenda (+GTD))et j'ai un peu de mal \u00E0 comprendre pourquoi il n'existe aucune version libre de ce truc. J'explique (d\u00E9sol\u00E9, faut un peu que je raconte ma vie pour expliquer mon probl\u00E8me) :\n\nJe suis fain\u00E9ant et t\u00EAte en l'air. J'oublie tout et il faut souvent me relancer. Par contre je passe toutes mes journ\u00E9es \u00E0 parcourir le grand internet (...)\n"@fr .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/interactionCount> "UserLikes:9"@fr .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/interactionCount> "UserComments:27"@fr .
+_:node869575e85181684c2f328ac28f0f914 <http://schema.org/image> "Null"@fr .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/sony-apprend-des-erreurs-damazon> .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://schema.org/name> "Journal Sony apprend des erreurs d'Amazon ..."@fr .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://schema.org/articleBody> "\n\n\t\n... et embrasse le libre !\nSuite aux d\u00E9boires du Kindle d'Amazon [1], Sony annonce \"qu'il ferait bient\u00F4t passer sa biblioth\u00E8que de livres num\u00E9riques au format ouvert et interop\u00E9rable ePub [2].\"\nIls auraient visiblement compris que les formats ouverts emp\u00EAchent les monopoles et donc de se retrouver dans une position d'outsider ou d'\u00EAtre oblig\u00E9 (comme Toshiba et le HD-DVD) d'adopter le format des concurrents.\nUn petit pas pour le libre mais un grand pas ... pour le libre !source (...)\n"@fr .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://schema.org/interactionCount> "UserLikes:9"@fr .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://schema.org/interactionCount> "UserComments:20"@fr .
+_:node17c1b5d47b48439175a1472c2a712a6 <http://schema.org/image> "Null"@fr .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/keywords> "\ntracking\npublicit\u00E9"@fr .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/la-publicite-propre-ca-existe> .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/name> "Journal La publicit\u00E9 \"propre\" \u00E7a existe ?"@fr .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/articleBody> "\nCe journal pose une question et devrait donc se trouver dans les forums mais je trouve qu'il soul\u00E8ve un probl\u00E8me int\u00E9ressant : Peut-on faire de la publicit\u00E9 sur internet sans tracking\u00A0?\nNombreux sont ceux qui rejettent la publicit\u00E9 sous toutes ses formes tant, il est vrai, qu'on est envahis et agress\u00E9s par son omnipr\u00E9sence sur tous les m\u00E9dias. Par contre les faits sont l\u00E0 : la pub ram\u00E8ne de l'argent et mon\u00E9tiser son projet permet de le financer (lapalissade\u00A0?) et (...)\n"@fr .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/interactionCount> "UserLikes:14"@fr .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/interactionCount> "UserComments:43"@fr .
+_:node908bb18e60d69c28e427dfe8b4b03f40 <http://schema.org/image> "Null"@fr .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/keywords> "\ns\u00E9rie\nmusique\njazz\nnew_orleans"@fr .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/url> <http://linuxfr.org/users/faya?order=interest//users/faya/journaux/and-welcome-to-new-orleans> .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/name> "Journal \u00AB And welcome to New Orleans ! \u00BB"@fr .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/articleBody> "\nBonjour,\n\nCe journal multi-bookmarks ne parlera ni du cyclimse ni du libre (pas vraiment).\n\nJ'ai r\u00E9cemment d\u00E9couvert la s\u00E9rie Treme qui d\u00E9peint la vie quotidienne des n\u00E9o-orl\u00E9anais trois mois apr\u00E8s le passage de l'ouragan Katrina. Au programme, pas vraiment d'intrigue mais plus un \"tableau\" grandeur nature (je ne retrouve pas le terme ad\u00E9quat) des al\u00E9as de la vie de ces habitants qui tentent de reconstruire leur ville, balay\u00E9e par les eaux. Donc de l'amertume, de la politique, de l'authenticit\u00E9, et (...)\n"@fr .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/interactionCount> "UserLikes:8"@fr .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/interactionCount> "UserComments:10"@fr .
+_:nodefe5e16806daf2d33e05809e2dae75c7 <http://schema.org/image> "Null"@fr .
+_:node36803e7462916efeac2c3869b879f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

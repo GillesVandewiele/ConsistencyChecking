@@ -1,0 +1,6 @@
+_:node42d242da56e5a2f1a5ceaf8a52d41a <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wabc/images/logos/header-large.png> .
+_:node42d242da56e5a2f1a5ceaf8a52d41a <http://schema.org/url> <http://7online.com/> .
+_:node997142a1d34e436b7b8d2943075ba48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node997142a1d34e436b7b8d2943075ba48 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wabc/images/logos/header-large.png> .
+_:node997142a1d34e436b7b8d2943075ba48 <http://schema.org/url> <http://7online.com/> .
+_:node5cb62afc3d4f82bcf7d52b6fa85814e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

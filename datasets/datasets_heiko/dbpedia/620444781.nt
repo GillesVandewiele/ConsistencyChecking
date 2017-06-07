@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Indigo> <http://dbpedia.org/ontology/connotation> <http://dbpedia.org/resource/Spirituality> .
+<http://dbpedia.org/resource/Indigo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Colour> .

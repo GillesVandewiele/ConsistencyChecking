@@ -1,0 +1,6 @@
+_:nodeca485471a99f9f84abd38b5e757e7ca <http://schema.org/name> "How to get R plot window size?" .
+_:nodeca485471a99f9f84abd38b5e757e7ca <http://schema.org/title> "How to get R plot window size?" .
+_:nodeca485471a99f9f84abd38b5e757e7ca <http://schema.org/description> "How can I get the size of the plot window in R? I've been using xwininfo, but there must be a function or variable in R to extract the current plot height and width.\n\nUPDATE\n\nThis works as a savePl..." .
+_:nodeca485471a99f9f84abd38b5e757e7ca <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodeca485471a99f9f84abd38b5e757e7ca <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node4ee3b05483475fdb5be8c86760fcdbcb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

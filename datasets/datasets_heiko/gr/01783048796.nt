@@ -1,0 +1,15 @@
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/311799.jpg" .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://ogp.me/ns#description> "Buy Brown Giant Cupcake Carrier by Fox Run by Fox Run at Cooking.com. Get Bakeware and Fox Run, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/brown-giant-cupcake-carrier-by-fox-run-craftsmen_311799_11/0/2/" .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://ogp.me/ns#title> "Brown Giant Cupcake Carrier by Fox Run at Cooking.com" .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/brown-giant-cupcake-carrier-by-fox-run-craftsmen_311799_11/0/2/> .
+_:genid2d9bf339236e9e4acf9055a2f2c0fff8852dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.charlestonnaturally.com/yarok/yarok-feed-your-volume-conditioner.html#UnitPriceSpecification_2385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

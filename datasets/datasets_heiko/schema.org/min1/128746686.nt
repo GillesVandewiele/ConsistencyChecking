@@ -1,0 +1,18 @@
+_:nodee6851164a1f25816171776eae4d9c87a <http://schema.org/latitude> "33.214536"@en .
+_:nodee6851164a1f25816171776eae4d9c87a <http://schema.org/longitude> "-87.545596"@en .
+_:node4bb529b3f07d10b22f8b161ba8ce7b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node4bb529b3f07d10b22f8b161ba8ce7b7 <http://schema.org/addressRegion> "AL"@en .
+_:node4bb529b3f07d10b22f8b161ba8ce7b7 <http://schema.org/postalCode> "35401"@en .
+_:node4bb529b3f07d10b22f8b161ba8ce7b7 <http://schema.org/addressLocality> "Tuscaloosa"@en .
+_:node4bb529b3f07d10b22f8b161ba8ce7b7 <http://schema.org/addressCountry> "USA"@en .
+_:nodeb1f24c8437e5cfe06f78e5de8d91561f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeb1f24c8437e5cfe06f78e5de8d91561f <http://schema.org/geo> _:nodee6851164a1f25816171776eae4d9c87a .
+_:nodeb1f24c8437e5cfe06f78e5de8d91561f <http://schema.org/address> _:node4bb529b3f07d10b22f8b161ba8ce7b7 .
+_:nodeb1f24c8437e5cfe06f78e5de8d91561f <http://schema.org/name> "University of Alabama Ferguson Center"@en .
+_:node7c62c9ae64e51731f9213ccf8894b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+_:node7c62c9ae64e51731f9213ccf8894b6 <http://schema.org/location> _:nodeb1f24c8437e5cfe06f78e5de8d91561f .
+_:node7c62c9ae64e51731f9213ccf8894b6 <http://schema.org/name> "Kami-Con"@en .
+_:node7c62c9ae64e51731f9213ccf8894b6 <http://schema.org/description> "Kami-Con's first year, hosted by the Bama SoS Brigade, a student organization to bring an anime con to the University of Alabama!"@en .
+_:node7c62c9ae64e51731f9213ccf8894b6 <http://schema.org/endDate> "2009-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node7c62c9ae64e51731f9213ccf8894b6 <http://schema.org/startDate> "2009-04-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3aca248a0bd90282bbaab882fa3ce8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

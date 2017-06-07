@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Enrico_Fermi> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Emilio_G._Segr%C3%A8> .
+<http://dbpedia.org/resource/Enrico_Fermi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Enrico_Fermi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Enrico_Fermi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/Emilio_G._Segr%C3%A8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/Emilio_G._Segr%C3%A8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Emilio_G._Segr%C3%A8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

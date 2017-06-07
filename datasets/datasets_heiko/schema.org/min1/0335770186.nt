@@ -1,0 +1,6 @@
+_:nodea2c07c61663b824a47bf4af12596b18f <http://schema.org/keywords> "2009 Range Rover HSE Sport Utility comparison, compare 2009 Range Rover HSE Sport Utility"@en-us .
+_:nodea2c07c61663b824a47bf4af12596b18f <http://schema.org/image> "http://image.automotive.com/f/2009_land-rover_range-rover/2307489261990129805+w200/front-driver-side-view.jpg"@en-us .
+_:nodea2c07c61663b824a47bf4af12596b18f <http://schema.org/name> "2009 Land Rover Range Rover Comparisons"@en-us .
+_:nodea2c07c61663b824a47bf4af12596b18f <http://schema.org/description> "Who's number one? View used 2009 Land Rover Range Rover competitor comparisons at Automotive.com."@en-us .
+_:nodea2c07c61663b824a47bf4af12596b18f <http://schema.org/url> "http://cars.automotive.com/land-rover/range-rover/2009/compare/t3-12-3/"@en-us .
+_:node20fae2b5aaf3dec04e19084feb8986 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

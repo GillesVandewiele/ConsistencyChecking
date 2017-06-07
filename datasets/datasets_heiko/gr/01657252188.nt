@@ -1,0 +1,11 @@
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dINSIDE5fN68228 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dINSIDE5fN68228 <http://purl.org/goodrelations/v1#hasCurrencyValue> "32.99"@en .
+<http://www.joke.co.uk/adult-sneezy-seven-dwarf-costume~66469/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/adult-sneezy-seven-dwarf-costume~66469/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3a065ff4cb49442d814ca9ede344f4da2dINSIDE5fN68265 .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dN68143 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dN68143 <http://purl.org/goodrelations/v1#name> "Adult Sneezy Seven Dwarf Costume"@en .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dN68228 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dN68228 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3a065ff4cb49442d814ca9ede344f4da2dINSIDE5fN68228 .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dINSIDE5fN68265 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d3a065ff4cb49442d814ca9ede344f4da2dN68143 <http://purl.org/goodrelations/v1#description> "Suffering from hay fever can be bad, and poor Sneezy is affected more then most. Transform yourself into this sneezing character from Snow White and the Seven Dwarfs with our Adult Sneezy Seven Dwarf Costume.\n\nCostume includes:\n\nDungarees\nHat\nMask\n\n\nThe Adult Sneezy Seven Dwarf Costume includes a pair of white dungarees with an attached blue top.\n\nThe look is completed with a Sneezy dwarf mask and a matching dwarf hat."@en .
+_:genid2d392e519753004ca9a039231f363f378f2dN71240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

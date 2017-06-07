@@ -1,0 +1,47 @@
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-21T06:52:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://xmlns.com/foaf/0.1/page> <http://www.modani.com/furniture-stores/living/victoria-lounge-chair> .
+_:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67018 <http://purl.org/goodrelations/v1#hasMinValue> "91"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67018 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.modani.com/furniture-stores/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_8943-1080_1.jpg> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#description> "Looking to create the perfect reading nook? Then look no further than the Victoria Lounge Chair. This Baroque Louis XIV inspired lounge chair is luxuriant and indulgent in its fabric and design. Ornate design meets modern function in this uniquely designed piece inspired by a generation of beauty. Wrapped in an embrace of rich crushed velvet, its softness indulges your senses as you relax. Create your own space by embracing this contemporary lounge chair. Set a floor lamp and small side table to complete the mini hideaway."@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#name> "Victoria Lounge Chair Black"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67059 .
+_:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67059 <http://purl.org/goodrelations/v1#hasMinValue> "91"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67059 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> <http://purl.org/goodrelations/v1#validFrom> "2014-12-21T06:52:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> <http://purl.org/goodrelations/v1#validThrough> "2015-03-21T06:52:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#UnitPriceSpecification_423_special> <http://purl.org/goodrelations/v1#hasCurrencyValue> "890"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "LOC-VICT-BK"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#description> "Looking to create the perfect reading nook? Then look no further than the Victoria Lounge Chair. This Baroque Louis XIV inspired lounge chair is luxuriant and indulgent in its fabric and design. Ornate design meets modern function in this uniquely designed piece inspired by a generation of beauty. Wrapped in an embrace of rich crushed velvet, its softness indulges your senses as you relax. Create your own space by embracing this contemporary lounge chair. Set a floor lamp and small side table to complete the mini hideaway."@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Living"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Bedroom"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Living/Lounge Chairs"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Lounge Chairs"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Baroque"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Chairs"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Sales/Discontinued"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Sales"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Clearance"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/Miami Clearance"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/Houston Clearance"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/New York Clearance"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#category> "Clearance/Atlanta Clearance"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#name> "Victoria Lounge Chair Black"@en .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d32e4257746ca4b2b84fec03d112fcdc52dN67018 .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.modani.com/furniture-stores/living/victoria-lounge-chair#TypeAndQuantityNode_423> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#TypeAndQuantityNode_423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#TypeAndQuantityNode_423> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#TypeAndQuantityNode_423> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/living/victoria-lounge-chair#TypeAndQuantityNode_423> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.modani.com/furniture-stores/living/victoria-lounge-chair#product_data> .
+<http://www.osho.com/shop/en/audio-books/individual-osho-talks/art-of-dying-renounce-allow-mahavira/#QuantitativeValue_811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

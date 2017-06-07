@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Indiana_Jones> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/List_of_Indiana_Jones_characters> .
+<http://dbpedia.org/resource/Indiana_Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Indiana_Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Indiana_Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .

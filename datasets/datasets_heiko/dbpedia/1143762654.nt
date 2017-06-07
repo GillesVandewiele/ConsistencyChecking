@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Star_Wars_Jedi_Knight_II:_Jedi_Outcast> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Third-person_shooter> .
+<http://dbpedia.org/resource/Star_Wars_Jedi_Knight_II:_Jedi_Outcast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Star_Wars_Jedi_Knight_II:_Jedi_Outcast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Star_Wars_Jedi_Knight_II:_Jedi_Outcast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> .

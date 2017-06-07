@@ -1,0 +1,15 @@
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/309154.jpg" .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://ogp.me/ns#description> "KitchenAid 6 Quart Nickel Pearl Stand Mixer with reviews, buying guides and top 10 rated products in the category - along with our price match guarantee at Cooking.com" .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/nickel-pearl-6-qt-professional-600-series-stand-mixer-by-kitchenaid_309154_11/0/4/" .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://ogp.me/ns#title> "Nickel Pearl 6-qt. Professional 600 Series Stand Mixer by KitchenAid at Cooking.com" .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/nickel-pearl-6-qt-professional-600-series-stand-mixer-by-kitchenaid_309154_11/0/4/> .
+_:genid2d9b9f9f1d6e35456999401da9201089a82dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.kenmore.com/kenmore-deluxe-grip-long-plastic-handle-grill-cleaner/p-07110189000P?prdNo=7#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d95171a77156d46b4a73d38f4dccfc5882dN70020 .

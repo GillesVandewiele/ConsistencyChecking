@@ -1,0 +1,21 @@
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73181 <http://purl.org/goodrelations/v1#hasCurrency> "CAD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d4463db8fc6b24af3b5b41e596341863b2dN73181 .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "TP026-BLK-0ZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm> .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/goodrelations/v1#description> "A great top will revolutionise your pregnancy wardrobe and this Scoop Top in our signature jersey is a hero style. With its flattering ruched.." .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver The Maternity Scoop Top" .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://rdf.data-vocabulary.org/#votes> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://purl.org/stuff/rev#rating> "4.36"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://purl.org/stuff/rev#totalRatings> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73199 <http://rdf.data-vocabulary.org/#average> "4.36"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.isabellaoliver.com/ca/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/shop/maternity-clothes/maternity-tops/long-sleeve/the-scoop-maternity-top-caviar-black.htm> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73119 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d4463db8fc6b24af3b5b41e596341863b2dN73119 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity CA" .
+<http://www.charlestonnaturally.com/intelligent-nutrients/intelligent-nutrients-hair-and-scalp-treatment-oil.html#offering> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.charlestonnaturally.com/#shop> .

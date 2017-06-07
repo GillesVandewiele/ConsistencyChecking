@@ -1,0 +1,12 @@
+<http://www.bestwestern.de/hotels/Nuertingen/BEST-WESTERN-Hotel-Am-Schlossberg/kontakt?cm_sp=HotelWebsite-_-Kontaktformular1-_-95123#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN Hotel Am Schlossberg"@de .
+<http://www.bestwestern.de/hotels/Nuertingen/BEST-WESTERN-Hotel-Am-Schlossberg/kontakt?cm_sp=HotelWebsite-_-Kontaktformular1-_-95123#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d113fd021570a4ebe876b7ea57dd4482e2dN68475 .
+<http://www.bestwestern.de/hotels/Nuertingen/BEST-WESTERN-Hotel-Am-Schlossberg/kontakt?cm_sp=HotelWebsite-_-Kontaktformular1-_-95123#company> <http://www.w3.org/2006/vcard/ns#tel> "+497022 7040"@de .
+<http://www.bestwestern.de/hotels/Nuertingen/BEST-WESTERN-Hotel-Am-Schlossberg/kontakt?cm_sp=HotelWebsite-_-Kontaktformular1-_-95123> <http://www.w3.org/2006/vcard/ns#geo> _:genid2d113fd021570a4ebe876b7ea57dd4482e2dINSIDE5fN68497 .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dN68475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dN68475 <http://www.w3.org/2006/vcard/ns#postal-code> "72622"@de .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dN68475 <http://www.w3.org/2006/vcard/ns#locality> "N\u00FCrtingen"@de .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dN68475 <http://www.w3.org/2006/vcard/ns#street-address> "Europastra\u00DFe 13"@de .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dN68475 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dINSIDE5fN68497 <http://www.w3.org/2006/vcard/ns#longitude> "9.33905"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d113fd021570a4ebe876b7ea57dd4482e2dINSIDE5fN68497 <http://www.w3.org/2006/vcard/ns#latitude> "48.628323"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.teleskope.com/Alpen-Pro-8x25-compact-Fernglas-te.html#offeringdata> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "E003518"^^<http://www.w3.org/2001/XMLSchema#string> .

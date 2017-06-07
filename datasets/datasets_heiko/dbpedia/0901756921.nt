@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pacific_Coast_League> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Francisco_Seals_(baseball)> .
+<http://dbpedia.org/resource/Pacific_Coast_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Pacific_Coast_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Pacific_Coast_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BaseballLeague> .
+<http://dbpedia.org/resource/Pacific_Coast_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> .

@@ -1,0 +1,16 @@
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2deb761c5b1c35494a8a4202a3eaba9d942dN67294 .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/f7b83f37e0101cf555690e6168317f7a.jpg> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#name> "34037E Tensioned Advantage Electrol Motorized Projection Screen (12x12') With 203&quot; Diagonal Image Size, 1:1 Aspect Ratio, Da-Mat HC Finish &amp; In Square (Audio-Visual) Format - Ceiling Recessed" .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "The Dalite 12 x 12' Advantage Electrol Projection Screen is a unique design. Construction of this ceiling recessed screen permits the case to be installed first and the fabric added later once a suitable projection surface is decided on. This is a big \"plus\" since companies constructing viewing rooms may not be certain of what they need in a screen. However, the Advantage permits the basic frame to be installed in the ceiling - ready for a finished fabric assembly to be added when all is prepped." .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Da-Lite 34037E Projector Screens" .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/da-lite-34037e-i163533.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2deb761c5b1c35494a8a4202a3eaba9d942dN67294 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2deb761c5b1c35494a8a4202a3eaba9d942dN67294 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2deb761c5b1c35494a8a4202a3eaba9d942dN67294 <http://purl.org/goodrelations/v1#hasCurrencyValue> "3629.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surveillance-video.com/camera-c1566.html/?askq=y#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

@@ -1,0 +1,17 @@
+_:nodea563678345e4b3ae9d6eb3d8011c3c9 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:nodea563678345e4b3ae9d6eb3d8011c3c9 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:node67946ece021e749a16b4f634cae1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node67946ece021e749a16b4f634cae1 <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node67946ece021e749a16b4f634cae1 <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/genre> "Business, Financial, Industrial & Technology"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/inLanguage> "en"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/publisher> _:nodea563678345e4b3ae9d6eb3d8011c3c9 .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/copyrightYear> "2014"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/headline> "wide-ranging - definition, meaning, audio pronunciation, synonyms and more. What is wide-ranging? covering many subjects: : See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201Cwide-ranging\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t wide-rangingadjective uk \n\t\t\t\u00A0\n\t\t\n\t\t\t/\u02CCwa\u026Ad\u02C8re\u026An.d\u0292\u026A\u014B/  us \n\t\t\t\u00A0\n\t\t\n\t\t\t \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t\n\t\t\t\t\t\t\u203A covering many subjects: a wide-ranging discussion\n\t\t\t\t\t"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:nodee1b2faffcc1dcfed30c42fda4a405263 <http://schema.org/author> _:node67946ece021e749a16b4f634cae1 .
+_:node35bc74cd6a4be95c5bf019105e16da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node35bc74cd6a4be95c5bf019105e16da <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node27dde37fce51e7203dd09521a39fec4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

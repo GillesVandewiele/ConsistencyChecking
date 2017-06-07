@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Great_Gatsby> <http://dbpedia.org/ontology/coverArtist> <http://dbpedia.org/resource/Francis_Cugat> .
+<http://dbpedia.org/resource/The_Great_Gatsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/The_Great_Gatsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/The_Great_Gatsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Francis_Cugat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Francis_Cugat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

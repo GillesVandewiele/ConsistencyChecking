@@ -1,0 +1,9 @@
+_:nodea57517ea18667f485f4e85ab6e902089 <http://schema.org/addressRegion> "MG"@pt-br .
+_:nodea57517ea18667f485f4e85ab6e902089 <http://schema.org/postalCode> "30.150-281"@pt-br .
+_:nodea57517ea18667f485f4e85ab6e902089 <http://schema.org/addressLocality> "Belo Horizonte"@pt-br .
+_:nodea57517ea18667f485f4e85ab6e902089 <http://schema.org/streetAddress> "\n\t\t\t\t\t\t\tAv Bernardo Monteiro, 1472 Funcion\u00E1rios\n\t\t\t\t\t"@pt-br .
+_:nodef314ed9b523384471ba2a0f228b8e016 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:nodef314ed9b523384471ba2a0f228b8e016 <http://schema.org/telephone> "Tel: (31) 3273-1212"@pt-br .
+_:nodef314ed9b523384471ba2a0f228b8e016 <http://schema.org/name> "Axial Centro de Imagem Diagn\u00F3sticos em Belo Horizonte"@pt-br .
+_:nodef314ed9b523384471ba2a0f228b8e016 <http://schema.org/address> _:nodea57517ea18667f485f4e85ab6e902089 .
+_:nodea2bc9f9c90a5528122198af879cd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

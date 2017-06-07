@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#description> "Simple yet modern, the Speedo\u00AE Youth Warm Up Jacket features Speedo's signature high-quality construction and an updated, asymmetrical seaming detail on the chest.<br><br>\u0095 Full zip front.<br>\u0095 Contrast zipper.<br>\u0095 Contrast splicing on sides.<br>\u0095 High collar.<br>\u0095 Elastic cuffs.<br>\u0095 Asymmetrical seam detail on chest.<br>\u0095 Speedo logo on left chest.<br>\u0095 100% Polyester.<br>\u0095 Imported." .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#name> "Speedo Youth Boom Force Warm Up Jacket" .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d72065079fc25451095675b2c97e923a02dN71585 .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71633 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71633 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71633 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$44.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71585 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71585 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71585 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d72065079fc25451095675b2c97e923a02dN71614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/speedo-youth-boom-force-warm-up-jacket-37030/?color=30737#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d72065079fc25451095675b2c97e923a02dN71633 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d6afa626de556470b9c0508e368e143192dN70948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

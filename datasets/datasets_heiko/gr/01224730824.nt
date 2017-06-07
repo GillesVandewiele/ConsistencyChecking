@@ -1,0 +1,24 @@
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#description> "Simple, undeniable comfort and performance is what you'll get with this Louis Garneau\u00AE Women's Fit Sensor 7.5'' Cycling Shorts.<br><br>\u0095 Comfortable, ergonomic fit.<br>\u0095 Flatlock seams.<br>\u0095 10-panel contouring.<br>\u0095 HuggFit\u2122 waist offers incredible comfort.<br>\u0095 Seamless inside pant legs.<br>\u0095Women-specific Powerband.<br>\u0095 7.5'' inseam.<br>\u0095 AIRZONE\u2122 is designed with B.E.M (Beveled-Edge Molding), high-density perforated memory foam for a smooth transition to reduce chafing and pinching.<br> \u00A0 \u00A0 - Vents are highly breathable without sacrificing comfort.<br> \u00A0 \u00A0 - Highly moisture-wicking.<br> \u00A0 \u00A0 - Anti-bacterial.<br> \u00A0 \u00A0 - 4-way stretch with an ergonomic fit.<br>\u0095 Fit Sensor\u2122 (60% Nylon / 24% Polyester / 16% Lycra\u00AE) wicks moisture and regulates body heat with UPF / SPF 50 protection.<br>\u0095 Back and bottom reflective logos for visibility. <br>\u0095 Imported." .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#name> "Louis Garneau Women's Fit Sensor 7.5" .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71639 .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71687 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71687 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71687 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$79.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71639 <http://rdf.data-vocabulary.org/#count> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71639 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71687 .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=33040&color=9325#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71668 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.bestwestern.de/hotels/Berlin/BEST-WESTERN-Hotel-am-Borsigturm/freizeit-erholung#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .

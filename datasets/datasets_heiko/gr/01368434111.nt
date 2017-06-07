@@ -1,0 +1,4 @@
+<http://www.joke.co.uk/letter-w-costumes/adult-50s-diner-waitress-costume~24563/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/letter-w-costumes/adult-50s-diner-waitress-costume~24563/#main> <http://purl.org/goodrelations/v1#description> "Adult costume includes blouse with printed 'Junior's Diner' on front and back. Read of dress has large outline or a burger in white with a 'neon sign' effect. Also included is a contrasting apron and matching hat."@en .
+<http://www.joke.co.uk/letter-w-costumes/adult-50s-diner-waitress-costume~24563/#main> <http://purl.org/goodrelations/v1#name> "Adult 50s Diner Waitress Costume"@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=63186> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=63186> .

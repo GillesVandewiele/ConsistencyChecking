@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/The_Princess_Bride_(film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Metro-Goldwyn-Mayer> .
+<http://dbpedia.org/resource/The_Princess_Bride_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/The_Princess_Bride_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/The_Princess_Bride_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://dbpedia.org/resource/Metro-Goldwyn-Mayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/Metro-Goldwyn-Mayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Metro-Goldwyn-Mayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

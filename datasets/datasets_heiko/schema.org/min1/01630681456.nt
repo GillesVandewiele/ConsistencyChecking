@@ -1,0 +1,9 @@
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/name> <http://es.hoteles.com/de177053-qu0/economico-hoteles-quintero-chile//> .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/name> <http://es.hoteles.com/co43/hoteles-en-chile/> .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/name> <http://es.hoteles.com/de177053/hoteles-quintero-chile/> .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/name> "Hoteles baratos en Quintero"@es-es .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/breadcrumb> "HotelesHoteles en ChileHoteles en QuinteroHoteles baratos en Quintero"@es-es .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/url> <http://es.hoteles.com/de177053-qu0/economico-hoteles-quintero-chile//> .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/url> <http://es.hoteles.com/co43/hoteles-en-chile/> .
+_:nodefabe62c1c7d4763c3b37387a2a6b11 <http://schema.org/url> <http://es.hoteles.com/de177053/hoteles-quintero-chile/> .
+_:node1ff681d22c95ab2e543d27dda43d9f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

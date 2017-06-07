@@ -1,0 +1,9 @@
+_:nodee08cb854402d45674f1f09278ada86c <http://schema.org/name> "\n\t\t\t\t\tJane Austen Book Discussion\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee08cb854402d45674f1f09278ada86c <http://schema.org/url> <http://www.meetup.com/Jane-Austen-Book-Discussion/> .
+_:nodef428713411a7d7073ed53805c77886d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef428713411a7d7073ed53805c77886d <http://schema.org/name> "\n\t\t\t\t\tDemocratic Voices- a Silver Lining International Project\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef428713411a7d7073ed53805c77886d <http://schema.org/url> <http://www.meetup.com/Democratic-Voices-a-Silver-Lining-International-Project/> .
+_:nodeb82bc9dacaa06dfe5fb6c2abe7e99a43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb82bc9dacaa06dfe5fb6c2abe7e99a43 <http://schema.org/name> "\n\t\t\t\t\tDC Children's Literature Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb82bc9dacaa06dfe5fb6c2abe7e99a43 <http://schema.org/url> <http://www.meetup.com/DC-Childrens-Literature-Book-Club/> .
+_:node4ad47830ad263e7e759338ff45ea9125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

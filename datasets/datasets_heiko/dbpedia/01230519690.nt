@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Dave_Brubeck__The_Dave_Brubeck_Quartet__1> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Bob_Bates_(musician)> .
+<http://dbpedia.org/resource/Dave_Brubeck__The_Dave_Brubeck_Quartet__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Dave_Brubeck__The_Dave_Brubeck_Quartet__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Dave_Brubeck__The_Dave_Brubeck_Quartet__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Bob_Bates_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Bob_Bates_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

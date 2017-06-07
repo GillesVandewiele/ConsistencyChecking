@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ramsay_MacDonald> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Ramsay_MacDonald__5> .
+<http://dbpedia.org/resource/Ramsay_MacDonald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Ramsay_MacDonald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ramsay_MacDonald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Ramsay_MacDonald__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TimePeriod> .

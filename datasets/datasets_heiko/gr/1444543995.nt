@@ -1,0 +1,24 @@
+_:genid2df038d747cab54114962f159d6f62f9672dN71669 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71631 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71631 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#description> "<p>With feminine touches and adjustable side ties, the Solid Twist Tankini Set is the perfect blend of comfort and chicness.</p> <ul> <li>Tankini style top and separate bikini bottoms.</li> <li>Feminine twist detail on bust.</li> <li>Adjustable gathered sides for a personalized.</li> <li>Thick adjustable lingerie straps for the perfect fit.</li> <li>Roll waist bottoms let your adjust the coverage.</li> </ul>" .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#name> "Prego Solid Twist Tankini Set" .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2df038d747cab54114962f159d6f62f9672dN71631 .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71679 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71679 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71679 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71679 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$48.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2df038d747cab54114962f159d6f62f9672dN71660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/prego-solid-twist-tankini-set-8113770/?color=39379#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2da04ebb15c6574b24b2eab3ef0ca7dae22dN71220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

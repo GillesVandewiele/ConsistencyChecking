@@ -1,0 +1,30 @@
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN66323 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN66323 <http://rdf.data-vocabulary.org/#rating> "4.5\u00A0" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN67602 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN67602 <http://purl.org/goodrelations/v1#hasCurrency> "USD" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN67602 <http://purl.org/goodrelations/v1#hasCurrencyValue> "6.95" .
+<http://purl.org/goodrelations/v1#VISA> <http://xmlns.com/foaf/0.1/page> <http://www.freshpreservingstore.com/ball-new-dry-herb-jars-4-oz/shop/596228/> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN66503 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN66503 <http://purl.org/goodrelations/v1#hasMinValue> "1" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/596228.jpg" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://ogp.me/ns#description> "Buy Ball\u00AE" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://ogp.me/ns#site_name> "Fresh Preserving Store" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://www.facebook.com/2008/fbmlpage_id> "116451745069490" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://www.facebook.com/2008/fbmladmins> "100002940203382" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://purl.org/goodrelations/v1#name> "Ball\u00AE \"NEW\" Dry Herb Jars Set of 4, 4-oz" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://ogp.me/ns#url> "http://www.freshpreservingstore.com/ball-new-dry-herb-jars-4-oz/shop/596228/" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d22c5b5663a254b82a89c069bce50e9532dN66323 .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://ogp.me/ns#title> "Ball\u00AE" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://www.facebook.com/2008/fbmlapp_id> "" .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.freshpreservingstore.com/ball-new-dry-herb-jars-4-oz/shop/596228/#reviews> <http://rdf.data-vocabulary.org/#count> "24 Reviews" .
+<http://purl.org/goodrelations/v1#Discover> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://purl.org/goodrelations/v1#PayPal> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://purl.org/goodrelations/v1#MasterCard> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://purl.org/goodrelations/v1#AmericanExpress> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d22c5b5663a254b82a89c069bce50e9532dN67602 .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://purl.org/goodrelations/v1#description> "The Ball\u00AE Dry Herb Jars offer a perfectly-sized solution for storing your dried herbs. Great for storing seasonings, spices and rubs too! Stackable, low-profile design makes pantry or drawer storage more efficient than old, mis-matched containers.\n\nIncludes:\n4 (4 OZ) Jars\n4 Shaker Caps\n4 Removable Labels and Instructions for Drying Herbs\n\nGlass jar is safe for home canning with two-piece home canning lid (sold separately). Shaker Caps are not intended for home canning." .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d22c5b5663a254b82a89c069bce50e9532dN65537 <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d22c5b5663a254b82a89c069bce50e9532dN66503 .
+<http://www.modani.com/furniture-stores/solaris#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.modani.com/furniture-stores/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/8/0/802-650.jpg> .

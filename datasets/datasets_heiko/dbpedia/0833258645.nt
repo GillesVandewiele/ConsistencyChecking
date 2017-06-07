@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Ram_Mohan_Roy> <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Meningitis> .
+<http://dbpedia.org/resource/Ram_Mohan_Roy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ram_Mohan_Roy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Meningitis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> .

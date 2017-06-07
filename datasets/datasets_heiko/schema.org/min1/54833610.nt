@@ -1,0 +1,10 @@
+_:node9a67ace664da79859e4f62b277fcea17 <http://schema.org/track> _:node9195581cb9da458cb1a17b5d1651dbd .
+_:node9a67ace664da79859e4f62b277fcea17 <http://schema.org/name> "Bertrand Soulier"@en .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://schema.org/url> "http://audiko.net/ringtone/Bertrand+Soulier/Robot+et+con+%C3%A0+la+fois?ring=1963155"@en .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://schema.org/url> <http://audiko.net/ringtone/Bertrand+Soulier/Robot+et+con+%C3%A0+la+fois?ring=1963155> .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://schema.org/name> "Robot et con \u00E0 la fois"@en .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://schema.org/audio> <http://audiko.net/ringtone/Bertrand+Soulier/Robot+et+con+%C3%A0+la+fois?ring=1963155#play> .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://schema.org/duration> "PT18S"@en .
+_:node9195581cb9da458cb1a17b5d1651dbd <http://schema.org/inAlbum> "Discorama"@en .
+_:node10ea15ff46aba6736ed3fc96173f892 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

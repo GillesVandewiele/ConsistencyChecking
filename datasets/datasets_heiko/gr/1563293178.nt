@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71378 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71378 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71378 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df57d930033284ec1a65c930180c964bc2dN71426 .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#description> "<p> The Prime Wetsuit Jacket delivers Body Glove technology and a smooth design for unparalleled comfort in the water.</p> <ul> <li> Materials: <ol> <li> Magna Flex throughout.</li> <li> Smoothskin on chest and waist panels.</li> <li> Side zipper.</li> </ol> </li> <li> Boardshort connector.</li> <li> Side zipper.</li> <li> Fluidseal on wrists.</li> <li> Hemmed waist band.</li> <li> Flatlock stitching.</li> <li> Anatomically cut.</li> </ul>" .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#name> "Body Glove Prime 1MM L/S Wetsuit Jacket" .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2df57d930033284ec1a65c930180c964bc2dN71378 .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71426 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71426 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71426 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71426 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$92.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/body-glove-prime-1mm-l-s-wetsuit-jacket-7530871/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.aquariumspecialty.com/biotek-marine-5-5-soft-coral-cutting-scissors#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

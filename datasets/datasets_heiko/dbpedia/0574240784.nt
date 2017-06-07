@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Price_Is_Right_(U.S._game_show)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/The_Price_Is_Right_(1956_U.S._game_show)> .
+<http://dbpedia.org/resource/The_Price_Is_Right_(U.S._game_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/The_Price_Is_Right_(U.S._game_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/The_Price_Is_Right_(1956_U.S._game_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/The_Price_Is_Right_(1956_U.S._game_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

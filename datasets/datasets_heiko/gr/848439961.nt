@@ -1,0 +1,15 @@
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/359700.jpg" .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://ogp.me/ns#description> "Find the Rachael Ray Orange Gradient 10-pc. Porcelain Enamel II Nonstick Cookware Set at Cooking.com, and you'll be equipped for all types of stovetop cooking. Find a variety of high-quality cookware and bakeware at Cooking.com." .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/orange-10-pc-porcelain-enamel-ii-nonstick-cookware-set-by-rachael-ray_359700_11/0/0/" .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://ogp.me/ns#title> "Orange Gradient 10-pc. Porcelain Enamel II Nonstick Cookware Set by Rachael Ray at Cooking.com" .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/orange-10-pc-porcelain-enamel-ii-nonstick-cookware-set-by-rachael-ray_359700_11/0/0/> .
+_:genid2daec4ee5ff67644cb9ea3935aeb5568b92dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d1589dc89eb714166ac3368c5084a62b52dN72130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

@@ -1,0 +1,14 @@
+<http://www.okazii.ro/timbre-maximafilie-fdc-uri/ilustrata-maxima-aviatie-avion-bn2-ziua-aviatiei-1985-a59865521#main> <http://xmlns.com/foaf/0.1/depiction> <javascript:void(0)> .
+<http://www.okazii.ro/timbre-maximafilie-fdc-uri/ilustrata-maxima-aviatie-avion-bn2-ziua-aviatiei-1985-a59865521#main> <http://purl.org/goodrelations/v1#name> "Ilustrata maxima aviatie - avion BN2, Ziua Aviatiei 1985" .
+<http://www.okazii.ro/timbre-maximafilie-fdc-uri/ilustrata-maxima-aviatie-avion-bn2-ziua-aviatiei-1985-a59865521#main> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66582 .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66582 <http://purl.org/goodrelations/v1#hasValue> "1" .
+<http://www.okazii.ro/timbre-maximafilie-fdc-uri/ilustrata-maxima-aviatie-avion-bn2-ziua-aviatiei-1985-a59865521#main> <http://purl.org/goodrelations/v1#validThrough> "2014-12-11T10:00:00+02:00" .
+<http://www.okazii.ro/timbre-maximafilie-fdc-uri/ilustrata-maxima-aviatie-avion-bn2-ziua-aviatiei-1985-a59865521#main> <http://purl.org/goodrelations/v1#description> "Ilustrata maxima aviatie - avion BN2, Ziua Aviatiei 1985,timbru 1982, stampilaBucuresti 16.06.85, suport grafica M. Andrei" .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66531 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66531 <http://purl.org/goodrelations/v1#hasCurrency> "RON" .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66531 <http://purl.org/goodrelations/v1#hasCurrencyValue> "10" .
+<http://www.okazii.ro/timbre-maximafilie-fdc-uri/ilustrata-maxima-aviatie-avion-bn2-ziua-aviatiei-1985-a59865521#main> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66531 .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66466 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d1d49182c7d5d4cae910f86656b13b4be2dN66466 <http://purl.org/goodrelations/v1#hasValue> "1" .
+<http://www.pactimo.com/shop/day-of-the-dead-jersey-by-arlene-pedersen-women-s.html> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

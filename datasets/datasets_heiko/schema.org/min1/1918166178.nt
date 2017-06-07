@@ -1,0 +1,16 @@
+_:node3d65e5868fe8e68f7bc0b48c8384e32e <http://schema.org/name> "Contactmusic.com"@en .
+_:node3d65e5868fe8e68f7bc0b48c8384e32e <http://schema.org/brand> "Contactmusic.com"@en .
+_:node3d65e5868fe8e68f7bc0b48c8384e32e <http://schema.org/logo> "http://www.contactmusic.com/images/contactmusic_logo_no_tm_30x30.png"@en .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/url> "http://www.contactmusic.com/news-article/sharon.s-shock-at-show-success"@en .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/name> "Sharon's Shock At Show Success"@en .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/author> _:nodee6f2dedd69819f2aeaae2a45e98a79a .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/headline> "Sharon's Shock At Show Success"@en .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/articleBody> "Reality TV star SHARON OSBOURNE still can't believe her show The Osbournes \nis such a hit - she was convinced no-one would watch it.\n  The redhead mother-of-three agreed to let MTV cameras into their Hollywood \nhome in 2002 and are now among the richest stars in the music industry thanks \nto endorsements, public appearances and the show's international \nsyndication.\n  Sharon recalls, \"When Ozzy first saw the show just a week before it was \ndue to run, he was like, 'We have to get out of this, it's awful'. And I was \nsaying, 'Don't worry. Nobody's going to see it. It'll come and go and nobody \nwill even know \nthat we did this.'\n  \"But it just didn't work out like that. It's the weirdest thing. People \nfrom all cultures have taken to it. I think the English love Ozzy's sense of \nhumour - his dryness - and in America they like his oddness, the craziness, \neven though they \nhave no idea what Ozzy is saying.\n  \"God knows what they like about it in Japan, but they do.\" \n\n01/09/2004  13:27"@en .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/publisher> _:node3d65e5868fe8e68f7bc0b48c8384e32e .
+_:nodee4f040cbec7cbbfb27c1f1d145cb6c <http://schema.org/associatedMedia> _:nodeef4812f76985ceb5cc11b32edf746e34 .
+_:nodee6f2dedd69819f2aeaae2a45e98a79a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee6f2dedd69819f2aeaae2a45e98a79a <http://schema.org/name> "WENN"@en .
+_:nodeef4812f76985ceb5cc11b32edf746e34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeef4812f76985ceb5cc11b32edf746e34 <http://schema.org/name> "Sharon Osbourne"@en .
+_:node8e786d3957eabb8cec9d62b6d48a74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

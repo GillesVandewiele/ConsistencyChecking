@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Simon_the_Sorcerer> <http://dbpedia.org/ontology/computingMedia> <http://dbpedia.org/resource/CD-ROM> .
+<http://dbpedia.org/resource/Simon_the_Sorcerer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Simon_the_Sorcerer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Simon_the_Sorcerer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> .

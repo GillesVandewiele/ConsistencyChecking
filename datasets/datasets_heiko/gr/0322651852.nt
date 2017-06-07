@@ -1,0 +1,11 @@
+<http://ecomfort.com/content/19-warranty-claims#company> <http://xmlns.com/foaf/0.1/page> <http://ecomfort.com/> .
+<http://ecomfort.com/content/19-warranty-claims#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://ecomfort.com/content/19-warranty-claims#company> <http://purl.org/goodrelations/v1#legalName> "eComfort.com" .
+<http://ecomfort.com/content/19-warranty-claims#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d7e14ca8396784a72a4294069ae52a3322dN69660 .
+<http://ecomfort.com/content/19-warranty-claims#company> <http://www.w3.org/2006/vcard/ns#tel> "866-554-4328" .
+_:genid2d7e14ca8396784a72a4294069ae52a3322dN69660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d7e14ca8396784a72a4294069ae52a3322dN69660 <http://www.w3.org/2006/vcard/ns#postal-code> "60089" .
+_:genid2d7e14ca8396784a72a4294069ae52a3322dN69660 <http://www.w3.org/2006/vcard/ns#locality> "Buffalo Grove" .
+_:genid2d7e14ca8396784a72a4294069ae52a3322dN69660 <http://www.w3.org/2006/vcard/ns#street-address> "1374 Abbott Court" .
+_:genid2d7e14ca8396784a72a4294069ae52a3322dN69660 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+_:genid2d7c2c534bc3de401594c048b8aacb1a3d2dN68363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

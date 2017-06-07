@@ -1,0 +1,6 @@
+_:nodee5391f824efe54f07252e5a536f8a11 <http://schema.org/name> "How to check if m n-sized vectors are linearly independent?" .
+_:nodee5391f824efe54f07252e5a536f8a11 <http://schema.org/title> "How to check if m n-sized vectors are linearly independent?" .
+_:nodee5391f824efe54f07252e5a536f8a11 <http://schema.org/description> "Disclaimer\nThis is not strictly a programming question, but most programmers soon or later have to deal with math (especially algebra), so I think that the answer could turn out to be useful to som..." .
+_:nodee5391f824efe54f07252e5a536f8a11 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodee5391f824efe54f07252e5a536f8a11 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node1aa85b1a163a4c66e0167c32521dbf2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

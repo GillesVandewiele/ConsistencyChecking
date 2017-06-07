@@ -1,0 +1,26 @@
+_:node925b569e85b66b663f13ac8da9f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/model> "Model: 3988 Command Bridge" .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/offers> _:node8dcb9f5d41de9f5e034d9d851166b19 .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/name> "1995 -  - 3988 Command Bridge" .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/depth> "Length: 39 ft." .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/releaseDate> "Year: 1995" .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/manufacturer> "Make: Bayliner " .
+_:node925b569e85b66b663f13ac8da9f9 <http://schema.org/address> _:node81b8e63412d743b65d58bb301863c8 .
+_:node989fa42c3a524c05f14674cb3844a1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:nodee39af0897080d6bd2177283fa3ae683a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee39af0897080d6bd2177283fa3ae683a <http://schema.org/address> _:node7a2e938292b3d7b2a873ebaeecc88bc .
+_:nodee39af0897080d6bd2177283fa3ae683a <http://schema.org/logo> "Null" .
+_:node7a2e938292b3d7b2a873ebaeecc88bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node7a2e938292b3d7b2a873ebaeecc88bc <http://schema.org/addressRegion> "MN" .
+_:node7a2e938292b3d7b2a873ebaeecc88bc <http://schema.org/telephone> "(888) 660-4881" .
+_:node7a2e938292b3d7b2a873ebaeecc88bc <http://schema.org/postalCode> "55041" .
+_:node7a2e938292b3d7b2a873ebaeecc88bc <http://schema.org/addressLocality> "Lake City" .
+_:node7a2e938292b3d7b2a873ebaeecc88bc <http://schema.org/streetAddress> "35853 Hwy 61 Blvd" .
+_:node81b8e63412d743b65d58bb301863c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node81b8e63412d743b65d58bb301863c8 <http://schema.org/addressRegion> "MN" .
+_:node81b8e63412d743b65d58bb301863c8 <http://schema.org/addressLocality> "Lake City" .
+_:node8dcb9f5d41de9f5e034d9d851166b19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node8dcb9f5d41de9f5e034d9d851166b19 <http://schema.org/price> "$72,000.00" .
+_:node8dcb9f5d41de9f5e034d9d851166b19 <http://schema.org/telephone> "888-660-4881" .
+_:node8dcb9f5d41de9f5e034d9d851166b19 <http://schema.org/availability> "Reduced" .
+_:node21b7b1b4f3ac31cc8f5341ac1597bae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

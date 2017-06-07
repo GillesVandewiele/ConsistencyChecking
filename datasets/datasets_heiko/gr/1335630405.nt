@@ -1,0 +1,15 @@
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/109752.jpg" .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://ogp.me/ns#description> "Stash your bread products in style with this Polder 11 x 17-in. White Bread Box. A smoothly gliding enamel-on-steel lid is tipped with a secure seal that ensures your loaves, rolls and bagels stay fresh and delicious." .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/white-11x17-in-bread-box-by-polder_109752_11/0/3/" .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://ogp.me/ns#title> "White 11x17-in. Bread Box by Polder at Cooking.com" .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/white-11x17-in-bread-box-by-polder_109752_11/0/3/> .
+_:genid2dcaad4befe5644113999649ae9b3e2d8e2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d4df5eb3402fb4dd68f278b2e8d15e25c2dN66828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

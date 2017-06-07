@@ -1,0 +1,16 @@
+_:genid2d2f45414aeb86402289b46cccecac00ec2dN66691 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d2f45414aeb86402289b46cccecac00ec2dN66691 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d2f45414aeb86402289b46cccecac00ec2dN66691 .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/b5399cc57cef5ef3acbdf172ce92d719.jpg> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "0757120406419"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#name> "Cables To Go - 40641 - 3.5mm Stereo Male to Dual 3.5mm Stereo Female Adapter" .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "Make the right connection with 3.5mm Adapters from Cables To Go. This adapter is ideal for adapting a single 3.5mm stereo plug to two 3.5mm stereo plugs." .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Cables To Go 40641 Audio & Video Cables" .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/cables-to-go-40641-i126370.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d52172c24099145f9ad3cf9a873bac10f2dN67373 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

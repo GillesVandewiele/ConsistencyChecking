@@ -1,0 +1,11 @@
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dN68157 <http://purl.org/goodrelations/v1#name> "Golden Heart Angel Dress Costume"@en .
+<http://www.joke.co.uk/letter-a-costumes/golden-heart-angel-dress-costume~72265/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/letter-a-costumes/golden-heart-angel-dress-costume~72265/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dINSIDE5fN68279 .
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrencyValue> "34.99"@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=72265> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=72265> .
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dINSIDE5fN68279 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dN68242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dN68242 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dINSIDE5fN68242 .
+_:genid2db6c34a86a1f5450f8d899b7fa8c3b9182dN68157 <http://purl.org/goodrelations/v1#description> "Adopt a sumptuous style this Christmas with our stunning Angel Dress Costume, which features a beautiful gold heart pattern and is adorned with faux jewels.  The corset pulls you in at the waist, creating a fitted look.\n\nCostume includes:\n\nDress\nCorset\nSleeves\nHalo\nWings\n\n\nThe Angel Dress Costume includes a white satin look dress and a cream and gold coloured corset with gold hearts and faux jewels.\n\nAlso included is a pair of white puff sleeves with gold ribbon bows, a halo with white faux fur and a matching pair of angel wings, also decorated with gold hearts and faux jewels."@en .
+<http://www.warmyourfloor.com/nuheat-120v-84-x-60-f2115.html#Offering_904> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .

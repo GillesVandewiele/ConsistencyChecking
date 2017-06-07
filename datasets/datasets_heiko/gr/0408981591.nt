@@ -1,0 +1,20 @@
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74812 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74812 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74812 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74812 <http://rdf.data-vocabulary.org/#average> "0"@en .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74796 <http://rdf.data-vocabulary.org/#itemreviewed> "Orca Women's Core Flex Singlet With Interal Bra"@en .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74796 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74796 <http://rdf.data-vocabulary.org/#count> ""@en .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74775 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74775 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74775 <http://purl.org/goodrelations/v1#hasCurrencyValue> "35.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2de9a61106b48a407d8f1d34681452ba382dN74796 <http://rdf.data-vocabulary.org/#rating> _:genid2de9a61106b48a407d8f1d34681452ba382dN74812 .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2de9a61106b48a407d8f1d34681452ba382dN74775 .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/c/dcnof5579-28_1.jpg> .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://purl.org/goodrelations/v1#description> "Orca's Core Flex Singlet with Internal Bra has a two piece construction and uses two of Orca's new performance fabrics for performance and comfort.\u00A0 The main singlet is constructed from the lightweight X-Flow fabric, which has excellent breathability, while the internal bra uses Profile, a tight knit fabric with next-to-skin comfort, and superior stretch and recovery.\u00A0 The gathered back panel, raw edge binding and hems, and shpaed side seam panels give the Flex Singlet a fashion look, while reflective logos add practicality for use in low light conditions.<br><br><ul><li>Two-piece bra top and singlet</li><li>Gathered back panel</li><li>Raw edge binding and hem</li><li>Shaped side seam panels</li><li>Reflective Orca logo</li><li>Contrast stitch</li></ul><br>"@en .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://purl.org/goodrelations/v1#name> "Orca Women's Core Flex Singlet With Interal Bra"@en .
+<http://www.triathletesports.com/run/run-clothing/run-tops/orca-women-s-core-flex-singlet-with-interal-bra.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.mrlock.com/35254.html?id=yUj4QPBq#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

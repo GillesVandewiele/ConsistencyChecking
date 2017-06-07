@@ -1,0 +1,24 @@
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71409 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71409 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71438 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#description> "The Kulae\u00AE 3.5'' Cork Yoga Block is supportive and sustainable, everything you could want from your yoga block.<br><br>\u0095 Made of 100% renewable Portuguese cork.<br>\u0095 Free of chemicals and toxins.<br>\u0095 Dimensions: 3.5'' x 6'' x 9''.<br>\u0095 Imported." .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#name> "Kulae 3.5" .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d251d8922a8594993b47188f8cc62f8cb2dN71409 .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71457 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71457 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71457 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71457 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$21.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d251d8922a8594993b47188f8cc62f8cb2dN71447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d251d8922a8594993b47188f8cc62f8cb2dN71457 .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/kulae-3.5-cork-yoga-block-32509/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2dcdc3d88a19944c8abbaca6ebc2f2af2e2dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

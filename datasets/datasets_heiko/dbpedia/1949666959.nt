@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Nursultan_Nazarbayev> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Communist_Party_of_Kazakhstan> .
+<http://dbpedia.org/resource/Nursultan_Nazarbayev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Nursultan_Nazarbayev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Nursultan_Nazarbayev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Communist_Party_of_Kazakhstan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Communist_Party_of_Kazakhstan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Communist_Party_of_Kazakhstan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

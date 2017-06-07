@@ -1,0 +1,18 @@
+_:node7a5a941120847a75fbef9ffa515929c <http://schema.org/name> "Jmusiz" .
+_:node7a5a941120847a75fbef9ffa515929c <http://schema.org/url> <http://it.appszoom.com/android_developer/jmusiz_kibeb.html> .
+_:node339c45938a578494c235789ca0d2c274 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node339c45938a578494c235789ca0d2c274 <http://schema.org/name> "Null" .
+_:node254a66be129ec072e3f7b2ed256785 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/operatingSystems> "Android" .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/image> <http://cdn8.staztic.com/app/a/4075/4075135/workout-mix-2-l-124x124.png> .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/numDownloads> "1 - 5" .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/offers> _:node4e71e6567b1a76a137af8e88992a9b .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/author> _:node7a5a941120847a75fbef9ffa515929c .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/name> "Workout Mix" .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/description> "Rock out with Jmusiz Instrumental Music For Workout,Chill,Partying,Listening,Feel Good Music" .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/releaseNotes> "New Music" .
+_:node254a66be129ec072e3f7b2ed256785 <http://schema.org/url> <http://it.appszoom.com/android-app/workout-mix-kibec.html> .
+_:node4e71e6567b1a76a137af8e88992a9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node4e71e6567b1a76a137af8e88992a9b <http://schema.org/price> "\u20AC 0,72" .
+_:node4e71e6567b1a76a137af8e88992a9b <http://schema.org/seller> _:node339c45938a578494c235789ca0d2c274 .
+_:node1517e636ad63c9ed44dddd77a7e01d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

@@ -1,0 +1,10 @@
+_:node10b68555e615ef19f86537c7e3c61 <http://schema.org/breadcrumb> "\n        \n            Kankakee, IL>Best>Professional Massage Therapists & Massage Therapy\n        \n    "@en .
+_:node10b68555e615ef19f86537c7e3c61 <http://schema.org/location> _:node945f479f62bb8cb4c2a3784cd2dd79 .
+_:node945f479f62bb8cb4c2a3784cd2dd79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node945f479f62bb8cb4c2a3784cd2dd79 <http://schema.org/address> _:node6587938b70314bf856493ab3fe87ce1 .
+_:node6587938b70314bf856493ab3fe87ce1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node6587938b70314bf856493ab3fe87ce1 <http://schema.org/addressRegion> "IL"@en .
+_:node6587938b70314bf856493ab3fe87ce1 <http://schema.org/postalCode> "60914"@en .
+_:node6587938b70314bf856493ab3fe87ce1 <http://schema.org/addressLocality> "Bourbonnais"@en .
+_:node6587938b70314bf856493ab3fe87ce1 <http://schema.org/streetAddress> "215 N Convent St"@en .
+_:node61e4a2863df57717bf2b556b51301e1a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

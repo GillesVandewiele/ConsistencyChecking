@@ -1,0 +1,16 @@
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d807e187105184f3ea31abfe0761b1c3a2dN67263 .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/ab33c0d3cb1c1636f638833e826acd19.jpg> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "0111311005278"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#name> "MA-DJM102 Pro 4-channel Mobile Dj/club Mixer" .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "Djm-102 mixer features 8 digital sound effects w/speed, volume, &amp; fx cue controls. Digital echo w/variable delay, repeat, &amp; level control, 2 microphone inputs, 8 line &amp; 2 turntable inputs, 1/4 &amp; xlr front mounted microphone inputs, individual gain control &amp; cue selectors for each channel, 3-band eq &amp; kill buttons on microphone channels w/talk over for the djs microphone, master output has both 1/4 &amp; rca connections, dual 10-band equalizer for dialing in bass, vocals &amp; highs, effects send &amp; return loop, user replaceable &amp; fully assignable crossfader." .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Marathon MADJM102 Digital" .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/marathon-madjm102-i138742.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d807e187105184f3ea31abfe0761b1c3a2dN67263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d807e187105184f3ea31abfe0761b1c3a2dN67263 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d807e187105184f3ea31abfe0761b1c3a2dN67263 <http://purl.org/goodrelations/v1#hasCurrencyValue> "169.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.warmyourfloor.com/suntouch-tapemat-240v-24-x-20-24002024.html#QuantitativeValue_1160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

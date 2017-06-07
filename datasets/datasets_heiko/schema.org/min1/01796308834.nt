@@ -1,0 +1,31 @@
+_:node6dc648d01170b2529de570f755582e5e <http://schema.org/worstRating> "1" .
+_:node6dc648d01170b2529de570f755582e5e <http://schema.org/ratingValue> "5" .
+_:node6dc648d01170b2529de570f755582e5e <http://schema.org/bestRating> "5" .
+_:node4f9e94edc3dbd3534a3080adf736558e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node4f9e94edc3dbd3534a3080adf736558e <http://schema.org/reviewRating> _:nodeb8abbae564297e7a678edf3487aac5a8 .
+_:node4f9e94edc3dbd3534a3080adf736558e <http://schema.org/name> "kaisercraft" .
+_:node4f9e94edc3dbd3534a3080adf736558e <http://schema.org/description> "\n\t\t\t\t\t\t\t\t\tnice wooden hearts \t\t\t\t\t\t\t\t" .
+_:node4f9e94edc3dbd3534a3080adf736558e <http://schema.org/author> "tscheffelmiar" .
+_:node7b5e36cd7259c81d5e6c44517a158f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node7b5e36cd7259c81d5e6c44517a158f <http://schema.org/ratingValue> "5" .
+_:node7b5e36cd7259c81d5e6c44517a158f <http://schema.org/reviewCount> "2" .
+_:node9defcf7663568386892c99c2e8bf6ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node9defcf7663568386892c99c2e8bf6ac <http://schema.org/price> "$3.74" .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/offers> _:node9defcf7663568386892c99c2e8bf6ac .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/name> "Kaisercraft - Flourishes - Die Cut Wood Pieces - Hearts" .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/description> "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEach package includes 12 die cut wood pieces that measure approximately .5\" x .5\" to .75\" to 1\".\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t" .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/image> <http://cdn.scrapbook.com/products/cache/SBC_kai-fl440_0.jpg> .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/aggregateRating> _:node7b5e36cd7259c81d5e6c44517a158f .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/review> _:node4e4c5c4a416151736f07dcb4d8d2b26 .
+_:nodec9a82d3714c2f6727ca3a47577a423b <http://schema.org/review> _:node4f9e94edc3dbd3534a3080adf736558e .
+_:node4e4c5c4a416151736f07dcb4d8d2b26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node4e4c5c4a416151736f07dcb4d8d2b26 <http://schema.org/reviewRating> _:node6dc648d01170b2529de570f755582e5e .
+_:node4e4c5c4a416151736f07dcb4d8d2b26 <http://schema.org/name> "you can do what you want with these" .
+_:node4e4c5c4a416151736f07dcb4d8d2b26 <http://schema.org/description> "\n\t\t\t\t\t\t\t\t\tthey are perfect for cards or scrapbook pages. you could paint them, color them with markers or even put glitter them.\t\t\t\t\t\t\t\t" .
+_:node4e4c5c4a416151736f07dcb4d8d2b26 <http://schema.org/author> "nanashoneybear" .
+_:nodeb8abbae564297e7a678edf3487aac5a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodeb8abbae564297e7a678edf3487aac5a8 <http://schema.org/worstRating> "1" .
+_:nodeb8abbae564297e7a678edf3487aac5a8 <http://schema.org/ratingValue> "5" .
+_:nodeb8abbae564297e7a678edf3487aac5a8 <http://schema.org/bestRating> "5" .
+_:nodeef7253709996ac49497e8bcd78f5af9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

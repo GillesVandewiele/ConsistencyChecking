@@ -1,0 +1,38 @@
+_:genid2deac9cd67c2234418ae1905346d1162462dN66458 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/index.php?desired_page=venues&city=Los+Lunas> .
+_:genid2deac9cd67c2234418ae1905346d1162462dN66458 <http://rdf.data-vocabulary.org/#title> "Los Lunas"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 <http://rdf.data-vocabulary.org/#locality> "Los Lunas"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 <http://rdf.data-vocabulary.org/#street-address> "3216 Hwy 47 S."@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 <http://rdf.data-vocabulary.org/#postal-code> "87031"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67113 <http://rdf.data-vocabulary.org/#latitude> "34.775172"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67113 <http://rdf.data-vocabulary.org/#longitude> "-106.709635"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dN66447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2deac9cd67c2234418ae1905346d1162462dN66447 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/index.php?desired_page=venues> .
+_:genid2deac9cd67c2234418ae1905346d1162462dN66447 <http://rdf.data-vocabulary.org/#title> "venues"@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dN66447 <http://rdf.data-vocabulary.org/#child> _:genid2deac9cd67c2234418ae1905346d1162462dN66458 .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#description> "Center for Ageless Living at 3216 Hwy 47 S.:"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#postal-code> "87031"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#url> "http://alibi.com/index.php?desired_page=venues&entity=6994"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#longitude> "-106.709635"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#image> "http://alibi.com/images/alibi-a-57x57.png"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#street-address> "3216 Hwy 47 S."@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#locality> "Los Lunas"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#latitude> "34.775172"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://ogp.me/ns#title> "Center for Ageless Living"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://purl.org/goodrelations/v1#legalName> "Center for Ageless Living"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://rdf.data-vocabulary.org/#address> _:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://rdf.data-vocabulary.org/#address> _:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://purl.org/goodrelations/v1#hasPOS> _:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://purl.org/goodrelations/v1#hasPOS> _:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67072 .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://rdf.data-vocabulary.org/#name> "Center for Ageless Living"@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://rdf.data-vocabulary.org/#description> ""@en .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://rdf.data-vocabulary.org/#geo> _:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67113 .
+<http://alibi.com/index.php?desired_page=venues&entity=6994> <http://rdf.data-vocabulary.org/#geo> _:genid2deac9cd67c2234418ae1905346d1162462dINSIDE5fN67113 .
+<http://www.pooldawg.com/category/pool-cue-accessories/pool-cue-parts/pool-cue-joint-protectors/mezz-cue-joint-protector-set#Offering_35809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

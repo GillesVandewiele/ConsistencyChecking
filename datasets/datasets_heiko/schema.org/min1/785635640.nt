@@ -1,0 +1,55 @@
+_:node83847d91847f4fc9f4be4d73d6c48c <http://schema.org/reviewRating> "1" .
+_:node83847d91847f4fc9f4be4d73d6c48c <http://schema.org/dateCreated> "2012-03-22" .
+_:node83847d91847f4fc9f4be4d73d6c48c <http://schema.org/reviewBody> "Made exactly didn't have any flavor.  Sorry but it was a huge waste of time" .
+_:node83847d91847f4fc9f4be4d73d6c48c <http://schema.org/interactionCount> "2" .
+_:node83847d91847f4fc9f4be4d73d6c48c <http://schema.org/author> "tlunsford80" .
+_:node83847d91847f4fc9f4be4d73d6c48c <http://schema.org/itemReviewed> "O'Cheeze Potato Soup" .
+_:nodee1640e86b197faba9e7ea268a5f5c15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodee1640e86b197faba9e7ea268a5f5c15 <http://schema.org/ratingValue> "3.50" .
+_:nodee1640e86b197faba9e7ea268a5f5c15 <http://schema.org/reviewCount> "4" .
+_:node29b63a19fde9956c57ae224ed5345eee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:node29b63a19fde9956c57ae224ed5345eee <http://schema.org/sodiumContent> "589 mg" .
+_:node29b63a19fde9956c57ae224ed5345eee <http://schema.org/carbohydrateContent> "23g" .
+_:node29b63a19fde9956c57ae224ed5345eee <http://schema.org/proteinContent> "14.2 g" .
+_:node29b63a19fde9956c57ae224ed5345eee <http://schema.org/fatContent> "28.2 g" .
+_:node29b63a19fde9956c57ae224ed5345eee <http://schema.org/calories> "397 kcal" .
+_:node29b63a19fde9956c57ae224ed5345eee <http://schema.org/cholesterolContent> "87 mg" .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://schema.org/reviewRating> "4" .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://schema.org/dateCreated> "2012-06-28" .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://schema.org/reviewBody> "I went with this recipe hoping to make the potato part in my crockpot.......but my crockpot died. I transferred everything to a large soup pot and went on with the recipe. I actually made a double recipe of this with the intent of leftovers for tomorrow. After the potatoes cooked, I mushed them with the old fashioned potato masher, then folded in the cheese sauce. I did not use half-n-half in this recipe, I used whole \"lactose-free\" milk in it's place. That made no difference in the taste of the soup. After tasting it, I did add in more garlic powder and hot pepper sauce. This was a very nice cheese-potato soup. My husband and kids especially liked it. The flavor of the Velveeta went well with the potatoes--the flavor reminded me of scalloped potatoes." .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://schema.org/interactionCount> "12" .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://schema.org/author> "Sarah Jo" .
+_:node11f5a66c63facecfce427a5ebf96fb7d <http://schema.org/itemReviewed> "O'Cheeze Potato Soup" .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://schema.org/reviewRating> "5" .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://schema.org/dateCreated> "2013-10-02" .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://schema.org/reviewBody> "I did not use the Velveeta, but used aged sharp cheddar cheese instead, and we loved this soup, served it with crusty french bread rolls!" .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://schema.org/interactionCount> "0" .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://schema.org/author> "Mrs. Chef Esh" .
+_:nodeac4f1af6d28f5f541190c0d7ab4be265 <http://schema.org/itemReviewed> "O'Cheeze Potato Soup" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/name> "O'Cheeze Potato Soup" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/4 pound bacon" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1 1/2 pounds red potatoes, peeled and cut into 1/2-inch cubes" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "2 tablespoons butter" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "2 tablespoons all-purpose flour" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1 quart half-and-half" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1 (8 ounce) package processed cheese (such as Velveeta\u00AE), cubed" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/2 teaspoon ground white pepper" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/2 teaspoon garlic powder" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/2 teaspoon hot pepper sauce" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/2 cup shredded Cheddar cheese, divided" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/4 cup chopped fresh chives, divided" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/ingredients> "1/4 cup chopped fresh parsley, divided" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/author> "Robin Duncan Davis" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/description> "\nSaid to be from a chain restaurant. My daughter worked there and used to bring it home. When she quit I had to make it for myself. I'm so glad she knew the recipe. I love it.            " .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/review> _:node11f5a66c63facecfce427a5ebf96fb7d .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/review> _:node83847d91847f4fc9f4be4d73d6c48c .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/review> _:nodeac4f1af6d28f5f541190c0d7ab4be265 .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/image> <http://images.media-allrecipes.com/userphotos/250x250/1051061.jpg> .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/nutrition> _:node29b63a19fde9956c57ae224ed5345eee .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/recipeYield> "8" .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/recipeInstructions> "\n                Place bacon in a large, deep skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels and crumble when cool.\n                Cover potatoes with water in a large saucepan and bring to a boil over medium heat until tender but not mushy, about 15 minutes; drain.\n                Melt butter in a large pot over medium heat and stir in flour; mix until smooth. Reduce heat to medium-low and slowly whisk in half-and-half until smooth. Bring to a simmer, whisking constantly, and cook until slightly thickened, 2 to 3 minutes.\n                Stir in processed cheese cubes until melted and smooth.\n                Season with white pepper, garlic powder, and hot pepper sauce.\n                Mix in cooked potatoes, cover, and simmer until potatoes are very tender and soup is thickened, about 30 minutes; stir occasionally.\n                Ladle soup into bowls and top each bowl with equal amounts shredded Cheddar cheese, crumbled bacon, chives, and parsley.\n            All done! Now take a photo, rate it, and share your accomplishments!\n    " .
+_:node292693ecd47b1ae3ca3dc29f4e69251f <http://schema.org/aggregateRating> _:nodee1640e86b197faba9e7ea268a5f5c15 .
+_:node5622bc6295d26482275cd1729396fde <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

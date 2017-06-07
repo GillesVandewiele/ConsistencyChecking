@@ -1,0 +1,17 @@
+_:node3955648aadeb71306d3aa6f7be162052 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/genre> "Law, Government & Military"@en .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/inLanguage> "en"@en .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/publisher> _:nodef288ff29c85d9ebfdb199554af17fb .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/copyrightYear> "2014"@en .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/headline> "power structure - definition, meaning, audio pronunciation, synonyms and more. What is power structure? a way in which power is organized or shared in an organization or society: : See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201Cpower structure\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t power structurenoun [C] uk \n\t\t\t\u00A0\n\t\t\n\t\t\t us \n\t\t\t\u00A0\n\t\t\n\t\t\t \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t\n\t\t\t\t\t\t\u203A a way in which power is organized or shared in an organization or society: The president has promised a new constitution and the creation of democratic power structures.\n\t\t\t\t\t"@en .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:node9ddeb5986bf3e537a1175e6b31166cd <http://schema.org/author> _:node376cecf5346d39cae1896e232aec0 .
+_:node376cecf5346d39cae1896e232aec0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node376cecf5346d39cae1896e232aec0 <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node376cecf5346d39cae1896e232aec0 <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:nodef288ff29c85d9ebfdb199554af17fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef288ff29c85d9ebfdb199554af17fb <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:nodef288ff29c85d9ebfdb199554af17fb <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:node9515fcc9799996d98f62e3a4268f8d19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Married..._with_Children> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/ELP_Communications> .
+<http://dbpedia.org/resource/Married..._with_Children> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Married..._with_Children> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/ELP_Communications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/ELP_Communications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/ELP_Communications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

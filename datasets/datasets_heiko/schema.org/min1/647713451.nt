@@ -1,0 +1,3 @@
+_:node3e5085bef1c4e455e0f244d05f5617f6 <http://schema.org/name> "A Superb Naturalist - George Schaller Salute Olaus Murie :: Videos" .
+_:node3e5085bef1c4e455e0f244d05f5617f6 <http://schema.org/image> "http://digitalmedia.fws.gov/utils/getthumbnail/collection/video/id/1715" .
+_:node7c6ec441bc1b9751d2d55aeeeda456 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

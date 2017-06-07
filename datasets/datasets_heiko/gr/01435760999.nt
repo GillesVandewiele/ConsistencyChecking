@@ -1,0 +1,10 @@
+<http://www.okazii.ro/rochii/rochii-de-seara/rochie-seara-atmosphere-by-bianca-dragusanu-a113946406#main> <http://purl.org/goodrelations/v1#description> "rochie seara cumparata de la atmosphere...rochita este minunata...se potriveste pentru marimile 36-38\neste purtata o singura data si intretinuta perfect" .
+_:genid2d15e97f793ff246b78436b8f5186246502dN66683 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d15e97f793ff246b78436b8f5186246502dN66683 <http://purl.org/goodrelations/v1#hasCurrency> "RON" .
+_:genid2d15e97f793ff246b78436b8f5186246502dN66683 <http://purl.org/goodrelations/v1#validThrough> "22 Mai 2012 22:28:00" .
+_:genid2d15e97f793ff246b78436b8f5186246502dN66683 <http://purl.org/goodrelations/v1#hasCurrencyValue> "250" .
+<http://www.okazii.ro/rochii/rochii-de-seara/rochie-seara-atmosphere-by-bianca-dragusanu-a113946406#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.okazii.ro/rochii/rochii-de-seara/rochie-seara-atmosphere-by-bianca-dragusanu-a113946406#main> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d15e97f793ff246b78436b8f5186246502dN66683 .
+<http://www.okazii.ro/rochii/rochii-de-seara/rochie-seara-atmosphere-by-bianca-dragusanu-a113946406#main> <http://xmlns.com/foaf/0.1/depiction> <javascript:void(0)> .
+<http://www.okazii.ro/rochii/rochii-de-seara/rochie-seara-atmosphere-by-bianca-dragusanu-a113946406#main> <http://purl.org/goodrelations/v1#name> "rochie seara atmosphere by bianca dragusanu" .
+<http://www.swimoutlet.com/p/bikini-lab-sorry-for-party-blocking-hot-pant-hipster-bottom-46971/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .

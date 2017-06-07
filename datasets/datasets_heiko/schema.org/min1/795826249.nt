@@ -1,0 +1,10 @@
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/dateCreated> "2014-06-26T12:33:45" .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/image> "http://m.wfmz.com/image/view/-/22606278/medRes/2/-/maxh/640/maxw/640/-/njbjjl/-/Liga-Imperial-Azteca-Final.jpg" .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/name> "Sale un nuevo campe\u00F3n en la Liga Imperial Azteca de Camden, Nueva Jersey " .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/description> "El 20 de octubre , no fue un d\u00EDa cualquiera en el Complejo Recreativo de Pennsauken en Nueva Jersey." .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/publisher> _:nodeb1e99ac92fd94c91f5a72b41e374b .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/url> "http://m.wfmz.com/spanish-top-stories/sale-un-nuevo-campen-en-la-liga-imperial-azteca-de-camden-nueva-jersey/22606146" .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://schema.org/dateModified> "Null" .
+_:nodeb1e99ac92fd94c91f5a72b41e374b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb1e99ac92fd94c91f5a72b41e374b <http://schema.org/name> "wfmz-allen-mobile" .
+_:node7198d0399f176c7d0d841635b11c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

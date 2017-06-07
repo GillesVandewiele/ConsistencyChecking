@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/ICQ> <http://dbpedia.org/ontology/license> <http://dbpedia.org/resource/Proprietary_software> .
+<http://dbpedia.org/resource/ICQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/ICQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .

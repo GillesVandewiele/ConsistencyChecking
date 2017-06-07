@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Beastie_Boys> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/The_Roots> .
+<http://dbpedia.org/resource/Beastie_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Beastie_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Beastie_Boys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Roots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Roots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/The_Roots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,54 @@
+_:node76e747df31a8dd8a5936394a5c166de6 <http://schema.org/name> "Intercontinental George Bush"@es .
+_:node76e747df31a8dd8a5936394a5c166de6 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KIAH> .
+_:node18ebf24f89f10722742b92c3357855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node18ebf24f89f10722742b92c3357855 <http://schema.org/name> "Intercontinental George Bush"@es .
+_:node18ebf24f89f10722742b92c3357855 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KIAH> .
+_:nodec53ae9e8685b97d8a1471e8258df2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec53ae9e8685b97d8a1471e8258df2b <http://schema.org/name> "Intercontinental George Bush"@es .
+_:nodec53ae9e8685b97d8a1471e8258df2b <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KIAH> .
+_:nodeedfc60eca93c62ffd6ef3f13f402adf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeedfc60eca93c62ffd6ef3f13f402adf <http://schema.org/name> "Int'l de Saint Louis-Lambert"@es .
+_:nodeedfc60eca93c62ffd6ef3f13f402adf <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KSTL> .
+_:nodeb247d2d942b34e2ac48d917f61de4e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb247d2d942b34e2ac48d917f61de4e2 <http://schema.org/name> "Eppley Airfield"@es .
+_:nodeb247d2d942b34e2ac48d917f61de4e2 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KOMA> .
+_:node9039807ebddca350ae6bd0387c7ab926 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9039807ebddca350ae6bd0387c7ab926 <http://schema.org/name> "Int'l de Saint Louis-Lambert"@es .
+_:node9039807ebddca350ae6bd0387c7ab926 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KSTL> .
+_:nodec6dd95cdd582556394c89567d6ef20f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec6dd95cdd582556394c89567d6ef20f8 <http://schema.org/name> "Eppley Airfield"@es .
+_:nodec6dd95cdd582556394c89567d6ef20f8 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KOMA> .
+_:nodeab979f774ea881ef581c750c613b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeab979f774ea881ef581c750c613b5 <http://schema.org/name> "Int'l de Cleveland-Hopkins"@es .
+_:nodeab979f774ea881ef581c750c613b5 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KCLE> .
+_:nodec126d902b305df726cf9128e8f638b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec126d902b305df726cf9128e8f638b4 <http://schema.org/name> "Eppley Airfield"@es .
+_:nodec126d902b305df726cf9128e8f638b4 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KOMA> .
+_:nodeb8c281fffeb69eb1883a5581a7153a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb8c281fffeb69eb1883a5581a7153a <http://schema.org/name> "Eppley Airfield"@es .
+_:nodeb8c281fffeb69eb1883a5581a7153a <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KOMA> .
+_:nodedbfb9950d05caf934c9388d4ac1be8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodedbfb9950d05caf934c9388d4ac1be8f <http://schema.org/name> "Intercontinental George Bush"@es .
+_:nodedbfb9950d05caf934c9388d4ac1be8f <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KIAH> .
+_:node22e7c68efd8fbf425fd0b1e7bf6d4a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node22e7c68efd8fbf425fd0b1e7bf6d4a6 <http://schema.org/name> "Intercontinental George Bush"@es .
+_:node22e7c68efd8fbf425fd0b1e7bf6d4a6 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KIAH> .
+_:node748da6a78556b699e81526cb6c9da2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node748da6a78556b699e81526cb6c9da2d <http://schema.org/name> "Intercontinental George Bush"@es .
+_:node748da6a78556b699e81526cb6c9da2d <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KIAH> .
+_:nodefb8f42f7cb473e9b37692063b65fae12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefb8f42f7cb473e9b37692063b65fae12 <http://schema.org/name> "Int'l de Kansas City"@es .
+_:nodefb8f42f7cb473e9b37692063b65fae12 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KMCI> .
+_:node46a22fd2fea92aef2eb14e55ebb78766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node46a22fd2fea92aef2eb14e55ebb78766 <http://schema.org/name> "Eppley Airfield"@es .
+_:node46a22fd2fea92aef2eb14e55ebb78766 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KOMA> .
+_:nodeaeeae9b0d2d96f96e461d3d33fe628e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeaeeae9b0d2d96f96e461d3d33fe628e <http://schema.org/name> "Int'l de Cleveland-Hopkins"@es .
+_:nodeaeeae9b0d2d96f96e461d3d33fe628e <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KCLE> .
+_:node7a2a1cc9999f81364186708d6f953716 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7a2a1cc9999f81364186708d6f953716 <http://schema.org/name> "Eppley Airfield"@es .
+_:node7a2a1cc9999f81364186708d6f953716 <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KOMA> .
+_:node8530a3b9a5db0ca254be6f6defe2ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8530a3b9a5db0ca254be6f6defe2ae <http://schema.org/name> "Int'l Libertad de Newark"@es .
+_:node8530a3b9a5db0ca254be6f6defe2ae <http://schema.org/url> <http://es.flightaware.com/live/flight/UAL4530/history/20130415/1646Z/KEWR/KMCI//live/airport/KEWR> .
+_:nodec143cdd26646986deed6aa5215df6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,21 @@
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/name> "Hazelnut, Chocolate Chip and Date Cookie Bars"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "\u00BD C coconut oil, melted"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "\u00BE C maple syrup"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "\u00BC C palm sugar(or sucanat or brown sugar)"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "2 flax eggs(2 tbsp ground flax mixed with 6 tbsp water and let sit 5 minutes)"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "1\u00BC C white whole wheat flour(or whole wheat pastry flour, any soft wheat flour)"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "2 tsp baking powder"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "\u00BD tsp fine sea salt, plus more for sprinkling the top with if desired"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "1 C roughly chopped hazelnuts"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "\u00BD C chocolate chips"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/ingredients> "\u00BD C soft Medjool dates, pits removed, roughly chopped and tossed with 1 tbsp flour to keep them from sticking"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/author> "Heidi @ Food Doodles"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/image> <http://fooddoodles.com/wp-content/uploads/2013/03/cookiebar7-250.jpg> .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeYield> "9-12"@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeInstructions> "Preheat oven to 350 degrees. Prepare an 8x8 pan by lining it with paper and lightly greasing the paper. Set aside."@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeInstructions> "In a bowl, stir together the melted coconut oil, maple syrup, brown sugar and flax egg."@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeInstructions> "Add the flour, baking powder and salt and mix well."@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeInstructions> "Stir in the nuts, chocolate and dates. Once combined pour into the prepared baking pan, spread evenly and place in the oven."@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeInstructions> "Bake at 350 degrees for 27-30 minutes until golden, being careful not to over bake."@en-us .
+_:node4fde275ef8f956c079e7c4843b757131 <http://schema.org/recipeInstructions> "Remove from the oven and sprinkle with a pinch of sea salt and leave to cool completely before cutting."@en-us .
+_:node5c2dc32eccee735f2a698136cf1522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

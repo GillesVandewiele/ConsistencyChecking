@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/The_Replacements_(band)> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Static_Taxi> .
+<http://dbpedia.org/resource/The_Replacements_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/The_Replacements_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/The_Replacements_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .

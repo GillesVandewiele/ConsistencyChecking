@@ -1,0 +1,4 @@
+_:node7816df4917c7d38aaec253dec5d7fe2a <http://schema.org/breadcrumb> <http://libn.com> .
+_:node7816df4917c7d38aaec253dec5d7fe2a <http://schema.org/breadcrumb> <http://libn.com/category/news/> .
+_:node7816df4917c7d38aaec253dec5d7fe2a <http://schema.org/breadcrumb> <http://libn.com/category/news/green/> .
+_:node4aaaecd83cc7b1864b384259962efec8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CollectionPage> .

@@ -1,0 +1,24 @@
+_:genid2dce7d8992a0344e48a101524c946abab62dN71503 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71503 <http://rdf.data-vocabulary.org/#count> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71503 <http://rdf.data-vocabulary.org/#rating> "4"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71551 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71551 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71551 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$43.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2dce7d8992a0344e48a101524c946abab62dN71541 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#description> "The Solid Tri-Colore Tankini Top provides large busted women with the perfect fit. From underwire support to adjustable straps, this suit is the ultimate in support and comfort. <br><br>\u0095 Solid. <br>\u0095 Large bust fit. <br>\u0095 Foam bra. <br>\u0095 Underwire. <br>\u0095 Lettuce-edge trim.<br>\u0095 Hidden adjustable clasp in back of suit. <br>\u0095 Adjustable shoulder straps. <br>\u0095 72% Polyamide / 28% Elastane.<br>\u0095 Imported." .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#name> "Profile By Gottex Solid Tri-Colore D-Cup Tankini Top" .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dce7d8992a0344e48a101524c946abab62dN71503 .
+<http://www.swimoutlet.com/p/profile-by-gottex-solid-tri-colore-d-cup-tankini-top-35383/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dce7d8992a0344e48a101524c946abab62dN71551 .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 .

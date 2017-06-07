@@ -1,0 +1,39 @@
+<http://www.pooldawg.com/catalog/product/view/id/43759/#QuantitativeValue_43759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#QuantitativeValue_43759> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#QuantitativeValue_43759> <http://purl.org/goodrelations/v1#hasMaxValue> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "BKDI-A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://xmlns.com/foaf/0.1/depiction> _:genid2d193e17fe6d5d4b9599325fc26bdd7eba2dN69702 .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://purl.org/goodrelations/v1#description> "Pro Skills Drills Book - Boot Camp Basics Perfect Your Basics has 52 tactical Drills for Aiming, Kicking, Banking, Warm-Ups and even Jumping Plus the revolutionary new 'Predator-Eyes Aiming System'. With this 7th installment of the Pro Skills Drills series Dominic 'The Drill Instructor' Esposito Guarantees to get you into the best playing shape EVER!" .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://purl.org/goodrelations/v1#name> "Pro Skills Drills Book Boot Camp Basics" .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2d193e17fe6d5d4b9599325fc26bdd7eba2dN69694 .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#UnitPriceSpecification_43759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#UnitPriceSpecification_43759> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#UnitPriceSpecification_43759> <http://purl.org/goodrelations/v1#hasCurrencyValue> "24.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#UnitPriceSpecification_43759> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Review-aggregate_43759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Review-aggregate_43759> <http://rdf.data-vocabulary.org/#count> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Review-aggregate_43759> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.pooldawg.com/catalog/product/view/id/43759/#QuantitativeValue_43759> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d193e17fe6d5d4b9599325fc26bdd7eba2dINSIDE5fN69735 .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#TypeAndQuantityNode_43759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#TypeAndQuantityNode_43759> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#TypeAndQuantityNode_43759> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.pooldawg.com/catalog/product/view/id/43759/#SomeItems_43759> .
+_:genid2d193e17fe6d5d4b9599325fc26bdd7eba2dINSIDE5fN69735 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2d193e17fe6d5d4b9599325fc26bdd7eba2dINSIDE5fN69735 <http://rdf.data-vocabulary.org/#hasReview> <http://www.pooldawg.com/catalog/product/view/id/43759/#Review-aggregate_43759> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#validFrom> "2014-12-20 09:49:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.pooldawg.com/catalog/product/view/id/43759/#UnitPriceSpecification_43759> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#validThrough> "2015-12-20 09:49:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#description> "Pro Skills Drills Book - Boot Camp Basics Perfect Your Basics has 52 tactical Drills for Aiming, Kicking, Banking, Warm-Ups and even Jumping Plus the revolutionary new 'Predator-Eyes Aiming System'. With this 7th installment of the Pro Skills Drills series Dominic 'The Drill Instructor' Esposito Guarantees to get you into the best playing shape EVER!" .
+<http://www.pooldawg.com/catalog/product/view/id/43759/#Offering_43759> <http://purl.org/goodrelations/v1#name> "Pro Skills Drills Book Boot Camp Basics" .
+<http://www.eastwood.com/5-piece-aviation-tin-snip-set.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .

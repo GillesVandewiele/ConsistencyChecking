@@ -1,0 +1,6 @@
+_:node4fd7669d6c3b5e41229a869fabcfc4d <http://schema.org/name> "How can I handle Doctrine errors?" .
+_:node4fd7669d6c3b5e41229a869fabcfc4d <http://schema.org/title> "How can I handle Doctrine errors?" .
+_:node4fd7669d6c3b5e41229a869fabcfc4d <http://schema.org/description> "I am using Doctrine's dbal service in my Symfony2 app.\n\nI query a non-existent table, which throws an error:\n\n\n  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'log.requests_20130311' do..." .
+_:node4fd7669d6c3b5e41229a869fabcfc4d <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node4fd7669d6c3b5e41229a869fabcfc4d <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodeaeafa54b43ecd5aafa7ad2ca7f114671 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

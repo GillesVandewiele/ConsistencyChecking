@@ -1,0 +1,81 @@
+_:node18aef1fd7a977dc5f478f66b637f7d9d <http://schema.org/name> "\n\t\t\t\t\tPhysical Product CEOs\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node18aef1fd7a977dc5f478f66b637f7d9d <http://schema.org/url> <http://www.meetup.com/Physical-Product-CEO/> .
+_:node92d239f7766abfef02fccfdca1763cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node92d239f7766abfef02fccfdca1763cc <http://schema.org/name> "\n\t\t\t\t\tFour Hour Work Week Entrepreneurs Boulder/Denver\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node92d239f7766abfef02fccfdca1763cc <http://schema.org/url> <http://www.meetup.com/FourHourWorkWeekColorado/> .
+_:nodee3e8e16f42567a9dd1d7a947fdbf817 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee3e8e16f42567a9dd1d7a947fdbf817 <http://schema.org/name> "\n\t\t\t\t\tDenver Founders Network\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee3e8e16f42567a9dd1d7a947fdbf817 <http://schema.org/url> <http://www.meetup.com/Denver-Founders-Network/> .
+_:node6681bd7c5e78d523250fc1e4e3cab2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6681bd7c5e78d523250fc1e4e3cab2c <http://schema.org/name> "\n\t\t\t\t\tWomen Who Startup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6681bd7c5e78d523250fc1e4e3cab2c <http://schema.org/url> <http://www.meetup.com/womenwhostartupcolorado/> .
+_:node2082576a201c2f1d9483080ea396fa1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2082576a201c2f1d9483080ea396fa1 <http://schema.org/name> "\n\t\t\t\t\tMTN Mktg\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node2082576a201c2f1d9483080ea396fa1 <http://schema.org/url> <http://www.meetup.com/MTN-Mktg/> .
+_:nodea062ebe51427d93e9e6b9b519da5ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea062ebe51427d93e9e6b9b519da5ba <http://schema.org/name> "\n\t\t\t\t\tCoFoundersLab Matchup Denver\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea062ebe51427d93e9e6b9b519da5ba <http://schema.org/url> <http://www.meetup.com/CoFoundersLab-Matchup-Denver/> .
+_:nodef271fc6f58f2b85143b7b881a5a52bdb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef271fc6f58f2b85143b7b881a5a52bdb <http://schema.org/name> "\n\t\t\t\t\tRocky Mountain Digital Project Managers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef271fc6f58f2b85143b7b881a5a52bdb <http://schema.org/url> <http://www.meetup.com/Rocky-Mountain-Digital-Project-Managers/> .
+_:nodefd2a8374bc312767d9b22b6b49d445e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefd2a8374bc312767d9b22b6b49d445e2 <http://schema.org/name> "\n\t\t\t\t\tDenver Advanced Internet Marketing (SEO, PPC, Social Media)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodefd2a8374bc312767d9b22b6b49d445e2 <http://schema.org/url> <http://www.meetup.com/Denver-Advanced-Internet-Marketing-SEO-PPC-Social-Media/> .
+_:node36c0676d8ea2d714338c2950df55ed7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node36c0676d8ea2d714338c2950df55ed7 <http://schema.org/name> "\n\t\t\t\t\tBoulder Developer (& Designer) Collaborative\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node36c0676d8ea2d714338c2950df55ed7 <http://schema.org/url> <http://www.meetup.com/Boulder-Developer-Collaborative/> .
+_:node84e21ecde6eae0a7fccdccc2ba308c7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node84e21ecde6eae0a7fccdccc2ba308c7f <http://schema.org/name> "\n\t\t\t\t\tPitch to Developers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node84e21ecde6eae0a7fccdccc2ba308c7f <http://schema.org/url> <http://www.meetup.com/Pitch-to-Developers/> .
+_:node7e82f69f5d0a7ce03728bfdd61a3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7e82f69f5d0a7ce03728bfdd61a3c <http://schema.org/name> "\n\t\t\t\t\tBoulder Product Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7e82f69f5d0a7ce03728bfdd61a3c <http://schema.org/url> <http://www.meetup.com/Boulder-Product-Meetup/> .
+_:nodee886c2f2f65dbff6b0e4de8821d28eb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee886c2f2f65dbff6b0e4de8821d28eb1 <http://schema.org/name> "\n\t\t\t\t\tColorado Technology Association\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee886c2f2f65dbff6b0e4de8821d28eb1 <http://schema.org/url> <http://www.meetup.com/Colorado-Technology-Association/> .
+_:noded891595d8ffd55e277f1eb143f643eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded891595d8ffd55e277f1eb143f643eb <http://schema.org/name> "\n\t\t\t\t\tDenver Startup Founder 101\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded891595d8ffd55e277f1eb143f643eb <http://schema.org/url> <http://www.meetup.com/Denver-Startup-Founder-101/> .
+_:nodee77a23296c2e9109ac256d82f9f84f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee77a23296c2e9109ac256d82f9f84f9 <http://schema.org/name> "\n\t\t\t\t\tHire A Developer\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee77a23296c2e9109ac256d82f9f84f9 <http://schema.org/url> <http://www.meetup.com/Hire-A-Developer/> .
+_:node7aa650b57678e7ebd8acbd6b93213f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7aa650b57678e7ebd8acbd6b93213f8 <http://schema.org/name> "\n\t\t\t\t\tDenver Tech Startups Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7aa650b57678e7ebd8acbd6b93213f8 <http://schema.org/url> <http://www.meetup.com/Denver-Tech-Startups-Meetup/> .
+_:nodeb93e7745e2f2bb2db5747aa63710b4fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb93e7745e2f2bb2db5747aa63710b4fe <http://schema.org/name> "\n\t\t\t\t\tThe Slackers Club-Solopreneur/Microbusiness Mastermind Tribe\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb93e7745e2f2bb2db5747aa63710b4fe <http://schema.org/url> <http://www.meetup.com/The-Slackers-Club-Solopreneur-Microbusiness-Mastermind-Tribe/> .
+_:nodeeb33556087283e397e1e28ee42e67ef7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeeb33556087283e397e1e28ee42e67ef7 <http://schema.org/name> "\n\t\t\t\t\tStartup Longmont\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeeb33556087283e397e1e28ee42e67ef7 <http://schema.org/url> <http://www.meetup.com/Startup-Longmont/> .
+_:node5519f539a9a27ee3292447158cd67f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5519f539a9a27ee3292447158cd67f <http://schema.org/name> "\n\t\t\t\t\tCU Law Class 2017 - New Venture Challenge\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5519f539a9a27ee3292447158cd67f <http://schema.org/url> <http://www.meetup.com/CU-Law-Class-2017-Silicon-Flatirons-New-Venture-Challenge/> .
+_:nodeaad56e953b46ff149aa31c6f62afd93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeaad56e953b46ff149aa31c6f62afd93 <http://schema.org/name> "\n\t\t\t\t\tCreative Connections\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeaad56e953b46ff149aa31c6f62afd93 <http://schema.org/url> <http://www.meetup.com/Creative-Connections/> .
+_:nodea05912e0707f26e98bb1d65c31f877b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea05912e0707f26e98bb1d65c31f877b <http://schema.org/name> "\n\t\t\t\t\tLoveland Coworking Community\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea05912e0707f26e98bb1d65c31f877b <http://schema.org/url> <http://www.meetup.com/Loveland-Coworking-Community/> .
+_:node383897b1807f7f39786d246342e9f7e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node383897b1807f7f39786d246342e9f7e2 <http://schema.org/name> "\n\t\t\t\t\tCoFoundersLab Matchup Boulder\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node383897b1807f7f39786d246342e9f7e2 <http://schema.org/url> <http://www.meetup.com/CoFoundersLab-Matchup-Boulder/> .
+_:node234a30a2dbd2f894376aad5498709969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node234a30a2dbd2f894376aad5498709969 <http://schema.org/name> "\n\t\t\t\t\tDenver Internet of Things Office Hours\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node234a30a2dbd2f894376aad5498709969 <http://schema.org/url> <http://www.meetup.com/Denver-Internet-of-Things-Office-Hours/> .
+_:nodede5257ffef4d3f4ff95d6f17ec2ed470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodede5257ffef4d3f4ff95d6f17ec2ed470 <http://schema.org/name> "\n\t\t\t\t\tSmart Energized Entrepreneurs\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodede5257ffef4d3f4ff95d6f17ec2ed470 <http://schema.org/url> <http://www.meetup.com/SmartEnergizedEntrepreneurs/> .
+_:node4193d5db5175734f5bf21acb3a47ec1d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4193d5db5175734f5bf21acb3a47ec1d <http://schema.org/name> "\n\t\t\t\t\tRefresh Denver\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4193d5db5175734f5bf21acb3a47ec1d <http://schema.org/url> <http://www.meetup.com/refreshdenver/> .
+_:node7a4b27d290998ed6e2b281ab9f838fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7a4b27d290998ed6e2b281ab9f838fb <http://schema.org/name> "\n\t\t\t\t\tDenver DevCamp.us\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7a4b27d290998ed6e2b281ab9f838fb <http://schema.org/url> <http://www.meetup.com/Denver-DevCamp-us/> .
+_:node41acbddb94848aa31259cad8fd97e51e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node41acbddb94848aa31259cad8fd97e51e <http://schema.org/name> "\n\t\t\t\t\tYouthStars Startup Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node41acbddb94848aa31259cad8fd97e51e <http://schema.org/url> <http://www.meetup.com/YouthStars-Startup-Meetup/> .
+_:nodeebd2c1539f69663925632feca9ac2886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeebd2c1539f69663925632feca9ac2886 <http://schema.org/name> "\n\t\t\t\t\tWIMP Denver: Web & Interactive Media Professionals\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeebd2c1539f69663925632feca9ac2886 <http://schema.org/url> <http://www.meetup.com/WIMPdenver/> .
+_:nodee05fb940b371be199e32ea91b7b93fa0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

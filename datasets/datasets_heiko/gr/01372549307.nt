@@ -1,0 +1,26 @@
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://xmlns.com/foaf/0.1/page> <http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66612 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66612 <http://rdf.data-vocabulary.org/#count> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66612 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.rachaelraystore.com/#company> <http://purl.org/goodrelations/v1#offers> <http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66637 .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66663 .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66637 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66637 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66637 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66637 <http://purl.org/goodrelations/v1#hasCurrencyValue> "25.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66663 <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "745114"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://xmlns.com/foaf/0.1/depiction> <http://iweb.rachaelraystore.com/images/products/shprodde/745114.jpg> .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#description> "Rated best value by leading independent consumer magazine. These digital scales are economically priced and very easy to use with its two-button operation."@en .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://purl.org/goodrelations/v1#name> "Escali Primo Digital Scale: Chrome"@en .
+<http://www.rachaelraystore.com/Product/detail/Escali-Primo-11-lb-Digital-Scale-Chrome/745114#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d0ef89e3c4de94977a3d49439b398dd2c2dN66612 .
+<http://www.warmyourfloor.com/shop-by-brand/suntouch-by-watts-radiant/suntouch-tapemat-240v-24-x-35-24003524.html#TypeAndQuantityNode_1165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

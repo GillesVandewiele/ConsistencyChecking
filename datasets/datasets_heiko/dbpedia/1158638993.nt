@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/IMI_Galil> <http://dbpedia.org/ontology/usedInWar> <http://dbpedia.org/resource/Islamic_insurgency_in_the_Philippines> .
+<http://dbpedia.org/resource/IMI_Galil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Weapon> .
+<http://dbpedia.org/resource/IMI_Galil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> .

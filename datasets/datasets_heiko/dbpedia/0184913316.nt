@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Quake_II> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Steam_(software)> .
+<http://dbpedia.org/resource/Quake_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Quake_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Quake_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> .
+<http://dbpedia.org/resource/Steam_(software)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Steam_(software)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

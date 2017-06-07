@@ -1,0 +1,34 @@
+_:nodea063987bf92e76f7a1e48eae52d587 <http://schema.org/url> <http://www.homegrownfriends.com> .
+_:nodea063987bf92e76f7a1e48eae52d587 <http://schema.org/name> "Meredith @ Homegrown Friends"@en-us .
+_:nodefe32155974402e3ce61b10926d6dd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefe32155974402e3ce61b10926d6dd5 <http://schema.org/name> "Jennifer"@en-us .
+_:nodeba17c7cd1818d1ed8e810ca6fcdee20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeba17c7cd1818d1ed8e810ca6fcdee20 <http://schema.org/text> "I love it when the kids make something to decorate our windows, and a Valentine window just had to be done!\nSince George has been asking non-stop to paint more and more hearts, I dug out some heart shaped paper doilies that I had bought a couple of years ago after Valentine\u2019s Day.\nWe started with coloring a few with dot markers, and regular markers, just drawing on them, making it pretty. But George really, really wanted to paint!\n\u00A0\n\u00A0\n\n\u00A0\nSo painting it was to decorate our Valentine window.\nAnd it was toddler style painting!\nThis is definitely a messier version of the shaken painted hearts, but definitely still a toddler art project. [If you\u2019re afraid of the mess, take a look at the 10 tips to keeping messy play clean.]\nI placed the paper doilies in a pan along with a couple blobs of red and pink paint [as usual, we use Crayola washable paints].\n\u00A0\n\u00A0\n\n\u00A0\n\u00A0\nLouis got some super awesome sensory balls for Christmas that were just begging to paint with us\u2026 okay maybe not really. But they sure looked like they\u2019d be fun to paint with!\nMy thought was to set them in the pan and tip the pan back and forth to make the ball roll back and forth, which George did\u2026 for a little bit.\nBut then he was all about the hands, and rolling the balls himself.\n\u00A0\n\n\u00A0\n\u00A0\nI made sure to take out the paper doily before it got too covered or ripped and put a new one in. George could have kept going and going with this, but we eventually ran out of hearts to paint!\nI set the doilies on the paper that I had put down to dry, but soon realized that they would stick to the paper when they dried. I decided to hang them up to dry instead, but a couple had ripped because they had already stuck to the paper. So be sure to hang them immediately after you\u2019re done painting them.\nWith red ribbon that George cut himself [and, oh he is so proud of that part!], I hung them up in the windows by looping it around the curtain rod and stapling the ribbon to each heart.\n\u00A0\n\n\u00A0\nI think it has added a little warmth and love to the room, don\u2019t you? I\u2019m lovin\u2019 our Valentine window!\n\u00A0\nLots more Valentine\u2019s Day activities are around, so keep browsing!\nGeorge is 2 years old.\nThis post contains affiliate links.\n\n"@en-us .
+_:nodeba17c7cd1818d1ed8e810ca6fcdee20 <http://schema.org/headline> "Valentine Window of Toddler Painted Hearts"@en-us .
+_:node452c47e845db55b6bae12110cfa4621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:node452c47e845db55b6bae12110cfa4621 <http://schema.org/breadcrumb> "\tYou are here:\n\n\t\t\n\t\t\tHome \u00A0 | \u00A0 Art Projects \u00A0 | \u00A0 Big Art \u00A0 | \u00A0 Valentine Window of Toddler Painted Hearts\n\t\t"@en-us .
+_:node452c47e845db55b6bae12110cfa4621 <http://schema.org/comment> _:nodeb316445cfe47e8d75a4596c9c39796a .
+_:node452c47e845db55b6bae12110cfa4621 <http://schema.org/comment> _:nodeb51a5d4bec3ad2616a64fde5f7f214b .
+_:node452c47e845db55b6bae12110cfa4621 <http://schema.org/comment> _:nodeeb9dd59e339f4227c04916a2fa537d83 .
+_:node452c47e845db55b6bae12110cfa4621 <http://schema.org/blogPost> _:nodeba17c7cd1818d1ed8e810ca6fcdee20 .
+_:nodeeb9dd59e339f4227c04916a2fa537d83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeeb9dd59e339f4227c04916a2fa537d83 <http://schema.org/url> <http://handsonaswegrow.com/valentine-window-doilies/comment-page-1/#comment-82551> .
+_:nodeeb9dd59e339f4227c04916a2fa537d83 <http://schema.org/commentText> "\n\t\t\t\n\t\t\tI love this idea! I never thought of painting heart doilies!  So much fun!\n\t\t"@en-us .
+_:nodeeb9dd59e339f4227c04916a2fa537d83 <http://schema.org/creator> _:nodea063987bf92e76f7a1e48eae52d587 .
+_:nodeeb9dd59e339f4227c04916a2fa537d83 <http://schema.org/commentTime> "2014-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb51a5d4bec3ad2616a64fde5f7f214b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeb51a5d4bec3ad2616a64fde5f7f214b <http://schema.org/url> <http://handsonaswegrow.com/valentine-window-doilies/comment-page-1/#comment-20607> .
+_:nodeb51a5d4bec3ad2616a64fde5f7f214b <http://schema.org/commentText> "\n\t\t\t\n\t\t\tWe painted some heart doilies using sponges and watered down tempura. With 30 doiles for a buck at the Dollar Store, this was a fun, easy, cheap project for my 3 year old. Thanks for the great idea!\n\t\t"@en-us .
+_:nodeb51a5d4bec3ad2616a64fde5f7f214b <http://schema.org/creator> _:nodefe32155974402e3ce61b10926d6dd5 .
+_:nodeb51a5d4bec3ad2616a64fde5f7f214b <http://schema.org/commentTime> "2013-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodebfca979bb33b304a8ed160988133bfd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebfca979bb33b304a8ed160988133bfd0 <http://schema.org/url> <http://www.mamitalks.com> .
+_:nodebfca979bb33b304a8ed160988133bfd0 <http://schema.org/name> "Dariela"@en-us .
+_:node21c588ec45964d3510a71e4bb68880a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node21c588ec45964d3510a71e4bb68880a2 <http://schema.org/mainContentOfPage> _:node452c47e845db55b6bae12110cfa4621 .
+_:nodeb316445cfe47e8d75a4596c9c39796a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .
+_:nodeb316445cfe47e8d75a4596c9c39796a <http://schema.org/url> <http://handsonaswegrow.com/valentine-window-doilies/comment-page-1/#comment-20063> .
+_:nodeb316445cfe47e8d75a4596c9c39796a <http://schema.org/commentText> "\n\t\t\t\n\t\t\tLove this project! Great idea!!\n\t\t"@en-us .
+_:nodeb316445cfe47e8d75a4596c9c39796a <http://schema.org/creator> _:nodebfca979bb33b304a8ed160988133bfd0 .
+_:nodeb316445cfe47e8d75a4596c9c39796a <http://schema.org/commentTime> "2013-01-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3bd827d2c4adb5d7c30566f7a4459b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

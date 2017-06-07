@@ -1,0 +1,14 @@
+_:genid2d5ec39c8a3568452c841db48cb6daa6592dN69167 <http://purl.org/goodrelations/v1#legalName> "Whittard of Chelsea" .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d5ec39c8a3568452c841db48cb6daa6592dN69227 .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "308593"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm> .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://purl.org/goodrelations/v1#description> "" .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://purl.org/goodrelations/v1#name> "Union Jack Skull Fine Bone China Mug" .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d5ec39c8a3568452c841db48cb6daa6592dN69227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d5ec39c8a3568452c841db48cb6daa6592dN69227 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d5ec39c8a3568452c841db48cb6daa6592dN69227 <http://purl.org/goodrelations/v1#hasCurrencyValue> "16.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm> <https://www.facebook.com/2008/fbmladmins> "145872942641" .
+<http://www.whittard.co.uk/tableware/product-type/mugs/union-jack-mug.htm> <http://xmlns.com/foaf/0.1/page> <http://www.whittard.co.uk/tableware/collections/new-english/union-jack-mug.htm> .
+_:genid2d0aec5a8fea6b4dd1ad5a1a1ff7f8e59e2dINSIDE5fN67043 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .

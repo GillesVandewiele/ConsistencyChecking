@@ -1,0 +1,15 @@
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/387168.jpg" .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://ogp.me/ns#description> "Buy 8-oz. Ethiopia Yirgacheffe Ground Coffee by Marley Coffee by Marley Coffee at Cooking.com. Get Gourmet Foods and Marley Coffee, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/8-oz-ethiopia-yirgacheffe-ground-coffee-by-marley-coffee_387168_11/0/2/" .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://ogp.me/ns#title> "8-oz. Ethiopia Yirgacheffe Ground Coffee by Marley Coffee at Cooking.com" .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/8-oz-ethiopia-yirgacheffe-ground-coffee-by-marley-coffee_387168_11/0/2/> .
+_:genid2d1fe9cd8f32dc415b997dacf74edcfc472dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.aboutspace.net.au/#shop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Location> .

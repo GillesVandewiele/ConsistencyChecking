@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Ernest_Rutherford> <http://dbpedia.org/ontology/notableStudent> <http://dbpedia.org/resource/Edward_Andrade> .
+<http://dbpedia.org/resource/Ernest_Rutherford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Ernest_Rutherford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Ernest_Rutherford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/Edward_Andrade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/Edward_Andrade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edward_Andrade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Coral> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Anthozoa> .
+<http://dbpedia.org/resource/Coral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Coral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Coral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .

@@ -1,0 +1,26 @@
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70142 <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://store.calphalon.com/#company> <http://purl.org/goodrelations/v1#offers> <http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70116 .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "100658"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://xmlns.com/foaf/0.1/depiction> <http://s7d5.scene7.com/is/image/Calphalon/HE600CG_001?$detail_448x334$> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#description> "The Calphalon Removable Plate Grill allows you to enjoy the flavors of outdoor grilling anytime of year. Sear steaks, chicken and pork chops, or make delectable panini sandwiches on the large, high performance bronze nonstick grill surface. Calphalon\u00E2\u0080\u0099s exclusive Opti-Heat System provides accurate..."@en .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#name> "Calphalon Removable Plate Grill"@en .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70091 .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://xmlns.com/foaf/0.1/page> <http://store.calphalon.com/Calphalon-Electrics-Grill/100658> .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70091 <http://rdf.data-vocabulary.org/#count> "43"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70091 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://store.calphalon.com/Calphalon-Electrics-Grill/100658#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70142 .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70116 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70116 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70116 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dae93fcfe8d2d45ad97930f4ad5b0e4532dN70116 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$129.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.vanpo-jardin.com/fil-coupe-bordure-outils-wolf,fr,4,ZY793.cfm#weight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

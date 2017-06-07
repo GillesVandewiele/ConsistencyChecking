@@ -1,0 +1,6 @@
+_:nodec6f7af344ff53df3277f1c21f0ec7f <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wabc/images/logos/header-large.png> .
+_:nodec6f7af344ff53df3277f1c21f0ec7f <http://schema.org/url> <http://7online.com/> .
+_:node311b4223b820d9c5352b4fba16b493c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node311b4223b820d9c5352b4fba16b493c <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wabc/images/logos/header-large.png> .
+_:node311b4223b820d9c5352b4fba16b493c <http://schema.org/url> <http://7online.com/> .
+<http://schema.org/Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .

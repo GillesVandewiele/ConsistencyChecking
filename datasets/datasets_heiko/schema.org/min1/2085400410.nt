@@ -1,0 +1,81 @@
+_:node1c121cef9aef12c5a8712234bb6eff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:nodecd3cebdd258bd525ac3bb2d8f37a5e31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodecd3cebdd258bd525ac3bb2d8f37a5e31 <http://schema.org/url> <http://cloudtweaks.com/author/jeremypage/> .
+_:nodecd3cebdd258bd525ac3bb2d8f37a5e31 <http://schema.org/name> "Jeremy Page" .
+_:node2db48e4eeedefad797c16dd398ecf8d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node2db48e4eeedefad797c16dd398ecf8d2 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/10/wpid-curata__4YSJK4DjxwKEN1I-120x120.jpeg> .
+_:node2db48e4eeedefad797c16dd398ecf8d2 <http://schema.org/datePublished> "2014-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node2db48e4eeedefad797c16dd398ecf8d2 <http://schema.org/text> "Explore how cloud computing is a solution to the problems facing data centers today and highlights the cutting-edge technology (including OpenStack cloud computing) that HP is bringing to the current stage.\u00A0If you are a CTO, data center administrator, systems architect, or an IT professional looking for an enterprise-grade, hybrid delivery cloud computing solution that\u2019s open,\u2026" .
+_:node2db48e4eeedefad797c16dd398ecf8d2 <http://schema.org/headline> "HP OpenStack\u00AE Technology Breaking the Enterprise Barrier" .
+_:node2db48e4eeedefad797c16dd398ecf8d2 <http://schema.org/author> _:node4e9791264cd79d06eba7339dd73425c .
+_:noded4878ec1a5c3d4daa8e42063baa53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded4878ec1a5c3d4daa8e42063baa53 <http://schema.org/url> <http://cloudtweaks.com/author/stan/> .
+_:noded4878ec1a5c3d4daa8e42063baa53 <http://schema.org/name> "Stan Roach" .
+_:node7f229479b281ef66b6fb27666fbd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node7f229479b281ef66b6fb27666fbd3 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/11/jeremy-page-120x120.png> .
+_:node7f229479b281ef66b6fb27666fbd3 <http://schema.org/datePublished> "2014-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node7f229479b281ef66b6fb27666fbd3 <http://schema.org/text> "2015 Cybersecurity Challenges Every December, security experts begin to release their predictions on what cybersecurity will look like in the coming year. \u201CThe concept behind predictions is based on a company\u2019s ability to express its expertise in a field both on the business and on the technology end,\u201D said Barry Shteiman, director of security strategy\u2026" .
+_:node7f229479b281ef66b6fb27666fbd3 <http://schema.org/headline> "2015 Cybersecurity Challenges (5 Things To Expect)" .
+_:node7f229479b281ef66b6fb27666fbd3 <http://schema.org/author> _:nodecd3cebdd258bd525ac3bb2d8f37a5e31 .
+_:node4e9791264cd79d06eba7339dd73425c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4e9791264cd79d06eba7339dd73425c <http://schema.org/url> <http://cloudtweaks.com/author/cloudbuzz/> .
+_:node4e9791264cd79d06eba7339dd73425c <http://schema.org/name> "CloudBuzz" .
+_:node45629577ef551fece93bf74dd7f97b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node45629577ef551fece93bf74dd7f97b <http://schema.org/url> <http://cloudtweaks.com/author/technologyadvice/> .
+_:node45629577ef551fece93bf74dd7f97b <http://schema.org/name> "TechnologyAdvice" .
+_:node11c9c434d9379355bc93677ccbe28d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:node983d7ec0d0c96f3a5240c3678abfa1e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node983d7ec0d0c96f3a5240c3678abfa1e4 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/12/business-intelligence-120x120.jpg> .
+_:node983d7ec0d0c96f3a5240c3678abfa1e4 <http://schema.org/datePublished> "2014-12-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node983d7ec0d0c96f3a5240c3678abfa1e4 <http://schema.org/text> "BI (Business Intelligence) 101 Non-technical users are increasingly jumping at the opportunity to get real-time business insight from data without the help of the IT department, whether they\u2019re a small business without an IT staff altogether, or a high-ranking executive unwilling to request a report that will take a week to be completed. What is\u2026" .
+_:node983d7ec0d0c96f3a5240c3678abfa1e4 <http://schema.org/headline> "Self-Service BI (Business Intelligence) 101" .
+_:node983d7ec0d0c96f3a5240c3678abfa1e4 <http://schema.org/author> _:node45629577ef551fece93bf74dd7f97b .
+_:node249775180ca7b63da714aa99ce97e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node249775180ca7b63da714aa99ce97e6 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/01/Factor-Cloud-200x200.png> .
+_:node249775180ca7b63da714aa99ce97e6 <http://schema.org/datePublished> "2011-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node249775180ca7b63da714aa99ce97e6 <http://schema.org/text> "What Ails The Rackspace Stock? Rackspace US, Inc. (NYSE: RAX), a IT hosting company based in San Antonio, Texas, has long been a darling of the cloud computing industry. Established in 1998 and gone public in 2008, Rackspace is one of the early success stories of the cloud computing revolution. However, its recent stock performance,\u2026" .
+_:node249775180ca7b63da714aa99ce97e6 <http://schema.org/headline> "What Ails The Rackspace Stock?" .
+_:node249775180ca7b63da714aa99ce97e6 <http://schema.org/author> _:node321a39bc860972f6a94cc798a3e40d1 .
+_:node206d2867cf94a166a7cd45d53d0a2c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node206d2867cf94a166a7cd45d53d0a2c7 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/11/Stan-Roach-120x120.jpg> .
+_:node206d2867cf94a166a7cd45d53d0a2c7 <http://schema.org/datePublished> "2014-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node206d2867cf94a166a7cd45d53d0a2c7 <http://schema.org/text> "Public vs. Private vs. Hybrid The debate surrounding the deliverability of cloud computing is coming to a close. Businesses have begun to rapidly adopt the use of cloud services, courtesy the ROI this disruptive technology brings to the table. They have finally realized they cannot afford to ignore the cloud. A Forrester study found that\u2026" .
+_:node206d2867cf94a166a7cd45d53d0a2c7 <http://schema.org/headline> "Public vs. Private vs. Hybrid: Which Cloud Is Right for Your Business?" .
+_:node206d2867cf94a166a7cd45d53d0a2c7 <http://schema.org/author> _:noded4878ec1a5c3d4daa8e42063baa53 .
+_:node873b954faa8e18feb114452ea411c3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node873b954faa8e18feb114452ea411c3d <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/11/Rick-Delgado-120x120.png> .
+_:node873b954faa8e18feb114452ea411c3d <http://schema.org/datePublished> "2014-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node873b954faa8e18feb114452ea411c3d <http://schema.org/text> "The Open Source Arena The cloud computing landscape continues to grow with every passing year. 2014 is quickly coming to a close, and more businesses are using the cloud than ever before. What was once looked at as a fascinating new technology for the future has now become a practical, established strategy for companies today.\u2026" .
+_:node873b954faa8e18feb114452ea411c3d <http://schema.org/headline> "Landing In The Cloud \u2013 The Open Source Arena" .
+_:node873b954faa8e18feb114452ea411c3d <http://schema.org/author> _:node5b5ea66195fc2c533d1353f5c2c66e6e .
+_:nodefec1dd7ea3e3f783b5853ec4e912e3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodefec1dd7ea3e3f783b5853ec4e912e3d <http://schema.org/url> <http://cloudtweaks.com/author/diaz/> .
+_:nodefec1dd7ea3e3f783b5853ec4e912e3d <http://schema.org/name> "Diaz Ayub" .
+_:nodec2bb7f11802c1153db521e1d121799c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodec2bb7f11802c1153db521e1d121799c6 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/12/diaz-120x120.jpg> .
+_:nodec2bb7f11802c1153db521e1d121799c6 <http://schema.org/datePublished> "2014-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodec2bb7f11802c1153db521e1d121799c6 <http://schema.org/text> "Cloud Regulation When talking about cloud and regulation in financial services, it is important to approach it with a clear understanding of the typical policies that your national regulator will require you to adhere to. Let\u2019s start with outsourcing policy. Cloud mode provides us with a way of outsourcing data centre environments, applications, and services\u2026" .
+_:nodec2bb7f11802c1153db521e1d121799c6 <http://schema.org/headline> "Cloud and regulation in financial services" .
+_:nodec2bb7f11802c1153db521e1d121799c6 <http://schema.org/author> _:nodefec1dd7ea3e3f783b5853ec4e912e3d .
+_:node321a39bc860972f6a94cc798a3e40d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node321a39bc860972f6a94cc798a3e40d1 <http://schema.org/url> <http://cloudtweaks.com/author/sourya/> .
+_:node321a39bc860972f6a94cc798a3e40d1 <http://schema.org/name> "sourya" .
+_:nodee77370dfe043c875c26a6737d296277 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodee77370dfe043c875c26a6737d296277 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2012/12/cloud_125-1024x950.jpg> .
+_:node85cce6cb33d53e35acdc584699bcbd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node85cce6cb33d53e35acdc584699bcbd5 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2014/12/Nick-Rojas-120x120.jpeg> .
+_:node85cce6cb33d53e35acdc584699bcbd5 <http://schema.org/datePublished> "2014-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node85cce6cb33d53e35acdc584699bcbd5 <http://schema.org/text> "The Recruiting Industry Like most other established industries, the recruiting industry is being disrupted by new business models and cutting-edge technologies. From recruiting technology talent with a highly publicized hackathon, to handling graphic or even online versions or resumes, recruiting agencies are seeing new challenges and opportunities every day. Yet, the goal is still the\u2026" .
+_:node85cce6cb33d53e35acdc584699bcbd5 <http://schema.org/headline> "The Role Cloud Technology Plays in the Recruiting Industry" .
+_:node85cce6cb33d53e35acdc584699bcbd5 <http://schema.org/author> _:nodeeab4ea4942dd846ab2c2e2dab6801f .
+_:nodeeab4ea4942dd846ab2c2e2dab6801f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeeab4ea4942dd846ab2c2e2dab6801f <http://schema.org/url> <http://cloudtweaks.com/author/cloud77/> .
+_:nodeeab4ea4942dd846ab2c2e2dab6801f <http://schema.org/name> "CloudTweaks" .
+_:nodef94c2a9071715377d65698b0912c522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodef94c2a9071715377d65698b0912c522 <http://schema.org/image> <http://cloudtweaks.com/wp-content/uploads/2012/06/snip-logo-120x120.png> .
+_:nodef94c2a9071715377d65698b0912c522 <http://schema.org/text> "Advertising Package Options 2015 We have a dedicated readership, through our online, social media and email presence.\u00A0Our goal is to continue to build our growing community, by providing the best in-depth articles, interviews, event listings, whitepapers, infographics and much more. In order to do so, we require the support from businesses looking to generate more\u2026" .
+_:nodef94c2a9071715377d65698b0912c522 <http://schema.org/headline> "Sponsored Posts" .
+_:node5b5ea66195fc2c533d1353f5c2c66e6e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5b5ea66195fc2c533d1353f5c2c66e6e <http://schema.org/url> <http://cloudtweaks.com/author/rickdelgado/> .
+_:node5b5ea66195fc2c533d1353f5c2c66e6e <http://schema.org/name> "Rick Delgado" .
+_:nodee9a7cf5cd12987cb55dc42fac23d9275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

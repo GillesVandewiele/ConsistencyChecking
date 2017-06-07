@@ -1,0 +1,15 @@
+_:nodebbf4b79e02789f372f281a7d3bdcece <http://schema.org/reviewRating> "5"@en .
+_:nodebbf4b79e02789f372f281a7d3bdcece <http://schema.org/datePublished> "5/10/2013"@en .
+_:nodebbf4b79e02789f372f281a7d3bdcece <http://schema.org/reviewBody> "Great price, great service, and great quality"@en .
+_:nodebbf4b79e02789f372f281a7d3bdcece <http://schema.org/author> "B. AND GIRLS CLUB OF EDEN"@en .
+_:node78cd8bd6b869a5fc78a8d52cbc8844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node78cd8bd6b869a5fc78a8d52cbc8844 <http://schema.org/ratingCount> "1 Reviews"@en .
+_:node78cd8bd6b869a5fc78a8d52cbc8844 <http://schema.org/ratingValue> "5.0"@en .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://schema.org/name> "\n\t\tHigh Five Spirit Two-Button Jersey\n\t"@en .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://schema.org/description> "The High 5 Spirit Two-Button Softball Jersey features 100% Polyester with Essortex moisture management performance fabric, Stylish two-button placket with contrast piping, Contrast front panel insets with piping detail on sleeve hems, Double-needle hems, Droptail body."@en .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://schema.org/image> <http://epicsports.cachefly.net/images/29596/300/high-five-spirit-two-button-jersey.jpg> .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://schema.org/aggregateRating> _:node78cd8bd6b869a5fc78a8d52cbc8844 .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://schema.org/brand> "High Five"@en .
+_:node5e318daee09ced1b950d0abc56e5f5e <http://schema.org/review> _:nodebbf4b79e02789f372f281a7d3bdcece .
+_:node45e2a80fdfb94994bf357817684cc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

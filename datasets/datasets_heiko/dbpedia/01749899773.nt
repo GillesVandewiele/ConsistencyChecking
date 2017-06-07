@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Fort_Collins,_Colorado> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/List_of_cities_and_towns_in_Colorado> .
+<http://dbpedia.org/resource/Fort_Collins,_Colorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Fort_Collins,_Colorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Fort_Collins,_Colorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Fort_Collins,_Colorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Fort_Collins,_Colorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> .

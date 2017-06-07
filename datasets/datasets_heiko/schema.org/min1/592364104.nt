@@ -1,0 +1,300 @@
+_:noded8e6d0fbeb3d44e9a7abe9fba5c4dbc <http://schema.org/name> "\n\t\t\t\t\tBadminton Social - London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded8e6d0fbeb3d44e9a7abe9fba5c4dbc <http://schema.org/url> <http://www.meetup.com/LittleVenice/> .
+_:node51cf633c94dbf26fa94471defa8ba0cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node51cf633c94dbf26fa94471defa8ba0cd <http://schema.org/name> "\n\t\t\t\t\tLJC - London Java Community\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node51cf633c94dbf26fa94471defa8ba0cd <http://schema.org/url> <http://www.meetup.com/Londonjavacommunity/> .
+_:node8ee2eb3021f6659535bc12e43bd89330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8ee2eb3021f6659535bc12e43bd89330 <http://schema.org/name> "\n\t\t\t\t\tLondon Spanish Language Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8ee2eb3021f6659535bc12e43bd89330 <http://schema.org/url> <http://www.meetup.com/spanish-30/> .
+_:node6620aa3c36e7772cd3592faa87d6e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6620aa3c36e7772cd3592faa87d6e5 <http://schema.org/name> "\n\t\t\t\t\tBanking and Finance Professionals London (BFP London)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6620aa3c36e7772cd3592faa87d6e5 <http://schema.org/url> <http://www.meetup.com/BFPLondon/> .
+_:nodeb32d09b8c1423f45fe614a39794a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb32d09b8c1423f45fe614a39794a0 <http://schema.org/name> "\n\t\t\t\t\tDevelopers & Entrepreneurs\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb32d09b8c1423f45fe614a39794a0 <http://schema.org/url> <http://www.meetup.com/Developers-Entrepreneurs/> .
+_:nodee153a4ed8795e676747f14245aced9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee153a4ed8795e676747f14245aced9 <http://schema.org/name> "\n\t\t\t\t\tChiltern Explorers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee153a4ed8795e676747f14245aced9 <http://schema.org/url> <http://www.meetup.com/Chiltern-Explorers/> .
+_:node58745a598dd081daf5b674286f59ad8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node58745a598dd081daf5b674286f59ad8b <http://schema.org/name> "\n\t\t\t\t\tLondon SOCIAL SINGLES - beautiful events for professionals\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node58745a598dd081daf5b674286f59ad8b <http://schema.org/url> <http://www.meetup.com/London-Social-Singles/> .
+_:node2d8cec1d16b88fbfa3f3b783211dc730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2d8cec1d16b88fbfa3f3b783211dc730 <http://schema.org/name> "\n\t\t\t\t\tDonatello Club London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node2d8cec1d16b88fbfa3f3b783211dc730 <http://schema.org/url> <http://www.meetup.com/Donatello-Club-WC2/> .
+_:node4a89d5f396fc12f5aa6b6c5ffadada3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4a89d5f396fc12f5aa6b6c5ffadada3a <http://schema.org/name> "\n\t\t\t\t\tThe London BEER Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4a89d5f396fc12f5aa6b6c5ffadada3a <http://schema.org/url> <http://www.meetup.com/london-beer/> .
+_:node6497ff7088765d9bc9ae68b1db7a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6497ff7088765d9bc9ae68b1db7a6 <http://schema.org/name> "\n\t\t\t\t\tLondon DevOps\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6497ff7088765d9bc9ae68b1db7a6 <http://schema.org/url> <http://www.meetup.com/London-DevOps/> .
+_:nodea75065a56c8bc5e4157f3542fa5ed10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea75065a56c8bc5e4157f3542fa5ed10 <http://schema.org/name> "\n\t\t\t\t\tFree Meditation & Yoga London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea75065a56c8bc5e4157f3542fa5ed10 <http://schema.org/url> <http://www.meetup.com/Free-Meditation-Yoga-London/> .
+_:nodeeb7da720687c357ab8e9a6da9c035 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeeb7da720687c357ab8e9a6da9c035 <http://schema.org/name> "\n\t\t\t\t\tBabble Language Exchange, London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeeb7da720687c357ab8e9a6da9c035 <http://schema.org/url> <http://www.meetup.com/BabbleLondon/> .
+_:nodeeae27114b9e057b8b0c1cc9d29aa1078 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeeae27114b9e057b8b0c1cc9d29aa1078 <http://schema.org/name> "\n\t\t\t\t\tReading Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeeae27114b9e057b8b0c1cc9d29aa1078 <http://schema.org/url> <http://www.meetup.com/Reading-social/> .
+_:node3ea03acc27b2aa29c7a38513bbc2138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3ea03acc27b2aa29c7a38513bbc2138 <http://schema.org/name> "\n\t\t\t\t\tLondon International Friends\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3ea03acc27b2aa29c7a38513bbc2138 <http://schema.org/url> <http://www.meetup.com/LondonInternationalFriends/> .
+_:node343ada881013e992e96334b47c5d97f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node343ada881013e992e96334b47c5d97f9 <http://schema.org/name> "\n\t\t\t\t\tThe London Cultureseekers Group - Meet People in London!\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node343ada881013e992e96334b47c5d97f9 <http://schema.org/url> <http://www.meetup.com/LondonCultureseekers/> .
+_:node53bce87fb4fc137244cff4cd3a8530 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node53bce87fb4fc137244cff4cd3a8530 <http://schema.org/name> "\n\t\t\t\t\tLondon European Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node53bce87fb4fc137244cff4cd3a8530 <http://schema.org/url> <http://www.meetup.com/London-European-Club/> .
+_:node6d34cbfcee0df8cc0ea1eb0feebe489 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6d34cbfcee0df8cc0ea1eb0feebe489 <http://schema.org/name> "\n\t\t\t\t\tChinese / Korean / Japanese Society Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6d34cbfcee0df8cc0ea1eb0feebe489 <http://schema.org/url> <http://www.meetup.com/Chinese-Korean-Japanese-Society-Meetup-Group/> .
+_:node2a6f975e78848afc705eac172edb679e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2a6f975e78848afc705eac172edb679e <http://schema.org/name> "\n\t\t\t\t\tFREE London Bootcamp & Breakfast\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node2a6f975e78848afc705eac172edb679e <http://schema.org/url> <http://www.meetup.com/London-Running-Bootcamp-Breakfast/> .
+_:nodec31bb4efd357bc45aa628b44e20363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec31bb4efd357bc45aa628b44e20363 <http://schema.org/name> "\n\t\t\t\t\tThe Farnborough and Farnham Friends Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec31bb4efd357bc45aa628b44e20363 <http://schema.org/url> <http://www.meetup.com/The-Farnborough-Friends-Meetup-Group/> .
+_:nodea941328f2cf486611b3231145148c3c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea941328f2cf486611b3231145148c3c4 <http://schema.org/name> "\n\t\t\t\t\t20Somethings\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea941328f2cf486611b3231145148c3c4 <http://schema.org/url> <http://www.meetup.com/twenty/> .
+_:node77dde2f4ca2291d1e264acb460a087c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node77dde2f4ca2291d1e264acb460a087c <http://schema.org/name> "\n\t\t\t\t\tHertfordshire Activity and Social Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node77dde2f4ca2291d1e264acb460a087c <http://schema.org/url> <http://www.meetup.com/Hertfordshire-Activity-and-Social-Group/> .
+_:nodeb6adcd88306cb03bdcbd873d6d7079 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb6adcd88306cb03bdcbd873d6d7079 <http://schema.org/name> "\n\t\t\t\t\tMonster London Pub Crawls\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb6adcd88306cb03bdcbd873d6d7079 <http://schema.org/url> <http://www.meetup.com/Monster-London-Pub-Crawls/> .
+_:nodebbb24c2b23b4b46faa9046607efad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodebbb24c2b23b4b46faa9046607efad <http://schema.org/name> "\n\t\t\t\t\tThe London Movie Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodebbb24c2b23b4b46faa9046607efad <http://schema.org/url> <http://www.meetup.com/moviemeetup/> .
+_:noded3bed4649a97b36d4519baff358f275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded3bed4649a97b36d4519baff358f275 <http://schema.org/name> "\n\t\t\t\t\tFootyNUTS\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded3bed4649a97b36d4519baff358f275 <http://schema.org/url> <http://www.meetup.com/FootyNUTS/> .
+_:node4eeba663c769ca96e53df39aab90d5ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4eeba663c769ca96e53df39aab90d5ac <http://schema.org/name> "\n\t\t\t\t\tLondon Science and Geek Chic Socials\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4eeba663c769ca96e53df39aab90d5ac <http://schema.org/url> <http://www.meetup.com/GeekChic/> .
+_:node14e9db16e3e3e854df4d37f5241b6ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node14e9db16e3e3e854df4d37f5241b6ffe <http://schema.org/name> "\n\t\t\t\t\tInstagramers London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node14e9db16e3e3e854df4d37f5241b6ffe <http://schema.org/url> <http://www.meetup.com/InstagramersLondon/> .
+_:node68f8c7fb8ed9ef39ac958a7a8be9e58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node68f8c7fb8ed9ef39ac958a7a8be9e58 <http://schema.org/name> "\n\t\t\t\t\tLondon French Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node68f8c7fb8ed9ef39ac958a7a8be9e58 <http://schema.org/url> <http://www.meetup.com/french-32/> .
+_:noded485f5286cadadd516456e26275b232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded485f5286cadadd516456e26275b232 <http://schema.org/name> "\n\t\t\t\t\tYoung Professionals in London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded485f5286cadadd516456e26275b232 <http://schema.org/url> <http://www.meetup.com/YoungProfessionalsinLondon/> .
+_:node4a58b667bcb8c59dd19bfd8b7b94e3b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4a58b667bcb8c59dd19bfd8b7b94e3b <http://schema.org/name> "\n\t\t\t\t\tThe London Indie Music Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4a58b667bcb8c59dd19bfd8b7b94e3b <http://schema.org/url> <http://www.meetup.com/indielondon/> .
+_:node39ee65e31d55bafcbd5a3fe93d4af7ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node39ee65e31d55bafcbd5a3fe93d4af7ec <http://schema.org/name> "\n\t\t\t\t\tLondon On Board\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node39ee65e31d55bafcbd5a3fe93d4af7ec <http://schema.org/url> <http://www.meetup.com/LondonOnBoard/> .
+_:nodec0ff8fd254f3f8ee5bf8522d8cfb6d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec0ff8fd254f3f8ee5bf8522d8cfb6d <http://schema.org/name> "\n\t\t\t\t\tAngularJS London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec0ff8fd254f3f8ee5bf8522d8cfb6d <http://schema.org/url> <http://www.meetup.com/AngularJS-London/> .
+_:node11884036653360b272eaacf894ac0f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node11884036653360b272eaacf894ac0f2 <http://schema.org/name> "\n\t\t\t\t\tFlying Solo London Quality Events for Single People\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node11884036653360b272eaacf894ac0f2 <http://schema.org/url> <http://www.meetup.com/Flying-Solo-Events/> .
+_:node22cf48f7d703c8fbea32e5753a8f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node22cf48f7d703c8fbea32e5753a8f1 <http://schema.org/name> "\n\t\t\t\t\tLondon SOCIAL ADVENTURERS  - live life to the full\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node22cf48f7d703c8fbea32e5753a8f1 <http://schema.org/url> <http://www.meetup.com/London-Social-Adventurers/> .
+_:nodee09c4a355724a7e77943eda62ca9fe1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee09c4a355724a7e77943eda62ca9fe1 <http://schema.org/name> "\n\t\t\t\t\tGO London!\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee09c4a355724a7e77943eda62ca9fe1 <http://schema.org/url> <http://www.meetup.com/GO-London/> .
+_:node5df1cd9caf1892b2a9f26ae2bf81e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5df1cd9caf1892b2a9f26ae2bf81e2 <http://schema.org/name> "\n\t\t\t\t\tSwift London | The Future of iOS Development\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5df1cd9caf1892b2a9f26ae2bf81e2 <http://schema.org/url> <http://www.meetup.com/swiftlondon/> .
+_:node7b4fecbfde59a8563543ad1de6106f45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7b4fecbfde59a8563543ad1de6106f45 <http://schema.org/name> "\n\t\t\t\t\tLondon Salesforce Developers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7b4fecbfde59a8563543ad1de6106f45 <http://schema.org/url> <http://www.meetup.com/LondonSalesforceDevelopers/> .
+_:node3eeac6fd5d5581ed41d2adbf38376eed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3eeac6fd5d5581ed41d2adbf38376eed <http://schema.org/name> "\n\t\t\t\t\tLIFE CHANGING EVENTS & SEMINARS in London for FREE\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3eeac6fd5d5581ed41d2adbf38376eed <http://schema.org/url> <http://www.meetup.com/LIFE-CHANGING-EVENTS-AND-SEMINARS-LONDON-FREE/> .
+_:node5a4e329f010ecd8584d932437e22e27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5a4e329f010ecd8584d932437e22e27 <http://schema.org/name> "\n\t\t\t\t\tDevOps Exchange - London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5a4e329f010ecd8584d932437e22e27 <http://schema.org/url> <http://www.meetup.com/DevOps-Exchange-London/> .
+_:node278a9dd89cc3a3fab0a7eacc6d79dbed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node278a9dd89cc3a3fab0a7eacc6d79dbed <http://schema.org/name> "\n\t\t\t\t\tCurious Kat's Adventure Club: hiking, travelling, day trips\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node278a9dd89cc3a3fab0a7eacc6d79dbed <http://schema.org/url> <http://www.meetup.com/Curious-Kat-Adventure-Club/> .
+_:node3fd4c514abf5f0ad9dbb533526519c16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3fd4c514abf5f0ad9dbb533526519c16 <http://schema.org/name> "\n\t\t\t\t\tTurnON London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3fd4c514abf5f0ad9dbb533526519c16 <http://schema.org/url> <http://www.meetup.com/TurnON-London/> .
+_:nodeae692ad0a94bd5a91a1dd4cdf52b2d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeae692ad0a94bd5a91a1dd4cdf52b2d3 <http://schema.org/name> "\n\t\t\t\t\tFriends in London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeae692ad0a94bd5a91a1dd4cdf52b2d3 <http://schema.org/url> <http://www.meetup.com/friends-in-london/> .
+_:nodeb7673449b68a2459f849cb6b6ec1017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb7673449b68a2459f849cb6b6ec1017 <http://schema.org/name> "\n\t\t\t\t\tvirtual Java User Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb7673449b68a2459f849cb6b6ec1017 <http://schema.org/url> <http://www.meetup.com/virtualJUG/> .
+_:node97a88f5a1f5b510943f3ce33fdf234 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node97a88f5a1f5b510943f3ce33fdf234 <http://schema.org/name> "\n\t\t\t\t\tYoung Londoners 18-40\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node97a88f5a1f5b510943f3ce33fdf234 <http://schema.org/url> <http://www.meetup.com/Young-Londoners-18-40/> .
+_:node8777eb95b3e7d2531d6a6616111b430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8777eb95b3e7d2531d6a6616111b430 <http://schema.org/name> "\n\t\t\t\t\tLondon College of Spirituality\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8777eb95b3e7d2531d6a6616111b430 <http://schema.org/url> <http://www.meetup.com/londonspirituality/> .
+_:nodec9eca4c534afb4f31f6463ddbd7e9f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec9eca4c534afb4f31f6463ddbd7e9f6 <http://schema.org/name> "\n\t\t\t\t\tLondon Events Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec9eca4c534afb4f31f6463ddbd7e9f6 <http://schema.org/url> <http://www.meetup.com/londoneventsclub/> .
+_:node129b449c18ec3fe823d11c103ff3e5dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node129b449c18ec3fe823d11c103ff3e5dc <http://schema.org/name> "\n\t\t\t\t\tPutney Social Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node129b449c18ec3fe823d11c103ff3e5dc <http://schema.org/url> <http://www.meetup.com/Putney-Social-group/> .
+_:node7ada6206fb5f61cc410dc4786fb4d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7ada6206fb5f61cc410dc4786fb4d <http://schema.org/name> "\n\t\t\t\t\tFILL MY WEEKEND - Fun and Unusual Things To Do in London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7ada6206fb5f61cc410dc4786fb4d <http://schema.org/url> <http://www.meetup.com/FillMyWeekend/> .
+_:node18d0afeb963bde99cf34989326555662 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node18d0afeb963bde99cf34989326555662 <http://schema.org/name> "\n\t\t\t\t\tPublic Speaking for Dummies\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node18d0afeb963bde99cf34989326555662 <http://schema.org/url> <http://www.meetup.com/Public-Speaking-for-Dummies/> .
+_:node2558bf3adff60c3be6b63ab188127bb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2558bf3adff60c3be6b63ab188127bb <http://schema.org/name> "\n\t\t\t\t\tThe London Singles Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node2558bf3adff60c3be6b63ab188127bb <http://schema.org/url> <http://www.meetup.com/London-Singles-Club/> .
+_:node565eea3ccea0cad33fd33d206c404425 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node565eea3ccea0cad33fd33d206c404425 <http://schema.org/name> "\n\t\t\t\t\tThe London Gentle Walks Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node565eea3ccea0cad33fd33d206c404425 <http://schema.org/url> <http://www.meetup.com/The-London-Gentle-Walks-Group/> .
+_:nodea295dea62c7e102bd70b25817d3a188 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea295dea62c7e102bd70b25817d3a188 <http://schema.org/name> "\n\t\t\t\t\tStartups, Entrepreneurs and Investors\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea295dea62c7e102bd70b25817d3a188 <http://schema.org/url> <http://www.meetup.com/Startups-Entrepreneurs-and-Investors/> .
+_:node9ef0ffc88619ee2222955f721563f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node9ef0ffc88619ee2222955f721563f4 <http://schema.org/name> "\n\t\t\t\t\t'Young' London (22-35)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node9ef0ffc88619ee2222955f721563f4 <http://schema.org/url> <http://www.meetup.com/YoungLondoners/> .
+_:nodee2eb9988b21864975cd123f08e85f217 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee2eb9988b21864975cd123f08e85f217 <http://schema.org/name> "\n\t\t\t\t\tData Science London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee2eb9988b21864975cd123f08e85f217 <http://schema.org/url> <http://www.meetup.com/Data-Science-London/> .
+_:node8daff9b990b9872c15da5f9668e350ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8daff9b990b9872c15da5f9668e350ef <http://schema.org/name> "\n\t\t\t\t\tData Science Lab\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8daff9b990b9872c15da5f9668e350ef <http://schema.org/url> <http://www.meetup.com/data-science-lab/> .
+_:node71fde136117fc6c4f5d91fc9296bf5ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node71fde136117fc6c4f5d91fc9296bf5ba <http://schema.org/name> "\n\t\t\t\t\tLondon ElasticSearch User Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node71fde136117fc6c4f5d91fc9296bf5ba <http://schema.org/url> <http://www.meetup.com/London-ElasticSearch-User-Group/> .
+_:node76417d70632a209db4a836aff5fa32a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node76417d70632a209db4a836aff5fa32a <http://schema.org/name> "\n\t\t\t\t\tLondon Muslim Professionals Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node76417d70632a209db4a836aff5fa32a <http://schema.org/url> <http://www.meetup.com/London-Muslim-Professionals/> .
+_:noded776228728cd3e3f04ebffb97a27374 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded776228728cd3e3f04ebffb97a27374 <http://schema.org/name> "\n\t\t\t\t\tFind a Tech Job In London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded776228728cd3e3f04ebffb97a27374 <http://schema.org/url> <http://www.meetup.com/Find-A-tech-Job-In-London/> .
+_:nodecab6bca71bff3267ca4294ad9b8620cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodecab6bca71bff3267ca4294ad9b8620cd <http://schema.org/name> "\n\t\t\t\t\tLondon Bitcoin Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecab6bca71bff3267ca4294ad9b8620cd <http://schema.org/url> <http://www.meetup.com/London-bitcoin-meetup/> .
+_:nodeccd0a0bdd70c432e2cbb6da3a598825 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeccd0a0bdd70c432e2cbb6da3a598825 <http://schema.org/name> "\n\t\t\t\t\tLondon OpenCoffee Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeccd0a0bdd70c432e2cbb6da3a598825 <http://schema.org/url> <http://www.meetup.com/londonocc/> .
+_:node1caaac72833e1ad78c86baf9861f3179 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1caaac72833e1ad78c86baf9861f3179 <http://schema.org/name> "\n\t\t\t\t\tAlternative nightlife\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node1caaac72833e1ad78c86baf9861f3179 <http://schema.org/url> <http://www.meetup.com/Alternative-nightlife/> .
+_:node7db4ef616894268bf41f3fe6edd6153 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7db4ef616894268bf41f3fe6edd6153 <http://schema.org/name> "\n\t\t\t\t\tFREE LONDON EVENTS and TALKS\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7db4ef616894268bf41f3fe6edd6153 <http://schema.org/url> <http://www.meetup.com/FreeLondonEvents/> .
+_:node5ed60ad7c64f6a664f5a2e1706c3b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5ed60ad7c64f6a664f5a2e1706c3b <http://schema.org/name> "\n\t\t\t\t\tELITE SOCIAL\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5ed60ad7c64f6a664f5a2e1706c3b <http://schema.org/url> <http://www.meetup.com/London-Elite-Social/> .
+_:nodee695cbb4b490233576fbeda4d42f643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee695cbb4b490233576fbeda4d42f643 <http://schema.org/name> "\n\t\t\t\t\tLondon's Arab Circle\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee695cbb4b490233576fbeda4d42f643 <http://schema.org/url> <http://www.meetup.com/London-Arabs-Circle/> .
+_:nodec792d37c55e08b1b850858f932ba0d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec792d37c55e08b1b850858f932ba0d9 <http://schema.org/name> "\n\t\t\t\t\tMix Friends Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec792d37c55e08b1b850858f932ba0d9 <http://schema.org/url> <http://www.meetup.com/Mix-Friends-Club/> .
+_:node84717cc9c7e4538aa06762c91713637b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node84717cc9c7e4538aa06762c91713637b <http://schema.org/name> "\n\t\t\t\t\tLONDON FOR LESS THAN A TENNER\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node84717cc9c7e4538aa06762c91713637b <http://schema.org/url> <http://www.meetup.com/lessthanatenner/> .
+_:nodeb26db48020f6ab05c24307a8916d9ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb26db48020f6ab05c24307a8916d9ca <http://schema.org/name> "\n\t\t\t\t\tGirly Friends\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb26db48020f6ab05c24307a8916d9ca <http://schema.org/url> <http://www.meetup.com/Girly-Friends/> .
+_:nodeb3ef8bf343a65eae6965d16057cb80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb3ef8bf343a65eae6965d16057cb80 <http://schema.org/name> "\n\t\t\t\t\tLondon Scala Users' Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb3ef8bf343a65eae6965d16057cb80 <http://schema.org/url> <http://www.meetup.com/london-scala/> .
+_:node7c8b7ebfbf15310513995aedb381ae3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7c8b7ebfbf15310513995aedb381ae3 <http://schema.org/name> "\n\t\t\t\t\tMammoth London Language Exchange\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7c8b7ebfbf15310513995aedb381ae3 <http://schema.org/url> <http://www.meetup.com/Mammoth-London-Language-Exchange/> .
+_:nodeb2d5d2bf972e61823ccd1199b431256 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb2d5d2bf972e61823ccd1199b431256 <http://schema.org/name> "\n\t\t\t\t\tLondon Language Exchange & Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb2d5d2bf972e61823ccd1199b431256 <http://schema.org/url> <http://www.meetup.com/London-Language-Exchange-Social/> .
+_:node7b3af1ff3a59a33938e427dc80e0b829 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7b3af1ff3a59a33938e427dc80e0b829 <http://schema.org/name> "\n\t\t\t\t\tLondon Entrepreneurs Network\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7b3af1ff3a59a33938e427dc80e0b829 <http://schema.org/url> <http://www.meetup.com/LondonEntrepreneursNetwork/> .
+_:nodedd3edef25ab73520b4111cd099416170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodedd3edef25ab73520b4111cd099416170 <http://schema.org/name> "\n\t\t\t\t\tPimlico Badminton Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodedd3edef25ab73520b4111cd099416170 <http://schema.org/url> <http://www.meetup.com/pimlico/> .
+_:node1a428cbcdef3e4697e5e45b94f7226ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1a428cbcdef3e4697e5e45b94f7226ed <http://schema.org/name> "\n\t\t\t\t\tLondon Instagram\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node1a428cbcdef3e4697e5e45b94f7226ed <http://schema.org/url> <http://www.meetup.com/London-Instagram/> .
+_:node4b6a6b8ad4608c84a8303bc36f4ad364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4b6a6b8ad4608c84a8303bc36f4ad364 <http://schema.org/name> "\n\t\t\t\t\t24 Hour Party People - London Parties\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4b6a6b8ad4608c84a8303bc36f4ad364 <http://schema.org/url> <http://www.meetup.com/24hourpartypeoplelondon/> .
+_:node23e71c1ca7a6cb19a6c0723c524cd72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node23e71c1ca7a6cb19a6c0723c524cd72 <http://schema.org/name> "\n\t\t\t\t\tThe London Surfers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node23e71c1ca7a6cb19a6c0723c524cd72 <http://schema.org/url> <http://www.meetup.com/londonsurfers/> .
+_:node3dc731d475ab9db8ca1250a0dd3221ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3dc731d475ab9db8ca1250a0dd3221ae <http://schema.org/name> "\n\t\t\t\t\tKEN'S EVENTS - Meet New Friends in London.\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3dc731d475ab9db8ca1250a0dd3221ae <http://schema.org/url> <http://www.meetup.com/LONDON-MEETUP-SOCIAL-GROUP-KENS-EVENTS/> .
+_:nodeec4a2d9697ed317c622b8e1b0e23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeec4a2d9697ed317c622b8e1b0e23 <http://schema.org/name> "\n\t\t\t\t\tSouth London Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeec4a2d9697ed317c622b8e1b0e23 <http://schema.org/url> <http://www.meetup.com/southlondonsocial/> .
+_:node6847656d9ee4172310911bea1092c69d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6847656d9ee4172310911bea1092c69d <http://schema.org/name> "\n\t\t\t\t\tWrite Together\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6847656d9ee4172310911bea1092c69d <http://schema.org/url> <http://www.meetup.com/WriteTogether/> .
+_:nodec53c10b11c8d8bc83ce36fca67ba7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodec53c10b11c8d8bc83ce36fca67ba7 <http://schema.org/name> "\n\t\t\t\t\tEntrepreneurs In London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodec53c10b11c8d8bc83ce36fca67ba7 <http://schema.org/url> <http://www.meetup.com/EntrepreneursInLondon/> .
+_:nodea78fce5b110181aee2b2e0e1c01cab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea78fce5b110181aee2b2e0e1c01cab <http://schema.org/name> "\n\t\t\t\t\tThe London Android Group - Londroid\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea78fce5b110181aee2b2e0e1c01cab <http://schema.org/url> <http://www.meetup.com/android/> .
+_:node5477da5c9ed21157553c14944693e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5477da5c9ed21157553c14944693e2 <http://schema.org/name> "\n\t\t\t\t\tBerkhamsted Social\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5477da5c9ed21157553c14944693e2 <http://schema.org/url> <http://www.meetup.com/Berkhamsted-Social/> .
+_:node9815f2bc1682d0407fe5187f234413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node9815f2bc1682d0407fe5187f234413 <http://schema.org/name> "\n\t\t\t\t\tLondon New Tech\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node9815f2bc1682d0407fe5187f234413 <http://schema.org/url> <http://www.meetup.com/London-New-Tech/> .
+_:node97537e2fefabcc40c3a17f92fa75a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node97537e2fefabcc40c3a17f92fa75a <http://schema.org/name> "\n\t\t\t\t\tThe London Japanese Language Meetup Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node97537e2fefabcc40c3a17f92fa75a <http://schema.org/url> <http://www.meetup.com/japanese-34/> .
+_:node29a72633da32aff8bc21fd134a627ec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node29a72633da32aff8bc21fd134a627ec <http://schema.org/name> "\n\t\t\t\t\tInternet of Things London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node29a72633da32aff8bc21fd134a627ec <http://schema.org/url> <http://www.meetup.com/iotlondon/> .
+_:nodeef283566a24f448fc4778993afd13998 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeef283566a24f448fc4778993afd13998 <http://schema.org/name> "\n\t\t\t\t\tLondon Fashion MeetUp Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeef283566a24f448fc4778993afd13998 <http://schema.org/url> <http://www.meetup.com/London-Fashion-MeetUp-Group/> .
+_:node36f1648f9372d1323c1e147dde8eac9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node36f1648f9372d1323c1e147dde8eac9 <http://schema.org/name> "\n\t\t\t\t\tUrubu's Ecstatic Dance & Moving Meditation Community\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node36f1648f9372d1323c1e147dde8eac9 <http://schema.org/url> <http://www.meetup.com/london-ecstatic-dance/> .
+_:node5f487c93d3c44902a7db876a0a2b81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node5f487c93d3c44902a7db876a0a2b81 <http://schema.org/name> "\n\t\t\t\t\tDocker London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node5f487c93d3c44902a7db876a0a2b81 <http://schema.org/url> <http://www.meetup.com/Docker-London/> .
+_:nodefd8c64a7e7b8d423b8396773619a9a7d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefd8c64a7e7b8d423b8396773619a9a7d <http://schema.org/name> "\n\t\t\t\t\tGlobalNet21: Recreating Our Futures\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodefd8c64a7e7b8d423b8396773619a9a7d <http://schema.org/url> <http://www.meetup.com/GlobalNet21/> .
+_:node92c79e80e820909879b389fb9e76c845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node92c79e80e820909879b389fb9e76c845 <http://schema.org/name> "\n\t\t\t\t\tthe london philosophy club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node92c79e80e820909879b389fb9e76c845 <http://schema.org/url> <http://www.meetup.com/londonphilosophers/> .
+_:nodeacdf3ee232da5f42fa69cfde255c9e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeacdf3ee232da5f42fa69cfde255c9e4 <http://schema.org/name> "\n\t\t\t\t\tHacks/Hackers London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeacdf3ee232da5f42fa69cfde255c9e4 <http://schema.org/url> <http://www.meetup.com/HacksHackersLondon/> .
+_:node8f44a144f54808383d2f56f1771f274 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8f44a144f54808383d2f56f1771f274 <http://schema.org/name> "\n\t\t\t\t\tOutdooraholics London - Hiking, Day Trips, Travel, Outdoors\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8f44a144f54808383d2f56f1771f274 <http://schema.org/url> <http://www.meetup.com/Outdooraholics/> .
+_:nodef3df4dc37f7aeb98e1ebcae67688b5f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef3df4dc37f7aeb98e1ebcae67688b5f <http://schema.org/name> "\n\t\t\t\t\tLondon International Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef3df4dc37f7aeb98e1ebcae67688b5f <http://schema.org/url> <http://www.meetup.com/London-International/> .
+_:node1ec1c7b766cdf3a236e5ae8cf98d5857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1ec1c7b766cdf3a236e5ae8cf98d5857 <http://schema.org/name> "\n\t\t\t\t\tPyData London Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node1ec1c7b766cdf3a236e5ae8cf98d5857 <http://schema.org/url> <http://www.meetup.com/PyData-London-Meetup/> .
+_:node22c4cbe030ac53a69b35c2c11734401f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node22c4cbe030ac53a69b35c2c11734401f <http://schema.org/name> "\n\t\t\t\t\tDuccio's Networking events  for London Young Professionals\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node22c4cbe030ac53a69b35c2c11734401f <http://schema.org/url> <http://www.meetup.com/DUCCIOS-PARTIES/> .
+_:node8ed6ab92fdaeafa2d04361868cddf67f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node8ed6ab92fdaeafa2d04361868cddf67f <http://schema.org/name> "\n\t\t\t\t\tHipsters, Hackers & Hustlers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node8ed6ab92fdaeafa2d04361868cddf67f <http://schema.org/url> <http://www.meetup.com/Hipsters-Hackers-Hustlers/> .
+_:node22b06215b5d1f4fc822046c5db3d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node22b06215b5d1f4fc822046c5db3d7 <http://schema.org/name> "\n\t\t\t\t\tInternational Friends Society\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node22b06215b5d1f4fc822046c5db3d7 <http://schema.org/url> <http://www.meetup.com/InternationalFriendsSociety/> .
+_:node7e66e2bf5674ec29d56b82d1ec3ce895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7e66e2bf5674ec29d56b82d1ec3ce895 <http://schema.org/name> "\n\t\t\t\t\tLondon Vegan Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7e66e2bf5674ec29d56b82d1ec3ce895 <http://schema.org/url> <http://www.meetup.com/londonvegan/> .
+_:nodeadfdb686ec9b8c1137e35f0a03ddb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeadfdb686ec9b8c1137e35f0a03ddb2 <http://schema.org/name> "\n\t\t\t\t\tThe London Big-O Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeadfdb686ec9b8c1137e35f0a03ddb2 <http://schema.org/url> <http://www.meetup.com/big-o-london/> .
+_:nodee67de8ee6eb37b47a38e2d9b3872 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee67de8ee6eb37b47a38e2d9b3872 <http://schema.org/name> "\n\t\t\t\t\tWomen Who Code London\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee67de8ee6eb37b47a38e2d9b3872 <http://schema.org/url> <http://www.meetup.com/Women-Who-Code-London/> .
+_:nodea9d5ed803a4239b9d482cf5f5c63c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea9d5ed803a4239b9d482cf5f5c63c8 <http://schema.org/name> "\n\t\t\t\t\tGuys & Dolls Badminton Academy\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea9d5ed803a4239b9d482cf5f5c63c8 <http://schema.org/url> <http://www.meetup.com/Guys-Dolls-Badminton-Academy/> .
+_:nodefa5fc6e240e13a93b687aa5e285da6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefa5fc6e240e13a93b687aa5e285da6 <http://schema.org/name> "\n\t\t\t\t\tSilicon Roundabout\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodefa5fc6e240e13a93b687aa5e285da6 <http://schema.org/url> <http://www.meetup.com/SiliconRoundabout/> .
+_:node5e72749d72f981ded21774f458ec4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

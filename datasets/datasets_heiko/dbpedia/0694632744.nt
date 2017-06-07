@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Help!_(album)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/The_Beatles> .
+<http://dbpedia.org/resource/Help!_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Help!_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Help!_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/The_Beatles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/The_Beatles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/The_Beatles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Jules_Verne> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Robert_H._Goddard> .
+<http://dbpedia.org/resource/Jules_Verne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jules_Verne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Jules_Verne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+<http://dbpedia.org/resource/Jules_Verne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Robert_H._Goddard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robert_H._Goddard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

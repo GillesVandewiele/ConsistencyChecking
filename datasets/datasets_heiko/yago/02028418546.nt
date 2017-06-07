@@ -1,0 +1,7 @@
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_abstraction_100002137> .
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_communication_100033020> .
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_message_106598915> .
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Criticisms_of_economics> .
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_criticism_106710546> .
+<http://yago-knowledge.org/resource/Criticism_of_fractional_reserve_banking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_disapproval_106709533> .

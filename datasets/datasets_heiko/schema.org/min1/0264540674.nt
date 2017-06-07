@@ -1,0 +1,96 @@
+_:nodeaaacce28166c7d4d13b49397e5e3bce1 <http://schema.org/url> "http://kincaidhouse.com"@en-gb .
+_:nodeaaacce28166c7d4d13b49397e5e3bce1 <http://schema.org/name> "Kincaid House Hotel"@en-gb .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/aggregateRating> _:nodeb19c70eaae33f926a198ffbe753c878 .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/datePublished> "2014-01-03"@en-gb .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/dateModified> "2014-01-06"@en-gb .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/reviewBody> "Friendly traditional hotel, lovely breakfast with great service, and stable bar food was well priced. \u00A0Quick overnight stop for a family of 4 wanting one room. Good night\u2019s sleep in a quiet location outside our intended sight seeing destination in Glasgow."@en-gb .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/name> "Friendly traditional hotel, lovely breakfast with great service, and stable bar food was well priced. \u00A0Quick overnight stop for a family of 4 wanting one r\u2026"@en-gb .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/author> _:node59288a9286a7e082e560968e15c7fd97 .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/url> "http://kincaidhouse.com/testimonial/michelle/"@en-gb .
+_:nodea678edfff7d6cdcd145c9e2fefc30a5 <http://schema.org/itemReviewed> _:node66a1a42e315753e4a836c3de9ccb638 .
+_:node84cf81d717538bd81d4432979bb2341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node84cf81d717538bd81d4432979bb2341 <http://schema.org/name> "Patrick"@en-gb .
+_:node66a1a42e315753e4a836c3de9ccb638 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+_:node66a1a42e315753e4a836c3de9ccb638 <http://schema.org/url> "http://kincaidhouse.com"@en-gb .
+_:node66a1a42e315753e4a836c3de9ccb638 <http://schema.org/name> "Kincaid House Hotel"@en-gb .
+_:node1025867441f786e528d273082ff43b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+_:node1025867441f786e528d273082ff43b3 <http://schema.org/url> "http://kincaidhouse.com"@en-gb .
+_:node1025867441f786e528d273082ff43b3 <http://schema.org/name> "Kincaid House Hotel"@en-gb .
+_:nodeef60b583c8294d3ef5e19a58acacc38e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodeef60b583c8294d3ef5e19a58acacc38e <http://schema.org/reviewCount> "6"@en-gb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/aggregateRating> _:node681db33f83cfc9fef478d82bd1ee5dfb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/datePublished> "2014-01-03"@en-gb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/dateModified> "2014-01-06"@en-gb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/reviewBody> "A hidden tranquil spot. \u00A0It was peaceful, clean and the staff and food served were excellent. Could not fault anything."@en-gb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/name> "A hidden tranquil spot. \u00A0It was peaceful, clean and the staff and food served were excellent. Could not fault anything."@en-gb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/author> _:node5cf6856671e96091cf86a2dc8e8dde1c .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/url> "http://kincaidhouse.com/testimonial/natalie/"@en-gb .
+_:node55ae1c3331c63b4fe9f9e74d51c48ad3 <http://schema.org/itemReviewed> _:node1025867441f786e528d273082ff43b3 .
+_:node5cf6856671e96091cf86a2dc8e8dde1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5cf6856671e96091cf86a2dc8e8dde1c <http://schema.org/name> "Natalie"@en-gb .
+_:node718cad43492433ea6c33327bf79e379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node718cad43492433ea6c33327bf79e379 <http://schema.org/name> "Joanne"@en-gb .
+_:node9859afbbdb56d856b584e9441d1bbf48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node9859afbbdb56d856b584e9441d1bbf48 <http://schema.org/reviewCount> "6"@en-gb .
+_:node54505638ed969a4176a1a859f7e53f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/aggregateRating> _:nodef0fc5e46a5ebe73fc82488d62c9ac17 .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/datePublished> "2014-03-22"@en-gb .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/dateModified> "2014-03-22"@en-gb .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/reviewBody> "Fantastic, fabulous, friendly and incredible place for a stay.\n\nHere was a place where the staff were friendly, the food was out of this world and the room I had was way more than I expected. It was so comfortable and even had a bath\u2026was so good to soak in it.\n\nThe informal dining in the bar was a pleasure, the staff went of out their way to help, especially as I have some food allergies. The owner John did not mind having a chat.\n\nOverall, Kincaid House Hotel was the best place I stayed a\u2026"@en-gb .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/name> "Fantastic, fabulous, friendly and incredible place for a stay.\n\nHere was a place where the staff were friendly, the food was out of this world and the roo\u2026"@en-gb .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/author> _:node718cad43492433ea6c33327bf79e379 .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/url> "http://kincaidhouse.com/testimonial/414/"@en-gb .
+_:node54505638ed969a4176a1a859f7e53f1 <http://schema.org/itemReviewed> _:node9db6dc9f87eb7b9b29557815843f3 .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/aggregateRating> _:node9859afbbdb56d856b584e9441d1bbf48 .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/datePublished> "2014-01-03"@en-gb .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/dateModified> "2014-01-06"@en-gb .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/reviewBody> "Very friendly & helpful staff. \u00A0Stayed 2 nights while visiting relatives, & had an 80th birthday lunch in the Drawing Room. The staff couldn\u2019t have been better \u2013 efficient, friendly & welcoming. Room was very spacious, and clean, warm & comfortable. Everything we needed for a lovely weekend."@en-gb .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/name> "Very friendly & helpful staff. \u00A0Stayed 2 nights while visiting relatives, & had an 80th birthday lunch in the Drawing Room. The staff couldn't have been bet\u2026"@en-gb .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/author> _:nodee5facbec9d5544f46ce52a86ad37f2 .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/url> "http://kincaidhouse.com/testimonial/sandy/"@en-gb .
+_:node2018ca342e6cb4166632593d756b6ab9 <http://schema.org/itemReviewed> _:nodeaaacce28166c7d4d13b49397e5e3bce1 .
+_:nodeba51919c70c7aa65bc55f1f4253c1f2f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeba51919c70c7aa65bc55f1f4253c1f2f <http://schema.org/name> "Paul"@en-gb .
+_:node3196b98c9377ea93b323f811bb67bbb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+_:node3196b98c9377ea93b323f811bb67bbb <http://schema.org/url> "http://kincaidhouse.com"@en-gb .
+_:node3196b98c9377ea93b323f811bb67bbb <http://schema.org/name> "Kincaid House Hotel"@en-gb .
+_:node9db6dc9f87eb7b9b29557815843f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+_:node9db6dc9f87eb7b9b29557815843f3 <http://schema.org/url> "http://kincaidhouse.com"@en-gb .
+_:node9db6dc9f87eb7b9b29557815843f3 <http://schema.org/name> "Kincaid House Hotel"@en-gb .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/aggregateRating> _:nodeef60b583c8294d3ef5e19a58acacc38e .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/datePublished> "2013-11-12"@en-gb .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/dateModified> "2014-01-03"@en-gb .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/reviewBody> "Very nice comfortable, clean hotel with great staff and fabulous food.\n\nSpent 1 week on business in the area with my work colleague. The Kincaid hotel is a great location with excellent staff, who are attentive and customer caring.\u00A0 All of the meals we had were superb, delicious and sensibly priced.\n\nVery comfortable, clean rooms.\n\nWould thoroughly recommend a stay here.\n\nJust a great place to stay and return to when you had a long day at work.\nWarm, clean facilities, great food and ch\u2026"@en-gb .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/name> "Very nice comfortable, clean hotel with great staff and fabulous food.\n\nSpent 1 week on business in the area with my work colleague. The Kincaid hotel is \u2026"@en-gb .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/author> _:nodeba51919c70c7aa65bc55f1f4253c1f2f .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/url> "http://kincaidhouse.com/testimonial/paul/"@en-gb .
+_:node2442cd25b4368e619e9cd7b1cc4ee8 <http://schema.org/itemReviewed> _:nodec2987ed6fcc74fa7417b584eee20b2d7 .
+_:nodee5facbec9d5544f46ce52a86ad37f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee5facbec9d5544f46ce52a86ad37f2 <http://schema.org/name> "Sandy"@en-gb .
+_:node333656dea8d270a6868561446636a2ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/aggregateRating> _:node17327b569afb41a6779e953dc84ca524 .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/datePublished> "2014-01-03"@en-gb .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/dateModified> "2014-01-06"@en-gb .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/reviewBody> "Friendly service, decent amenities. \u00A0Kincaid House was the best of the hotels my wife and I stayed in on our slow way up to a holiday cottage in the Highlands. The room was comfortable and clean, and the restaurant was good. The staff were friendly and helpful."@en-gb .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/name> "Friendly service, decent amenities. \u00A0Kincaid House was the best of the hotels my wife and I stayed in on our slow way up to a holiday cottage in the Highla\u2026"@en-gb .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/author> _:node84cf81d717538bd81d4432979bb2341 .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/url> "http://kincaidhouse.com/testimonial/patrick/"@en-gb .
+_:node333656dea8d270a6868561446636a2ae <http://schema.org/itemReviewed> _:node3196b98c9377ea93b323f811bb67bbb .
+_:node681db33f83cfc9fef478d82bd1ee5dfb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node681db33f83cfc9fef478d82bd1ee5dfb <http://schema.org/reviewCount> "6"@en-gb .
+_:node59288a9286a7e082e560968e15c7fd97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node59288a9286a7e082e560968e15c7fd97 <http://schema.org/name> "Michelle"@en-gb .
+_:nodef0fc5e46a5ebe73fc82488d62c9ac17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodef0fc5e46a5ebe73fc82488d62c9ac17 <http://schema.org/reviewCount> "6"@en-gb .
+_:nodec2987ed6fcc74fa7417b584eee20b2d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+_:nodec2987ed6fcc74fa7417b584eee20b2d7 <http://schema.org/url> "http://kincaidhouse.com"@en-gb .
+_:nodec2987ed6fcc74fa7417b584eee20b2d7 <http://schema.org/name> "Kincaid House Hotel"@en-gb .
+_:node17327b569afb41a6779e953dc84ca524 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node17327b569afb41a6779e953dc84ca524 <http://schema.org/reviewCount> "6"@en-gb .
+_:nodeb19c70eaae33f926a198ffbe753c878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodeb19c70eaae33f926a198ffbe753c878 <http://schema.org/reviewCount> "6"@en-gb .
+_:nodec1d666481c516ae5a6635f871c6a3fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

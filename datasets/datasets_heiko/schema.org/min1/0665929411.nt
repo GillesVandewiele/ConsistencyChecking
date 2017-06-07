@@ -1,0 +1,42 @@
+_:nodeef7253709996ac49497e8bcd78f5af9 <http://schema.org/url> <http://fr.viadeo.com/fr/profile/beatrice.launay> .
+_:nodeef7253709996ac49497e8bcd78f5af9 <http://schema.org/name> "B\u00E9atrice Launay"@fr .
+_:node7a4bb5a8a5d8e9d1fdce5dc35176823 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7a4bb5a8a5d8e9d1fdce5dc35176823 <http://schema.org/name> "Laboratoires Expanscience"@fr .
+_:node7a4bb5a8a5d8e9d1fdce5dc35176823 <http://schema.org/url> <http://fr.viadeo.com/fr/company/laboratoires-expanscience> .
+_:node4e18cb86286a34f58a99af5c29d79d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node4e18cb86286a34f58a99af5c29d79d9 <http://schema.org/url> <http://fr.viadeo.com/fr/profile/claire.maret> .
+_:node4e18cb86286a34f58a99af5c29d79d9 <http://schema.org/name> "Claire Maret"@fr .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/affiliation> _:node7a4bb5a8a5d8e9d1fdce5dc35176823 .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/givenName> "Nolwenn"@fr .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/familyName> "Le Goff"@fr .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/alumniOf> _:node333fa2ee2581fabfe52732aa57a1da4 .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/alumniOf> _:nodec7bdd889d12092437d450a685eb1c .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/alumniOf> _:nodecadc5e385d16952b86d25654bd43ae6c .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/image> <http://static9.viadeo-static.com/servlet/photo?memberId=00210qsnj2mb1sxu&height=185&width=140&ts=1382096428000> .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/address> _:node3da0c3ad367e3cf5748cd3cf814117fd .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/knows> _:nodebb2088adc7f9ddc551c0bd49b068e5ed .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/knows> _:node4e18cb86286a34f58a99af5c29d79d9 .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/knows> _:node5da6908f7e4daa2a7896397b97b84c0 .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/knows> _:nodeef7253709996ac49497e8bcd78f5af9 .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/jobTitle> " Charg\u00E9e de communication"@fr .
+_:node9b2bc68af91099ca7269bd099dfbbfa <http://schema.org/name> "Nolwenn Le Goff"@fr .
+_:nodecadc5e385d16952b86d25654bd43ae6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> .
+_:nodecadc5e385d16952b86d25654bd43ae6c <http://schema.org/name> "Lyc\u00E9e Jeanne D'Albret"@fr .
+_:nodecadc5e385d16952b86d25654bd43ae6c <http://schema.org/url> <http://fr.viadeo.com/fr/profile/nolwenn.legoff//fr/trombinoscope/trombinoscope/?schoolId=00224l84ex3buhdt> .
+_:nodebb2088adc7f9ddc551c0bd49b068e5ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodebb2088adc7f9ddc551c0bd49b068e5ed <http://schema.org/url> <http://fr.viadeo.com/fr/profile/caroline.reymond1> .
+_:nodebb2088adc7f9ddc551c0bd49b068e5ed <http://schema.org/name> "Caroline Reymond"@fr .
+_:nodec7bdd889d12092437d450a685eb1c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> .
+_:nodec7bdd889d12092437d450a685eb1c <http://schema.org/name> "CELSA - \u00C9cole Des Hautes \u00C9tudes En Sciences De L'Information Et De La Communication"@fr .
+_:nodec7bdd889d12092437d450a685eb1c <http://schema.org/url> <http://fr.viadeo.com/fr/profile/nolwenn.legoff//fr/trombinoscope/trombinoscope/?schoolId=00218jkwz85d3dkc> .
+_:node333fa2ee2581fabfe52732aa57a1da4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> .
+_:node333fa2ee2581fabfe52732aa57a1da4 <http://schema.org/name> "Institut D' \u00C9tudes Politiques De Paris. Sciencespo"@fr .
+_:node333fa2ee2581fabfe52732aa57a1da4 <http://schema.org/url> <http://fr.viadeo.com/fr/profile/nolwenn.legoff//fr/trombinoscope/trombinoscope/?schoolId=002hasyookytnai> .
+_:node5da6908f7e4daa2a7896397b97b84c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node5da6908f7e4daa2a7896397b97b84c0 <http://schema.org/url> <http://fr.viadeo.com/fr/profile/laurencemarchal> .
+_:node5da6908f7e4daa2a7896397b97b84c0 <http://schema.org/name> "Laurence Marchal"@fr .
+_:node3da0c3ad367e3cf5748cd3cf814117fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node3da0c3ad367e3cf5748cd3cf814117fd <http://schema.org/addresslocality> "Paris"@fr .
+_:node3da0c3ad367e3cf5748cd3cf814117fd <http://schema.org/addressCountry> "France"@fr .
+_:node55bc208244da22bf0a82b39b8cfc3f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .

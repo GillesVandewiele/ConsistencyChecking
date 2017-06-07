@@ -1,0 +1,11 @@
+_:genid2d7dae1a5c4a0e43efb3c4f10716b564232dN65745 <http://www.w3.org/2006/vcard/ns#postal-code> "1000" .
+_:genid2d7dae1a5c4a0e43efb3c4f10716b564232dN65745 <http://www.w3.org/2006/vcard/ns#locality> "Ljubljana" .
+_:genid2d7dae1a5c4a0e43efb3c4f10716b564232dN65745 <http://www.w3.org/2006/vcard/ns#street-address> "Tbilisijska ulica 59" .
+_:genid2d7dae1a5c4a0e43efb3c4f10716b564232dN65745 <http://www.w3.org/2006/vcard/ns#country-name> "Slovenija" .
+<http://www.nakupovanje.net/izdelki/pisarniska-oprema/spiralna-vezava#company> <http://xmlns.com/foaf/0.1/logo> <http://www.nakupovanje.net/media/dsg/logo.png> .
+<http://www.nakupovanje.net/izdelki/pisarniska-oprema/spiralna-vezava#company> <http://xmlns.com/foaf/0.1/page> <http://www.nakupovanje.net/> .
+<http://www.nakupovanje.net/izdelki/pisarniska-oprema/spiralna-vezava#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.nakupovanje.net/izdelki/pisarniska-oprema/spiralna-vezava#company> <http://purl.org/goodrelations/v1#legalName> "Eltus d.o.o." .
+<http://www.nakupovanje.net/izdelki/pisarniska-oprema/spiralna-vezava#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d7dae1a5c4a0e43efb3c4f10716b564232dN65745 .
+<http://www.nakupovanje.net/izdelki/pisarniska-oprema/spiralna-vezava#company> <http://www.w3.org/2006/vcard/ns#tel> "+386-1-200-02-83" .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

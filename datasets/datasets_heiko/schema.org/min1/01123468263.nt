@@ -1,0 +1,37 @@
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/name> "Silhouette of alien, UFO, planet"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/author> "valent_ru"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/ratingValue> "4.8"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/datePublished> "Nov.12, 2009"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/description> "Vector Silhouette of alien, UFO, planet"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/ratingCount> "640,670"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/image> <http://static3.depositphotos.com/1000282/102/v/450/depositphotos_1029967-Silhouette-of-alien-UFO-planet.jpg> .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/aggregateRating> "Null"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "aerial"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "alien"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "animal"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "being"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "black"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "body"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "cartoon"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "character"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "eyes"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "flag"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "illustration"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "isolated"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "monster"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "newcomer"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "planet"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "sign"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "silhouette"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "space"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "star"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "symbol"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "ufo"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "vector"@en .
+_:node6384b2d0c1a65df7adc8fe51eea42e0 <http://schema.org/keywords> "white"@en .
+_:node9c7f4c8e24d9bb73576657ef726cf4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node9c7f4c8e24d9bb73576657ef726cf4 <http://schema.org/logo> <http://depositphotos.com/1029967/stock-illustration-silhouette-of-alien-ufo-planet.html///static.depositphotos.com/img/depositphotos-logo.png> .
+_:node9c7f4c8e24d9bb73576657ef726cf4 <http://schema.org/url> <http://depositphotos.com/> .
+_:node71a589553656255f9095466bb49ab522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node71a589553656255f9095466bb49ab522 <http://schema.org/name> "Depositphotos'"@en .
+_:nodec7c74a0f4419b5365d775b449883f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

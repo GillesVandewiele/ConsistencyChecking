@@ -1,0 +1,20 @@
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74671 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74671 <http://purl.org/goodrelations/v1#hasCurrencyValue> "59.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74692 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74692 <http://rdf.data-vocabulary.org/#count> ""@en .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2de99a3b243ac644a487e6642b5c4fc7832dN74671 .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/r/ircfe6a-26_2.jpg> .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://purl.org/goodrelations/v1#description> "<ul><li>Tri Pad</li><li>Silicon Leg Gripper</li><li>Stretch Woven Drawcord</li><li>Back Zipper Pocket</li>"@en .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://purl.org/goodrelations/v1#name> "TYR Women's Ironman 8\" Tri Short - Only Size L Left!"@en .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/r/ircfe6a-26_2.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/r/ircfe6a-26_2.jpg> .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74692 <http://rdf.data-vocabulary.org/#itemreviewed> "TYR Women's Ironman 8\" Tri Short - Only Size L Left!"@en .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74708 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74708 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74708 <http://rdf.data-vocabulary.org/#average> "0"@en .
+<http://www.triathletesports.com/other/ironman/women-s-tri-clothing/tyr-women-s-ironman-8-tri-short.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2de99a3b243ac644a487e6642b5c4fc7832dN74692 <http://rdf.data-vocabulary.org/#rating> _:genid2de99a3b243ac644a487e6642b5c4fc7832dN74708 .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=30130> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=30130> .

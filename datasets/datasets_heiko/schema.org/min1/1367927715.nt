@@ -1,0 +1,74 @@
+_:node1cba30846cf5d05fc8e93a2dab0611f <http://schema.org/ratingValue> "2" .
+_:noded5a8ebeae6c16070588de42f5b10ac43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded5a8ebeae6c16070588de42f5b10ac43 <http://schema.org/name> "GHU Enterprise" .
+_:noded5a8ebeae6c16070588de42f5b10ac43 <http://schema.org/url> <http://photo-challenge.appspot.com> .
+_:nodee9f922bf42712ea3e1447d4d0ceabb9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodee9f922bf42712ea3e1447d4d0ceabb9 <http://schema.org/reviewRating> _:node5f8fe9cd92f7b7e419f05ac04aa3dd8a .
+_:nodee9f922bf42712ea3e1447d4d0ceabb9 <http://schema.org/name> "ashley" .
+_:nodee9f922bf42712ea3e1447d4d0ceabb9 <http://schema.org/description> "This app would be AMAZING! If it would upload my picture!!! Moto d." .
+_:nodedf85311db573c588834494e6e32dad55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodedf85311db573c588834494e6e32dad55 <http://schema.org/ratingValue> "5" .
+_:nodea86ec21a3533de85be6970ae0ccf21f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodea86ec21a3533de85be6970ae0ccf21f <http://schema.org/ratingValue> "3" .
+_:node5ca18cc988b7ed65e65a1cdb6fa64bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node5ca18cc988b7ed65e65a1cdb6fa64bf <http://schema.org/reviewRating> _:nodedf85311db573c588834494e6e32dad55 .
+_:node5ca18cc988b7ed65e65a1cdb6fa64bf <http://schema.org/name> "piper" .
+_:node5ca18cc988b7ed65e65a1cdb6fa64bf <http://schema.org/description> "Needs profile to keep track of yer photos" .
+_:node3438e0af3e5a8e8b552c39d9c4d2e1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node3438e0af3e5a8e8b552c39d9c4d2e1b <http://schema.org/ratingValue> "5" .
+_:nodea1b76b86a1d9359d7b658d2f6db8cd10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodea1b76b86a1d9359d7b658d2f6db8cd10 <http://schema.org/ratingValue> "3.389" .
+_:nodea1b76b86a1d9359d7b658d2f6db8cd10 <http://schema.org/reviewCount> "36" .
+_:node3fff8a1813958f9309368fdfecbb2f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node3fff8a1813958f9309368fdfecbb2f6 <http://schema.org/reviewRating> _:nodec13cf83a1bb4db68dac5e77667bc291e .
+_:node3fff8a1813958f9309368fdfecbb2f6 <http://schema.org/name> "Kathryn" .
+_:node3fff8a1813958f9309368fdfecbb2f6 <http://schema.org/description> "I want edit description option, hve profile, & able 2 delete pics. People are rating mine down cause they look edited..when just filters are used. :-(" .
+_:node6d33556e9183c3b9eb34ecf1c5c3173 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node6d33556e9183c3b9eb34ecf1c5c3173 <http://schema.org/reviewRating> _:nodea86ec21a3533de85be6970ae0ccf21f .
+_:node6d33556e9183c3b9eb34ecf1c5c3173 <http://schema.org/name> "Negrito" .
+_:node6d33556e9183c3b9eb34ecf1c5c3173 <http://schema.org/description> "Does what it says, would be better if you could submit pics from the gallery." .
+_:node97762f57764884dd55fdf8715f658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node97762f57764884dd55fdf8715f658 <http://schema.org/ratingValue> "1" .
+_:node49c381857998a89c9b5b2ed070504ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node49c381857998a89c9b5b2ed070504ae <http://schema.org/reviewRating> _:node97762f57764884dd55fdf8715f658 .
+_:node49c381857998a89c9b5b2ed070504ae <http://schema.org/name> "Ross" .
+_:node49c381857998a89c9b5b2ed070504ae <http://schema.org/description> "A poor app for viewing poor photos and if you really can be bothered upload some too and be part of the poor group." .
+_:nodec4fff09f1336f0d99735f48b965ef6c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodec4fff09f1336f0d99735f48b965ef6c <http://schema.org/reviewRating> _:node3438e0af3e5a8e8b552c39d9c4d2e1b .
+_:nodec4fff09f1336f0d99735f48b965ef6c <http://schema.org/name> "vlad" .
+_:nodec4fff09f1336f0d99735f48b965ef6c <http://schema.org/description> "Cool app. Reminds me about 4chan :)" .
+_:node30d6faf6a9e031252957815b70d9bdd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node5ca18cc988b7ed65e65a1cdb6fa64bf .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node2e8583d98254caf7ef2df9cfe9ac6189 .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:nodec4fff09f1336f0d99735f48b965ef6c .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node49c381857998a89c9b5b2ed070504ae .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node3fff8a1813958f9309368fdfecbb2f6 .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:nodee9f922bf42712ea3e1447d4d0ceabb9 .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node6d33556e9183c3b9eb34ecf1c5c3173 .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node6193f884ee39969772b3b27db48bb5a .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/reviews> _:node91a6aac12e3fb2045b07af65717f194 .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/name> "Photo Challenge Beta -   FREE" .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/description> "Welcome to Photo Challenge!\nHelp test the beta.\n\nA social photo sharing application, find a category to your liking and take a photo. Vote existing photos up or down, how well will your photos do?\n\nPlease send feedback if the application encounters problems using your phones camera." .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/aggregateRating> _:nodea1b76b86a1d9359d7b658d2f6db8cd10 .
+_:node30d6faf6a9e031252957815b70d9bdd <http://schema.org/brand> _:noded5a8ebeae6c16070588de42f5b10ac43 .
+_:node5f8fe9cd92f7b7e419f05ac04aa3dd8a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node5f8fe9cd92f7b7e419f05ac04aa3dd8a <http://schema.org/ratingValue> "4" .
+_:nodee0ec913df8b2da836fd58ecb36f6f852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodee0ec913df8b2da836fd58ecb36f6f852 <http://schema.org/ratingValue> "1" .
+_:nodeb0e8ca57af31a1bda4a48ef5f6e5492 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodeb0e8ca57af31a1bda4a48ef5f6e5492 <http://schema.org/ratingValue> "5" .
+_:nodec13cf83a1bb4db68dac5e77667bc291e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodec13cf83a1bb4db68dac5e77667bc291e <http://schema.org/ratingValue> "3" .
+_:node6193f884ee39969772b3b27db48bb5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node6193f884ee39969772b3b27db48bb5a <http://schema.org/reviewRating> _:nodeb0e8ca57af31a1bda4a48ef5f6e5492 .
+_:node6193f884ee39969772b3b27db48bb5a <http://schema.org/name> "Matthew" .
+_:node6193f884ee39969772b3b27db48bb5a <http://schema.org/description> "Awesome app! 5 stars for sure. Fun to take photos when on break at school." .
+_:node2e8583d98254caf7ef2df9cfe9ac6189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node2e8583d98254caf7ef2df9cfe9ac6189 <http://schema.org/reviewRating> _:nodee0ec913df8b2da836fd58ecb36f6f852 .
+_:node2e8583d98254caf7ef2df9cfe9ac6189 <http://schema.org/name> "Chris " .
+_:node2e8583d98254caf7ef2df9cfe9ac6189 <http://schema.org/description> "App should b renamed to \"STUPIDEST PICTURES EVER TAKEN\" would give negative stars if I could" .
+_:node91a6aac12e3fb2045b07af65717f194 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node91a6aac12e3fb2045b07af65717f194 <http://schema.org/reviewRating> _:node1cba30846cf5d05fc8e93a2dab0611f .
+_:node91a6aac12e3fb2045b07af65717f194 <http://schema.org/name> "Malgoth" .
+_:node91a6aac12e3fb2045b07af65717f194 <http://schema.org/description> "Only the first photo in every album could be viewed and rated, the next ones just keep on \"loading\"." .
+_:node12ffe252cc9173b4e3c8f6ca18fe999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

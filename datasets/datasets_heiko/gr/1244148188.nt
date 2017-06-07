@@ -1,0 +1,16 @@
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=23073> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=23073> .
+_:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68183 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68183 <http://rdf.data-vocabulary.org/#rating> "5"@en .
+_:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68249 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68249 <http://purl.org/goodrelations/v1#hasCurrencyValue> "4.99"@en .
+<http://www.joke.co.uk/caribbean-buccaneer-beard-tache~23073/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/caribbean-buccaneer-beard-tache~23073/#main> <http://purl.org/goodrelations/v1#name> "Caribbean Buccaneer Beard & Tache"@en .
+_:genid2de25d8412812247ae9f958ad51838d4a62dN68249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2de25d8412812247ae9f958ad51838d4a62dN68249 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68249 .
+<http://www.joke.co.uk/caribbean-buccaneer-beard-tache~23073/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/caribbean-buccaneer-beard-tache~23073/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68287 .
+_:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68287 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2de25d8412812247ae9f958ad51838d4a62dN68183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2de25d8412812247ae9f958ad51838d4a62dN68183 <http://rdf.data-vocabulary.org/#hasReview> _:genid2de25d8412812247ae9f958ad51838d4a62dINSIDE5fN68183 .
+_:genid2de25d8412812247ae9f958ad51838d4a62dN68183 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=23073> .
+<http://www.kenmore.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.kenmore.com/kenmore-elite-36inch-downdraft-gas-cooktop-stainless-steel/p-02231123000P?prdNo=1#offering> .

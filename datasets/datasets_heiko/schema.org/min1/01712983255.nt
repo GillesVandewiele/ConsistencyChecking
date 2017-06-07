@@ -1,0 +1,3 @@
+_:node1a29ebf7321bc70c3607d3319e7bd1 <http://schema.org/name> "Sanitary collection basin :: Farms of Cannon County, Tennessee" .
+_:node1a29ebf7321bc70c3607d3319e7bd1 <http://schema.org/image> "http://digital.mtsu.edu/utils/getthumbnail/collection/cannon/id/223" .
+_:nodeaf87f7f2be999bcb424ad43ec17a1868 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

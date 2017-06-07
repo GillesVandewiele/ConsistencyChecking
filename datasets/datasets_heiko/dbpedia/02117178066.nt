@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/James_M._Buchanan> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences> .
+<http://dbpedia.org/resource/James_M._Buchanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/James_M._Buchanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/James_M._Buchanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Economist> .
+<http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> .

@@ -1,0 +1,4 @@
+_:node1bf65b8ad5bacc952a9df77517def8d <http://schema.org/name> "EvesAddiction.com Jewelry Blog"@en-us .
+_:node1bf65b8ad5bacc952a9df77517def8d <http://schema.org/type> "Article"@en-us .
+_:node1bf65b8ad5bacc952a9df77517def8d <http://schema.org/description> "Jewelry, Sterling Silver Jewelry"@en-us .
+_:node25d3701ad99c7a821b172d82cdeecc5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

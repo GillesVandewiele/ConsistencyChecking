@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Barretts_of_Wimpole_Street_(1934_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Irving_Thalberg> .
+<http://dbpedia.org/resource/The_Barretts_of_Wimpole_Street_(1934_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/The_Barretts_of_Wimpole_Street_(1934_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/The_Barretts_of_Wimpole_Street_(1934_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://dbpedia.org/resource/Irving_Thalberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Irving_Thalberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

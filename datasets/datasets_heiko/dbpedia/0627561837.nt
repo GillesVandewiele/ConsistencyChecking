@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Whose_Line_Is_It_Anyway%3F> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Graeme_Garden> .
+<http://dbpedia.org/resource/Whose_Line_Is_It_Anyway%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Whose_Line_Is_It_Anyway%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Graeme_Garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Graeme_Garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Graeme_Garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Comedian> .
+<http://dbpedia.org/resource/Graeme_Garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .

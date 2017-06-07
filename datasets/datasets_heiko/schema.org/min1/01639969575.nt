@@ -1,0 +1,3 @@
+_:nodef839d563df569adfb6fa3e325779128 <http://schema.org/name> "T-Mobile USA Ready To Release A5-based iPhone -- AppAdvice"@en .
+_:nodef839d563df569adfb6fa3e325779128 <http://schema.org/description> "T-Mobile USA is setting the rumor mills swirling with the field-testing of an A5-upgraded iPhone. "@en .
+_:nodeebdad234f764e38f04d8412f94ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .

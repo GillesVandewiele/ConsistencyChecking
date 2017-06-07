@@ -1,0 +1,5 @@
+_:nodea23a1a34166eb043eadd16bf7721877 <http://schema.org/image> "http://www.shawguides.com/images/Sponsors/thumb/aspen1.gif" .
+_:nodea23a1a34166eb043eadd16bf7721877 <http://schema.org/name> "Aspen Summer Words Writing Retreat & Literary Festival in Aspen, Colorado" .
+_:nodea23a1a34166eb043eadd16bf7721877 <http://schema.org/description> "AM workshops/classes; PM author readings & craft talks, publishing industry panels, agent/editor meetings, social events & live music." .
+_:nodea23a1a34166eb043eadd16bf7721877 <http://schema.org/mainContentOfPage> "\n\tAspen Summer Words Writing Retreat & Literary Festival in Aspen, Colorado\n\t" .
+_:node26d33e7fec6264d069a6ec89fae2dc8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

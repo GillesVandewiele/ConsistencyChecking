@@ -1,0 +1,6 @@
+_:node30b87dcbfa1f94b05cf8744b891f339 <http://schema.org/name> "Faq &#39;java-bytecode-asm&#39; Questions" .
+_:node30b87dcbfa1f94b05cf8744b891f339 <http://schema.org/title> "Faq &#39;java-bytecode-asm&#39; Questions" .
+_:node30b87dcbfa1f94b05cf8744b891f339 <http://schema.org/description> "Q&A for professional and enthusiast programmers" .
+_:node30b87dcbfa1f94b05cf8744b891f339 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node30b87dcbfa1f94b05cf8744b891f339 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node6f3063876720f86d2ef2edd5c23e353b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

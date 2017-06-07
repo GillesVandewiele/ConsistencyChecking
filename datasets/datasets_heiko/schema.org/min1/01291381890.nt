@@ -1,0 +1,4 @@
+_:node5b1fb77b3735870ce89179488d8 <http://schema.org/image> <http://vignette4.wikia.nocookie.net/common/avatars/2/21/10151561.png/revision/latest/scale-to-width/150?cb=1369914592&format=jpg> .
+_:node5b1fb77b3735870ce89179488d8 <http://schema.org/address> "I live in the end"@en .
+_:node5b1fb77b3735870ce89179488d8 <http://schema.org/name> "Balloon chuck"@en .
+_:nodebeb0343a7b9666f0fd481c7f52bc216d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .

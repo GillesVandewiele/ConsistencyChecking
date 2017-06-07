@@ -1,0 +1,27 @@
+_:genid2d2aeaa42424a84189bdadc001e6bf5fe22dN66760 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d2aeaa42424a84189bdadc001e6bf5fe22dN66760 <http://purl.org/goodrelations/v1#hasCurrencyValue> "1.7000"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d2aeaa42424a84189bdadc001e6bf5fe22dN66760 .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/kaw6p-228x228.jpg> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#description> "Key blank fits some Kawasaki. Sold each, packaged 25 per box. KAW-6.P" .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "KAW6P"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#name> "Key Blank, JMA KAW6P for Kawasaki KW14AP" .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/kaw6p-228x228.jpg> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://purl.org/goodrelations/v1#description> "Key blank fits some Kawasaki. Sold each, packaged 25 per box. KAW-6.P" .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "KAW6P"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Key Blank, JMA KAW6P for Kawasaki KW14AP" .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://purl.org/goodrelations/v1#name> "Key Blank, JMA KAW6P for Kawasaki KW14AP" .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/jma-key-blank-f-kawasaki-kw14ap-kaw-6-p> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#product> .
+<http://www.mrlock.com/KAW6P.html?id=CvzeMYN6#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/jma-key-blank-f-kawasaki-kw14ap-kaw-6-p> .
+<http://www.craftsman.com/craftsman-10mm-easy-to-read-impact-socket-6/p-00915899000P?prdNo=5#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .

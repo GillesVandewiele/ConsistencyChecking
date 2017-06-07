@@ -1,0 +1,32 @@
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#company> <http://xmlns.com/foaf/0.1/page> <http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html> .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70957 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70957 <http://www.w3.org/2006/vcard/ns#postal-code> "70000" .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70957 <http://www.w3.org/2006/vcard/ns#locality> "H\u1ED3 Ch\u00ED Minh" .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70957 <http://www.w3.org/2006/vcard/ns#street-address> "331 Nguy\u1EC5n Tr\u1ECDng Tuy\u1EC3n, Ph\u01B0\u1EDDng 10, Q. Ph\u00FA Nhu\u1EADn" .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70957 <http://www.w3.org/2006/vcard/ns#country-name> "Vi\u1EC7t Nam" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> <http://xmlns.com/foaf/0.1/depiction> <http://resources.cungmua.com/SKU/FullScreen/0635012092604167326.jpg> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> <http://purl.org/goodrelations/v1#description> "Ng\u1ED9 ngh\u0129nh v\u1EDBi \u0111\u00E8n LED t\u00EDch \u0111i\u1EC7n \u0111\u1EC3 b\u00E0n h\u00ECnh th\u00FA MD-155" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> <http://purl.org/goodrelations/v1#category> "Product category" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> <http://purl.org/goodrelations/v1#name> "\u0110\u00E8n Led \u0111\u1EC3 b\u00E0n h\u00ECnh th\u00FA MD-155" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> <http://xmlns.com/foaf/0.1/page> <http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d94165138197e48ea80d75d5e447059d02dN70299 .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://resources.cungmua.com/SKU/FullScreen/0635012092604167326.jpg> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#description> "Ng\u1ED9 ngh\u0129nh v\u1EDBi \u0111\u00E8n LED t\u00EDch \u0111i\u1EC7n \u0111\u1EC3 b\u00E0n h\u00ECnh th\u00FA MD-155" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#name> "\u0110\u00E8n Led \u0111\u1EC3 b\u00E0n h\u00ECnh th\u00FA MD-155" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#company> <http://purl.org/goodrelations/v1#legalName> "C\u00F9ng mua" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d94165138197e48ea80d75d5e447059d02dN70957 .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#company> <http://www.w3.org/2006/vcard/ns#tel> "1900 6637" .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#CheckInAdvance> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#COD> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#includes> <http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#product> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> <http://xmlns.com/foaf/0.1/page> <http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html> .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70299 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70299 <http://purl.org/goodrelations/v1#hasCurrency> "VND"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70299 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d94165138197e48ea80d75d5e447059d02dN70299 <http://purl.org/goodrelations/v1#hasCurrencyValue> "85000"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.cungmua.com#company> <http://purl.org/goodrelations/v1#offers> <http://www.cungmua.com/ha-noi/gia-dung/den-led-de-ban-hinh-thu-md-155_p7787.html#offering> .
+_:genid2d59c5136644a641b1835b5cfdead6ece52dN71297 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

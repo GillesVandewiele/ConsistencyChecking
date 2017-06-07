@@ -1,0 +1,9 @@
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/name> <http://id.hotels.com/de1677811/hotel-dekat-signal-iduna-park-dortmund-jerman//> .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/name> <http://id.hotels.com/co82/hotel-di-jerman/> .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/name> <http://id.hotels.com/de340524/hotel-dortmund-jerman/> .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/name> "Hotel dekat Signal Iduna Park, Dortmund - Jerman"@in .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/breadcrumb> "HotelHotel JermanHotel Dortmund - JermanHotel dekat Signal Iduna Park, Dortmund - Jerman"@in .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/url> <http://id.hotels.com/de1677811/hotel-dekat-signal-iduna-park-dortmund-jerman//> .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/url> <http://id.hotels.com/co82/hotel-di-jerman/> .
+_:nodef66bc357201bf7e81f254a9b93fb2b34 <http://schema.org/url> <http://id.hotels.com/de340524/hotel-dortmund-jerman/> .
+_:nodeb8bfca9595e51027361b1df01973 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

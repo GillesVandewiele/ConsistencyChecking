@@ -1,0 +1,20 @@
+_:nodedc3e5f3db27ee644e84d4d16f14ca4d <http://schema.org/name> "Central M\u00E9diacsoport Zrt." .
+_:nodedc3e5f3db27ee644e84d4d16f14ca4d <http://schema.org/email> "centralmediacsoport@centralmediacsoport.hu" .
+_:nodedc3e5f3db27ee644e84d4d16f14ca4d <http://schema.org/url> <http://centralmediacsoport.hu/> .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/dateCreated> "2007-05-20 14:36:16" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/inLanguage> "hu" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/name> "desperado.lap.hu" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/image> <http://static.lap.hu/img/logo.png> .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/datePublished> "2007-06-11 00:15:47" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/alternateName> "Desperado" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/headline> "desperadohttp://lap.hu/" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/typicalAgeRange> "9-99" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/url> <http://desperadohttp://lap.hu/> .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/thumbnailUrl> <http://static.lap.hu/img/logo.png> .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/dateModified> "2011-08-20 20:27:36" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/version> "1313864856" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/copyrightYear> "2007" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/about> "Desperado egy\u00FCtesr\u0151l \u00E9s tagjair\u00F3l sz\u00F3l\u00F3 lap" .
+_:nodec8bdcb12d667238f89977b92154a8a1 <http://schema.org/copyrightHolder> _:nodedc3e5f3db27ee644e84d4d16f14ca4d .
+_:nodeb97f4d3efc43fbb9e3a3337d9449a48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

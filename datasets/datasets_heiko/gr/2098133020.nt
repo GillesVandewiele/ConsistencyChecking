@@ -1,0 +1,59 @@
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#company> <http://purl.org/goodrelations/v1#legalName> "BeyondNice"@en .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d38565d759fa741859dad45fd89e898182dN67350 .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#company> <http://www.w3.org/2006/vcard/ns#tel> "970-703-3074"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN66127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66127 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/bullfrog-spas-561-2-year-1998.html> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66127 <http://rdf.data-vocabulary.org/#title> "Bullfrog Spas - 561-2 - Year: 1998"@en .
+<http://www.beyondnice.com/> <http://rdf.data-vocabulary.org/#name> "BeyondNice"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN66145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66145 <http://rdf.data-vocabulary.org/#title> "Product Reviews"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN66145 <http://rdf.data-vocabulary.org/#child> _:genid2d38565d759fa741859dad45fd89e898182dN66149 .
+_:genid2d38565d759fa741859dad45fd89e898182dN67350 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d38565d759fa741859dad45fd89e898182dN67350 <http://www.w3.org/2006/vcard/ns#postal-code> "33434"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN67350 <http://www.w3.org/2006/vcard/ns#locality> "Boca Raton"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN67350 <http://www.w3.org/2006/vcard/ns#street-address> "9325 Glades Road, Suite 104"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN67350 <http://www.w3.org/2006/vcard/ns#country-name> "USA"@en .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#company> <http://xmlns.com/foaf/0.1/logo> <http://www.beyondnice.com/media/email/logo/default/beyond-nice-logo-brown.png> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#company> <http://xmlns.com/foaf/0.1/page> <http://www.beyondnice.com/> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.productontology.org/id/Hot_tub> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.beyondnice.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/o/hot-tub-covers-by-brandw.jpg> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#product> <http://purl.org/goodrelations/v1#description> "Custom Replacement Hot Tub or Spa Cover"@en .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#product> <http://purl.org/goodrelations/v1#name> "Bullfrog Spas - 561-2 - Year: 1998"@en .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#product> <http://xmlns.com/foaf/0.1/page> <http://www.beyondnice.com/bullfrog-spas-561-2-year-1998.html> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66073 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66073 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66073 <http://rdf.data-vocabulary.org/#title> "Home"@en .
+_:genid2d38565d759fa741859dad45fd89e898182dN67120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Organization> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66997 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66997 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66997 <http://purl.org/goodrelations/v1#hasCurrencyValue> "284.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DHL> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#GoogleCheckOut> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#includes> <http://www.beyondnice.com/review/product/list/id/861/category/56/#product> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://xmlns.com/foaf/0.1/page> <http://beyondnice.minddnd.com/dan-s-test-product.html> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Enduser> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d38565d759fa741859dad45fd89e898182dN66997 .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.beyondnice.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/o/hot-tub-covers-by-brandw.jpg> .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#description> "Custom Replacement Hot Tub Cover -"@en .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#name> "Bullfrog Spas - 561-2 - Year: 1998"@en .
+<http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66091 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/hot-tub-covers-by-spa-make.html> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66091 <http://rdf.data-vocabulary.org/#title> "Hot Tub Covers by Spa Make"@en .
+<http://beyondnice.com/#company> <http://purl.org/goodrelations/v1#offers> <http://www.beyondnice.com/review/product/list/id/861/category/56/#offering> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66109 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66109 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/hot-tub-covers-by-spa-make/bullfrog-spas.html> .
+_:genid2d38565d759fa741859dad45fd89e898182dN66109 <http://rdf.data-vocabulary.org/#title> "Bullfrog Spas"@en .
+_:genid2dd94ebcac77fd4b329b63be058f6a6bf22dN68236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

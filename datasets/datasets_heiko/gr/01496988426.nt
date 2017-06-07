@@ -1,0 +1,11 @@
+<http://muachung.info/thoi-trang#company> <http://purl.org/goodrelations/v1#legalName> "C\u00F9ng mua" .
+<http://muachung.info/thoi-trang#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dc8787b26b3c34451b5367a8390b7ee172dN75048 .
+<http://muachung.info/thoi-trang#company> <http://www.w3.org/2006/vcard/ns#tel> "1900 6637" .
+_:genid2dc8787b26b3c34451b5367a8390b7ee172dN75048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dc8787b26b3c34451b5367a8390b7ee172dN75048 <http://www.w3.org/2006/vcard/ns#postal-code> "70000" .
+_:genid2dc8787b26b3c34451b5367a8390b7ee172dN75048 <http://www.w3.org/2006/vcard/ns#locality> "H\u1ED3 Ch\u00ED Minh" .
+_:genid2dc8787b26b3c34451b5367a8390b7ee172dN75048 <http://www.w3.org/2006/vcard/ns#street-address> "331 Nguy\u1EC5n Tr\u1ECDng Tuy\u1EC3n, Ph\u01B0\u1EDDng 10, Q. Ph\u00FA Nhu\u1EADn" .
+_:genid2dc8787b26b3c34451b5367a8390b7ee172dN75048 <http://www.w3.org/2006/vcard/ns#country-name> "Vi\u1EC7t Nam" .
+<http://muachung.info/thoi-trang#company> <http://xmlns.com/foaf/0.1/logo> <http://demo.vietlong.co/Content/Images/cungmua-logo.png> .
+<http://muachung.info/thoi-trang#company> <http://xmlns.com/foaf/0.1/page> <http://muachung.info/thoi-trang> .
+_:genid2dd4b02bdee0a54fbd9c2d1903f67f3ec12dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

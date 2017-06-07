@@ -1,0 +1,101 @@
+_:node8da651324288366d3355de84c52c98 <http://schema.org/offers> _:node337168dc311576656b99a833ce5b1363 .
+_:node8da651324288366d3355de84c52c98 <http://schema.org/name> "'47 Brand Edmonton Oilers Youth Basic Adjustable Hat - Navy Blue"@en .
+_:node8da651324288366d3355de84c52c98 <http://schema.org/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats/47_Brand_Edmonton_Oilers_Youth_Basic_Adjustable_Hat_-_Navy_Blue> .
+_:node8da651324288366d3355de84c52c98 <http://schema.org/description> "Take your young fan out to the rink and support the Oilers with this Basic structured hat from '47 Brand. It features an embroidered team logo on the crown, so it's guaranteed to earn your youngin' a goal in Edmonton style! Your youngster will be the envy of the neighborhood when he steps out to play in this cool Oilers cap. Get him ready to represent in true Edmonton fashion!"@en .
+_:node8da651324288366d3355de84c52c98 <http://schema.org/image> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats///images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1427000/ff_1427425_xl.jpg&w=180> .
+_:node8da651324288366d3355de84c52c98 <http://schema.org/brand> "'47 Brand"@en .
+_:nodeb117eac6e6dc7089c1bc945a23174b59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeb117eac6e6dc7089c1bc945a23174b59 <http://schema.org/offers> _:node3422ad8c36c8ca7cbff47d6407d6378 .
+_:nodeb117eac6e6dc7089c1bc945a23174b59 <http://schema.org/name> "Edmonton Oilers Youth Draft Structured Flex Hat - Navy Blue"@en .
+_:nodeb117eac6e6dc7089c1bc945a23174b59 <http://schema.org/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats/Edmonton_Oilers_Youth_Draft_Structured_Flex_Hat_-_Navy_Blue> .
+_:nodeb117eac6e6dc7089c1bc945a23174b59 <http://schema.org/description> "Null"@en .
+_:nodeb117eac6e6dc7089c1bc945a23174b59 <http://schema.org/image> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats///images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1453000/ff_1453299_xl.jpg&w=180> .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://schema.org/price> "12.9500"@en .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://schema.org/category> "NHL > Edmonton Oilers > Edmonton Oilers Kids > Edmonton Oilers Kids Youth > Edmonton Oilers Kids Youth Hats"@en .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://schema.org/availability> "InStock"@en .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://schema.org/serialNumber> "1431195"@en .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://schema.org/itemCondition> "NewCondition"@en .
+_:nodebc8d94390ba813bf84b1353edd5e5 <http://schema.org/priceCurrency> "USD"@en .
+_:node0eef1766bfc62906951a812b0a02e5e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node0eef1766bfc62906951a812b0a02e5e <http://schema.org/price> "21.9500"@en .
+_:node0eef1766bfc62906951a812b0a02e5e <http://schema.org/category> "NHL > Edmonton Oilers > Edmonton Oilers Kids > Edmonton Oilers Kids Youth > Edmonton Oilers Kids Youth Hats"@en .
+_:node0eef1766bfc62906951a812b0a02e5e <http://schema.org/availability> "InStock"@en .
+_:node0eef1766bfc62906951a812b0a02e5e <http://schema.org/serialNumber> "1673328"@en .
+_:node0eef1766bfc62906951a812b0a02e5e <http://schema.org/itemCondition> "NewCondition"@en .
+_:node0eef1766bfc62906951a812b0a02e5e <http://schema.org/priceCurrency> "USD"@en .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListOrder> "Descending"@en .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListElement> _:nodedff74a3bc4dd4fa52ddc6ddf9df1943 .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListElement> _:nodeb117eac6e6dc7089c1bc945a23174b59 .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListElement> _:node3dfcc2a0ef44aa2e6a6690d998b8c646 .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListElement> _:nodea0de27af5c29c30dc328955f720a652 .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListElement> _:node8da651324288366d3355de84c52c98 .
+_:node94b012f0fbaec041e6f481d794aea3d0 <http://schema.org/itemListElement> _:nodebbef73cb3a16a2f21932b117a0c4c1 .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://schema.org/offers> _:node0eef1766bfc62906951a812b0a02e5e .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://schema.org/name> "Youth Edmonton Oilers Reebok Orange Second Season Flex Hat"@en .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://schema.org/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats/Youth_Edmonton_Oilers_Reebok_Orange_Second_Season_Flex_Hat> .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://schema.org/description> "Get your young fan just what he needs to help him cheer for the Edmonton Oilers with this Second Season hat from Reebok! The stretch fit of this cap lets him get the perfect fit and the contrasting details highlight his awesome Edmonton Oilers style. The embroidered graphics on this Edmonton Oilers hat ensure everyone will notice his team spirit the minute he walks into the room!"@en .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://schema.org/image> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats///images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1673000/ff_1673328_xl.jpg&w=180> .
+_:node3dfcc2a0ef44aa2e6a6690d998b8c646 <http://schema.org/brand> "Reebok"@en .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://schema.org/price> "19.9500"@en .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://schema.org/category> "NHL > Edmonton Oilers > Edmonton Oilers Kids > Edmonton Oilers Kids Youth > Edmonton Oilers Kids Youth Hats"@en .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://schema.org/availability> "InStock"@en .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://schema.org/serialNumber> "1453299"@en .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://schema.org/itemCondition> "NewCondition"@en .
+_:node3422ad8c36c8ca7cbff47d6407d6378 <http://schema.org/priceCurrency> "USD"@en .
+_:node337168dc311576656b99a833ce5b1363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node337168dc311576656b99a833ce5b1363 <http://schema.org/price> "12.9500"@en .
+_:node337168dc311576656b99a833ce5b1363 <http://schema.org/category> "NHL > Edmonton Oilers > Edmonton Oilers Kids > Edmonton Oilers Kids Youth > Edmonton Oilers Kids Youth Hats"@en .
+_:node337168dc311576656b99a833ce5b1363 <http://schema.org/availability> "InStock"@en .
+_:node337168dc311576656b99a833ce5b1363 <http://schema.org/serialNumber> "1427425"@en .
+_:node337168dc311576656b99a833ce5b1363 <http://schema.org/itemCondition> "NewCondition"@en .
+_:node337168dc311576656b99a833ce5b1363 <http://schema.org/priceCurrency> "USD"@en .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://schema.org/offers> _:nodea056b898c4dfcd5ec334c864d4f3056 .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://schema.org/name> "Youth Edmonton Oilers Zephyr Royal Blue/Gray Pickoff Adjustable Snapback Hat"@en .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://schema.org/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats/Youth_Edmonton_Oilers_Zephyr_Royal_Blue_Gray_Pickoff_Adjustable_Snapback_Hat> .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://schema.org/description> "Help your young fan celebrate his Edmonton Oilers fandom with this Pickoff snapback hat from Zephyr! This adjustable hat features embroidered Edmonton Oilers graphics and a contrast color bill. Your youngster\u2019s Edmonton Oilers pride will be loud and clear when he wears this hat to the next big game!"@en .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://schema.org/image> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats///images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1823000/ff_1823973_xl.jpg&w=180> .
+_:nodedff74a3bc4dd4fa52ddc6ddf9df1943 <http://schema.org/brand> "Zephyr"@en .
+_:nodebbef73cb3a16a2f21932b117a0c4c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodebbef73cb3a16a2f21932b117a0c4c1 <http://schema.org/offers> _:nodecafca7ded7384f2568a46afeb9f6731 .
+_:nodebbef73cb3a16a2f21932b117a0c4c1 <http://schema.org/name> "Edmonton Oilers Reebok Youth 2014 NHL Draft Adjustable Hat \u2013 White"@en .
+_:nodebbef73cb3a16a2f21932b117a0c4c1 <http://schema.org/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats/Edmonton_Oilers_Reebok_Youth_2014_NHL_Draft_Adjustable_Hat_\u2013_White> .
+_:nodebbef73cb3a16a2f21932b117a0c4c1 <http://schema.org/description> "Help your youngster celebrate his Edmonton Oilers fandom with this 2014 NHL Draft cap from Reebok! This adjustable hat features embroidered Edmonton Oilers graphics and mesh back panels. Your young fan will remember this event for seasons to come with this spirited Edmonton Oilers hat. He can be sure he\u2019s reppin' his favorite NHL players in style!"@en .
+_:nodebbef73cb3a16a2f21932b117a0c4c1 <http://schema.org/image> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats///images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1643000/ff_1643719_xl.jpg&w=180> .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://schema.org/price> "21.9500"@en .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://schema.org/category> "NHL > Edmonton Oilers > Edmonton Oilers Kids > Edmonton Oilers Kids Youth > Edmonton Oilers Kids Youth Hats"@en .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://schema.org/availability> "InStock"@en .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://schema.org/serialNumber> "1643719"@en .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://schema.org/itemCondition> "NewCondition"@en .
+_:nodecafca7ded7384f2568a46afeb9f6731 <http://schema.org/priceCurrency> "USD"@en .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://schema.org/price> "21.9500"@en .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://schema.org/category> "NHL > Edmonton Oilers > Edmonton Oilers Kids > Edmonton Oilers Kids Youth > Edmonton Oilers Kids Youth Hats"@en .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://schema.org/availability> "InStock"@en .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://schema.org/serialNumber> "1823973"@en .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://schema.org/itemCondition> "NewCondition"@en .
+_:nodea056b898c4dfcd5ec334c864d4f3056 <http://schema.org/priceCurrency> "USD"@en .
+_:nodea0de27af5c29c30dc328955f720a652 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodea0de27af5c29c30dc328955f720a652 <http://schema.org/offers> _:nodebc8d94390ba813bf84b1353edd5e5 .
+_:nodea0de27af5c29c30dc328955f720a652 <http://schema.org/name> "'47 Brand Edmonton Oilers Youth Basic Adjustable Hat - Royal Blue -"@en .
+_:nodea0de27af5c29c30dc328955f720a652 <http://schema.org/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats/47_Brand_Edmonton_Oilers_Youth_Basic_Adjustable_Hat_-_Royal_Blue_-> .
+_:nodea0de27af5c29c30dc328955f720a652 <http://schema.org/description> "Take your young fan out to the rink and support the Oilers with this Basic structured hat from '47 Brand. It features an embroidered team logo on the crown, so it's guaranteed to earn your youngin' a goal in Edmonton style! Your youngster will be the envy of the neighborhood when he steps out to play in this cool Oilers cap. Get him ready to represent in true Edmonton fashion!"@en .
+_:nodea0de27af5c29c30dc328955f720a652 <http://schema.org/image> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats///images.footballfanatics.com/FFImage/thumb.aspx?i=/productImages/_1431000/ff_1431195_xl.jpg&w=180> .
+_:nodea0de27af5c29c30dc328955f720a652 <http://schema.org/brand> "'47 Brand"@en .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.schema.org/breadcrumb> .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/title> "NHL"@en .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/title> "Edmonton Oilers Gear"@en .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/title> "Edmonton Oilers Kids"@en .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/title> "Edmonton Oilers Kids Youth"@en .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/title> "Edmonton Oilers Kids Youth Hats"@en .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats//CBS_NHL> .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats//CBS_Edmonton_Oilers> .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats//CBS_Edmonton_Oilers_Kids> .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats//CBS_Edmonton_Oilers_Kids_Youth> .
+_:nodeb47a17c36dd648b87652c6af376f <http://www.schema.org/breadcrumb/url> <http://shop.cbssports.com/CBS_Edmonton_Oilers_Kids_Youth_Hats//CBS_Edmonton_Oilers_Kids_Youth_Hats> .
+_:node4cdee432d2a41a243bc428afdb153d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

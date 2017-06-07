@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Newcastle_United_F.C.> <http://dbpedia.org/ontology/chairman> <http://dbpedia.org/resource/Derek_Llambias> .
+<http://dbpedia.org/resource/Newcastle_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Newcastle_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Newcastle_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> .
+<http://dbpedia.org/resource/Newcastle_United_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> .
+<http://dbpedia.org/resource/Derek_Llambias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Derek_Llambias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

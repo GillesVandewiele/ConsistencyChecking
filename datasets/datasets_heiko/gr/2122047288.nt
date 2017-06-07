@@ -1,0 +1,21 @@
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d33f977605067412aaab0eed36db0b9882dN69835 .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "DR166-PCH-0ZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm> .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://purl.org/goodrelations/v1#description> "This fluid lightweight dress is the epitome of easy summer style. Wear this piece loose with ankle boots, stacked jewellery and a hat for a cool twist.." .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver Una Summer Maternity Dress" .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69774 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69774 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity US" .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69835 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d33f977605067412aaab0eed36db0b9882dN69853 .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d33f977605067412aaab0eed36db0b9882dN69853 .
+<http://www.isabellaoliver.com/us/shop/edits/una-summer-dress-peach.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/shop/edits/una-summer-dress-peach.htm> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://rdf.data-vocabulary.org/#votes> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://purl.org/stuff/rev#rating> "4.7777777777778"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://purl.org/stuff/rev#totalRatings> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d33f977605067412aaab0eed36db0b9882dN69853 <http://rdf.data-vocabulary.org/#average> "4.7777777777778"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/oneill-guys-breeze-breaker-neoprene-jacket-26080/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d91895550c9434627a72fba3d1ab170252dN71501 .

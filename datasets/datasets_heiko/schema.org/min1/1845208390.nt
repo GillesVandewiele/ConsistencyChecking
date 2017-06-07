@@ -1,0 +1,28 @@
+_:node778917fa4a3f20aefb5597479b676d93 <http://schema.org/reviewRating> _:node3894f1e2fc5f43dde7b88c8984d27e8 .
+_:node778917fa4a3f20aefb5597479b676d93 <http://schema.org/datePublished> "2012-03-12" .
+_:node778917fa4a3f20aefb5597479b676d93 <http://schema.org/name> "Null" .
+_:node778917fa4a3f20aefb5597479b676d93 <http://schema.org/description> "\n            Our seniors group from my church is doing this as a group Lenten Bible Study. As our church is going through a very hard struggle right now, this book has been just what we needed. Everyone is gaining spiritual strength from each section. It is wonderful!\n        " .
+_:node778917fa4a3f20aefb5597479b676d93 <http://schema.org/author> "deralynwhite" .
+_:nodefeac9837f9526abeba44fd6a759b1cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodefeac9837f9526abeba44fd6a759b1cb <http://schema.org/reviewRating> _:nodea825f4a03584149aada845838be1f59 .
+_:nodefeac9837f9526abeba44fd6a759b1cb <http://schema.org/datePublished> "2009-08-04" .
+_:nodefeac9837f9526abeba44fd6a759b1cb <http://schema.org/name> "Null" .
+_:nodefeac9837f9526abeba44fd6a759b1cb <http://schema.org/description> "\n            I found this book so helpful for the difficult times we all face.  Especially when the author addresses Fibromyalgia, of which I live with.  She not only addressed suffering but compared the suffering to scripture.I gave my copy to a grieving friend and had to order another copy for myself, I didn't want to be without my book.\n        " .
+_:nodefeac9837f9526abeba44fd6a759b1cb <http://schema.org/author> "Janet Martin" .
+_:node3894f1e2fc5f43dde7b88c8984d27e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node3894f1e2fc5f43dde7b88c8984d27e8 <http://schema.org/worstRating> "1" .
+_:node3894f1e2fc5f43dde7b88c8984d27e8 <http://schema.org/ratingValue> "5" .
+_:node3894f1e2fc5f43dde7b88c8984d27e8 <http://schema.org/bestRating> "5" .
+_:node891b5ee4bd725bc637ada895c621851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node891b5ee4bd725bc637ada895c621851 <http://schema.org/name> "Barbed Wire & Thorns: A Christian's Reflection on Suffering" .
+_:node891b5ee4bd725bc637ada895c621851 <http://schema.org/aggregateRating> _:node17f37c2ca11377cf92583e9411fd2b63 .
+_:node891b5ee4bd725bc637ada895c621851 <http://schema.org/review> _:node778917fa4a3f20aefb5597479b676d93 .
+_:node891b5ee4bd725bc637ada895c621851 <http://schema.org/review> _:nodefeac9837f9526abeba44fd6a759b1cb .
+_:node17f37c2ca11377cf92583e9411fd2b63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node17f37c2ca11377cf92583e9411fd2b63 <http://schema.org/ratingValue> "5" .
+_:node17f37c2ca11377cf92583e9411fd2b63 <http://schema.org/reviewCount> "2" .
+_:nodea825f4a03584149aada845838be1f59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodea825f4a03584149aada845838be1f59 <http://schema.org/worstRating> "1" .
+_:nodea825f4a03584149aada845838be1f59 <http://schema.org/ratingValue> "5" .
+_:nodea825f4a03584149aada845838be1f59 <http://schema.org/bestRating> "5" .
+_:nodef94692157ac252021b128763adc54e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

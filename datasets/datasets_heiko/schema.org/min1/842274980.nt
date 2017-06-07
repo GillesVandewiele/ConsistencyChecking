@@ -1,0 +1,5 @@
+_:node56fda642d66767c3bbb5427749ea87 <http://schema.org/name> "\n\t\tMLB Dodgers Ceramic Gameball Mug Set of 2\n\t"@en .
+_:node56fda642d66767c3bbb5427749ea87 <http://schema.org/description> "MLB Los Angeles Dodgers 15oz. Ceramic Gameball Mug Set of 2. This set includes two large ceramic gameball mugs decorated with a high-quality metal team logos."@en .
+_:node56fda642d66767c3bbb5427749ea87 <http://schema.org/image> <http://epicsports.cachefly.net/images/46010/300/mlb-dodgers-ceramic-gameball-mug-set-of-2.jpg> .
+_:node56fda642d66767c3bbb5427749ea87 <http://schema.org/brand> "Great American Products"@en .
+_:nodeb6bae3fc62c094a176198f8448caa1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

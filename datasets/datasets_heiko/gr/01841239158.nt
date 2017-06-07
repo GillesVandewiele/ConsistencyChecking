@@ -1,0 +1,24 @@
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71605 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#description> "<p> This Broken Hearted Walkshort has a floral design and faded look to match with your favorite tee.</p> <ul> <li> 5-pocket cut off denim short.</li> <li> Heavy wash details create a worn, slightly faded look.</li> <li> All over daisy print.</li> <li> 2'' inseam.</li> <li> 98% Cotton / 2% Spandex.</li> </ul>" .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#name> "Billabong Women's Broken Hearted Walkshort" .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dfdc720d8e51144c681d0d12c296dffec2dN71576 .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71624 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71624 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71624 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$19.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71576 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71576 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dfdc720d8e51144c681d0d12c296dffec2dN71576 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/billabong-womens-broken-hearted-walkshort-47701/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .

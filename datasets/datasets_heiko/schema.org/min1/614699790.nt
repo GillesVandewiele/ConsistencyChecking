@@ -1,0 +1,6 @@
+_:nodea5d0f0acd455878f1a5a7e2ef5dc38f2 <http://schema.org/name> "Factor out invariant code from Plot" .
+_:nodea5d0f0acd455878f1a5a7e2ef5dc38f2 <http://schema.org/title> "Factor out invariant code from Plot" .
+_:nodea5d0f0acd455878f1a5a7e2ef5dc38f2 <http://schema.org/description> "Given a simple Gaussian kernel\n\nUnscaledKernel[a_, b_, sigma_] := \n Exp[-(((a - b)/sigma).((a - b)/sigma))/2]\n\n\nand un-normalized smoothing function\n\nSmooth[valCountLst_, val_, sigma_] := \n  " .
+_:nodea5d0f0acd455878f1a5a7e2ef5dc38f2 <http://schema.org/image> "http://cdn.sstatic.net/mathematica/img/apple-touch-icon@2.png?v=1b98edea1597" .
+_:nodea5d0f0acd455878f1a5a7e2ef5dc38f2 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/mathematica/img/apple-touch-icon@2.png?v=1b98edea1597" .
+_:node52053c1c519b2f2c1a1db53604b7cb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

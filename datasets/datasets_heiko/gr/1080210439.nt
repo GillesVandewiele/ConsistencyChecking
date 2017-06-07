@@ -1,0 +1,64 @@
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67596 <http://rdf.data-vocabulary.org/#street-address> "9250 Golf Course Rd NW"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67596 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66499 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/32/5/restaurants.html> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66499 <http://rdf.data-vocabulary.org/#title> "Northeast Heights"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67640 <http://rdf.data-vocabulary.org/#latitude> "35.1863285"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67640 <http://rdf.data-vocabulary.org/#longitude> "-106.68495845"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66477 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66477 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/restaurants.html> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66477 <http://rdf.data-vocabulary.org/#title> "Restaurants"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66477 <http://rdf.data-vocabulary.org/#child> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/restaurants.html> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 <http://rdf.data-vocabulary.org/#title> "Albuquerque"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66499 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#geo> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67640 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#geo> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67640 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://purl.org/goodrelations/v1#legalName> "Caked: A Cupcake Boutique"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#address> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67596 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#address> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67596 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67596 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dINSIDE5fN67596 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#name> "Caked: A Cupcake Boutique"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://purl.org/goodrelations/v1#ProductOrService> "Bakery/Sweets"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://purl.org/goodrelations/v1#ProductOrService> "Specialty Food Store"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#category> "Bakery/Sweets"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#category> "Specialty Food Store"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Fri 9am-7pm Sat noon-5pm"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://rdf.data-vocabulary.org/#pricerange> "$"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Bakery/Sweets"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Specialty Food Store"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Gluten-free available"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67584 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Fri 9am-7pm Sat noon-5pm"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66521 .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67860 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67860 <http://rdf.data-vocabulary.org/#description> "Up to 12 cupcake flavors offered per day, including gluten-free options."@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN67860 <http://rdf.data-vocabulary.org/#itemreviewed> "Caked: A Cupcake Boutique"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66510 .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#description> "Caked: A Cupcake Boutique (Bakery/Sweets, Specialty Food Store) at 9250 Golf Course Rd NW: Up to 12 cupcake flavors offered per day, including gluten-free options..."@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#url> "http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#longitude> "-106.68495845"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#image> "http://images.alibi.com/chowtown2/gfx/spork.png"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#street-address> "9250 Golf Course Rd NW"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#locality> "Albuquerque"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#latitude> "35.1863285"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#type> "restaurant"@en .
+<http://alibi.com/restaurants/entity/9820/Caked-A-Cupcake-Boutique.html> <http://ogp.me/ns#title> "Caked: A Cupcake Boutique"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66510 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/281/restaurants.html> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66510 <http://rdf.data-vocabulary.org/#title> "Bakery/Sweets"@en .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66521 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/31/284/restaurants.html> .
+_:genid2d0e71a53c20314bc29a51b47a8d8748e62dN66521 <http://rdf.data-vocabulary.org/#title> "Specialty Food Store"@en .
+<http://www.tvszone.com/dell-s300wi-i197945.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

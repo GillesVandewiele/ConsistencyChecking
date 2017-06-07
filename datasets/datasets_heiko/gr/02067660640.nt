@@ -1,0 +1,15 @@
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68259 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68259 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68259 .
+<http://www.joke.co.uk/fallen-angel-halloween-costume~10815/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/fallen-angel-halloween-costume~10815/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68279 .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68229 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68229 <http://rdf.data-vocabulary.org/#rating> "4"@en .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68259 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68259 <http://purl.org/goodrelations/v1#hasCurrencyValue> "27.99"@en .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68159 <http://purl.org/goodrelations/v1#name> "Fallen Angel Halloween Costume"@en .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68229 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d128cebdf6a0c4f11ad5de459105a79092dINSIDE5fN68229 .
+_:genid2d128cebdf6a0c4f11ad5de459105a79092dN68229 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=10815> .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=10815> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=10815> .
+_:genid2df57d930033284ec1a65c930180c964bc2dN71407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

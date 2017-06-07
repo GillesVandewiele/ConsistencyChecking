@@ -1,0 +1,21 @@
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3e3bbd8eef45464d8a96055b29788f162dN69866 .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "JK070-WNE-2ZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm> .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#description> "Taking you from the office to dinner, out with friends, to the shops or even to a wedding, a blazer is a capsule wardrobe must-have. Our Everyday.." .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver The Everyday Maternity Blazer" .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69866 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69866 <http://purl.org/goodrelations/v1#hasCurrency> "CAD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69805 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69805 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity CA" .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://rdf.data-vocabulary.org/#votes> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://purl.org/stuff/rev#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://purl.org/stuff/rev#totalRatings> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 <http://rdf.data-vocabulary.org/#average> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 .
+<http://www.isabellaoliver.com/ca/sale/sale-all/the-everyday-maternity-blazer-wine-patent.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d3e3bbd8eef45464d8a96055b29788f162dN69884 .
+_:genid2dde32fa22b1d342629065125b6c368bed2dN68197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

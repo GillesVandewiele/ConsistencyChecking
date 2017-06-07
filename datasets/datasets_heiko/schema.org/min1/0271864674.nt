@@ -1,0 +1,50 @@
+_:node64a6cf2be9614df27f32d803af17eaf <http://schema.org/reviewRating> "5" .
+_:node64a6cf2be9614df27f32d803af17eaf <http://schema.org/dateCreated> "2003-12-22" .
+_:node64a6cf2be9614df27f32d803af17eaf <http://schema.org/reviewBody> "Delicious and this can be cooked much faster!  I browned a 1 lb. tenderloin (for 2 people) in a deep, oven proof skillet, then added some of the sauerkraut juice and kraut to the pan to quickly deglaze it and then followed the rest of the directions.  Increased oven temp to 400 degrees and it was done in 40 min.  Served it with mashed potatoes and buttered rye bread." .
+_:node64a6cf2be9614df27f32d803af17eaf <http://schema.org/interactionCount> "117" .
+_:node64a6cf2be9614df27f32d803af17eaf <http://schema.org/author> "Aspiring Chef Rita" .
+_:node64a6cf2be9614df27f32d803af17eaf <http://schema.org/itemReviewed> "Roasted Pork Tenderloin" .
+_:node20ac35e1d095059d2506080acbd91eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node20ac35e1d095059d2506080acbd91eb <http://schema.org/reviewRating> "5" .
+_:node20ac35e1d095059d2506080acbd91eb <http://schema.org/dateCreated> "2003-05-02" .
+_:node20ac35e1d095059d2506080acbd91eb <http://schema.org/reviewBody> "Wow!  This was wonderful!  It was so easy to throw together, and after being in the oven for 2 1/2 hours, the pork was SO tender!  My husband and I love sauerkraut, so this was a big hit to find!  My 5 year old son even thought this was outstanding, and he cleaned his plate.  We will definitely be using this recipe again.  Thanks, Bonnie!" .
+_:node20ac35e1d095059d2506080acbd91eb <http://schema.org/interactionCount> "64" .
+_:node20ac35e1d095059d2506080acbd91eb <http://schema.org/author> "IRON CHEF" .
+_:node20ac35e1d095059d2506080acbd91eb <http://schema.org/itemReviewed> "Roasted Pork Tenderloin" .
+_:noded08148fd353ce7457a15b86536046f6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:noded08148fd353ce7457a15b86536046f6 <http://schema.org/reviewRating> "4" .
+_:noded08148fd353ce7457a15b86536046f6 <http://schema.org/dateCreated> "2003-12-04" .
+_:noded08148fd353ce7457a15b86536046f6 <http://schema.org/reviewBody> "I made this for my boyfriend, who is half-German, and crazy about pork & sauerkraut.  He raved about it!  I made the following modifications - I used a crock pot (7 hours on low) and added 1/2 cup water & 1/2 cup apple juice.  I also added a little more chopped apple and onion to the crock pot.  It turned out incredibly tender and tasty.  This is a really easy, quick recipe that I will be happy to prepare again & again." .
+_:noded08148fd353ce7457a15b86536046f6 <http://schema.org/interactionCount> "71" .
+_:noded08148fd353ce7457a15b86536046f6 <http://schema.org/author> "SARA02" .
+_:noded08148fd353ce7457a15b86536046f6 <http://schema.org/itemReviewed> "Roasted Pork Tenderloin" .
+_:node545c38228f17e51f6e634582583ca5c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/name> "Roasted Pork Tenderloin" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "2 pounds pork tenderloin" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "1/2 teaspoon ground sage" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "garlic salt to taste" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "1 (32 ounce) jar sauerkraut, drained" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "1/2 apple" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "1/2 onion" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/ingredients> "1/3 cup brown sugar" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/author> "WUNNIE" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/description> "\nEasy and yummy pork tenderloin, melts in your mouth. You may use more or less sage according to your taste.            " .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/review> _:node64a6cf2be9614df27f32d803af17eaf .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/review> _:noded08148fd353ce7457a15b86536046f6 .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/review> _:node20ac35e1d095059d2506080acbd91eb .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/image> <http://images.media-allrecipes.com/userphotos/250x250/28877.jpg> .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/nutrition> _:node1225231ff3ecbecddd639148ddd45a .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/recipeYield> "6" .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/recipeInstructions> "\n                Preheat oven to 325 degrees F (165 degrees C).\n                Rub tenderloin with sage and garlic salt. Place tenderloin in a baking pan or casserole. Cover meat with half of the sauerkraut. Place the apple and onion, cut side down, on top of the sauerkraut. Cover with remaining sauerkraut. Sprinkle with brown sugar.\n                Cover and bake in preheated oven for 2 to 3 hours, until the internal temperature has reached 145 degrees F (63 degrees C).\n            All done! Now take a photo, rate it, and share your accomplishments!\n    " .
+_:node545c38228f17e51f6e634582583ca5c <http://schema.org/aggregateRating> _:node37ba281adc8612ee381c6084d724273d .
+_:node37ba281adc8612ee381c6084d724273d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node37ba281adc8612ee381c6084d724273d <http://schema.org/ratingValue> "4.46" .
+_:node37ba281adc8612ee381c6084d724273d <http://schema.org/reviewCount> "92" .
+_:node1225231ff3ecbecddd639148ddd45a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:node1225231ff3ecbecddd639148ddd45a <http://schema.org/sodiumContent> "1063 mg" .
+_:node1225231ff3ecbecddd639148ddd45a <http://schema.org/carbohydrateContent> "16.5g" .
+_:node1225231ff3ecbecddd639148ddd45a <http://schema.org/proteinContent> "24.8 g" .
+_:node1225231ff3ecbecddd639148ddd45a <http://schema.org/fatContent> "3.8 g" .
+_:node1225231ff3ecbecddd639148ddd45a <http://schema.org/calories> "199 kcal" .
+_:node1225231ff3ecbecddd639148ddd45a <http://schema.org/cholesterolContent> "65 mg" .
+_:node42395236b2a386a3eb45eab51ac8253a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

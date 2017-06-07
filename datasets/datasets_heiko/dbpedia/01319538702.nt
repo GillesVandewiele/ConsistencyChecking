@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Great_Sandy_Desert> <http://dbpedia.org/ontology/biome> <http://dbpedia.org/resource/Desert> .
+<http://dbpedia.org/resource/Great_Sandy_Desert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Great_Sandy_Desert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

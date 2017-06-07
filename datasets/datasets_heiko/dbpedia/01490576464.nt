@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Milton_Berle> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Hillside_Memorial_Park_Cemetery> .
+<http://dbpedia.org/resource/Milton_Berle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Milton_Berle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

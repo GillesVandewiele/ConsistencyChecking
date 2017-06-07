@@ -1,0 +1,6 @@
+_:nodefcd42766b180baff3247dd6d459e6d <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/kabc/images/logos/header-large.png> .
+_:nodefcd42766b180baff3247dd6d459e6d <http://schema.org/url> <http://abc7.com/> .
+_:node9132285662b4df35b4cffc9e5bea1e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node9132285662b4df35b4cffc9e5bea1e0 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/kabc/images/logos/header-large.png> .
+_:node9132285662b4df35b4cffc9e5bea1e0 <http://schema.org/url> <http://abc7.com/> .
+_:node1e2e28d3c1bb377d7f988172a7e62c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

@@ -1,0 +1,84 @@
+_:node4b934ad319c2b1a52fdb7ba1308f21f <http://schema.org/name> "Denver Intl"@he .
+_:node4b934ad319c2b1a52fdb7ba1308f21f <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node961a993e783058c5f777a7083902fd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node961a993e783058c5f777a7083902fd5 <http://schema.org/name> "Denver Intl"@he .
+_:node961a993e783058c5f777a7083902fd5 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node3cfaf3fefd51e7a8fb37974f182912e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3cfaf3fefd51e7a8fb37974f182912e2 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node3cfaf3fefd51e7a8fb37974f182912e2 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node2356133b25c40aabb7aac7be5c550b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2356133b25c40aabb7aac7be5c550b4 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node2356133b25c40aabb7aac7be5c550b4 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:nodec3626c60b5e174ec19b8276356a1e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec3626c60b5e174ec19b8276356a1e <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:nodec3626c60b5e174ec19b8276356a1e <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node2b6797778357f0596e28bc1b51305c84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2b6797778357f0596e28bc1b51305c84 <http://schema.org/name> "Denver Intl"@he .
+_:node2b6797778357f0596e28bc1b51305c84 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node7abdc13f26a63ff68ed72b882ec4ecb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7abdc13f26a63ff68ed72b882ec4ecb <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node7abdc13f26a63ff68ed72b882ec4ecb <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:nodefbfaedec59c72e3c04eeb9712562979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefbfaedec59c72e3c04eeb9712562979 <http://schema.org/name> "Denver Intl"@he .
+_:nodefbfaedec59c72e3c04eeb9712562979 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:nodef48b25a373a85d5b50c8d16d99a8d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef48b25a373a85d5b50c8d16d99a8d <http://schema.org/name> "Denver Intl"@he .
+_:nodef48b25a373a85d5b50c8d16d99a8d <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node5220b87c86db483f2565faf8945f58f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5220b87c86db483f2565faf8945f58f <http://schema.org/name> "Denver Intl"@he .
+_:node5220b87c86db483f2565faf8945f58f <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node4c341392bcb8e088ab79b4eec1ef23fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4c341392bcb8e088ab79b4eec1ef23fa <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node4c341392bcb8e088ab79b4eec1ef23fa <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node7480c746c264d684235094b79e34c6f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7480c746c264d684235094b79e34c6f3 <http://schema.org/name> "Denver Intl"@he .
+_:node7480c746c264d684235094b79e34c6f3 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node7e676abeb9b1c1eec98bba2f3297b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7e676abeb9b1c1eec98bba2f3297b <http://schema.org/name> "Denver Intl"@he .
+_:node7e676abeb9b1c1eec98bba2f3297b <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node3125f617cb8ff31b4329af2a21cdd53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node3125f617cb8ff31b4329af2a21cdd53 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node3125f617cb8ff31b4329af2a21cdd53 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:nodebc20a785d37a79f957e99ce3fa7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodebc20a785d37a79f957e99ce3fa7 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:nodebc20a785d37a79f957e99ce3fa7 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node4e8067988b66d7fe2fbefba51cdada3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4e8067988b66d7fe2fbefba51cdada3 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node4e8067988b66d7fe2fbefba51cdada3 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node483ab2a49af5ec986341b1be5e0ca2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node483ab2a49af5ec986341b1be5e0ca2d <http://schema.org/name> "Denver Intl"@he .
+_:node483ab2a49af5ec986341b1be5e0ca2d <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node1ef3c02a779eb332d552736778f4126e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node1ef3c02a779eb332d552736778f4126e <http://schema.org/name> "Denver Intl"@he .
+_:node1ef3c02a779eb332d552736778f4126e <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node875cc5bf32d112fe2465a8b85d70ca91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node875cc5bf32d112fe2465a8b85d70ca91 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node875cc5bf32d112fe2465a8b85d70ca91 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:nodeec16ba81e3d3854ac85a435cb424aa7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeec16ba81e3d3854ac85a435cb424aa7 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:nodeec16ba81e3d3854ac85a435cb424aa7 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:nodefc882aae761534e6f5c3db6c1fb75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefc882aae761534e6f5c3db6c1fb75 <http://schema.org/name> "Denver Intl"@he .
+_:nodefc882aae761534e6f5c3db6c1fb75 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:node831afcfad97ff15a9183f7fe47a1c65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node831afcfad97ff15a9183f7fe47a1c65 <http://schema.org/name> "Bozeman Yellowstone Intl"@he .
+_:node831afcfad97ff15a9183f7fe47a1c65 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KBZN> .
+_:nodebc38ddfeedf706a3951ecf3f94378bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodebc38ddfeedf706a3951ecf3f94378bd <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:nodebc38ddfeedf706a3951ecf3f94378bd <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node4cf10ed607a5181b320d9dbab784fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4cf10ed607a5181b320d9dbab784fd <http://schema.org/name> "Denver Intl"@he .
+_:node4cf10ed607a5181b320d9dbab784fd <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:nodecdcb6d1a9699327cb5fb1ff7d837ccc6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodecdcb6d1a9699327cb5fb1ff7d837ccc6 <http://schema.org/name> "Denver Intl"@he .
+_:nodecdcb6d1a9699327cb5fb1ff7d837ccc6 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:nodec254f4a48955bc59a592c95b838dda <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec254f4a48955bc59a592c95b838dda <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:nodec254f4a48955bc59a592c95b838dda <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node9519f411dd1abf568dfb705925fb6d28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node9519f411dd1abf568dfb705925fb6d28 <http://schema.org/name> "Yellowstone Rgnl"@he .
+_:node9519f411dd1abf568dfb705925fb6d28 <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KCOD> .
+_:node4fe59cfd183268e9baae357b5e96f86d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4fe59cfd183268e9baae357b5e96f86d <http://schema.org/name> "Denver Intl"@he .
+_:node4fe59cfd183268e9baae357b5e96f86d <http://schema.org/url> <http://he.flightaware.com/live/flight/SKW6492/history/20131025/0121Z/KDEN/KCOD//live/airport/KDEN> .
+_:nodea632a842ff4f43d99513bb2824ebcc20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

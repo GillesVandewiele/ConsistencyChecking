@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Nordea> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Bj%C3%B6rn_Wahlroos> .
+<http://dbpedia.org/resource/Nordea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Nordea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/Nordea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Bj%C3%B6rn_Wahlroos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bj%C3%B6rn_Wahlroos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

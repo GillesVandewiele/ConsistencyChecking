@@ -1,0 +1,100 @@
+_:node37a9e942fc364d5c3568751ae63ef18 <http://schema.org/addressLocality> "Toronto, ON" .
+_:nodeca9950ea279c6498e88754fa68e5225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodeca9950ea279c6498e88754fa68e5225 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//cmp/Orion-Systems-Inc./jobs/Bilingual-Senior-Desktop-Support-Analyst-e774a0f9ea617076?r=1> .
+_:nodeca9950ea279c6498e88754fa68e5225 <http://schema.org/hiringOrganization> "Orion Systems Inc." .
+_:nodeca9950ea279c6498e88754fa68e5225 <http://schema.org/description> "\nDesktop Support Analyst (10354-1). Provide senior level assistance to computer system users. Desktop Support Analyst (10354-1) (6 mths contract) for a financial...\n" .
+_:nodeca9950ea279c6498e88754fa68e5225 <http://schema.org/jobLocation> _:node8453714c85377c33ecfa85ef6218595 .
+_:nodeca9950ea279c6498e88754fa68e5225 <http://schema.org/name> "Orion Systems Inc." .
+_:node983197274315d63da02cb526f36dd897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node983197274315d63da02cb526f36dd897 <http://schema.org/addressLocality> "Toronto, ON" .
+_:nodea79ae07da3dbe5afeee24cafec0afb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodea79ae07da3dbe5afeee24cafec0afb4 <http://schema.org/addressLocality> "Toronto, ON" .
+_:node2f4a675c463ae2f4541d6570b61c9ac6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node2f4a675c463ae2f4541d6570b61c9ac6 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=53be152958a46974> .
+_:node2f4a675c463ae2f4541d6570b61c9ac6 <http://schema.org/hiringOrganization> "RBC" .
+_:node2f4a675c463ae2f4541d6570b61c9ac6 <http://schema.org/description> "\nCRM System knowledge. This includes liaising with the 2nd level support team, lead other Technical Systems Analyst' s and have a technical mind set....\n" .
+_:node2f4a675c463ae2f4541d6570b61c9ac6 <http://schema.org/jobLocation> _:node28cf2dc2440201b669d81426df9f38c .
+_:node2f4a675c463ae2f4541d6570b61c9ac6 <http://schema.org/name> "RBC" .
+_:nodefa6ea4cd6ac774718569fad1dffda4fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodefa6ea4cd6ac774718569fad1dffda4fd <http://schema.org/addressLocality> "Toronto, ON" .
+_:nodefa6150f6837eaf9a40948954ee2f597f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodefa6150f6837eaf9a40948954ee2f597f <http://schema.org/address> _:node52d528833b2d91704997b83354f1907c .
+_:node8453714c85377c33ecfa85ef6218595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node8453714c85377c33ecfa85ef6218595 <http://schema.org/address> _:node67e96b3f68a86763a97be3d7267e747c .
+_:nodeeac0eb20a1deb1f35793f686cc30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodeeac0eb20a1deb1f35793f686cc30 <http://schema.org/address> _:nodea79ae07da3dbe5afeee24cafec0afb4 .
+_:nodeb3c1b22ecc5fb36c670c01035fe346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodeb3c1b22ecc5fb36c670c01035fe346 <http://schema.org/addressLocality> "Toronto, ON" .
+_:node1aced7d591b920799b9f906730623 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node1aced7d591b920799b9f906730623 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=a6f8d4d0578df82b> .
+_:node1aced7d591b920799b9f906730623 <http://schema.org/hiringOrganization> "Achievers" .
+_:node1aced7d591b920799b9f906730623 <http://schema.org/description> "\nS based systems. We are looking for a Technical Analyst to join our Professional Services team in Toronto! At Achievers, our software delivers the only true...\n" .
+_:node1aced7d591b920799b9f906730623 <http://schema.org/jobLocation> _:nodefa6150f6837eaf9a40948954ee2f597f .
+_:node1aced7d591b920799b9f906730623 <http://schema.org/name> "Achievers" .
+_:node6421d7e23960705c1ff84cadbb525e3e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node6421d7e23960705c1ff84cadbb525e3e <http://schema.org/address> _:nodefcf5e769e861c3ffaa7b5e1c059510 .
+_:nodefcf5e769e861c3ffaa7b5e1c059510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodefcf5e769e861c3ffaa7b5e1c059510 <http://schema.org/addressLocality> "Toronto, ON" .
+_:node95b2d8d732cb40e1535e9128c38659ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node95b2d8d732cb40e1535e9128c38659ab <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=1bb89331dc483fc7> .
+_:node95b2d8d732cb40e1535e9128c38659ab <http://schema.org/hiringOrganization> "Scotiabank" .
+_:node95b2d8d732cb40e1535e9128c38659ab <http://schema.org/description> "\nReporting to a Manager, the System Support Analyst provides responsive systems level support for production critical systems, implementation support and user...\n" .
+_:node95b2d8d732cb40e1535e9128c38659ab <http://schema.org/jobLocation> _:node7a53f89b55972dc8e88393b57a6a619 .
+_:node95b2d8d732cb40e1535e9128c38659ab <http://schema.org/name> "Scotiabank" .
+_:noded6f8c4768f7393c9cc9299924743601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:noded6f8c4768f7393c9cc9299924743601 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//cmp/Poly-Group-Services-Ltd/jobs/Storage-Infrastructure-System-Analyst-e68026c06ec72d87?r=1> .
+_:noded6f8c4768f7393c9cc9299924743601 <http://schema.org/hiringOrganization> "Poly Services Group" .
+_:noded6f8c4768f7393c9cc9299924743601 <http://schema.org/description> "\nStorage Infrastructure System Analyst. Responsible for the provision of file system services including:. The Storage Infrastructure Analyst function is to...\n" .
+_:noded6f8c4768f7393c9cc9299924743601 <http://schema.org/jobLocation> _:node6421d7e23960705c1ff84cadbb525e3e .
+_:noded6f8c4768f7393c9cc9299924743601 <http://schema.org/name> "Poly Services Group" .
+_:nodee2cab2f1f40ad15edfdc27f733f8ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodee2cab2f1f40ad15edfdc27f733f8ad <http://schema.org/address> _:nodefa6ea4cd6ac774718569fad1dffda4fd .
+_:node22382d2a956e6391d327ce09bd9bb60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node22382d2a956e6391d327ce09bd9bb60 <http://schema.org/address> _:nodeb440d49660155123a6db84f0537bf .
+_:nodedf56193923b996eb5c94ae75b153c332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodedf56193923b996eb5c94ae75b153c332 <http://schema.org/address> _:node37a9e942fc364d5c3568751ae63ef18 .
+_:node37e6a9bd46d418f5f4cbd51d98ae565b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node37e6a9bd46d418f5f4cbd51d98ae565b <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=6823cb7e344b8737> .
+_:node37e6a9bd46d418f5f4cbd51d98ae565b <http://schema.org/hiringOrganization> "RBC" .
+_:node37e6a9bd46d418f5f4cbd51d98ae565b <http://schema.org/description> "\nShare business and technical expertise with IT partners (other development groups, business analysts, QA, UNIX admins, Database admins, etc)....\n" .
+_:node37e6a9bd46d418f5f4cbd51d98ae565b <http://schema.org/jobLocation> _:node22382d2a956e6391d327ce09bd9bb60 .
+_:node37e6a9bd46d418f5f4cbd51d98ae565b <http://schema.org/name> "RBC" .
+_:nodeb440d49660155123a6db84f0537bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodeb440d49660155123a6db84f0537bf <http://schema.org/addressLocality> "Toronto, ON" .
+_:node93448f6766d3d18adddbf445f6d34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node93448f6766d3d18adddbf445f6d34 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=37426f8b2305d433> .
+_:node93448f6766d3d18adddbf445f6d34 <http://schema.org/hiringOrganization> "RBC" .
+_:node93448f6766d3d18adddbf445f6d34 <http://schema.org/description> "\nWe currently have an exciting opportunity for a Level 3 Support (Technical Systems Analyst) with the Corporate Systems Risk Support group....\n" .
+_:node93448f6766d3d18adddbf445f6d34 <http://schema.org/jobLocation> _:nodeeac0eb20a1deb1f35793f686cc30 .
+_:node93448f6766d3d18adddbf445f6d34 <http://schema.org/name> "RBC" .
+_:node28cf2dc2440201b669d81426df9f38c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node28cf2dc2440201b669d81426df9f38c <http://schema.org/address> _:nodede381e22233d60ed261b69d6a81343aa .
+_:node1fb52015fd5fb58759309caf64817a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node1fb52015fd5fb58759309caf64817a <http://schema.org/address> _:nodeb3c1b22ecc5fb36c670c01035fe346 .
+_:node8e5ca634f17323f5c3fc10aeb4baebd9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node8e5ca634f17323f5c3fc10aeb4baebd9 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=7505d2d489220c30> .
+_:node8e5ca634f17323f5c3fc10aeb4baebd9 <http://schema.org/hiringOrganization> "Primus Telecommunications Inc" .
+_:node8e5ca634f17323f5c3fc10aeb4baebd9 <http://schema.org/description> "\nThe Systems Analyst is responsible for designing, implementing, securing, optimizing, and administering servers, while providing corporate users the critical...\n" .
+_:node8e5ca634f17323f5c3fc10aeb4baebd9 <http://schema.org/jobLocation> _:nodedf56193923b996eb5c94ae75b153c332 .
+_:node8e5ca634f17323f5c3fc10aeb4baebd9 <http://schema.org/name> "Primus Telecommunications Inc" .
+_:nodede381e22233d60ed261b69d6a81343aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodede381e22233d60ed261b69d6a81343aa <http://schema.org/addressLocality> "Toronto, ON" .
+_:node67e96b3f68a86763a97be3d7267e747c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node67e96b3f68a86763a97be3d7267e747c <http://schema.org/addressLocality> "Toronto, ON" .
+_:nodea2c88bc2bebf7eb6c826b4d75ffd7e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodea2c88bc2bebf7eb6c826b4d75ffd7e0 <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//cmp/PwC/jobs/System-Administrator-Analyst-bf72a2c786d2e637?r=1> .
+_:nodea2c88bc2bebf7eb6c826b4d75ffd7e0 <http://schema.org/hiringOrganization> "PwC" .
+_:nodea2c88bc2bebf7eb6c826b4d75ffd7e0 <http://schema.org/description> "\nGood understanding of system administration, system security and system performance. The System Analyst (System Administrator) will join the system...\n" .
+_:nodea2c88bc2bebf7eb6c826b4d75ffd7e0 <http://schema.org/jobLocation> _:node1fb52015fd5fb58759309caf64817a .
+_:nodea2c88bc2bebf7eb6c826b4d75ffd7e0 <http://schema.org/name> "PwC" .
+_:node52d528833b2d91704997b83354f1907c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node52d528833b2d91704997b83354f1907c <http://schema.org/addressLocality> "Toronto, ON" .
+_:node7a53f89b55972dc8e88393b57a6a619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node7a53f89b55972dc8e88393b57a6a619 <http://schema.org/address> _:node983197274315d63da02cb526f36dd897 .
+_:node19e01c8973a8982f8ea526fa2d711e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node19e01c8973a8982f8ea526fa2d711e <http://schema.org/title> <http://ca.indeed.com/System-Analyst-jobs-in-North-York,-ON//rc/clk?jk=da289202316faa13> .
+_:node19e01c8973a8982f8ea526fa2d711e <http://schema.org/hiringOrganization> "RBC" .
+_:node19e01c8973a8982f8ea526fa2d711e <http://schema.org/description> "\nWorks as a Technical Systems Analyst on Trading Compliance systems. Works with Business Analysts to devise optimal IT solutions....\n" .
+_:node19e01c8973a8982f8ea526fa2d711e <http://schema.org/jobLocation> _:nodee2cab2f1f40ad15edfdc27f733f8ad .
+_:node19e01c8973a8982f8ea526fa2d711e <http://schema.org/name> "RBC" .
+_:nodea2c07c61663b824a47bf4af12596b18f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

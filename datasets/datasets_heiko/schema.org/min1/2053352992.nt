@@ -1,0 +1,6 @@
+_:nodef73d2d473ccdfd3a4bb1d2b6b48b615 <http://schema.org/name> "CSS Horizontal navigation bar with background color" .
+_:nodef73d2d473ccdfd3a4bb1d2b6b48b615 <http://schema.org/title> "CSS Horizontal navigation bar with background color" .
+_:nodef73d2d473ccdfd3a4bb1d2b6b48b615 <http://schema.org/description> "Why does this code produce only a white background:\n\n ul.nav {\n   width: 30%;\n   border: 1px solid #999;\n   margin: 0px auto;\n   background-color: #00ff7f;\n }\n ul.nav li {\n   display: inline;\n   fl..." .
+_:nodef73d2d473ccdfd3a4bb1d2b6b48b615 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodef73d2d473ccdfd3a4bb1d2b6b48b615 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodebd232084e9a3bbf263464441743446a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

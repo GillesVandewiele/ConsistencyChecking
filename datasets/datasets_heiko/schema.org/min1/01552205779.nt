@@ -1,0 +1,6 @@
+_:node3bce46d1d2d29d29cb274c670ec558 <http://schema.org/datePublished> "Tue, 28 Jul 2009 09:07:16 -0600" .
+_:node3bce46d1d2d29d29cb274c670ec558 <http://schema.org/articleBody> "On Tue, Jul 28, 2009 at 05:01:42PM +0200, Nicolas Palix wrote:> Ok. So, I guess the pattern for the other typedef is to strip the _OBJECT> suffix when present, and always add the prefix hv_, right ?The 'pattern' is to look at what the code is doing and choose a sensiblename.-- Matthew Wilcox\t\t\t\tIntel Open Source Technology Centre\"Bill, look, we understand that you're interested in selling us thisoperating system, but compare it to ours.  We can't possibly take sucha retrograde step.\"" .
+_:node3bce46d1d2d29d29cb274c670ec558 <http://schema.org/editor> "Jasper Spaans" .
+_:node3bce46d1d2d29d29cb274c670ec558 <http://schema.org/name> "Re: [PATCH] Staging: hv: Transform PDEVICE_OBJECT and DEVICE_OBJECT typedefs into their corresponding structs" .
+_:node3bce46d1d2d29d29cb274c670ec558 <http://schema.org/author> "Matthew Wilcox <>" .
+_:nodeb146b26cf9d7f7af4c939e8f5222b19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

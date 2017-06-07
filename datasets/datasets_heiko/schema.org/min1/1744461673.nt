@@ -1,0 +1,6 @@
+_:node9de4ade13cc68cf19ce6a5484ae5f21 <http://schema.org/url> <http://elpais.com/corporativos/> .
+_:node9de4ade13cc68cf19ce6a5484ae5f21 <http://schema.org/name> "EDICIONES EL PA\u00CDS S.L." .
+_:node9de4ade13cc68cf19ce6a5484ae5f21 <http://schema.org/copyrightHolder> "\u00A9 EDICIONES EL PA\u00CDS S.L." .
+_:node9b5d6bb689e2f0f3ccef45bda755a9d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+_:node9b5d6bb689e2f0f3ccef45bda755a9d <http://schema.org/url> <http://elpais.com/estaticos/contacte/> .
+_:node62a0b35b1657b1ea825f471399dc64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

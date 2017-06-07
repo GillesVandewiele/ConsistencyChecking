@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party> <http://dbpedia.org/ontology/ideology> <http://dbpedia.org/resource/Union_of_European_Federalists> .
+<http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Union_of_European_Federalists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Union_of_European_Federalists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,11 @@
+<http://kimsuniversity.in/#company> <http://xmlns.com/foaf/0.1/page> <http://kimsuniversity.in/> .
+_:genid2d3c97bbc799c748f99ef4a56d5fd2f6692dN68590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d3c97bbc799c748f99ef4a56d5fd2f6692dN68590 <http://www.w3.org/2006/vcard/ns#postal-code> "415539"@en .
+_:genid2d3c97bbc799c748f99ef4a56d5fd2f6692dN68590 <http://www.w3.org/2006/vcard/ns#locality> "Malkapur-Karad"@en .
+_:genid2d3c97bbc799c748f99ef4a56d5fd2f6692dN68590 <http://www.w3.org/2006/vcard/ns#street-address> "Malkapur, Karad (Dist.Satara) Maharashtra, India."@en .
+_:genid2d3c97bbc799c748f99ef4a56d5fd2f6692dN68590 <http://www.w3.org/2006/vcard/ns#country-name> "India"@en .
+<http://kimsuniversity.in/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://kimsuniversity.in/#company> <http://purl.org/goodrelations/v1#legalName> "Krishna Institute of Medical Sciences Deemed University"@en .
+<http://kimsuniversity.in/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d3c97bbc799c748f99ef4a56d5fd2f6692dN68590 .
+<http://kimsuniversity.in/#company> <http://www.w3.org/2006/vcard/ns#tel> "(02164) 241555/6/7/8"@en .
+_:genid2d68081fdf6b5c4cb9a07cce7c44695bd02dN66904 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

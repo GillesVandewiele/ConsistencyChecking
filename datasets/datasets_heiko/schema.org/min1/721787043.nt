@@ -1,0 +1,32 @@
+_:node87abfc1220e9ad23213ccab016fdac5 <http://schema.org/name> "Deluge Team"@es-es .
+_:node87abfc1220e9ad23213ccab016fdac5 <http://schema.org/url> <http://deluge-torrent.org> .
+_:noded3bf83410e48dac552ff34501ea7f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:noded3bf83410e48dac552ff34501ea7f4 <http://schema.org/name> "Jos\u00E9 Mar\u00EDa L\u00F3pez"@es-es .
+_:nodef216c048fd12325458b159bce1bf792c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodef216c048fd12325458b159bce1bf792c <http://schema.org/price> "0"@es-es .
+_:nodeeacdbef18a382e0c1d6faadb9bb03f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/aggregaterating> .
+_:nodeeacdbef18a382e0c1d6faadb9bb03f <http://schema.org/ratingValue> "8,1"@es-es .
+_:nodeeacdbef18a382e0c1d6faadb9bb03f <http://schema.org/bestRating> "10"@es-es .
+_:nodeeacdbef18a382e0c1d6faadb9bb03f <http://schema.org/ratingCount> "40"@es-es .
+_:nodeeacdbef18a382e0c1d6faadb9bb03f <http://schema.org/worstRating> "0"@es-es .
+_:node2f36cdc1debfd7e43757c53258a49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node2f36cdc1debfd7e43757c53258a49 <http://schema.org/worstRating> "0"@es-es .
+_:node2f36cdc1debfd7e43757c53258a49 <http://schema.org/ratingValue> "8"@es-es .
+_:node2f36cdc1debfd7e43757c53258a49 <http://schema.org/bestRating> "10"@es-es .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/operatingSystems> "\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWindows XP\n\t\t\t\t\t\t\t\t\tWindows 2003\n\t\t\t\t\t\t\t\t\tWindows Vista\n\t\t\t\t\t\t\t\t\tWindows 7\n\t\t\t\t\t\t\t\t\tWindows 8\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t"@es-es .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/aggregateRating> _:nodeeacdbef18a382e0c1d6faadb9bb03f .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/SoftwareApplicationCategory> <http://schema.org/OtherApplication> .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/image> <http://imagenes.es.sftcdn.net/es/scrn/69000/69315/deluge-22.jpg> .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/offers> _:nodef216c048fd12325458b159bce1bf792c .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/reviews> _:nodeed97adec1ef61db72f0f35bea7f319b .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/author> _:node87abfc1220e9ad23213ccab016fdac5 .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/name> "Deluge"@es-es .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/inLanguage> "Espa\u00F1ol"@es-es .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/description> "R\u00E1pido y ligero cliente Bittorrent con soporte para plugins"@es-es .
+_:nodeba904441848ea6953fbba9e73b8f67 <http://schema.org/url> <http://deluge.softonic.com> .
+_:nodeed97adec1ef61db72f0f35bea7f319b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeed97adec1ef61db72f0f35bea7f319b <http://schema.org/reviewRating> _:node2f36cdc1debfd7e43757c53258a49 .
+_:nodeed97adec1ef61db72f0f35bea7f319b <http://schema.org/description> "R\u00E1pido y ligero cliente Bittorrent con soporte para plugins"@es-es .
+_:nodeed97adec1ef61db72f0f35bea7f319b <http://schema.org/author> _:noded3bf83410e48dac552ff34501ea7f4 .
+_:nodeb9e11d58f4e65321b47a653b4c2dced0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

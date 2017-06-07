@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Jonathan_Demme> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Baldwin,_Nassau_County,_New_York> .
+<http://dbpedia.org/resource/Jonathan_Demme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jonathan_Demme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Baldwin,_Nassau_County,_New_York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Baldwin,_Nassau_County,_New_York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Baldwin,_Nassau_County,_New_York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Baldwin,_Nassau_County,_New_York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .

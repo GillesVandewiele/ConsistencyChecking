@@ -1,0 +1,16 @@
+_:genid2ddf2718a415e54c17b94349509105ba202dN68263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2ddf2718a415e54c17b94349509105ba202dN68263 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68263 .
+_:genid2ddf2718a415e54c17b94349509105ba202dN68197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2ddf2718a415e54c17b94349509105ba202dN68197 <http://rdf.data-vocabulary.org/#hasReview> _:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68197 .
+_:genid2ddf2718a415e54c17b94349509105ba202dN68197 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=70320> .
+<http://www.joke.co.uk/animal-costumes/ladybird-costume-body-shaper~70320/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/animal-costumes/ladybird-costume-body-shaper~70320/#main> <http://purl.org/goodrelations/v1#name> "Ladybird Costume (Body Shaper)"@en .
+_:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrencyValue> "59.99"@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=70320> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=70320> .
+_:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#rating> "5"@en .
+<http://www.joke.co.uk/animal-costumes/ladybird-costume-body-shaper~70320/#main> <http://purl.org/goodrelations/v1#description> "The Ladybird Costume (Body Shaper) includes a short red and black dress printed with polka dots and featuring detachable garters and an inbuilt body shaper.  The body shaper will enhance your figure, shaping and lifting your body to create a fantastic look.\n\nCostume includes:\n\nDress with inbuilt Body Shaper\nDetachable garters with bows\nAntennae headband\nLadybird wings\n\n\nAlso included is a pair of ladybird antennae on a headband and a set of ladybird wings."@en .
+<http://www.joke.co.uk/animal-costumes/ladybird-costume-body-shaper~70320/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/animal-costumes/ladybird-costume-body-shaper~70320/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2ddf2718a415e54c17b94349509105ba202dINSIDE5fN68301 .
+<http://mg1700-seo.maxim.web.ra/index.php/electronics/cell-phones/nokia-4-1-x-1-7-x-0-7-inches-black-2610-n2610.html#Offering_5205> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .

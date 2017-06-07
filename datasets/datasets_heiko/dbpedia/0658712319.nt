@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Telex_(band)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Synthpop> .
+<http://dbpedia.org/resource/Telex_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Telex_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Telex_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Synthpop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/Synthpop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/Synthpop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .

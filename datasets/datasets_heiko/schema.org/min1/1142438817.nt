@@ -1,0 +1,6 @@
+_:node2f19b93ac14c1121cd90ae1859e7a49b <http://schema.org/name> "Which kinds of objects are worth destroying for fragments?" .
+_:node2f19b93ac14c1121cd90ae1859e7a49b <http://schema.org/title> "Which kinds of objects are worth destroying for fragments?" .
+_:node2f19b93ac14c1121cd90ae1859e7a49b <http://schema.org/description> "When just raging for a while and destroying objects, it's pretty clear that different kinds of destructible objects provide different number of blue fragments. Pieces of walls and masonry, for inst..." .
+_:node2f19b93ac14c1121cd90ae1859e7a49b <http://schema.org/image> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:node2f19b93ac14c1121cd90ae1859e7a49b <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:nodeb5fa23aa8a94467c8bfe59723c7f461a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

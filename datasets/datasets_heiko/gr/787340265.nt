@@ -1,0 +1,12 @@
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dbf7c303ccd56435f9a8fa90b80bc72bc2dN68402 .
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "DR491-NLB-10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y> .
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y#offering> <http://purl.org/goodrelations/v1#description> "All the appeal of a relaxed sporty cut within a lightweight knitted dress with a classic round scoop neck \u2013 it's a classically chic everyday.." .
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y#offering> <http://purl.org/goodrelations/v1#name> "Baukjen Zoe Knit Dress" .
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2dbf7c303ccd56435f9a8fa90b80bc72bc2dN68340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2dbf7c303ccd56435f9a8fa90b80bc72bc2dN68340 <http://purl.org/goodrelations/v1#legalName> "Baukjen Womenswear EU" .
+<http://www.baukjen.com/eu/Zoe-Knit-Dress.htm?newcat=3&actn=changecatalog&cc=y> <http://xmlns.com/foaf/0.1/page> <http://www.baukjen.com/shop/baukjen/dresses/midi-dresses/zoe-knit-dress-nile-blue.htm> .
+_:genid2dbf7c303ccd56435f9a8fa90b80bc72bc2dN68402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dbf7c303ccd56435f9a8fa90b80bc72bc2dN68402 <http://purl.org/goodrelations/v1#hasCurrency> "EUR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.baukjen.com/us/Maggie-Loose-Tank.htm> <http://xmlns.com/foaf/0.1/page> <http://www.baukjen.com/baukjen-sale/all-sale/maggie-loose-tank-metal-blue.htm> .

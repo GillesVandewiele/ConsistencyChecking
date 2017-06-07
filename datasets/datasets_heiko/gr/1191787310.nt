@@ -1,0 +1,24 @@
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71748 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71700 <http://rdf.data-vocabulary.org/#count> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71700 <http://rdf.data-vocabulary.org/#rating> "3"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71738 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71748 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71748 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71748 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$11.85"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71729 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#description> "The noodle workout is the latest rage in water fitness, and AquaJogger takes it to the next level with the Sqoodle\u2122 (square noodle). More buoyancy for more support and more resistance than other noodles.<br><br>\u0095 2'' x 64''<br>\u0095 Made from the same high quality EVA foam as the AquaJogger<br>\u0095 Soft to the touch and does not irritate skin<br>\u0095 Closed cell foam is non absorbent and dries fast<br>\u0095 Long lasting and durable<br>\u0095 More buoyancy than other noodles<br>\u0095 Versatile design for a full workout<br>\u0095 A fun toy for children of all ages" .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://purl.org/goodrelations/v1#name> "AquaJogger Thin and Long Sqoodle" .
+<http://www.swimoutlet.com/p/aquajogger-thin-and-long-sqoodle-8394/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2da6d0ee676ae7446bbf3aa33cb0be0f2e2dN71700 .
+_:genid2d0a998c5b5ec14c25a2bf570d9ddc19812dN66841 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

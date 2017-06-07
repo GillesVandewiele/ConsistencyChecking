@@ -1,0 +1,40 @@
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "9701"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://xmlns.com/foaf/0.1/depiction> _:genid2dce271ab6aa754c7fa1574c0b931912152dN69710 .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://purl.org/goodrelations/v1#description> "The Meucci Sneaky Pete pool cue stick delivers a softer more consistent hit with less cue ball deflection. The unique joint and ferrule design allow for maximum performance with minimum effort, and the butt splice design increases amplification of stroke while diminishing warpage. This cue has simple rosewood to natural maple coloring, but is crafted with a much more elaborate process; Meucci uses their Myth Destroyer testing robot to reduce the amount of cue ball deflection. This is an effective cue with a clear-cut design that will have you concentrating on improving your game." .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://purl.org/goodrelations/v1#name> "Meucci 9701 Sneaky Pete Cue" .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2dce271ab6aa754c7fa1574c0b931912152dN69702 .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.pooldawg.com/catalog/product/view/id/7811/#QuantitativeValue_7811> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dce271ab6aa754c7fa1574c0b931912152dINSIDE5fN69743 .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#includesObject> <http://www.pooldawg.com/catalog/product/view/id/7811/#TypeAndQuantityNode_7811> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#TypeAndQuantityNode_7811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#TypeAndQuantityNode_7811> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#TypeAndQuantityNode_7811> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.pooldawg.com/catalog/product/view/id/7811/#SomeItems_7811> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#validFrom> "2014-12-21 01:44:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.pooldawg.com/catalog/product/view/id/7811/#UnitPriceSpecification_7811> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#validThrough> "2015-12-21 01:44:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#description> "The Meucci Sneaky Pete pool cue stick delivers a softer more consistent hit with less cue ball deflection. The unique joint and ferrule design allow for maximum performance with minimum effort, and the butt splice design increases amplification of stroke while diminishing warpage. This cue has simple rosewood to natural maple coloring, but is crafted with a much more elaborate process; Meucci uses their Myth Destroyer testing robot to reduce the amount of cue ball deflection. This is an effective cue with a clear-cut design that will have you concentrating on improving your game." .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Offering_7811> <http://purl.org/goodrelations/v1#name> "Meucci 9701 Sneaky Pete Cue" .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Review-aggregate_7811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Review-aggregate_7811> <http://rdf.data-vocabulary.org/#count> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#Review-aggregate_7811> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dce271ab6aa754c7fa1574c0b931912152dINSIDE5fN69743 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2dce271ab6aa754c7fa1574c0b931912152dINSIDE5fN69743 <http://rdf.data-vocabulary.org/#hasReview> <http://www.pooldawg.com/catalog/product/view/id/7811/#Review-aggregate_7811> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#QuantitativeValue_7811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#QuantitativeValue_7811> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#QuantitativeValue_7811> <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#UnitPriceSpecification_7811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#UnitPriceSpecification_7811> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#UnitPriceSpecification_7811> <http://purl.org/goodrelations/v1#hasMaxCurrencyValue> "278"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#UnitPriceSpecification_7811> <http://purl.org/goodrelations/v1#hasMinCurrencyValue> "255"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pooldawg.com/catalog/product/view/id/7811/#UnitPriceSpecification_7811> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:genid2dff04465e193e4c09b490b91920c88be42dN74190 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .

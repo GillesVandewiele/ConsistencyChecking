@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71933 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71933 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71933 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71971 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71981 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71981 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71981 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71981 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$29.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71981 .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#description> "<p> The Line Up Surf Shirt has a relaxed fit with superior sun protection for a comfortable day in the water every time.</p> <ul> <li> 6.3 oz. UPF 50+ surf shirt.</li> <li> Short sleeve loose fit style with crew neck design.</li> <li> Flatlock stitching.</li> <li> Boardshort loop fastener.</li> <li> Loose fit.</li> </ul>" .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#name> "Quiksilver Men's Line Up S/S Relaxed Fit Surf Shirt" .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71933 .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/quiksilver-mens-line-up-s-s-relaxed-fit-surf-shirt-48998/#offering> .
+_:genid2dca1471f538964a9cafe7981bb4c7e7c72dN71962 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2df26a11c005eb42c7928ee62caff4a2fa2dN71730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

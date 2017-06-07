@@ -1,0 +1,30 @@
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/image> <http://www.bigscreenimages.com/Graphics/MovieGraphics/120472.jpg> .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/director> _:nodee830d3f72814edcd5d14262e252f989 .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/description> "1944. As the war in Europe continues to take its toll on Allied forces, the Pentagon brass has no recourse but to consider unorthodox options \u2013 including the untried and untested African-American pilots of the experimental Tuskegee training program. \n\nJust as the young Tuskegee men are on the brink of being shut down and shipped back home, they are given the ultimate chance to show their courage. \n\nAgainst all the odds, with something to prove and everything to lose, these intrepid young airmen take to the skies to fight for their country \u2013 and the fate of the free world." .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/name> "Red Tails" .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/contentRating> "Null" .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/genre> "Action/Adventure" .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/aggregateRating> _:nodefb35d09f5acbc4771532d23709060c2 .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/actor> _:node8e81d6abf18043c520a46df036421 .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/actor> _:node727cf90134cce99955cbd42da954 .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/actor> _:node90fa9a0b05ce2837257fae4beaebd5 .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/actor> _:node98c59e973ef53c1a97a8472963f906d .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://schema.org/actor> _:node7cbf9d2fa2611fe0cc973702536145a .
+_:nodefb35d09f5acbc4771532d23709060c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodefb35d09f5acbc4771532d23709060c2 <http://schema.org/bestRating> "4" .
+_:nodefb35d09f5acbc4771532d23709060c2 <http://schema.org/ratingValue> "3.25" .
+_:nodefb35d09f5acbc4771532d23709060c2 <http://schema.org/worstRating> "1" .
+_:nodefb35d09f5acbc4771532d23709060c2 <http://schema.org/reviewCount> "4" .
+_:node90fa9a0b05ce2837257fae4beaebd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node90fa9a0b05ce2837257fae4beaebd5 <http://schema.org/name> "Cuba Gooding Jr." .
+_:nodee830d3f72814edcd5d14262e252f989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee830d3f72814edcd5d14262e252f989 <http://schema.org/name> "Anthony Hemingway" .
+_:node8e81d6abf18043c520a46df036421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node8e81d6abf18043c520a46df036421 <http://schema.org/name> "Bryan Cranston" .
+_:node727cf90134cce99955cbd42da954 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node727cf90134cce99955cbd42da954 <http://schema.org/name> "Terrence Howard" .
+_:node98c59e973ef53c1a97a8472963f906d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node98c59e973ef53c1a97a8472963f906d <http://schema.org/name> "Daniela Ruah" .
+_:node7cbf9d2fa2611fe0cc973702536145a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node7cbf9d2fa2611fe0cc973702536145a <http://schema.org/name> "Michael B. Jordan" .
+_:node5e8161c5968c1413207cb811ac3681f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

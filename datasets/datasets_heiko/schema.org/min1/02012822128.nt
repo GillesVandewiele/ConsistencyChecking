@@ -1,0 +1,8 @@
+_:noded8fbea1a562cb671a536f8b51c89b <http://schema.org/datePublished> "2013-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:noded8fbea1a562cb671a536f8b51c89b <http://schema.org/text> "March 16 is supposed to be National Lips Day or Lips Appreciation Day. It\u2019s not lipstick day or kissing day; just lips day. This video is the first thing I thought of when I learned about this day.\u00A0I know its for kids, but it always makes me smile and is so appropriate for National Lips Day.\nHere\u2019s Larry singing \u201CI love my lips.\u201D\n\n\n\nRelated Posts\nNone\n\n"@en-us .
+_:noded8fbea1a562cb671a536f8b51c89b <http://schema.org/headline> "National Lips Day With Larry The Cucumber"@en-us .
+_:nodeb0972fd990a260395adff3cbbc22d267 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:nodeb0972fd990a260395adff3cbbc22d267 <http://schema.org/mainContentOfPage> _:node719f291388b7e81dbe4d758b195aa83e .
+_:node719f291388b7e81dbe4d758b195aa83e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:node719f291388b7e81dbe4d758b195aa83e <http://schema.org/blogPost> _:noded8fbea1a562cb671a536f8b51c89b .
+_:nodec0fcf4785650a7f3226d9418d74cc438 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

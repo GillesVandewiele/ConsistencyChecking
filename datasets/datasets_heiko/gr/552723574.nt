@@ -1,0 +1,15 @@
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/438878.jpg" .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://ogp.me/ns#description> "Buy Hammered Steel 36-in. Premier Offset Hook Ceiling Bar by Enclume by Enclume at Cooking.com. Get Furnishings and Enclume, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/hammered-steel-36-in-premier-offset-hook-ceiling-bar-by-enclume_438878_11/" .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://ogp.me/ns#title> "Hammered Steel 36-in. Premier Offset Hook Ceiling Bar by Enclume at Cooking.com" .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/hammered-steel-36-in-premier-offset-hook-ceiling-bar-by-enclume_438878_11/> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.eastwood.com/stud-welder-dent-pulling-system.html#TypeAndQuantityNode_224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

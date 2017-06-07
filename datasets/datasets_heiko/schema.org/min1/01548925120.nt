@@ -1,0 +1,33 @@
+_:nodea319e43401faf4d1d611b80757764 <http://schema.org/name> "\n\t\t\t\t\tAuthentic Ann Arbor\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea319e43401faf4d1d611b80757764 <http://schema.org/url> <http://www.meetup.com/Authentic-Ann-Arbor/> .
+_:noded0a03d273423c02655fcb445c33c6321 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded0a03d273423c02655fcb445c33c6321 <http://schema.org/name> "\n\t\t\t\t\tHeal-Love-Laugh\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded0a03d273423c02655fcb445c33c6321 <http://schema.org/url> <http://www.meetup.com/Heal-Love-Laugh/> .
+_:node3e2cdc912c1a61ee713798dea5eaf1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3e2cdc912c1a61ee713798dea5eaf1 <http://schema.org/name> "\n\t\t\t\t\tGame Makers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node3e2cdc912c1a61ee713798dea5eaf1 <http://schema.org/url> <http://www.meetup.com/GameMakers/> .
+_:node88173412c78148379acd548183ba5767 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node88173412c78148379acd548183ba5767 <http://schema.org/name> "\n\t\t\t\t\tPretty Women ROCK Together\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node88173412c78148379acd548183ba5767 <http://schema.org/url> <http://www.meetup.com/Pretty-Women-ROCK-Together/> .
+_:nodef4818f361f653545e4e08382ee77e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef4818f361f653545e4e08382ee77e0 <http://schema.org/name> "\n\t\t\t\t\tMichigan Minecraft Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef4818f361f653545e4e08382ee77e0 <http://schema.org/url> <http://www.meetup.com/Minecraft-Meetup/> .
+_:nodef1cda6a247c38e3bf3d2774fb1c8fe5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef1cda6a247c38e3bf3d2774fb1c8fe5 <http://schema.org/name> "\n\t\t\t\t\tGamify Learning - The Quest 2 Learn\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef1cda6a247c38e3bf3d2774fb1c8fe5 <http://schema.org/url> <http://www.meetup.com/Gamify-Learning-The-Quest-2-Learn/> .
+_:nodeeae08d91556ca4f3475be6e879bd591 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeeae08d91556ca4f3475be6e879bd591 <http://schema.org/name> "\n\t\t\t\t\tS.E. Mich -  Starship / Space Ship Bridge Simulators\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeeae08d91556ca4f3475be6e879bd591 <http://schema.org/url> <http://www.meetup.com/S-E-Mich-Starship-Space-Ship-Bridge-Simulators/> .
+_:nodeb68c3a5847e46c80a858b4ddcc89fa8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeb68c3a5847e46c80a858b4ddcc89fa8f <http://schema.org/name> "\n\t\t\t\t\tHartland-Area Geek Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeb68c3a5847e46c80a858b4ddcc89fa8f <http://schema.org/url> <http://www.meetup.com/Hartland-Geek-Club/> .
+_:node59198fadc69edb55fc55e777b5fa8fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node59198fadc69edb55fc55e777b5fa8fe <http://schema.org/name> "\n\t\t\t\t\tNext Shot Golf/ Ann Arbor Learn,Practice, and Play Network\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node59198fadc69edb55fc55e777b5fa8fe <http://schema.org/url> <http://www.meetup.com/Next-Shot-Golf-The-A2-Golf-Learn-Practice-and-Play-Network/> .
+_:node6c5ac61bda169ddd99c905b661fe779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6c5ac61bda169ddd99c905b661fe779 <http://schema.org/name> "\n\t\t\t\t\tVNEXT Windows Tablet Users Meet-Up Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node6c5ac61bda169ddd99c905b661fe779 <http://schema.org/url> <http://www.meetup.com/Surface/> .
+_:node7fe047a2cb4c6952ebc93f20b74aa66a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node7fe047a2cb4c6952ebc93f20b74aa66a <http://schema.org/name> "\n\t\t\t\t\tGirl Develop It Ann Arbor\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node7fe047a2cb4c6952ebc93f20b74aa66a <http://schema.org/url> <http://www.meetup.com/Girl-Develop-It-Ann-Arbor/> .
+_:nodec41fd8a671bd18f6badb480e8f385d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .

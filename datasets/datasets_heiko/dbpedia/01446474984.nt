@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Lisp_(programming_language)> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/John_McCarthy_(computer_scientist)> .
+<http://dbpedia.org/resource/Lisp_(programming_language)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Lisp_(programming_language)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProgrammingLanguage> .
+<http://dbpedia.org/resource/Lisp_(programming_language)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/John_McCarthy_(computer_scientist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/John_McCarthy_(computer_scientist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_McCarthy_(computer_scientist)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

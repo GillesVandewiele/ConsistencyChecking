@@ -1,0 +1,3 @@
+_:node8868485fe62abf974ab8abbcc3a267d2 <http://schema.org/name> "Boathouse at Gateway Grove Resort, Redmond, n.d. :: Eastside Heritage Center" .
+_:node8868485fe62abf974ab8abbcc3a267d2 <http://schema.org/image> "http://digitalcollections.lib.washington.edu/utils/getthumbnail/collection/imlseastside/id/33" .
+_:node9c1246bec7774770e17f7a7fcc171613 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

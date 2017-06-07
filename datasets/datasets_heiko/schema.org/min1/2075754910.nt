@@ -1,0 +1,17 @@
+_:nodec575922341f65a7fa21d23424331c2e2 <http://schema.org/name> "Old Billingsgate, Rebecca Hall"@en .
+_:nodec575922341f65a7fa21d23424331c2e2 <http://schema.org/url> <http://www.contactmusic.com/pics/mf/moet_bifa_061211/rebecca-hall-the-2011-moet-british-independent_3643181.jpg> .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/url> "http://www.contactmusic.com/news/rebecca-hall-tipped-to-replace-jessica-chastain-in-iron-man-sequel_1326465"@en .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/name> "Rebecca Hall Tipped To Replace Jessica Chastain In Iron Man Sequel"@en .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/author> _:nodeefbc2ac63458da95bbe5a32052ab .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/headline> "Rebecca Hall - Rebecca Hall Tipped To Replace Jessica Chastain In Iron Man Sequel"@en .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/articleBody> "The Town actress Rebecca Hall is in talks to replace Jessica Chastain in the upcoming Iron Man 3.Chastain was set to play a scientist who develops a terrifying virus in the superhero sequel, but The Help star apologised to her fans on Monday (07May12) after pulling out of the role due to scheduling conflicts. And filmmakers are not wasting any time in filling the vacant spot - they have begun negotiations with Hall to take over as Robert Downey, Jr.'s new leading lady, according to Variety.com. Screenwriter/director Shane Black has been drafted in to take over the franchise's reigns from Jon Favreau and production is set to begin in North Carolina later this month (May12) before relocating to China. The film is due for release in May, 2013."@en .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/publisher> _:node6a56cc91a633dd152a6369d40c02684 .
+_:nodeceb4b0307852edfeaf189181bed77294 <http://schema.org/associatedMedia> _:nodec575922341f65a7fa21d23424331c2e2 .
+_:nodeefbc2ac63458da95bbe5a32052ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeefbc2ac63458da95bbe5a32052ab <http://schema.org/name> "WENN"@en .
+_:node6a56cc91a633dd152a6369d40c02684 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node6a56cc91a633dd152a6369d40c02684 <http://schema.org/name> "Contactmusic.com"@en .
+_:node6a56cc91a633dd152a6369d40c02684 <http://schema.org/brand> "Contactmusic.com"@en .
+_:node6a56cc91a633dd152a6369d40c02684 <http://schema.org/logo> "http://www.contactmusic.com/images/contactmusic_logo_no_tm_30x30.png"@en .
+_:nodea53fe7e981a723aefebf97a6eb4e462f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

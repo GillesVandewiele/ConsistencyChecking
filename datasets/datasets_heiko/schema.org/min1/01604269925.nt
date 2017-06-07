@@ -1,0 +1,40 @@
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/author> _:node1ee779b8f105a9a666684b5b78995b .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/text> _:node67f4915fcae7ff85975c1719d1b346c .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/image> "http://image.slidesharecdn.com/pptdeclula-120515194854-phpapp01/95/ppt-de-clula-1-728.jpg?cb=1337129396" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/image> <http://es.slideshare.net/ProfeBiologiaMedia/ppt-de-clula///public.slidesharecdn.com/b/images/user-48x48.png> .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/embedURL> "http://es.slideshare.net/slideshow/embed_code/12948202" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/playerType> "HTML5" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/interactionCount> "3" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/commentCount> "0" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/inLanguage> "pt" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/thumbnailUrl> "http://cdn.slidesharecdn.com/ss_thumbnails/pptdeclula-120515194854-phpapp01-thumbnail.jpg?cb=1337129396" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/headline> "Ppt de c\u00E9lula" .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/description> "\n                \u00A0\n              " .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://schema.org/datePublished> "2012-05-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node67f4915fcae7ff85975c1719d1b346c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Text> .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        1.\n                      ESCALA DE OBSERVACI\u00D3N \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         2.\n                        \n                      ORGANISMOS UNICELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         3.\n                        \n                      FORMAS CELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         4.\n                        \n                      FORMAS CELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         5.\n                        \n                      FORMAS CELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         6.\n                        \n                      ESQUEMA DE CELULA PROCARIONTE \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         7.\n                        \n                      ESQUEMA DE CELULA EUCARIONTE VEGETAL \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         8.\n                        \n                      CELULA EUCARIONTE VEGETAL VISTA EN MICROSC\u00D3PIO \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         9.\n                        \n                      ESQUEMA C\u00C9LULA EUCARIONTE         ANIMAL \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         10.\n                        \n                      C\u00C9LULAS EUCARIONTE ANIMAL VISTA        EN MICROSCOPIO \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         11.\n                        \n                      C\u00C9LULAS EUCARIONTE ANIMAL VISTA        EN MICROSCOPIO \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         12.\n                        \n                      ORGANELOS CELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         13.\n                        \n                      ORGANELOS CELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         14.\n                        \n                      ORGANELOS CELULARES \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         15.\n                        \n                      LA MEMBRANA CELULAR \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         16.\n                        \n                      FUNCI\u00D3N DE LOS ORGANELOS \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         17.\n                        \n                      FUNCI\u00D3N DE LA MITOCONDRIA \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         18.\n                        \n                      FUNCI\u00D3N DEL CLOROPLASTO \n                    " .
+_:node67f4915fcae7ff85975c1719d1b346c <http://schema.org/text> "\n                        \n                         19.\n                        \n                      FIN \n                    " .
+_:node1ee779b8f105a9a666684b5b78995b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1ee779b8f105a9a666684b5b78995b <http://schema.org/image> <http://es.slideshare.net/ProfeBiologiaMedia/ppt-de-clula///cdn.slidesharecdn.com/profile-photo-ProfeBiologiaMedia-48x48.jpg?cb=1384355158> .
+_:node1ee779b8f105a9a666684b5b78995b <http://schema.org/name> <http://es.slideshare.net/ProfeBiologiaMedia/ppt-de-clula//ProfeBiologiaMedia?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview> .
+_:node1ee779b8f105a9a666684b5b78995b <http://schema.org/jobTitle> "\n                            Asesor\u00EDa pedag\u00F3gicas\n                          " .
+_:node1ee779b8f105a9a666684b5b78995b <http://schema.org/url> <http://es.slideshare.net/ProfeBiologiaMedia/ppt-de-clula//ProfeBiologiaMedia?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview> .
+_:node1ee779b8f105a9a666684b5b78995b <http://schema.org/worksFor> "\n                            Corporaciones, colegios, otros\n                          " .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

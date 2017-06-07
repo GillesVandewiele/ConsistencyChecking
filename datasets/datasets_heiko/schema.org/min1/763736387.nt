@@ -1,0 +1,9 @@
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/name> <http://jp.hotels.com/de1509336/hotels-shirinsugurobu-penshirubania-zhou//> .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/name> <http://jp.hotels.com/co225/hotels-in-amerika/> .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/name> <http://jp.hotels.com/sa39/hotels-in-penshirubania-zhou-amerika/> .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/name> "\u30B7\u30FC\u30EA\u30F3\u30B9\u30B0\u30ED\u30FC\u30D6\u30DB\u30C6\u30EB"@ja .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/breadcrumb> "\u30DB\u30C6\u30EB\u30A2\u30E1\u30EA\u30AB\u30DB\u30C6\u30EB - \u30A2\u30E1\u30EA\u30AB\u683C\u5B89\u30DB\u30C6\u30EB\u4E88\u7D04\u30DA\u30F3\u30B7\u30EB\u30D0\u30CB\u30A2\u5DDE\u306E\u30DB\u30C6\u30EB\u30B7\u30FC\u30EA\u30F3\u30B9\u30B0\u30ED\u30FC\u30D6\u30DB\u30C6\u30EB"@ja .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/url> <http://jp.hotels.com/de1509336/hotels-shirinsugurobu-penshirubania-zhou//> .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/url> <http://jp.hotels.com/co225/hotels-in-amerika/> .
+_:node303aed6f5a94edc53ad923cfd4a662 <http://schema.org/url> <http://jp.hotels.com/sa39/hotels-in-penshirubania-zhou-amerika/> .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

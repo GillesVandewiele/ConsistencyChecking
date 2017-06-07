@@ -1,0 +1,15 @@
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/530847.jpg" .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://ogp.me/ns#description> "Buy Slate 15x11-in. Kitchen Series Cutting Board by Epicurean by Epicurean at Cooking.com. Get Knives and Epicurean, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/slate-15x11-in-kitchen-series-cutting-board-by-epicurean-cutting-surfaces_530847_11/0/0/" .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://ogp.me/ns#title> "Slate 15x11-in. Kitchen Series Cutting Board by Epicurean at Cooking.com" .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/slate-15x11-in-kitchen-series-cutting-board-by-epicurean-cutting-surfaces_530847_11/0/0/> .
+_:genid2dda8853f14de643478e61a360594c9a542dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d55a761f90976472489d1fbf6c4fec8cb2dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

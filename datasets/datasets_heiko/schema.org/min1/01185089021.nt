@@ -1,0 +1,19 @@
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Wallets,\u200BLetter,\u200B7\" Expansion,\u200BElastic Closure,\u200BRedrope"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Wallets,\u200BLegal,\u200B5-1/4\" Expansion,\u200BElastic Closure,\u200BRedrope"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Wallets,\u200BLegal,\u200B7\" Expansion,\u200BElastic Closure,\u200BRedrope"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  A-Z Expanding File,\u200B Letter,\u200B 21 Pockets,\u200B 12\"x10\",\u200BLeather-like"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  A-Z Expanding File,\u200B Legal,\u200B 21 Pockets,\u200B 15\"x10\",\u200BLeather-like"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Expanding Pocket,\u200B 12 Pocket,\u200B 7/8\" Exp,\u200B 13\"x9-1/4\",\u200B Purple"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Expanding Pocket,\u200B 12 Pocket,\u200B 7/8\" Exp,\u200B 13\"x9-1/4\",\u200B Green"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Expanding Pocket,\u200B 12 Pocket,\u200B 7/8\" Exp,\u200B 13\"x9-1/4\",\u200B Blue"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Expanding Files w/\u200BFlap,\u200B 12\"x10\",\u200B Letter,\u200B Jan-Dec,\u200B Kraft"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  A-Z Expanding File,\u200B Letter,\u200B 21 Pockets,\u200B 12\"x10\",\u200B Kraft"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Expanding File With Flap,\u200B13 Pocket,\u200BLtr,\u200B13\"x1-1/8\"x9-1/2\",\u200BBK"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/name> "Smead Manufacturing Company  Secure Expanding File,\u200B Ltr,\u200B 12-Pocket,\u200B 12\"x10\",\u200B Black"@en-us .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/breadcrumb> <http://dollardays.com/wholesale-expanding-and-wallet-files-pg4.html//wholesale-office-and-school.html> .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/breadcrumb> <http://dollardays.com/wholesale-expanding-and-wallet-files-pg4.html//wholesale-office-and-school-supplies.html> .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/breadcrumb> <http://dollardays.com/wholesale-expanding-and-wallet-files-pg4.html//wholesale-office-organization.html> .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/breadcrumb> <http://dollardays.com/wholesale-expanding-and-wallet-files-pg4.html//wholesale-filing-supplies.html> .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/breadcrumb> <http://dollardays.com/wholesale-expanding-and-wallet-files-pg4.html//wholesale-files.html> .
+_:nodea7ad741e1c98e0dc1cf622150574c92 <http://schema.org/breadcrumb> "Expanding and Wallet Files"@en-us .
+_:nodee2c719ad2164aa82bc319a4b5b79dde <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

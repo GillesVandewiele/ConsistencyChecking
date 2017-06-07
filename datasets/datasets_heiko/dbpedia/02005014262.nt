@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Donald_Knuth> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Knuth%E2%80%93Bendix_completion_algorithm> .
+<http://dbpedia.org/resource/Donald_Knuth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Donald_Knuth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Donald_Knuth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .

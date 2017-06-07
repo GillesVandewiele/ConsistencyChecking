@@ -1,0 +1,9 @@
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/name> <http://hr.hotels.com/de1641658-th18/hoteli-pustolovni-bergisches-land-njemacka//> .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/name> <http://hr.hotels.com/co82/hoteli-njemacka/> .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/name> <http://hr.hotels.com/de1641658/hoteli-bergisches-land-njemacka/> .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/name> "Pustolovni hoteli - Bergisches Land"@hr .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/breadcrumb> "HoteliHoteli u zemlji: Njema\u010DkaHoteli u Bergisches LandPustolovni hoteli - Bergisches Land"@hr .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/url> <http://hr.hotels.com/de1641658-th18/hoteli-pustolovni-bergisches-land-njemacka//> .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/url> <http://hr.hotels.com/co82/hoteli-njemacka/> .
+_:nodefa5149f6ef730b74f32155669b4d65d <http://schema.org/url> <http://hr.hotels.com/de1641658/hoteli-bergisches-land-njemacka/> .
+_:node5cad71a2cd613c77f4f7974b049eb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

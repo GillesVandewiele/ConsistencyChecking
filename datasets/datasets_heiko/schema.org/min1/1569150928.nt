@@ -1,0 +1,48 @@
+_:node545cb64b977d964da2f6c86478bafa1 <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:node545cb64b977d964da2f6c86478bafa1 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:noded83c876cf5e919edc337d576243d91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded83c876cf5e919edc337d576243d91 <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:noded83c876cf5e919edc337d576243d91 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:nodec7fc8accbd4266f5a589ac6f85a2afc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec7fc8accbd4266f5a589ac6f85a2afc <http://schema.org/name> "Jorge Newbery"@he .
+_:nodec7fc8accbd4266f5a589ac6f85a2afc <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:nodedd73c98969cd6fff1e3552b3f1bd2e27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodedd73c98969cd6fff1e3552b3f1bd2e27 <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:nodedd73c98969cd6fff1e3552b3f1bd2e27 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:nodee56e48bce6f0a01bb556388a8312f4ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee56e48bce6f0a01bb556388a8312f4ba <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:nodee56e48bce6f0a01bb556388a8312f4ba <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:node1e1a1ca37766d379ca1b86e071cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node1e1a1ca37766d379ca1b86e071cd <http://schema.org/name> "Jorge Newbery"@he .
+_:node1e1a1ca37766d379ca1b86e071cd <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:node6d2d5e57e87ef1324437d7dd9c3a798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6d2d5e57e87ef1324437d7dd9c3a798 <http://schema.org/name> "Jorge Newbery"@he .
+_:node6d2d5e57e87ef1324437d7dd9c3a798 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:nodedb17e81e1ac3c791dad8fc27ac3b5215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodedb17e81e1ac3c791dad8fc27ac3b5215 <http://schema.org/name> "Jorge Newbery"@he .
+_:nodedb17e81e1ac3c791dad8fc27ac3b5215 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:node51d8fcece7a8f6f7e1ba715160744e53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node51d8fcece7a8f6f7e1ba715160744e53 <http://schema.org/name> "Jorge Newbery"@he .
+_:node51d8fcece7a8f6f7e1ba715160744e53 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:nodee33144abf2e813ee766426b345947e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee33144abf2e813ee766426b345947e <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:nodee33144abf2e813ee766426b345947e <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:node6067ae6a41af864f8ad7b29628c549b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6067ae6a41af864f8ad7b29628c549b <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:node6067ae6a41af864f8ad7b29628c549b <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:node61ea6aa7423b3c6136c0e163cf75de14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node61ea6aa7423b3c6136c0e163cf75de14 <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:node61ea6aa7423b3c6136c0e163cf75de14 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:node6564325817c324e382ae3afd40794171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6564325817c324e382ae3afd40794171 <http://schema.org/name> "Comodoro Arturo Merino Benitez Int'l"@he .
+_:node6564325817c324e382ae3afd40794171 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SCEL> .
+_:nodec83dbd207357fceb1ebd10712ad3a72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec83dbd207357fceb1ebd10712ad3a72 <http://schema.org/name> "Jorge Newbery"@he .
+_:nodec83dbd207357fceb1ebd10712ad3a72 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:nodecfa7cbbcbf26333cabe3cdf264e46560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodecfa7cbbcbf26333cabe3cdf264e46560 <http://schema.org/name> "Jorge Newbery"@he .
+_:nodecfa7cbbcbf26333cabe3cdf264e46560 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:nodeb6cdfa5c8912c8248ee77657dbd1a554 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb6cdfa5c8912c8248ee77657dbd1a554 <http://schema.org/name> "Jorge Newbery"@he .
+_:nodeb6cdfa5c8912c8248ee77657dbd1a554 <http://schema.org/url> <http://he.flightaware.com/live/flight/LAN440//live/airport/SABE> .
+_:nodeebab23f826ba6f34a82896c0e173eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .

@@ -1,0 +1,6 @@
+_:node2493314c2f5c36fd8581af9b8e509f39 <http://schema.org/name> "How long does fresh parsley keep in the fridge?" .
+_:node2493314c2f5c36fd8581af9b8e509f39 <http://schema.org/title> "How long does fresh parsley keep in the fridge?" .
+_:node2493314c2f5c36fd8581af9b8e509f39 <http://schema.org/description> "How long does fresh parsley stay good if kept in a refrigerator?\n" .
+_:node2493314c2f5c36fd8581af9b8e509f39 <http://schema.org/image> "http://cdn.sstatic.net/cooking/img/apple-touch-icon@2.png?v=f987de6cbbd2" .
+_:node2493314c2f5c36fd8581af9b8e509f39 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/cooking/img/apple-touch-icon@2.png?v=f987de6cbbd2" .
+_:nodef9e38ad1da39ed6f44a9abccfffa182 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

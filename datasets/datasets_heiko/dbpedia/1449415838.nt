@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/TNT_(TV_channel)> <http://dbpedia.org/ontology/sisterStation> <http://dbpedia.org/resource/CNN_Arabic> .
+<http://dbpedia.org/resource/TNT_(TV_channel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/TNT_(TV_channel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/TNT_(TV_channel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> .
+<http://dbpedia.org/resource/TNT_(TV_channel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionStation> .

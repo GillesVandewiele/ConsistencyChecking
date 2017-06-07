@@ -1,0 +1,6 @@
+_:nodea9a38db8de78e74e12948b5edce65d8 <http://schema.org/name> "Is there a good Hotmail client for Mac OS X?" .
+_:nodea9a38db8de78e74e12948b5edce65d8 <http://schema.org/title> "Is there a good Hotmail client for Mac OS X?" .
+_:nodea9a38db8de78e74e12948b5edce65d8 <http://schema.org/description> "I have had an Hotmail account since 1997 (i.e. don't ask me to switch - have hundreds of filters and folders and thousands of contacts) and I recently switched to a Mac and I am looking for a Mac c..." .
+_:nodea9a38db8de78e74e12948b5edce65d8 <http://schema.org/image> "http://cdn.sstatic.net/apple/img/apple-touch-icon@2.png?v=c35bdfbaec7c" .
+_:nodea9a38db8de78e74e12948b5edce65d8 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/apple/img/apple-touch-icon@2.png?v=c35bdfbaec7c" .
+_:node6a6ce083fa697a285fece2c307b8a81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

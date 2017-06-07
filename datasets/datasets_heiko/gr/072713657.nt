@@ -1,0 +1,21 @@
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68778 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity UK" .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68840 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68840 .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "LL042-BLK-SZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://purl.org/goodrelations/v1#description> "These super comfortable 80 denier maternity tights are infused with skin conditioning Aloe Vera to keep your legs looking and feeling silky soft.." .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver Premium Support Tights With Aloe Vera" .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/shop/maternity-clothes/isabella-oliver-accessories/premium-support-tights-with-aloe-vera-black.htm> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://rdf.data-vocabulary.org/#votes> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://purl.org/stuff/rev#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://purl.org/stuff/rev#totalRatings> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dabc20dcbaf8f47268eaed47fb5c5575c2dN68858 <http://rdf.data-vocabulary.org/#average> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.ridershack.com/mcnett-iron-mend.html#offering> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.ridershack.com/#shop> .

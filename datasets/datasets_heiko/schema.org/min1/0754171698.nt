@@ -1,0 +1,6 @@
+_:node3fb665729d07f974c2d6a1f46ca20df <http://schema.org/name> "Can a T-SQL variable represent an entire row?" .
+_:node3fb665729d07f974c2d6a1f46ca20df <http://schema.org/title> "Can a T-SQL variable represent an entire row?" .
+_:node3fb665729d07f974c2d6a1f46ca20df <http://schema.org/description> "I'm coding for SQL Server 2008 R2. I have two databases that contains dozens of tables.\n\nEach table in one database contains a table with the same name in the other database.\n\nTables with the same ..." .
+_:node3fb665729d07f974c2d6a1f46ca20df <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node3fb665729d07f974c2d6a1f46ca20df <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node1ce72a96e1f834eccfb8bbb58ac74c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

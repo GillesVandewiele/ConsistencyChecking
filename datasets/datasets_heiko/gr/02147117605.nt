@@ -1,0 +1,15 @@
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/625116.jpg" .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://ogp.me/ns#description> "Buy Ivory 18-qt. Porcelain Cookwell Electric Roaster by Nesco by Nesco at Cooking.com. Get Small Appliances and Nesco, along with reviews, home entertaining tips and more. Cook and Entertain like a pro with kitchenware from Cooking.com." .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/ivory-18-qt-porcelain-cookwell-electric-roaster-by-nesco_625116_11/" .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://ogp.me/ns#title> "Ivory 18-qt. Porcelain Cookwell Electric Roaster by Nesco at Cooking.com" .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/ivory-18-qt-porcelain-cookwell-electric-roaster-by-nesco_625116_11/> .
+_:genid2de69ec390577a480cb12dc9f9e731efa92dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+_:genid2d834289fd34684036bf273b309bd151682dN66118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

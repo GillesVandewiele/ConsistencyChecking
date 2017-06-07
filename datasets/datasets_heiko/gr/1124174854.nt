@@ -1,0 +1,15 @@
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/213457.jpg" .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://ogp.me/ns#description> "The perfect blend of form and function, this eye catching All-Clad 7-pc. Master Chef 2 Stainless Steel Cookware Set from Cooking.com will quickly become a centerpiece in your kitchen. Explore the cookware sets by All-Clad at Cooking.com." .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/7-pc-master-chef-2-mc2-stainless-steel-cookware-set-by-all-clad_213457_11/0/0/" .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://ogp.me/ns#title> "7-pc. MC2 Stainless Steel Cookware Set by All-Clad at Cooking.com" .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/7-pc-master-chef-2-mc2-stainless-steel-cookware-set-by-all-clad_213457_11/0/0/> .
+_:genid2d3a36db52e59249e7a3dbcccd4eada5052dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.eezytrade.co.uk/genuine-magenta-hp-ce743a-toner-cartridge-ce740a.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.1> .

@@ -1,0 +1,16 @@
+<http://www.joke.co.uk/fox-hunter-fox-couple-costumes~74110/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68287 .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dN68249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dN68249 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68249 .
+<http://www.joke.co.uk/fox-hunter-fox-couple-costumes~74110/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/fox-hunter-fox-couple-costumes~74110/#main> <http://purl.org/goodrelations/v1#name> "Fox Hunter & Fox Couple Costumes"@en .
+<http://www.joke.co.uk/fox-hunter-fox-couple-costumes~74110/#main> <http://purl.org/goodrelations/v1#description> "Choose whether you want to be the hunter or the hunted with our Fox Hunter & Fox Couple Costumes!  These amusing outfits are a fantastic and original fancy dress idea.\n\nHunter Costume includes:\n\nJacket\nCollar with cravat\nTrousers\nHat\nBoot tops\n\n\nThe Fox Hunter Costume includes a smart red jacket with gold coloured buttons down the front of the garment.\n\nAlso included is a white collar with an attached cravat, a pair of matching trousers, a black hat with a chin strap and a pair of black boot tops.\n\nFox Costume includes:\n\nJumpsuit\nHeadpiece\n\n\nThe Fox Costume includes a brown zip-up jumpsuit with a central white chest and stomach area and attached hand and shoe covers.\n\nAlso included is a stuffed fox headpiece with fur detailing."@en .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68183 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68183 <http://rdf.data-vocabulary.org/#rating> "5"@en .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68287 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68249 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68249 <http://purl.org/goodrelations/v1#hasCurrencyValue> "69.99"@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=74110> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=74110> .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dN68183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dN68183 <http://rdf.data-vocabulary.org/#hasReview> _:genid2df523fc04a11449ceb7ffbd647895bc9c2dINSIDE5fN68183 .
+_:genid2df523fc04a11449ceb7ffbd647895bc9c2dN68183 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=74110> .
+_:genid2d3377b7d69d934c928dd006a3038599c82dN67648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

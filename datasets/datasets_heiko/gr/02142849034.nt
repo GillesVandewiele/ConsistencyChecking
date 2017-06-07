@@ -1,0 +1,29 @@
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.lebanesemall.com/banners/dbpics/banners/129_dynamic-dezyne-marketing-business-banner-2.jpg> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#description> "Promoting Lebanese companies and services to the world" .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#name> "Promoting Lebanon to the world" .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#ByBankTransferInAdvance> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "LB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#includes> <http://www.lebanesemall.com/elite-contact.php#product> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#ProvideService> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://xmlns.com/foaf/0.1/page> <http://www.lebanesemall.com/index.php> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Business> .
+_:genid2ddd35e713266041dd9ff7fbb9e2aed5382dN66938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2ddd35e713266041dd9ff7fbb9e2aed5382dN66938 <http://www.w3.org/2006/vcard/ns#postal-code> "N/A" .
+_:genid2ddd35e713266041dd9ff7fbb9e2aed5382dN66938 <http://www.w3.org/2006/vcard/ns#locality> "Sarba" .
+_:genid2ddd35e713266041dd9ff7fbb9e2aed5382dN66938 <http://www.w3.org/2006/vcard/ns#street-address> "kaslik Highway" .
+_:genid2ddd35e713266041dd9ff7fbb9e2aed5382dN66938 <http://www.w3.org/2006/vcard/ns#country-name> "Lebanon" .
+<http://www.lebanesemall.com#company> <http://purl.org/goodrelations/v1#offers> <http://www.lebanesemall.com/elite-contact.php#offering> .
+<http://www.lebanesemall.com/elite-contact.php#company> <http://xmlns.com/foaf/0.1/logo> <http://www.lebanesemall.com/banners/dbpics/banners/129_dynamic-dezyne-marketing-business-banner-2.jpg> .
+<http://www.lebanesemall.com/elite-contact.php#company> <http://xmlns.com/foaf/0.1/page> <http://www.lebanesemall.com/elite-contact.php> .
+<http://www.lebanesemall.com/elite-contact.php#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.lebanesemall.com/elite-contact.php#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.lebanesemall.com/elite-contact.php#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.lebanesemall.com/banners/dbpics/banners/129_dynamic-dezyne-marketing-business-banner-2.jpg> .
+<http://www.lebanesemall.com/elite-contact.php#product> <http://purl.org/goodrelations/v1#description> "Promoting Lebanese companies and services to the world" .
+<http://www.lebanesemall.com/elite-contact.php#product> <http://purl.org/goodrelations/v1#category> "Country Portal and Guide" .
+<http://www.lebanesemall.com/elite-contact.php#product> <http://purl.org/goodrelations/v1#name> "Promoting Lebanon to the world" .
+<http://www.lebanesemall.com/elite-contact.php#product> <http://xmlns.com/foaf/0.1/page> <http://www.lebanesemall.com/index.php> .
+<http://www.lebanesemall.com/elite-contact.php#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.lebanesemall.com/elite-contact.php#company> <http://purl.org/goodrelations/v1#legalName> "LibanMall" .
+<http://www.lebanesemall.com/elite-contact.php#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2ddd35e713266041dd9ff7fbb9e2aed5382dN66938 .
+<http://www.lebanesemall.com/elite-contact.php#company> <http://www.w3.org/2006/vcard/ns#tel> "+9613966601" .
+<http://www.charlestonnaturally.com/intelligent-nutrients/intelligent-nutrients-harmonic-shampoo.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

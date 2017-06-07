@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/G%C3%B6ran_Persson> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Lutheranism> .
+<http://dbpedia.org/resource/G%C3%B6ran_Persson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/G%C3%B6ran_Persson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/G%C3%B6ran_Persson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Politician> .
+<http://dbpedia.org/resource/G%C3%B6ran_Persson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PrimeMinister> .

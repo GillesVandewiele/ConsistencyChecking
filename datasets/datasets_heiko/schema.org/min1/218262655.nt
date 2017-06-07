@@ -1,0 +1,24 @@
+_:node4cdee432d2a41a243bc428afdb153d <http://schema.org/name> "\n\t\t\t\t\tGreen Business Allies\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4cdee432d2a41a243bc428afdb153d <http://schema.org/url> <http://www.meetup.com/green-business-allies/> .
+_:nodee068e2f85136e2bcda862e13691cd653 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee068e2f85136e2bcda862e13691cd653 <http://schema.org/name> "\n\t\t\t\t\tQuincy Climate Action Network\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee068e2f85136e2bcda862e13691cd653 <http://schema.org/url> <http://www.meetup.com/Quincy-Climate-Action-Network/> .
+_:node69df75df9f715fca9984f145379675c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node69df75df9f715fca9984f145379675c <http://schema.org/name> "\n\t\t\t\t\tGreater Boston Permaculture Guild\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node69df75df9f715fca9984f145379675c <http://schema.org/url> <http://www.meetup.com/Boston-Permaculture/> .
+_:noded497c6c83383dd1bd338e183f8c25ba3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded497c6c83383dd1bd338e183f8c25ba3 <http://schema.org/name> "\n\t\t\t\t\tThe Easton Area EcoMom Alliance\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:noded497c6c83383dd1bd338e183f8c25ba3 <http://schema.org/url> <http://www.meetup.com/Easton-EcoMom-Alliance/> .
+_:nodeec282a35b4431de7ba8328c82efe5373 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeec282a35b4431de7ba8328c82efe5373 <http://schema.org/name> "\n\t\t\t\t\tSustainable Metrowest\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeec282a35b4431de7ba8328c82efe5373 <http://schema.org/url> <http://www.meetup.com/Sustainable-Metrowest/> .
+_:node62df653ddcb88ad997a7151eef7617c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node62df653ddcb88ad997a7151eef7617c1 <http://schema.org/name> "\n\t\t\t\t\tEveryday Utopia\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node62df653ddcb88ad997a7151eef7617c1 <http://schema.org/url> <http://www.meetup.com/Everyday-Utopia/> .
+_:nodef983658e98a328f030d4d089cce47598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef983658e98a328f030d4d089cce47598 <http://schema.org/name> "\n\t\t\t\t\tCitizens' Climate Lobby   Boston-MetroWest Chapter\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef983658e98a328f030d4d089cce47598 <http://schema.org/url> <http://www.meetup.com/Citizens-Climate-Lobby-Boston-MetroWest-Chapter/> .
+_:nodee1b15ae75862c7548454621450d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee1b15ae75862c7548454621450d8 <http://schema.org/name> "\n\t\t\t\t\tBiodiversity for a Livable Climate\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee1b15ae75862c7548454621450d8 <http://schema.org/url> <http://www.meetup.com/Biodiversity-for-a-Livable-Climate/> .
+_:node4f317dd0168e58375f14ea919d94aa3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

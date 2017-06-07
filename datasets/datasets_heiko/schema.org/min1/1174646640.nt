@@ -1,0 +1,3 @@
+_:node2dbce2915a469d13d5a2f6b4453841a7 <http://schema.org/name> "Pearsons Hall, Pomona College :: Claremont Colleges Photo Archive" .
+_:node2dbce2915a469d13d5a2f6b4453841a7 <http://schema.org/image> "http://ccdl.libraries.claremont.edu/utils/getthumbnail/collection/ccp/id/3392" .
+_:nodee230ec61c43ec0ec971836df8c222a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

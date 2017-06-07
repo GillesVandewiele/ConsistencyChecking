@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Porsche_Boxster__987__1> <http://dbpedia.org/ontology/variantOf> <http://dbpedia.org/resource/Porsche_Boxster> .
+<http://dbpedia.org/resource/Porsche_Boxster__987__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .
+<http://dbpedia.org/resource/Porsche_Boxster__987__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Automobile> .
+<http://dbpedia.org/resource/Porsche_Boxster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Automobile> .
+<http://dbpedia.org/resource/Porsche_Boxster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .

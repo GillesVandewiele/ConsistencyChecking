@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Kentucky> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/English_American> .
+<http://dbpedia.org/resource/Kentucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Kentucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Kentucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Kentucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AdministrativeRegion> .
+<http://dbpedia.org/resource/Kentucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Region> .
+<http://dbpedia.org/resource/English_American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .

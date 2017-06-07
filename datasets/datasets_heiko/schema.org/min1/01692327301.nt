@@ -1,0 +1,15 @@
+_:nodecfcc6e57b854558d560ceb15e12757 <http://schema.org/reviewRating> _:node391279ca48a05324b91d785c138dd4a .
+_:nodecfcc6e57b854558d560ceb15e12757 <http://schema.org/datePublished> "Dec, 2014"@en-us .
+_:nodecfcc6e57b854558d560ceb15e12757 <http://schema.org/name> "Amazon.co.uk review summary for iGadgitz Nero Custodia Case Cover Silicone per SanDisk Sansa Clip Zip 4GB 8GB Lettore MP3 (Pubblicato Agosto 2011)"@en-us .
+_:nodecfcc6e57b854558d560ceb15e12757 <http://schema.org/description> "alaTest has collected and analyzed 10 user reviews of iGadgitz Nero Custodia Case Cover Silicone per SanDisk Sansa Clip Zip 4GB 8GB Lettore MP3 (Pubblicato Agosto 2011) from Amazon.co.uk. The average user rating for this product is 4.0/5, compared to an average user rating of 4.0/5 for other MP3 Player Accessories on Amazon.co.uk. People really like the sound. The usability is also appreciated, but some have doubts about the portability."@en-us .
+_:nodecfcc6e57b854558d560ceb15e12757 <http://schema.org/author> "(amazon.co.uk)"@en-us .
+_:node391279ca48a05324b91d785c138dd4a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node391279ca48a05324b91d785c138dd4a <http://schema.org/ratingValue> "\u00A0"@en-us .
+_:nodef65539ee1fb6802d4b728aeb2caa641 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodef65539ee1fb6802d4b728aeb2caa641 <http://schema.org/price> "$6.47"@en-us .
+_:nodefe3a0342d34af35888cfffdd6aeb6de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodefe3a0342d34af35888cfffdd6aeb6de <http://schema.org/offers> _:nodef65539ee1fb6802d4b728aeb2caa641 .
+_:nodefe3a0342d34af35888cfffdd6aeb6de <http://schema.org/name> "iGadgitz Nero Custodia Case Cover Silicone per SanDisk Sansa Clip Zip 4GB 8GB Lettore MP3 (Pubblicato Agosto 2011)"@en-us .
+_:nodefe3a0342d34af35888cfffdd6aeb6de <http://schema.org/image> <http://ii.alatest.com/product/190x190/6/8/iGadgitz-Black-Silicone-Skin-Case-Cover-for-SanDisk-Sansa-Clip-Zip-4GB-8GB-MP3-P-0.jpg> .
+_:nodefe3a0342d34af35888cfffdd6aeb6de <http://schema.org/review> _:nodecfcc6e57b854558d560ceb15e12757 .
+_:node46b9632f8ffe8f3428d17e7926b5126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

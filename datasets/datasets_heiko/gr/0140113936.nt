@@ -1,0 +1,35 @@
+_:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66940 <http://purl.org/goodrelations/v1#hasMinValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66940 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#TypeAndQuantityNode_870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#TypeAndQuantityNode_870> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#TypeAndQuantityNode_870> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#TypeAndQuantityNode_870> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> .
+_:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66981 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66981 <http://purl.org/goodrelations/v1#hasMinValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66981 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T13:46:22-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T13:46:22-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> <http://purl.org/goodrelations/v1#hasCurrencyValue> "450"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#description> "The Kony TV Stand is for those who enjoy a straightforward design. Although simple in structure, this stand is modern and stylish. With three drawers, you can easily stow away your movies and more, to keep clutter under control to maintain a minimalist design. The Kony TV Stand comes in a brown finish, adding a natural element to your space. Accessorize modern stand by adding your favorite accent, such as the Alma Vase. Limited Stock"@en .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#name> "Kony TV stand Walnut"@en .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66981 .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.modani.com/furniture-stores/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_4674.jpg> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T00:00:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.modani.com/furniture-stores/kony-tv-stand-walnut#UnitPriceSpecification_870_special> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T13:46:22-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#offering> <http://xmlns.com/foaf/0.1/page> <http://www.modani.com/furniture-stores/kony-tv-stand-walnut> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "TVS-KONY"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://purl.org/goodrelations/v1#description> "The Kony TV Stand is for those who enjoy a straightforward design. Although simple in structure, this stand is modern and stylish. With three drawers, you can easily stow away your movies and more, to keep clutter under control to maintain a minimalist design. The Kony TV Stand comes in a brown finish, adding a natural element to your space. Accessorize modern stand by adding your favorite accent, such as the Alma Vase. Limited Stock"@en .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://purl.org/goodrelations/v1#category> "Clearance"@en .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://purl.org/goodrelations/v1#name> "Kony TV stand Walnut"@en .
+<http://www.modani.com/furniture-stores/kony-tv-stand-walnut#product_data> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d56e0982cf2d8444b858009b2aa1a1a932dN66940 .
+<http://www.tvszone.com/littlite-18ghi-i128579.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

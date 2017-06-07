@@ -1,0 +1,13 @@
+_:node717e96d8e6a4f0171492f82619cb239 <http://schema.org/ratingValue> "0" .
+_:node717e96d8e6a4f0171492f82619cb239 <http://schema.org/reviewCount> "0" .
+_:noded474c12447265221a5a077acf466e855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:noded474c12447265221a5a077acf466e855 <http://schema.org/addressRegion> "NV" .
+_:noded474c12447265221a5a077acf466e855 <http://schema.org/postalCode> "89145" .
+_:noded474c12447265221a5a077acf466e855 <http://schema.org/addressLocality> "Las Vegas" .
+_:noded474c12447265221a5a077acf466e855 <http://schema.org/streetAddress> "221 N Rampart Blvd" .
+_:node18ef72a3bb4171403a267158f7f36c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:node18ef72a3bb4171403a267158f7f36c0 <http://schema.org/telephone> "(702) 869-7777  |(800) 228-9290 " .
+_:node18ef72a3bb4171403a267158f7f36c0 <http://schema.org/aggregateRating> _:node717e96d8e6a4f0171492f82619cb239 .
+_:node18ef72a3bb4171403a267158f7f36c0 <http://schema.org/name> "JW Marriott Las Vegas Resort and Spa" .
+_:node18ef72a3bb4171403a267158f7f36c0 <http://schema.org/address> _:noded474c12447265221a5a077acf466e855 .
+_:nodefadba6a7f2f9b87bb9906cf24da78887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

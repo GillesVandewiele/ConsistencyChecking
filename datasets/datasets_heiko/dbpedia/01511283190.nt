@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Supreme_Leader_of_Iran> .
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Iran%E2%80%93Iraq_War> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .

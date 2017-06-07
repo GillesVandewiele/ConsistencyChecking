@@ -1,0 +1,6 @@
+_:node64e1a5d137e17875299b44564e86b8c9 <http://schema.org/name> "Why is LSHW Only listing one of my two HDDs?" .
+_:node64e1a5d137e17875299b44564e86b8c9 <http://schema.org/title> "Why is LSHW Only listing one of my two HDDs?" .
+_:node64e1a5d137e17875299b44564e86b8c9 <http://schema.org/description> "I have a 120GB HDD and a 1TB HDD in the system.  I installed Ubuntu Server using LVM on the 120GB.  After installation I added the 1TB to the existing volume group and added 10GB to /home as a test..." .
+_:node64e1a5d137e17875299b44564e86b8c9 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node64e1a5d137e17875299b44564e86b8c9 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node146d3e53f1fb1f58274515595a9ab35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

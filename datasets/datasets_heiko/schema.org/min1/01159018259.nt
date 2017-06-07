@@ -1,0 +1,78 @@
+_:node228d89aa9021d1d91dcd0f957bd274b <http://schema.org/ratingValue> "5.0" .
+_:node228d89aa9021d1d91dcd0f957bd274b <http://schema.org/reviewCount> "4" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/sodiumContent> "1023.2" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/carbohydrateContent> "124.1" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/proteinContent> "12.5" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/saturatedFatContent> "15.8" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/fatContent> "26.9" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/calories> "784.1" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/fiberContent> "3.5" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/cholesterolContent> "156.1" .
+_:noded9912683c78aa0b67e39aaf6a7bfa8 <http://schema.org/sugarContent> "57.3" .
+_:nodeefe7364a15fb16dd27817298d2344a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodeefe7364a15fb16dd27817298d2344a <http://schema.org/worstRating> "1" .
+_:nodeefe7364a15fb16dd27817298d2344a <http://schema.org/ratingValue> "5" .
+_:nodeefe7364a15fb16dd27817298d2344a <http://schema.org/bestRating> "5" .
+_:node9bd87e43a67143fa6234c9057a98e93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node9bd87e43a67143fa6234c9057a98e93 <http://schema.org/worstRating> "1" .
+_:node9bd87e43a67143fa6234c9057a98e93 <http://schema.org/ratingValue> "5" .
+_:node9bd87e43a67143fa6234c9057a98e93 <http://schema.org/bestRating> "5" .
+_:node319efcdfa356b5e91646319195a6af3e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node319efcdfa356b5e91646319195a6af3e <http://schema.org/reviewRating> _:node9bd87e43a67143fa6234c9057a98e93 .
+_:node319efcdfa356b5e91646319195a6af3e <http://schema.org/datePublished> "December 10, 2011" .
+_:node319efcdfa356b5e91646319195a6af3e <http://schema.org/description> "Awesome!  My old banana bread was tasty but dense, and the loaf was only about 2 inches tall.  I was looking for a new recipe that would fill the pan & rise high, noticed the baking powder and more flour in this recipe, and sure enough it's a winner.  Very tender & cakelike with great flavor...and sprinkling the top with sugar -- genius!!  That made a nice sweet & crunchy top.  Thank you!" .
+_:node319efcdfa356b5e91646319195a6af3e <http://schema.org/author> "ScrumptiousWY" .
+_:node319efcdfa356b5e91646319195a6af3e <http://schema.org/about> "this is required" .
+_:node49cbc8151deaaaee7da0d6e9f81947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node49cbc8151deaaaee7da0d6e9f81947 <http://schema.org/reviewRating> _:nodeefe7364a15fb16dd27817298d2344a .
+_:node49cbc8151deaaaee7da0d6e9f81947 <http://schema.org/datePublished> "May 11, 2009" .
+_:node49cbc8151deaaaee7da0d6e9f81947 <http://schema.org/description> "Very good and easy to make. I had some bananas that needed to be used and we love banana bread. I used three bananas and followed the rest of the recipe exactly as written. I have a convection oven and I cooked mine at 300 for one hour and ten minutes and it was perfect. Made for ZWT5." .
+_:node49cbc8151deaaaee7da0d6e9f81947 <http://schema.org/author> "bmcnichol" .
+_:node49cbc8151deaaaee7da0d6e9f81947 <http://schema.org/about> "this is required" .
+_:node1f29fa5db831b18b6c3732a7f9096e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node1f29fa5db831b18b6c3732a7f9096e2 <http://schema.org/worstRating> "1" .
+_:node1f29fa5db831b18b6c3732a7f9096e2 <http://schema.org/ratingValue> "5" .
+_:node1f29fa5db831b18b6c3732a7f9096e2 <http://schema.org/bestRating> "5" .
+_:nodeaa6dca035b9de53a5ba38a258e655e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeaa6dca035b9de53a5ba38a258e655e <http://schema.org/reviewRating> _:node1f29fa5db831b18b6c3732a7f9096e2 .
+_:nodeaa6dca035b9de53a5ba38a258e655e <http://schema.org/datePublished> "May 15, 2009" .
+_:nodeaa6dca035b9de53a5ba38a258e655e <http://schema.org/description> "This was very good and very easy.  My hubby, who is not a banana fan, even liked it because it was not TOO banana-y!  Perfect amount of sweet and perfect amount of bananas, neither over the top.  I'll be keeping this one!" .
+_:nodeaa6dca035b9de53a5ba38a258e655e <http://schema.org/author> "lazy gourmet" .
+_:nodeaa6dca035b9de53a5ba38a258e655e <http://schema.org/about> "this is required" .
+_:nodeb07cee582de88658636e454e27172af6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/name> "Banana Bread" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/prepTime> "PT10M" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/author> "Leah's Kitchen" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/cookTime> "PT50M" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/description> "\n                                This is very easy and turns out so moist and soft. We have made a healthier adaption to it which I have also posted. But really this is the best. It is my Aunt's recipe. You can add nuts to it if you like. Hope you enjoy!\n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/image> <http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/36/18/23/picNrAn7d.jpg> .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/nutrition> _:noded9912683c78aa0b67e39aaf6a7bfa8 .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/url> "http://breakfast.food.com/recipe/banana-bread-361823/photo" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/reviews> _:node319efcdfa356b5e91646319195a6af3e .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/reviews> _:nodeaa6dca035b9de53a5ba38a258e655e .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/reviews> _:node49cbc8151deaaaee7da0d6e9f81947 .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/aggregateRating> _:node228d89aa9021d1d91dcd0f957bd274b .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/totalTime> "PT1H" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            1/2 cup \n                            \n                             \n                            \n                                butter\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            1  cup \n                            \n                             \n                            \n                                sugar\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            2   \n                            \n                             \n                            \n                                eggs\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            2  teaspoons \n                            \n                             \n                            \n                                vanilla\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            1/4 cup \n                            \n                             \n                            \n                                milk\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            1 1/2 cups \n                            \n                             \n                            \n                                bananas, mashed\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            2 1/2 cups \n                            \n                             \n                            \n                                all-purpose flour\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            2  teaspoons \n                            \n                             \n                            \n                                baking powder\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            3/4 teaspoon \n                            \n                             \n                            \n                                salt\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/ingredients> "\n                            1/2 teaspoon \n                            \n                             \n                            \n                                baking soda\n                            \n                            \n                            \n                            \n                            \n                            " .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/datePublished> "March 19, 2009" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "Breads" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "Breakfast" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "Brunch" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "< 60 mins" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "Beginner cook" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "Time to make" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeCategory> "Easy" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeYield> "Serves:\u00A04-6" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeYield> "1 (172 g)" .
+_:nodeb07cee582de88658636e454e27172af6 <http://schema.org/recipeInstructions> "\n\t\n\t\t\n\t\t\t1 Cream butter and sugar.\n\n\t\t\n\t\t\t2 Add eggs, vanilla, milk, and bananas and mix together.\n\n\t\t\n\t\t\t3 Add all dry ingredients to batter and mix until the batter is fairly smooth.\n\n\t\t\n\t\t\t4 Pour batter into a well greased loaf pan and sprinkle white sugar on the top.\n\n\t\t\n\t\t\t5 Bake at 350F for 50-55 minutes. \n\n\t\t\n\t\t\t6 When it is done a knife inserted in the middle should come out clean.\n\t\t\n\t\n\t" .
+_:nodee82028c08c808732528dea867a68cda1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

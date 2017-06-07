@@ -1,0 +1,3 @@
+_:node42d9f855187c4e586c5b19dc7ffb2 <http://schema.org/name> "Bethpage-Tribune_2005-10-28 :: Bethpage Public Library-The Bethpage Tribune 2005" .
+_:node42d9f855187c4e586c5b19dc7ffb2 <http://schema.org/image> "http://cdm15281.contentdm.oclc.org/utils/getthumbnail/collection/p15281coll115/id/36" .
+_:node55fd9bfccdc029dce3cf0f598a5bc50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

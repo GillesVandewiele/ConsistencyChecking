@@ -1,0 +1,112 @@
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#review_data> <http://rdf.data-vocabulary.org/#count> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#review_data> <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#TypeAndQuantityNode_213> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "DDSLTC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.dermadoctor.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/d/dd_ltcleanser.jpg> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#description> "Contains buffered glycolic acid to gently exfoliate surface skin cells to reveal softer, smoother, healthier-feeling skin. Ideal for most skin types. Dermatologist Tested &amp; ApprovedAllergy Tested, Hypoallergenic, Non Irritating, Non Drying, Non Comedogenic, Soap Free, Oil Free, Fragrance Free, Dye Free, Paraben Free, Gluten Free, No Animal Testing Formulated &amp; Filled in the U.S.A."@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Categories/Cleansers"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Categories/Exfoliants"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Categories/Face"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Conditions/Acne"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Conditions/Dry Skin"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Conditions/Oily Skin"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Conditions/Wrinkles"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Categories/Paraben Free"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Categories/VIEW ALL"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Conditions/VIEW ALL"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Anniversary Event"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Vote - DERMAdoctor Favorites"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Happy HAULidays"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Ingredient Feature - Buffered Glycolic"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Litmus Test"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Free Shipping Days"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Categories/Gluten Free"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Visit To Enter"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Black Friday Savings Event"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Cyber Monday Savings Event"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Mother's Day Skin Care Gifts"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Bonus Rewards"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#category> "Labor Day Savings Event"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#name> "Litmus Test glycolic acid facial cleansing gel"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> <http://purl.org/goodrelations/v1#hasManufacturer> <http://www.dermadoctor.com/#manufacturer_28> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#TypeAndQuantityNode_213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#TypeAndQuantityNode_213> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#TypeAndQuantityNode_213> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#TypeAndQuantityNode_213> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#product_data> .
+<http://www.dermadoctor.com/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d281f158bc4ef419a8fcb6bfdfe1b04462dN67023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d281f158bc4ef419a8fcb6bfdfe1b04462dN67023 <http://purl.org/goodrelations/v1#hasMinValue> "4286"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d281f158bc4ef419a8fcb6bfdfe1b04462dN67023 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AU"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AT"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "BS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "BE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "BR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "VG"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "CA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "CN"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "CY"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "DK"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "FI"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "FR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "DE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GU"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "HK"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "IS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "IN"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "IE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "IL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "IT"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "JP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "LU"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "MT"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "MH"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "NL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AN"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "NZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "MP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "NO"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "PW"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "PH"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "PL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "PR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "SA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "SG"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "KR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "ES"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "SE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "CH"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "TW"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "TT"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "VI"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "VA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d281f158bc4ef419a8fcb6bfdfe1b04462dN67023 .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T00:00:00-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T10:12:23-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://xmlns.com/foaf/0.1/page> <http://www.dermadoctor.com/catalog/product/view/id/213/> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#description> "Contains buffered glycolic acid to gently exfoliate surface skin cells to reveal softer, smoother, healthier-feeling skin. Ideal for most skin types. Dermatologist Tested &amp; ApprovedAllergy Tested, Hypoallergenic, Non Irritating, Non Drying, Non Comedogenic, Soap Free, Oil Free, Fragrance Free, Dye Free, Paraben Free, Gluten Free, No Animal Testing Formulated &amp; Filled in the U.S.A."@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://purl.org/goodrelations/v1#name> "Litmus Test glycolic acid facial cleansing gel"@en .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#offering> <http://rdf.data-vocabulary.org/#hasReview> <http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#review_data> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19T10:12:23-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://purl.org/goodrelations/v1#validThrough> "2015-03-19T10:12:23-06:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://purl.org/goodrelations/v1#hasCurrencyValue> "27"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.dermadoctor.com/litmus-test-glycolic-acid-facial-cleansing-gel.html#UnitPriceSpecification_213> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.surveillance-video.com/audio-8494gu.html/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

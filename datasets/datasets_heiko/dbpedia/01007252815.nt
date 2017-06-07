@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Teutonic_Knights> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Holy_Roman_Emperor> .
+<http://dbpedia.org/resource/Teutonic_Knights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Teutonic_Knights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Teutonic_Knights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> .

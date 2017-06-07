@@ -1,0 +1,14 @@
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/34618332/zvuk-ava2.jpg> .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/audio> _:node9ba0f68278cb8e5a297735af2e948 .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/offers> _:nodedb2b48bd924259525be835c1972c68 .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/genre> <http://audiojungle.net/category/logos-idents/individual> .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/description> "\n        Modern electronic logo with noisy ambient background and glitchy sounds.\n\n\nYou may also like:\n\nHi-Tech Logo\nHi-Tech Logo 2\nHi-Tech Logo 3\n\n\n\t\n      "@en .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/discussionUrl> <http://audiojungle.net/item/hitech-logo-4/3009705?sso?WT.ac=portfolio_item&WT.seg_1=portfolio_item&WT.z_author=T-Trider//item/hitech-logo-4/3009705/comments> .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/name> "  Hi-Tech Logo 4\n"@en .
+_:node26e3bb3bb640867851f86fcd12e1d5fb <http://schema.org/interactionCount> "UserDownloads:1"@en .
+_:nodedb2b48bd924259525be835c1972c68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodedb2b48bd924259525be835c1972c68 <http://schema.org/price> "7.00"@en .
+_:node9ba0f68278cb8e5a297735af2e948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AudioObject> .
+_:node9ba0f68278cb8e5a297735af2e948 <http://schema.org/duration> "0:16"@en .
+_:node9ba0f68278cb8e5a297735af2e948 <http://schema.org/contentUrl> <https://0.s3.envato.com/files/34618333/preview.mp3> .
+_:node76d1297e3c7cb1eb2e79b558958b444 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

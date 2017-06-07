@@ -1,0 +1,16 @@
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d18f841b36cc74c6daacd5ac7ec7863702dN66652 .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/a90f877badda107387ab240f39675051.jpg> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#name> "C4096AR" .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "LASER CARTRIDGE, C4096A, HD IMAGING" .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "TTI C4096AR New Incoming Items" .
+<http://www.tvszone.com/tti-c4096ar-i82265.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d18f841b36cc74c6daacd5ac7ec7863702dN66652 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d18f841b36cc74c6daacd5ac7ec7863702dN66652 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d18f841b36cc74c6daacd5ac7ec7863702dN66652 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.warmyourfloor.com/warmwire-kit-15-sq-ft-120v-radiant-floor-heating-cable.html#QuantitativeValue_1265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

@@ -1,0 +1,336 @@
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68469 <http://rdf.data-vocabulary.org/#votes> "13"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68469 <http://rdf.data-vocabulary.org/#rating> "4.77"@en .
+<http://alibi.com/image/pix_id/33486/Huevos-El-Salvadorenos-come-with-fried-plantain-an.jpg?image_height=94&image_width=94&orig_crop_left=10&orig_crop_right=10> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/33486/Huevos-El-Salvadorenos-come-with-fried-plantain-an.jpg"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#ProductOrService> "Buffet/All-You-Can-Eat"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#ProductOrService> "South American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Catering"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#category> "Buffet/All-You-Can-Eat"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#category> "South American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/seatingOptions> "Outdoor Patio"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Thu: 11am-10pm Fri-Sat: 11am-11pm Sun: 11am-9pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/features> "Wireless Internet"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#pricerange> "$$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Buffet/All-You-Can-Eat"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "South American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Booze Served"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Thu: 11am-10pm Fri-Sat: 11am-11pm Sun: 11am-9pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Brunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69273 <http://rdf.data-vocabulary.org/#latitude> "35.6870383866"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69273 <http://rdf.data-vocabulary.org/#longitude> "-105.939451679"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68039 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68039 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69594 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69594 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN66447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN66447 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/restaurants.html> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN66447 <http://rdf.data-vocabulary.org/#title> "Restaurants"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69909 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69909 <http://rdf.data-vocabulary.org/#description> "New Mexico\u2019s most famous restaurant, Coyote Caf\u00E9 is where Chef Mark Miller came to fame as the king of Southwestern cuisine. This beautifully renovated restaurant serves only dinner, but the rooftop bar, Coyote Cantina (open in the summer), has a wide selection of tequilas and an affordable Latin American menu."@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69909 <http://rdf.data-vocabulary.org/#itemreviewed> "Coyote Caf\u00E9"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67512 <http://rdf.data-vocabulary.org/#votes> "20"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67512 <http://rdf.data-vocabulary.org/#rating> "4.15"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69211 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69211 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68122 <http://rdf.data-vocabulary.org/#latitude> "35.0840668"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68122 <http://rdf.data-vocabulary.org/#longitude> "-106.64840285"@en .
+<http://alibi.com/image/pix_id/45553/image.jpg?image_height=94&image_width=94&orig_crop_left=107&orig_crop_right=107> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/45553/image.jpg"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67512 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67512 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69656 <http://rdf.data-vocabulary.org/#latitude> "35.6867285"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69656 <http://rdf.data-vocabulary.org/#longitude> "-105.9409945"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Event> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68539 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68539 .
+<http://alibi.com/image/pix_id/33902/Vieiras-a-la-cubana-seared-scallops-over-planta.jpg?image_height=94&image_width=94&orig_crop_bottom=41&orig_crop_top=41> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/33902/Vieiras-a-la-cubana-seared-scallops-over-planta.jpg"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#ProductOrService> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#ProductOrService> "Organic/Locally Grown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#category> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#category> "Organic/Locally Grown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Sun: Breakfast/Lunch 8am-3pm, Dinner 5pm-9:30pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#pricerange> "$$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Organic/Locally Grown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Booze Served"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Sun: Breakfast/Lunch 8am-3pm, Dinner 5pm-9:30pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69273 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69273 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67595 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67595 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 <http://rdf.data-vocabulary.org/#locality> "Santa Fe"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 <http://rdf.data-vocabulary.org/#street-address> "121 Don Gaspar"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 <http://rdf.data-vocabulary.org/#street-address> "1701 Bridge SW"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#ProductOrService> "New Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#ProductOrService> "Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#ProductOrService> "Vegetarian/Health Foods"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#ProductOrService> "Organic/Locally Grown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Catering"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#category> "New Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#category> "Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#category> "Vegetarian/Health Foods"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#category> "Organic/Locally Grown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/seatingOptions> "Outdoor Patio"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Fri 7 am-10 pm Sat-Sun 8 am-10pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#pricerange> "$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "New Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian/Health Foods"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Organic/Locally Grown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Booze Served"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Fri 7 am-10 pm Sat-Sun 8 am-10pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 <http://rdf.data-vocabulary.org/#street-address> "722 Lomas NW"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#legalName> "Pupuseria y Restaurant Salvadore\u00F1o"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68847 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#name> "Pupuseria y Restaurant Salvadore\u00F1o"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 <http://rdf.data-vocabulary.org/#locality> "Santa Fe"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 <http://rdf.data-vocabulary.org/#street-address> "132 West Water"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Cuban"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Fusion"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Caribbean/Cuban"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Marsicos/Mexican Seafood"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "South American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#ProductOrService> "Spanish"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Delivery"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Catering"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Cuban"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Fusion"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Caribbean/Cuban"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Marsicos/Mexican Seafood"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "South American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#category> "Spanish"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Fri: 11am-2:30pm Sat: 9am-2pm Closed Sunday"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/features> "Wireless Internet"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#pricerange> "$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Cuban"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Fusion"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Caribbean/Cuban"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Marsicos/Mexican Seafood"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Mexican"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "South American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Spanish"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Fri: 11am-2:30pm Sat: 9am-2pm Closed Sunday"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Brunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68469 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68469 <http://rdf.data-vocabulary.org/#count> "0"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68469 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67828 <http://rdf.data-vocabulary.org/#location> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67828 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68122 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68122 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69559 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69559 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69559 <http://rdf.data-vocabulary.org/#description> "It's hard not to love Pasqual's, what with the bright Mexican tiles, tantalizing Latin-American menu and friendly service. The place is especially busy for weekend breakfast, when a line can form down the block. But don't give up; tell the hostess you're willing to sit at the big oak community table, where locals and tourists share copies of the morning paper and talk about how much they love  living here or would love to live here. Don't miss the hot chocolate, housemade sausages and fabulous baked goods."@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69559 <http://rdf.data-vocabulary.org/#itemreviewed> "Caf\u00E9 Pasqual\u2019s"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN70339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN70339 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN70339 <http://rdf.data-vocabulary.org/#description> "The Tune-Up Caf\u00E9 is an ace in the hole for Santa Fe restaurant recommendations, especially if you\u2019re planning a meal for picky eaters. The caf\u00E9 is filled with a glow. People-friendly touches include kids\u2019 books, good music and lighting, and a long mirror that lets wall-facing diners feel like they\u2019re a part of the room. Meanwhile, the food manages to be a lot of things without following any one path. It\u2019s not a burger joint, but the burgers are good. It\u2019s not New Mexican, but Tune-Up serves chile rellenos and huevos rancheros and green chile. On paper, its most unique influence is from El Salvador, but you could eat there many times and not even notice. There\u2019s usually a vegan soup and an incredible steak (from local, grass-fed cows) on special."@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN70339 <http://rdf.data-vocabulary.org/#itemreviewed> "Tune-Up Cafe"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68809 <http://rdf.data-vocabulary.org/#votes> "13"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68809 <http://rdf.data-vocabulary.org/#rating> "3.77"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#legalName> "Pasion Latin Fusion"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67551 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://rdf.data-vocabulary.org/#name> "Pasion Latin Fusion"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67595 <http://rdf.data-vocabulary.org/#latitude> "35.0914684796"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67595 <http://rdf.data-vocabulary.org/#longitude> "-106.654366745"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 <http://rdf.data-vocabulary.org/#street-address> "110 Central Ave SW"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#image> "http://images.alibi.com/chowtown2/gfx/spork.png"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#description> "Latin American Restaurants in Albuquerque, Santa Fe and Northern New Mexico"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#url> "http://alibi.com/restaurants/31/324/restaurants.html"@en .
+<http://alibi.com/restaurants/31/324/restaurants.html> <http://ogp.me/ns#title> "Latin American Restaurants in Albuquerque, Santa Fe and Northern New Mexico | Chowtown"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 <http://rdf.data-vocabulary.org/#street-address> "318 Isleta Blvd SW"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69211 <http://rdf.data-vocabulary.org/#votes> "7"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69211 <http://rdf.data-vocabulary.org/#rating> "3.71"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68891 <http://rdf.data-vocabulary.org/#latitude> "35.0650928"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68891 <http://rdf.data-vocabulary.org/#longitude> "-106.68159345"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68891 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68891 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#legalName> "Tucanos"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68078 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://rdf.data-vocabulary.org/#name> "Tucanos"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69157 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69157 <http://rdf.data-vocabulary.org/#description> "Albuquerque\u2019s first Salvadoran restaurant is definitely worth checking in on, because, brothers and sisters, if you love sweet plantain, this place has the best in town. It\u2019s also got the best  \npupusa \n\u2014no relation to the pupu platter\u2014and who doesn\u2019t like the idea of a soft, thick corn tortilla filled with meat (chicharr\u00F3n, fish, beef, or ham) and cheese? Make it lunch with a deliciously weird imported soda named  \nTropi Champan \n."@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69157 <http://rdf.data-vocabulary.org/#itemreviewed> "Pupuseria y Restaurant Salvadore\u00F1o"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68039 <http://rdf.data-vocabulary.org/#votes> "28"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68039 <http://rdf.data-vocabulary.org/#rating> "3.57"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67828 <http://rdf.data-vocabulary.org/#endDate> "2014-12-19T07:00Z"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67828 <http://rdf.data-vocabulary.org/#startDate> "2014-12-19T07:00Z"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67828 <http://rdf.data-vocabulary.org/#summary> "Salsa night/ Live Music"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN67828 <http://rdf.data-vocabulary.org/#rrule> "FREQ=WEEKLY;BYDAY="@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN70008 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN70008 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68004 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68004 <http://rdf.data-vocabulary.org/#description> "Elvis is in the house\u2014Chef Elvis Bencomo, that is. With co-owners Monica (Elvis\u2019 wife) and Orlando (his brother), Pasi\u00F3n Latin Fusion serves up dishes found throughout Latin America with Elvis\u2019 own creative flair. Monica runs the front of the house and her gracious, lively style makes you feel right at home. To eat, there are fish tacos crusted in banana, garnished with pickled onions, avocado and sauce. The succulent carnitas tacos and George\u2019s pescado \u00E0 la Veracruzana are spectacular. The \u201Ccroque se\u00F1orita\u201D is Elvis\u2019 version of a croque-madame\u2014a seared pork chop, fried egg and Swiss cheese served over tacu tacu (Peruvian rice and beans, similar to Cuba's moros y cristianos) with a huacatay (Peruvian mint) cream sauce."@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68004 <http://rdf.data-vocabulary.org/#itemreviewed> "Pasion Latin Fusion"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68809 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68809 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68809 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#ProductOrService> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#ProductOrService> "Coffee/Tea/Espresso"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#ProductOrService> "Deli/Sandwiches"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#ProductOrService> "American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Catering"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#category> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#category> "Coffee/Tea/Espresso"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#category> "Deli/Sandwiches"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#category> "American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/seatingOptions> "Outdoor Patio"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "6:30-2:30 M-F"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#pricerange> "$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Coffee/Tea/Espresso"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Deli/Sandwiches"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "6:30-2:30 M-F"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Brunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#ProductOrService> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#ProductOrService> "Seafood"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#category> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#category> "Seafood"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/seatingOptions> "Outdoor Patio"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Sun: 10 am-8 pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://rdf.data-vocabulary.org/#pricerange> "$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Bakery/Sweets"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Seafood"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Sun: 10 am-8 pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68823 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 <http://rdf.data-vocabulary.org/#locality> "Santa Fe"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 <http://rdf.data-vocabulary.org/#street-address> "1115 Hickox St"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+<http://alibi.com/image/pix_id/20312/Best-Restaurant-to-Loosen-Your-Top-Button-Tucan.jpg?image_height=94&image_width=94&orig_crop_left=65&orig_crop_right=66> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/20312/Best-Restaurant-to-Loosen-Your-Top-Button-Tucan.jpg"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#legalName> "Tune-Up Cafe"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69972 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69947 <http://rdf.data-vocabulary.org/#name> "Tune-Up Cafe"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN67526 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68539 <http://rdf.data-vocabulary.org/#latitude> "35.06548905"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68539 <http://rdf.data-vocabulary.org/#longitude> "-106.666520781"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://purl.org/goodrelations/v1#legalName> "Coyote Caf\u00E9"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69620 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#name> "Coyote Caf\u00E9"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#legalName> "Caf\u00E9 Pasqual\u2019s"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69237 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69225 <http://rdf.data-vocabulary.org/#name> "Caf\u00E9 Pasqual\u2019s"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#legalName> "Bocadillos Cafe & Catering"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#address> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN68495 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68483 <http://rdf.data-vocabulary.org/#name> "Bocadillos Cafe & Catering"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69594 <http://rdf.data-vocabulary.org/#votes> "7"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69594 <http://rdf.data-vocabulary.org/#rating> "3.43"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://purl.org/goodrelations/v1#ProductOrService> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://purl.org/goodrelations/v1#ProductOrService> "Fine Dining"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#category> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#category> "Fine Dining"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Sun: 11:30am-9pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#pricerange> "$$$$"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Latin American"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Fine Dining"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Vegetarian Available"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Booze Served"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Sun: 11:30am-9pm"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69656 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN69608 <http://rdf.data-vocabulary.org/#geo> _:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN69656 .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN70008 <http://rdf.data-vocabulary.org/#latitude> "35.6812945"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dINSIDE5fN70008 <http://rdf.data-vocabulary.org/#longitude> "-105.958606"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review> .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68431 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68431 <http://rdf.data-vocabulary.org/#description> "Meat, meat, meat. All-you-can-eat meat. And then there's the salad bar. This joint\u2019s got more dead meat than you can shake a chunk of meat on a stick at. From the kill to the grill, Tucanos makes all your dreams come true. That is, if you dream about meaty hunks of marinated flesh, sliced right at your table. This lively, busy and fun Brazilian-themed restaurant next to the Century 14 movie theater is open late."@en .
+_:genid2d2917862c2cfd49398efd4fe11ecc0f4f2dN68431 <http://rdf.data-vocabulary.org/#itemreviewed> "Tucanos"@en .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .

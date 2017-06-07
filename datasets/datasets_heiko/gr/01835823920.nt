@@ -1,0 +1,11 @@
+<http://60077.com/#company> <http://purl.org/goodrelations/v1#legalName> "60077 c/o Zip Properties, Inc." .
+<http://60077.com/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d98b5fbf40d3e446da0cb0d30e6acfe482dN67759 .
+<http://60077.com/#company> <http://www.w3.org/2006/vcard/ns#tel> "815-846-0903" .
+<http://60077.com/#company> <http://xmlns.com/foaf/0.1/logo> <http://60077.com/> .
+<http://60077.com/#company> <http://xmlns.com/foaf/0.1/page> <http://60077.com/> .
+_:genid2d98b5fbf40d3e446da0cb0d30e6acfe482dN67759 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d98b5fbf40d3e446da0cb0d30e6acfe482dN67759 <http://www.w3.org/2006/vcard/ns#postal-code> "89074" .
+_:genid2d98b5fbf40d3e446da0cb0d30e6acfe482dN67759 <http://www.w3.org/2006/vcard/ns#locality> "Henderson" .
+_:genid2d98b5fbf40d3e446da0cb0d30e6acfe482dN67759 <http://www.w3.org/2006/vcard/ns#street-address> "2360 Corporate Circle #400" .
+_:genid2d98b5fbf40d3e446da0cb0d30e6acfe482dN67759 <http://www.w3.org/2006/vcard/ns#country-name> "US" .
+<http://www.surveillance-video.com/network-znr-28tb-rl.html/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

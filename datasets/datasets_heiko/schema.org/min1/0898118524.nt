@@ -1,0 +1,5 @@
+<http://books.google.es/books/about/Angel_Air_Is_10.html?id=dHM5AQAAIAAJ> <http://schema.org/Book/image> <http://books.google.es/books/content?id=dHM5AQAAIAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE733bAGt2NH1LdCWm7Gbrp-ee5zuhImxdGLPvuvcVP1y8zzLSv-ZT19ZINm9hR1yr2QzSpeS1edytAOVotmKVCqppHrTGXFqZqbYKcBPRqc7PKAZJzQNMRNs2LUCVVKEWgYunqDl> .
+<http://books.google.es/books/about/Angel_Air_Is_10.html?id=dHM5AQAAIAAJ> <http://schema.org/Book/url> "http://books.google.es/books/about/Angel_Air_Is_10.html?id=dHM5AQAAIAAJ&utm_source=gb-gplus-share" .
+<http://books.google.es/books/about/Angel_Air_Is_10.html?id=dHM5AQAAIAAJ> <http://schema.org/Book/name> "Angel Air Is 10" .
+<http://books.google.es/books/about/Angel_Air_Is_10.html?id=dHM5AQAAIAAJ> <http://schema.org/Book/description> "books.google.es" .
+_:node5d817a4e2ce5e3e182146caaf5ad810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

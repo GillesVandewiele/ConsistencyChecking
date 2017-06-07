@@ -1,0 +1,38 @@
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> <http://opengraphprotocol.org/schema/description> "Price: $3.99" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> <http://opengraphprotocol.org/schema/site_name> "All Romance Ebooks" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> <http://opengraphprotocol.org/schema/type> "book" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> <http://opengraphprotocol.org/schema/image> "http://www.allromanceebooks.com/dbimages/981514.jpg" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> <http://opengraphprotocol.org/schema/url> "http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> <http://www.facebook.com/2008/fbmlapp_id> "148413778536063" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrServicesSomeInstancesPlaceholder> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "981514"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.allromanceebooks.com/dbimages/981514.jpg> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "9781426894695"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://www.w3.org/2000/01/rdf-schema#comment> "After ending her passionless marriage, Cali Reynolds is eager to live out her forbidden fantasies. Her first step is attending new members' night at The Den, the most exclusive sex club in town. Perhaps here she can find a man who understands her desire to be dominated...At first, Jake McCallister thinks Cali has come to his club for the wrong reasons. But when he discovers she is seeking fulfillment after years of denial, he's intrigued--and takes it upon himself to initiate her into the pleasures she's been missing.Her first encounter with Jake is everything Cali has always craved, and more; she's not prepared for the feelings he inspires in her. And Jake is just as surprised by his overwhelming attraction to Cali. As their play intensifies, so does their bond. Now, Jake doesn't want anyone but Cali--but is he ready to officially claim her? And will she submit to being his forever?78,000 words" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://purl.org/stuff/rev#hasReview> _:genid2df522e36a36fa4487927ec624bc955c9e2dN67124 .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> <http://www.w3.org/2000/01/rdf-schema#label> "Bonds of Trust: Book One of Wicked Play" .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.allromanceebooks.com/about.html#myshop> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#availableAtOrFrom> <http://www.allromanceebooks.com/about.html#myshop> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#includesObject> <http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#TypeAndQuantityNode> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#UnitPriceSpecification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dINSIDE5fN67021 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dINSIDE5fN67021 <http://purl.org/goodrelations/v1#hasCurrencyValue> "3.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.allromanceebooks.com/about.html#business> <http://purl.org/goodrelations/v1#offers> <http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dN67124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dN67124 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dN67124 <http://purl.org/stuff/rev#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dN67124 <http://purl.org/stuff/rev#totalRatings> "45"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2df522e36a36fa4487927ec624bc955c9e2dN67124 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#TypeAndQuantityNode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#TypeAndQuantityNode> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "EA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#TypeAndQuantityNode> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#TypeAndQuantityNode> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#product> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#UnitPriceSpecification> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df522e36a36fa4487927ec624bc955c9e2dINSIDE5fN67021 .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#validThrough> "2015-01-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html> .
+<http://www.allromanceebooks.com/product-bondsoftrust-981514-237.html#myoffer> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.leurres-rudipontains.com/boutique/fiche_produit.cfm?ref=LRSURNAT&type=24&code_lg=lg_fr&num=0#price_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

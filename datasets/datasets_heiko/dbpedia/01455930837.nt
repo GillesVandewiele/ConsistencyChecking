@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/M%C4%81ori_language> <http://dbpedia.org/ontology/languageRegulator> <http://dbpedia.org/resource/M%C4%81ori_Language_Commission> .
+<http://dbpedia.org/resource/M%C4%81ori_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language> .

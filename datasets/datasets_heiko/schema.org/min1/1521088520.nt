@@ -1,0 +1,79 @@
+_:nodeff4f75a5498bd45d99c431452679ab9 <http://schema.org/ratingValue> "2" .
+_:nodeff4f75a5498bd45d99c431452679ab9 <http://schema.org/bestRating> "5" .
+_:nodefc3467a86bd46c4b56c9cdc62fff25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodefc3467a86bd46c4b56c9cdc62fff25 <http://schema.org/price> "19.49" .
+_:nodefc3467a86bd46c4b56c9cdc62fff25 <http://schema.org/availability> <http://schema.org/InStock> .
+_:nodefc3467a86bd46c4b56c9cdc62fff25 <http://schema.org/itemCondition> <http://schema.org/NewCondition> .
+_:nodefc3467a86bd46c4b56c9cdc62fff25 <http://schema.org/priceCurrency> "USD" .
+_:nodece69541ef52141680bc2935673aca21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodece69541ef52141680bc2935673aca21 <http://schema.org/reviewRating> _:nodee31feb2bf493a416f49d2cdf46e45b28 .
+_:nodece69541ef52141680bc2935673aca21 <http://schema.org/datePublished> "2014-08-07" .
+_:nodece69541ef52141680bc2935673aca21 <http://schema.org/name> " very poor mouse product\n" .
+_:nodece69541ef52141680bc2935673aca21 <http://schema.org/description> " VERY SUPPRISED, THE MOUSE DID NOT WORK, SO NEITHER DID THE KEYBORD... TOTAL LOSS. NOT WORTH COST AND TIME TO RETURN.\n" .
+_:nodece69541ef52141680bc2935673aca21 <http://schema.org/author> "HAWKEY" .
+_:nodece69541ef52141680bc2935673aca21 <http://schema.org/itemReviewed> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:node648f4e5e57a12cd7e985a7a6ea445fd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node648f4e5e57a12cd7e985a7a6ea445fd3 <http://schema.org/ratingValue> "5" .
+_:node648f4e5e57a12cd7e985a7a6ea445fd3 <http://schema.org/bestRating> "5" .
+_:nodee34bab427c1f4c9ceaec2d4a3af3de2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodee34bab427c1f4c9ceaec2d4a3af3de2 <http://schema.org/ratingValue> "5" .
+_:nodee34bab427c1f4c9ceaec2d4a3af3de2 <http://schema.org/bestRating> "5" .
+_:nodee31feb2bf493a416f49d2cdf46e45b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodee31feb2bf493a416f49d2cdf46e45b28 <http://schema.org/ratingValue> "1" .
+_:nodee31feb2bf493a416f49d2cdf46e45b28 <http://schema.org/bestRating> "5" .
+_:node3b161141aa4728b855ab45c0809e63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node3b161141aa4728b855ab45c0809e63 <http://schema.org/ratingValue> "1" .
+_:node3b161141aa4728b855ab45c0809e63 <http://schema.org/bestRating> "5" .
+_:node6daddb5e54314cb8250b25917343eaf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node6daddb5e54314cb8250b25917343eaf <http://schema.org/ratingValue> "5" .
+_:node6daddb5e54314cb8250b25917343eaf <http://schema.org/bestRating> "5" .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/offers> _:nodefc3467a86bd46c4b56c9cdc62fff25 .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/name> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/description> "A classic-style advanced 2.4 GHz wireless keyboard and mouse that excels when it comes to simplicity and comfort" .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/aggregateRating> _:node973aedc4cc377787b4dbaa05cba3d7e .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/review> _:nodea4eae3fd449747157f20bdecc26e54b9 .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/review> _:node5515ed26d4815407e8e4d5452b5d18 .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/review> _:node2d9cea3adbb69f3fd1571e87399adbc .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/review> _:node9bf359ea11b70d58be768b537dbb932 .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/review> _:nodefbb7c084d790e131a629e798f039a8de .
+_:node4d18c7ab361f0e966cec0cac5143a39 <http://schema.org/review> _:nodece69541ef52141680bc2935673aca21 .
+_:node9bf359ea11b70d58be768b537dbb932 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node9bf359ea11b70d58be768b537dbb932 <http://schema.org/reviewRating> _:nodeff4f75a5498bd45d99c431452679ab9 .
+_:node9bf359ea11b70d58be768b537dbb932 <http://schema.org/datePublished> "2014-08-27" .
+_:node9bf359ea11b70d58be768b537dbb932 <http://schema.org/name> " poor quality\n" .
+_:node9bf359ea11b70d58be768b537dbb932 <http://schema.org/description> " The mouse is ok, but the keyboard is very poor quality. You have to hit the buttons really hard for it to respond. I have to re-type texts on a regular basis. 3 out of 4 times I have problems logging on to my computer because the keyboard makes me mistype my password. I wonder if it is defective and I should return it or if it is just cheaply made.\n" .
+_:node9bf359ea11b70d58be768b537dbb932 <http://schema.org/author> "office21" .
+_:node9bf359ea11b70d58be768b537dbb932 <http://schema.org/itemReviewed> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:node973aedc4cc377787b4dbaa05cba3d7e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node973aedc4cc377787b4dbaa05cba3d7e <http://schema.org/ratingValue> "Null" .
+_:node973aedc4cc377787b4dbaa05cba3d7e <http://schema.org/reviewCount> "Null" .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://schema.org/reviewRating> _:node648f4e5e57a12cd7e985a7a6ea445fd3 .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://schema.org/datePublished> "2014-09-08" .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://schema.org/name> " Very good keyboard and mouse\n" .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://schema.org/description> " Typing much faster now and very few errors, unlike my last keyboard that couldn't keep up with me and made me spend a lot of extra time editing everything I wrote, not to mention how it would not capitalize letters when needed.\n" .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://schema.org/author> "altacucker" .
+_:node5515ed26d4815407e8e4d5452b5d18 <http://schema.org/itemReviewed> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:nodefbb7c084d790e131a629e798f039a8de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodefbb7c084d790e131a629e798f039a8de <http://schema.org/reviewRating> _:node3b161141aa4728b855ab45c0809e63 .
+_:nodefbb7c084d790e131a629e798f039a8de <http://schema.org/datePublished> "2014-08-24" .
+_:nodefbb7c084d790e131a629e798f039a8de <http://schema.org/name> " non - compatibility ?\n" .
+_:nodefbb7c084d790e131a629e798f039a8de <http://schema.org/description> " HP replaced this key board 2 times. 3 key boards so far still doesn't work. Please HP replace with a key board that is compatible with your product.\n" .
+_:nodefbb7c084d790e131a629e798f039a8de <http://schema.org/author> "iknow" .
+_:nodefbb7c084d790e131a629e798f039a8de <http://schema.org/itemReviewed> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://schema.org/reviewRating> _:node6daddb5e54314cb8250b25917343eaf .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://schema.org/datePublished> "2014-08-28" .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://schema.org/name> " great Hp Product\n" .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://schema.org/description> " I am very satisfied with my keyboard and mouse. all ways have liked HP Products and the services.\n" .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://schema.org/author> "maryr" .
+_:node2d9cea3adbb69f3fd1571e87399adbc <http://schema.org/itemReviewed> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://schema.org/reviewRating> _:nodee34bab427c1f4c9ceaec2d4a3af3de2 .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://schema.org/datePublished> "2014-09-09" .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://schema.org/name> " Great value for the $$$ !\n" .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://schema.org/description> " I purchased two of these keyboard combos. I'm currently in college and cannot afford to lose functionality with my current HP computer. One thing to note with this keyboard, it does NOT have a soft touch. If that is important to you, this is not the keyboard and mouse set for you. The keys are stiff and you can strike them with a firm touch and they still respond. Glad I bought this set; when this set is worn out, I have another waiting in the closet!!\n" .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://schema.org/author> "RL34" .
+_:nodea4eae3fd449747157f20bdecc26e54b9 <http://schema.org/itemReviewed> "HP Wireless Mouse and Keyboard Combo Kit" .
+_:node5827632bcf0f1cd40daeb1a2f6241b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .

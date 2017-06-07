@@ -1,0 +1,6 @@
+_:nodea423f2a6f9fabd4e65a04efa4d469db2 <http://schema.org/name> "My ferment has small black specs in it, is this an infection?" .
+_:nodea423f2a6f9fabd4e65a04efa4d469db2 <http://schema.org/title> "My ferment has small black specs in it, is this an infection?" .
+_:nodea423f2a6f9fabd4e65a04efa4d469db2 <http://schema.org/description> "This seems to be very similar to this question about hop seeds but I have not used fresh hops, I used pellet centennial hops purchased vacuum packed and frozen from homebrew shop.\n\nIngredients (1 g..." .
+_:nodea423f2a6f9fabd4e65a04efa4d469db2 <http://schema.org/image> "http://cdn.sstatic.net/homebrew/img/apple-touch-icon.png?v=6391b2fc75dd" .
+_:nodea423f2a6f9fabd4e65a04efa4d469db2 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/homebrew/img/apple-touch-icon.png?v=6391b2fc75dd" .
+_:nodef7196ac79fc9ae1b3914ca2ef699fe8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

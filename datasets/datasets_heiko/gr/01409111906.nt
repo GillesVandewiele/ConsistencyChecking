@@ -1,0 +1,11 @@
+<http://ecomfort.com/oil-fired-steam-boilers-262/#company> <http://purl.org/goodrelations/v1#legalName> "eComfort.com" .
+<http://ecomfort.com/oil-fired-steam-boilers-262/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d612b7460a55b42199798babb5b5e2f672dN72046 .
+<http://ecomfort.com/oil-fired-steam-boilers-262/#company> <http://www.w3.org/2006/vcard/ns#tel> "866-554-4328" .
+_:genid2d612b7460a55b42199798babb5b5e2f672dN72046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d612b7460a55b42199798babb5b5e2f672dN72046 <http://www.w3.org/2006/vcard/ns#postal-code> "60089" .
+_:genid2d612b7460a55b42199798babb5b5e2f672dN72046 <http://www.w3.org/2006/vcard/ns#locality> "Buffalo Grove" .
+_:genid2d612b7460a55b42199798babb5b5e2f672dN72046 <http://www.w3.org/2006/vcard/ns#street-address> "1374 Abbott Court" .
+_:genid2d612b7460a55b42199798babb5b5e2f672dN72046 <http://www.w3.org/2006/vcard/ns#country-name> "United States" .
+<http://ecomfort.com/oil-fired-steam-boilers-262/#company> <http://xmlns.com/foaf/0.1/depiction> <http://ecomfort.com/logo.jpg> .
+<http://ecomfort.com/oil-fired-steam-boilers-262/#company> <http://xmlns.com/foaf/0.1/page> <http://ecomfort.com/> .
+_:genid2dae584b0851664d34ae7f7d8e1c1386bd2dN66097 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

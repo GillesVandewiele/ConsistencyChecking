@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Royal_Australian_Navy> <http://dbpedia.org/ontology/notableCommander> <http://dbpedia.org/resource/Russ_Crane> .
+<http://dbpedia.org/resource/Royal_Australian_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Royal_Australian_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Royal_Australian_Navy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> .
+<http://dbpedia.org/resource/Russ_Crane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Russ_Crane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Russ_Crane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryPerson> .

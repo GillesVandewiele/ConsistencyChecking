@@ -1,0 +1,3 @@
+_:node2afdd8dca79273ec27cbbc212f77cb37 <http://schema.org/name> "Wallace Betteridge sitting with braided rope he made (GCCS_BHC25553_27) :: Grouse Creek Cultural Survey:  Mormon Buckaroo Territory, 1985" .
+_:node2afdd8dca79273ec27cbbc212f77cb37 <http://schema.org/image> "http://digital.lib.usu.edu/utils/getthumbnail/collection/Grouse/id/4206" .
+_:node8655833bf22775fc346c30d38f715a99 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

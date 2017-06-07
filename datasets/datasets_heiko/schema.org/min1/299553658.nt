@@ -1,0 +1,5 @@
+_:node8cebfe39c619ba1f52e4c866ef6e10 <http://schema.org/name> "Robert H. Lurie Comprehensive Cancer Center of Northwestern University" .
+_:node8cebfe39c619ba1f52e4c866ef6e10 <http://schema.org/email> "cancer@northwestern.edu" .
+_:node8cebfe39c619ba1f52e4c866ef6e10 <http://schema.org/telephone> "866.LURIE.CC" .
+_:node8cebfe39c619ba1f52e4c866ef6e10 <http://schema.org/telephone> "312.908.5250" .
+_:nodedb4651425cf8eeb14f7ca221c52fb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

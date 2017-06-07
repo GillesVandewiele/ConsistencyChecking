@@ -1,0 +1,27 @@
+_:nodeb0fba37260be2d62d34b2f6688888b9 <http://schema.org/ratingCount> "3 Reviews"@en .
+_:nodeb0fba37260be2d62d34b2f6688888b9 <http://schema.org/ratingValue> "4.7"@en .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/name> "\n\t\tCharles River Women's/Girls' Olympian Pants\n\t"@en .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/description> "The Charles River Women's/Girls' Olympian Pant is made of polyknit with a semi-matte finish. This pant features a two-color design and a comfortable 2\" elasticized waistband. It also has a straight leg and open hem with zippers for easy on/off."@en .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/image> <http://epicsports.cachefly.net/images/2195/300/charles-river-womens/girls-olympian-pants.jpg> .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/aggregateRating> _:nodeb0fba37260be2d62d34b2f6688888b9 .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/brand> "Charles River Apparel"@en .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/review> _:nodedccb9da41118d62dcdd5aeb1bf4ebe7 .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/review> _:node611e6c24c9e45be685e1b94bfac14e6 .
+_:node3fa75ca2b951cbd791e0f86490e5a5e4 <http://schema.org/review> _:nodea96349524bb7395c17f7a1a559f27a5 .
+_:nodea96349524bb7395c17f7a1a559f27a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodea96349524bb7395c17f7a1a559f27a5 <http://schema.org/reviewRating> "4"@en .
+_:nodea96349524bb7395c17f7a1a559f27a5 <http://schema.org/datePublished> "2/9/2008"@en .
+_:nodea96349524bb7395c17f7a1a559f27a5 <http://schema.org/reviewBody> "Great feel and perfect thickness.  Watch sizing, just check chart."@en .
+_:nodea96349524bb7395c17f7a1a559f27a5 <http://schema.org/author> "M. WEYGAND"@en .
+_:nodedccb9da41118d62dcdd5aeb1bf4ebe7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodedccb9da41118d62dcdd5aeb1bf4ebe7 <http://schema.org/reviewRating> "5"@en .
+_:nodedccb9da41118d62dcdd5aeb1bf4ebe7 <http://schema.org/datePublished> "2/11/2011"@en .
+_:nodedccb9da41118d62dcdd5aeb1bf4ebe7 <http://schema.org/reviewBody> "Excellent product and the size chart was a perfect fit"@en .
+_:nodedccb9da41118d62dcdd5aeb1bf4ebe7 <http://schema.org/author> "D. MARLOW"@en .
+_:node611e6c24c9e45be685e1b94bfac14e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node611e6c24c9e45be685e1b94bfac14e6 <http://schema.org/reviewRating> "5"@en .
+_:node611e6c24c9e45be685e1b94bfac14e6 <http://schema.org/datePublished> "11/18/2010"@en .
+_:node611e6c24c9e45be685e1b94bfac14e6 <http://schema.org/reviewBody> "These pants fit my cheerleaders so well, and we love that they're so easy to care for.  Great product !"@en .
+_:node611e6c24c9e45be685e1b94bfac14e6 <http://schema.org/author> "F. HIGH SCHOOL"@en .
+_:node51529481b85457b682d62282ece924f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

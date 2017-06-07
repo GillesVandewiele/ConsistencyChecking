@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/garden-gnome-costume~61951/#main> <http://purl.org/goodrelations/v1#name> "Garden Gnome Costume"@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=61951> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=61951> .
+_:genid2d4c7b49964b574581a078e417470547a32dINSIDE5fN68264 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.joke.co.uk/garden-gnome-costume~61951/#main> <http://purl.org/goodrelations/v1#description> "Our Garden Gnome costume brings the traditional lawn ornament to life.This fantastic novelty gnome outfit includes a one-piece jumpsuit consisting of a pair of red trousers and an attached blue top.  The trousers feature attached red shoe covers, allowing you to wear your own shoes underneath.  The garment fastens at the back with velcro.The finishing touch to our Garden Gnome Costume is a pointed red gnome hat with attached blue gnome ears and a white gnome beard."@en .
+_:genid2d4c7b49964b574581a078e417470547a32dINSIDE5fN68226 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d4c7b49964b574581a078e417470547a32dINSIDE5fN68226 <http://purl.org/goodrelations/v1#hasCurrencyValue> "24.95"@en .
+<http://www.joke.co.uk/garden-gnome-costume~61951/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/garden-gnome-costume~61951/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d4c7b49964b574581a078e417470547a32dINSIDE5fN68264 .
+_:genid2d4c7b49964b574581a078e417470547a32dN68226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d4c7b49964b574581a078e417470547a32dN68226 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d4c7b49964b574581a078e417470547a32dINSIDE5fN68226 .
+<http://www.kenmore.com/kenmore-ultrafilter-reverse-osmosis-replacement-filters/p-04238476000P?prdNo=6#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .

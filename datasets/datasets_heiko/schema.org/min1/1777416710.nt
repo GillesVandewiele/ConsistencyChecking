@@ -1,0 +1,6 @@
+_:nodeb67691ee6f1f870d7c138ffc25260a9 <http://schema.org/name> "Newest &#39;cloud&#39; Questions" .
+_:nodeb67691ee6f1f870d7c138ffc25260a9 <http://schema.org/title> "Newest &#39;cloud&#39; Questions" .
+_:nodeb67691ee6f1f870d7c138ffc25260a9 <http://schema.org/description> "Q&A for Ubuntu users and developers" .
+_:nodeb67691ee6f1f870d7c138ffc25260a9 <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodeb67691ee6f1f870d7c138ffc25260a9 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodedc17d849f09c7f4c7cdcea324e24030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

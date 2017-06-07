@@ -1,0 +1,42 @@
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#inventory_level> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "17506"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://xmlns.com/foaf/0.1/maker> <urn:powerboutique> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#description> "Dimensions : diam\u00EF\u00BF\u0153tre 17cm x hauteur 35cm.-Fonctionne avec une ampoule de 40W, beaucoup plus avec une ampoule basse consommation." .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.decoetcompagnie.com/boutique/images_produits/17506_1.jpg> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://www.w3.org/2000/01/rdf-schema#comment> "Dimensions : diam\u00EF\u00BF\u0153tre 17cm x hauteur 35cm.-Fonctionne avec une ampoule de 40W, beaucoup plus avec une ampoule basse consommation." .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#name> "Suspension verre 17506" .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://xmlns.com/foaf/0.1/thumbnail> <http://www.decoetcompagnie.com/boutique/images_produits/v17506_1.jpg> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://xmlns.com/foaf/0.1/page> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#weight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#weight> <http://purl.org/goodrelations/v1#description> "Suspension verre 17506 has a weight of 0 KGM" .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#weight> <http://purl.org/goodrelations/v1#hasValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#weight> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "KGM"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#weight> <http://purl.org/goodrelations/v1#name> "weight description for Suspension verre 17506" .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#offer_data> <http://purl.org/goodrelations/v1#includesObject> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#taqn> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> <http://purl.org/goodrelations/v1#hasCurrency> "EUR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> <http://purl.org/goodrelations/v1#name> "Standard price"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> <http://purl.org/goodrelations/v1#hasCurrencyValue> "92"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#price_data> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#inventory_level> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#inventory_level> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#inventory_level> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#taqn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#taqn> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#taqn> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#taqn> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.decoetcompagnie.com/index.cfmcategory_2> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "17506"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://purl.org/goodrelations/v1#weight> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#weight> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.decoetcompagnie.com/boutique/images_produits/17506_1.jpg> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://purl.org/goodrelations/v1#description> "Dimensions : diam\u00EF\u00BF\u0153tre 17cm x hauteur 35cm.-Fonctionne avec une ampoule de 40W, beaucoup plus avec une ampoule basse consommation." .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://www.w3.org/2000/01/rdf-schema#comment> "Dimensions : diam\u00EF\u00BF\u0153tre 17cm x hauteur 35cm.-Fonctionne avec une ampoule de 40W, beaucoup plus avec une ampoule basse consommation." .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://purl.org/goodrelations/v1#name> "Suspension verre 17506" .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#inventory_level> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://xmlns.com/foaf/0.1/thumbnail> <http://www.decoetcompagnie.com/boutique/images_produits/v17506_1.jpg> .
+<http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm#product_data> <http://xmlns.com/foaf/0.1/page> <http://www.decoetcompagnie.com/suspension-verre-17506-pomax,fr,4,17506.cfm> .
+_:genid2d3258f6e437e44c6da05ec9c1013862872dN71579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

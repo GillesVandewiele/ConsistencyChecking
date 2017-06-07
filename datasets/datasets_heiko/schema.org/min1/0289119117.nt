@@ -1,0 +1,7 @@
+_:nodefb435975da36608b68669aa26ffaf66f <http://schema.org/nationality> "Grande-Bretagne"@en .
+_:nodefb435975da36608b68669aa26ffaf66f <http://schema.org/birthDate> "1799-03-29"@en .
+_:nodefb435975da36608b68669aa26ffaf66f <http://schema.org/deathDate> "1869-10-23"@en .
+_:nodefb435975da36608b68669aa26ffaf66f <http://schema.org/image> <http://gallica.bnf.fr/ark:/12148/btv1b8432965z.thumbnail> .
+_:nodefb435975da36608b68669aa26ffaf66f <http://schema.org/name> " Edward George Geoffrey Smith Derby "@en .
+_:nodefb435975da36608b68669aa26ffaf66f <http://schema.org/name> "Iliade"@en .
+_:node4938ef7389e4ef86f754752e246f3d8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

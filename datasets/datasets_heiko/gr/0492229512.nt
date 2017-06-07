@@ -1,0 +1,11 @@
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dN68157 <http://purl.org/goodrelations/v1#name> "Child Handy Manny Costume"@en .
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dN68242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dN68242 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d96d8b7f0525b42baa4ef52e720faf23a2dINSIDE5fN68242 .
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dN68157 <http://purl.org/goodrelations/v1#description> "The Child Handy Manny Costume includes a blue and green jumpsuit with an attached yellow belt and Handy Manny printed on the front.\n\nAlso included with the children's character are tools and a red and white cap."@en .
+<http://www.joke.co.uk/disney-costumes/child-handy-manny-costume~64230/?currency=GBP#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/disney-costumes/child-handy-manny-costume~64230/?currency=GBP#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d96d8b7f0525b42baa4ef52e720faf23a2dINSIDE5fN68279 .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=64230> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=64230> .
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dINSIDE5fN68279 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d96d8b7f0525b42baa4ef52e720faf23a2dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrencyValue> "11.45"@en .
+_:genid2d611c466ba9ac489e9fe10dbe2cef83ce2dN71677 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

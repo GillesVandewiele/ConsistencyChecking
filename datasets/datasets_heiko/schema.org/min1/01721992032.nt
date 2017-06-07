@@ -1,0 +1,5 @@
+_:nodeeeb8456fa2162d2d5e6c312f3c59392 <http://schema.org/url> "\nhttp://hdl.handle.net/2027.42/76194\n"@en .
+_:nodeeeb8456fa2162d2d5e6c312f3c59392 <http://schema.org/name> "Computations of Multiphase Fluid Flows Using Marker-Based Adaptive, Multilevel Cartesian Grid Method"@en .
+_:nodeeeb8456fa2162d2d5e6c312f3c59392 <http://schema.org/author> "Sim, Jaeheon; Uzgoren, Eray; Shyy, Wei"@en .
+_:nodeeeb8456fa2162d2d5e6c312f3c59392 <http://schema.org/datePublished> "2007"@en .
+_:node626bd1c663baa24cf583a8431fcda860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

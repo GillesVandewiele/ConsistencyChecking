@@ -1,0 +1,22 @@
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66061 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/> .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66061 <http://rdf.data-vocabulary.org/#title> "Home"@en .
+<http://www.beyondnice.com/blog/hot-tub-spa-cover-care/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.beyondnice.com/blog/hot-tub-spa-cover-care/#company> <http://purl.org/goodrelations/v1#legalName> "BeyondNice"@en .
+<http://www.beyondnice.com/blog/hot-tub-spa-cover-care/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66905 .
+<http://www.beyondnice.com/blog/hot-tub-spa-cover-care/#company> <http://www.w3.org/2006/vcard/ns#tel> "970-703-3074"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66079 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66079 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/blog/> .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66079 <http://rdf.data-vocabulary.org/#title> "Blog"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66905 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66905 <http://www.w3.org/2006/vcard/ns#postal-code> "33434"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66905 <http://www.w3.org/2006/vcard/ns#locality> "Boca Raton"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66905 <http://www.w3.org/2006/vcard/ns#street-address> "9325 Glades Road, Suite 104"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66905 <http://www.w3.org/2006/vcard/ns#country-name> "USA"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66097 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66097 <http://rdf.data-vocabulary.org/#title> "Hot tub and spa care"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66097 <http://rdf.data-vocabulary.org/#child> _:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66101 .
+<http://www.beyondnice.com/blog/hot-tub-spa-cover-care/#company> <http://xmlns.com/foaf/0.1/logo> <http://www.beyondnice.com/media/email/logo/default/beyond-nice-logo-brown.png> .
+<http://www.beyondnice.com/blog/hot-tub-spa-cover-care/#company> <http://xmlns.com/foaf/0.1/page> <http://www.beyondnice.com/> .
+<http://www.beyondnice.com/> <http://rdf.data-vocabulary.org/#name> "BeyondNice"@en .
+_:genid2d219cb04ca63948bfa91344e6cc7be4a92dN66675 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Organization> .
+<http://www.ridershack.com/o-neill-dl-psycho-1-5mm-surfing-glove.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .

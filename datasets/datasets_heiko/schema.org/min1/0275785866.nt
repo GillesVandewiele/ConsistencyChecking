@@ -1,0 +1,4 @@
+_:nodeaef814485699417b1a7b9ec2a369eb <http://schema.org/name> "Release Day for many Linux distributionsGiornata di rilasci per molte distribuzioni Linux"@en-us .
+_:nodeaef814485699417b1a7b9ec2a369eb <http://schema.org/image> "http://cdn.linuxaria.com/wp-content/uploads/2011/04/natty2.jpg"@en-us .
+_:nodeaef814485699417b1a7b9ec2a369eb <http://schema.org/description> "Today it's the day, Ubuntu 11.04 has been officially released and they server are now under \"attack\" by all the Ubuntu users that are trying to download the new release or update a former version, for me it took around 3 hours to finish the download of the 1400 packages needed to upgrade from"@en-us .
+_:node464b1f1180244dca38204144497776c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

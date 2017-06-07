@@ -1,0 +1,5 @@
+_:nodeb5dab02d1c5eb53ce7e7fbf28135d7e <http://schema.org/name> "Microfiber Herringbone Flat Front Pant"@en .
+_:nodeb5dab02d1c5eb53ce7e7fbf28135d7e <http://schema.org/url> "http://ashworthgolf.com/Microfiber-Herringbone-Flat-Front-Pant/Z6209636.html"@en .
+_:nodeb5dab02d1c5eb53ce7e7fbf28135d7e <http://schema.org/productID> "Z6209636"@en .
+_:nodeb5dab02d1c5eb53ce7e7fbf28135d7e <http://schema.org/image> <http://demandware.edgesuite.net/aais_prd/on/demandware.static/Sites-TMaG-Site/Sites-tmag-master-catalog/default/v1419067319622/zoom/Z62096_zoom.jpg> .
+_:node9a67ace664da79859e4f62b277fcea17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicGroup> .

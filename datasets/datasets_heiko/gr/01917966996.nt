@@ -1,0 +1,24 @@
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72114 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72105 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72076 <http://rdf.data-vocabulary.org/#count> "78"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72076 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72124 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72124 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df3366c024d1d4b849504ce99b12cbaf52dN72124 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$37.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df3366c024d1d4b849504ce99b12cbaf52dN72124 .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#description> "When you have a lot to carry, organize your beach gear in this functional tote.<br><br>\u0095 Stands upright<br>\u0095 Squashes for easy storage<br>\u0095 Double Polypropylene straps<br>\u0095 Holds up to 6 beach towels<br>\u0095 15'' W x 15'' H<br>\u0095 8 outer pockets<br>\u0095 Inside snap hook for keys or sunglasses" .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://purl.org/goodrelations/v1#name> "Saltwater Canvas Whale Bag" .
+<http://www.swimoutlet.com/p/saltwater-canvas-whale-bag-15276/?color=10805#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2df3366c024d1d4b849504ce99b12cbaf52dN72076 .
+<http://www.triathletesports.com/bike/cycling-clothing/louis-garneau-men-s-equipe-bib-short.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

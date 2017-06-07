@@ -1,0 +1,30 @@
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/model> "DL160G5p-375870-B21" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isRelatedTo> "DL160 G5p \n\n375872-B21 HP 146-GB 3G 15K 3.5 SP SAS HDD" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isRelatedTo> "DL160 G5p \n\n431944-S21 HP 300-GB 3G 15K 3.5 SP SAS HDD" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isRelatedTo> "DL160 G5p \n\n454232-B21 HP 450-GB 3G 15K 3.5 DP SAS HDD" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isRelatedTo> "DL160 G5p \n\n516828-B21 HP 600-GB 6G 15K 3.5 DP SAS HDD" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/sku> "DL160G5p-375870-B21" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/itemCondition> "New" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/offers> _:node1b9d2971eac0d53a5339bb4d4fe9c44f .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/name> "DL160 G5p 375870-B21 HP 72-GB 3G 15K 3.5 SP SAS HDD" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isAccessoryOrSparePartFor> "DL1000 DL120 G6 G7 DL140 G3 DL145 G3 DL160 G5 DL160 G5p DL160 G6 G7 DL160se G6 G7 DL165 G5 DL165 G5p DL165 G6 G7 DL170h DL180 G5 DL180 G6 DL180 G5 DL180 G6 G7 DL185 G5 DL320 G3 DL320 G4 DL320 G5 DL320 G5p DL320 G6 G7 DL320s DL370 G6 G7 DL380 G6 G7 DL385 G5p DL385 G6 G7 ML350 G5 ML350 G6 G7 ML370 G5 ML370 G6 G7 ML570 G5" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isSimilarTo> "\nDL160G5p-375870-B21 HP 72-GB 3G 15K 3.5 SP SAS [2 Pack]" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isSimilarTo> "\nDL160G5p-375870-B21 HP 72-GB 3G 15K 3.5 SP SAS [5 Pack]" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/isSimilarTo> "\nDL160G5p-375870-B21 HP 72-GB 3G 15K 3.5 SP SAS [10 Pack]" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/description> "Description:HP 72GB Serial Attached SCSI (SAS) 3.5-inch 3G 15K Single-Port Hot-Plug Hard DriveIn HP Hot-Plug Hard Drive tray (as pictured)For G1-G7 Proliant SAS ServersGenuine HP serial number and firmwarePart Number(s)\nOption Part# 375870-B21\nSpare Part# 376594-001\nAssembly Part# 443169-001\nModel# DF072A4940" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/productID> "142050-DL160-G5p" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/image> <http://www.serverpartsdirect.com/images/375870-B21.gif> .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/weight> "2.00\u00A0lbs" .
+_:nodefd3b5d24efbe2ae371eb3a26c8699d <http://schema.org/brand> "HP Compaq" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/inventoryLevel> "684" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/businessFunction> "Sell" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/price> "\u00A0$64.95" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/mpn> "DL160G5p-375870-B21" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/availability> "Null" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/warranty> "3 Year" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/itemOffered> "DL160G5p-375870-B21" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/itemCondition> "New" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/priceCurrency> "USD" .
+_:node1b9d2971eac0d53a5339bb4d4fe9c44f <http://schema.org/seller> "HardDrivesDirect.com" .
+_:node71bbe4efa8e2a328d3b229b6a63227b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .

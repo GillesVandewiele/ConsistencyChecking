@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Virtua_Fighter_(video_game)> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/Yu_Suzuki> .
+<http://dbpedia.org/resource/Virtua_Fighter_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Virtua_Fighter_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> .
+<http://dbpedia.org/resource/Yu_Suzuki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Yu_Suzuki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Virtua_Fighter_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> .

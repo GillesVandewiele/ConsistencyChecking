@@ -1,0 +1,11 @@
+_:nodef12d642281c9e4b31d4bdca4206f8655 <http://schema.org/price> "29.00"@en .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/18445791/Thumbnail.jpg> .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/image> <https://0.s3.envato.com/files/18445782/Image-Preview.jpg> .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/offers> _:nodef12d642281c9e4b31d4bdca4206f8655 .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/genre> <http://graphicriver.net/category/logo-templates/objects> .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/description> "\n        Optical Eye Logo is a designed especially for eyeglasses and lenses, optical, eye care centers related company or Any other business related to that types of activities. It is made by simple shapes Although looks very professional. The final file includes 3 variations of the Logo.\n\n\nFeatured:\n\t\n\tUnique Slogan\n\t\t AI CS3  Document\n\t\t EPS CS  Document\n\t\t CMYK  \u2013 100 % Vector (Re-sizable)\n\t\t3 Variations (Color, B/W & Inverts)\n\t\tUsed Free Font (Link Included Main Download)\n\t\n      "@en .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/discussionUrl> <http://graphicriver.net/item/optical-eye-logo/1600264//item/optical-eye-logo/1600264/comments> .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/name> "  Optical Eye Logo\n"@en .
+_:node601f53bf8d2b139c997bfd19a7f15b9b <http://schema.org/interactionCount> "UserDownloads:1"@en .
+<http://www.nytimes.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/John_Stuart_Mill> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/John_Maynard_Keynes> .
+<http://dbpedia.org/resource/John_Stuart_Mill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Stuart_Mill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/John_Maynard_Keynes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Maynard_Keynes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/John_Stuart_Mill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/John_Maynard_Keynes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Economist> .

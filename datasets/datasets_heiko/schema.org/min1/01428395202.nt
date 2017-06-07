@@ -1,0 +1,20 @@
+_:node107eca1dfa6032e78a11505e35a18321 <http://schema.org/sku> "UO113"@en .
+_:node107eca1dfa6032e78a11505e35a18321 <http://schema.org/name> "E T White Diamonds 50m with FREE Gift"@en .
+_:node107eca1dfa6032e78a11505e35a18321 <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/uo/uo112/f16uo112500s.jpg> .
+_:node9cf6c8d1bb1cf64b7f013cb5eee234f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node9cf6c8d1bb1cf64b7f013cb5eee234f <http://schema.org/sku> "UO110"@en .
+_:node9cf6c8d1bb1cf64b7f013cb5eee234f <http://schema.org/name> "E Taylor Diamons and Sapphires 100ml EDT"@en .
+_:node9cf6c8d1bb1cf64b7f013cb5eee234f <http://schema.org/image> <http://products.drct2u.com/content/images/products//uo/uo110/d16uo11050wthumb.jpg> .
+_:nodefe899f20be3bcd9254cf4d175bffc446 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodefe899f20be3bcd9254cf4d175bffc446 <http://schema.org/sku> "NN659"@en .
+_:nodefe899f20be3bcd9254cf4d175bffc446 <http://schema.org/name> "Elizabeth Taylor Black Pearls 100ml EDP"@en .
+_:nodefe899f20be3bcd9254cf4d175bffc446 <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/nn/nn659/f16nn659500s.jpg> .
+_:nodebaf2af2ada958df58da2b26724463 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodebaf2af2ada958df58da2b26724463 <http://schema.org/sku> "UO111"@en .
+_:nodebaf2af2ada958df58da2b26724463 <http://schema.org/name> "Elizabeth Taylor Passion 74ml EDT"@en .
+_:nodebaf2af2ada958df58da2b26724463 <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/uo/uo111/f16uo111500s.jpg> .
+_:nodee32fd549ff0506cae889748c7aca2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodee32fd549ff0506cae889748c7aca2 <http://schema.org/sku> "UO112"@en .
+_:nodee32fd549ff0506cae889748c7aca2 <http://schema.org/name> "E Taylor White Diamonds 30ml FREE Gift"@en .
+_:nodee32fd549ff0506cae889748c7aca2 <http://schema.org/image> <http://productimages.drct2u.com/thumb/products/uo/uo112/f16uo112500s.jpg> .
+_:node5f336d2ed167745e22090e66c48edb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

@@ -1,0 +1,12 @@
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/nationality> "Grande-Bretagne"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/birthDate> "1920-02-10"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/deathDate> "2000-03-26"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> " Alexander Comfort "@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "The Almond tree, a legend, by Alex Comfort"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "Art and social responsibility"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "The Biology of senescence"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "Darwin and the naked lady"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "Alex Comfort. Les Fabricants d'anxi\u00E9t\u00E9"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "The Koka Shastra"@en .
+_:node6b969f525887753552e804b6c87f1f9 <http://schema.org/name> "Journals : New road (London)"@en .
+_:node15a7a6e18f0cbe9aa7f414728da2e8a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

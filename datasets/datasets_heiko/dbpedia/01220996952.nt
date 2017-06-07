@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Friedrich_Nietzsche> .
+<http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Friedrich_Nietzsche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Friedrich_Nietzsche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .
+<http://dbpedia.org/resource/Friedrich_Nietzsche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Philosopher> .

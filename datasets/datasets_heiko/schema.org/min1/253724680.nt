@@ -1,0 +1,6 @@
+_:nodefbb22f8b90d9b8ab686e2f07b1ec7d6 <http://schema.org/name> "Qualms about encryption" .
+_:nodefbb22f8b90d9b8ab686e2f07b1ec7d6 <http://schema.org/title> "Qualms about encryption" .
+_:nodefbb22f8b90d9b8ab686e2f07b1ec7d6 <http://schema.org/description> "I would like to encrypt my disk, as while I don't have anything illegal, there are some things I would rather not be interrogated about or cause confiscation of my belongings while going through cu..." .
+_:nodefbb22f8b90d9b8ab686e2f07b1ec7d6 <http://schema.org/image> "http://cdn.sstatic.net/superuser/img/apple-touch-icon@2.png?v=e869e4459439" .
+_:nodefbb22f8b90d9b8ab686e2f07b1ec7d6 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/superuser/img/apple-touch-icon@2.png?v=e869e4459439" .
+_:nodee8f7d6d7b6595404bd08a75aad7f1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

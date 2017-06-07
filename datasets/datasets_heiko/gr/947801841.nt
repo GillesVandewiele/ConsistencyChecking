@@ -1,0 +1,24 @@
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71389 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71389 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71389 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$10.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71370 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#description> "Yogis will love the lightweight stability the Hugger Mugger\u2122 8' Cotton Yoga Strap w/ Cinch offers.<br><br>\u0095 Sturdy, durable construction.<br>\u0095 Great for all types of yoga.<br>\u0095 Cinch buckle is lightweight and ideal for traveling yogis.<br>\u0095 Dimensions: 1.5'' x 8'." .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#name> "Hugger Mugger 8' Cotton Yoga Strap w/ Cinch" .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71341 .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71341 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71341 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/hugger-mugger-8-cotton-yoga-strap-w--cinch-34232/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dc3d6fa7d67a64bdab34fcbd4925946192dN71389 .
+<http://www.tvszone.com/philips-ph62072-i46588.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

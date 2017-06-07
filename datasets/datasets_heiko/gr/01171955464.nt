@@ -1,0 +1,16 @@
+_:genid2df72e37eab4ce49da95703be3a580d1a32dN66681 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df72e37eab4ce49da95703be3a580d1a32dN66681 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df72e37eab4ce49da95703be3a580d1a32dN66681 .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/2e3b14634bd44e09b4381d1287188414.jpg> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#name> "FireStore FS-4 PRO DV Disk Recorder with Direct To Edit (DTE) Technology (60GB)" .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "FOCUS FS-4 PRO PORTABLE DTE RECORDER" .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Focus Enhancements ASYF083101 Video Editing Hardware" .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/focus-enhancements-asyf083101-i38265.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.charlestonnaturally.com/ilike-organic-skin-care/ilike-nettle-exfoliating-wash.html#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .

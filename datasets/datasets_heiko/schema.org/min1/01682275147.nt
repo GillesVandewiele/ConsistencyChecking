@@ -1,0 +1,3 @@
+_:nodee35f79ee465be523189e5dfde1f723b <http://schema.org/name> "Weekly Age :: Newspapers (1874-1901)" .
+_:nodee35f79ee465be523189e5dfde1f723b <http://schema.org/image> "http://cdm16044.contentdm.oclc.org/utils/getthumbnail/collection/BrmnghmNP01/id/6918" .
+_:node73489b1a77f2529a8f68f3361e9b57c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

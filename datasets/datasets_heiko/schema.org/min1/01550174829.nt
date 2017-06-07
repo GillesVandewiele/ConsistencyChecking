@@ -1,0 +1,4 @@
+_:node12a8cbf354c22919e3d635289a7b5f7 <http://schema.org/breadcrumb> <http://bakercountypress.com> .
+_:node12a8cbf354c22919e3d635289a7b5f7 <http://schema.org/breadcrumb> <http://bakercountypress.com/2013/> .
+_:node12a8cbf354c22919e3d635289a7b5f7 <http://schema.org/breadcrumb> <http://bakercountypress.com/2013/03/> .
+_:node7ad3b6c7df8fb9b83e4d88e3b83bf423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

@@ -1,0 +1,22 @@
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://purl.org/goodrelations/v1#legalName> "GetGeared" .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d1980c25fc9704c999dabade655da66b22dN73514 .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://www.w3.org/2006/vcard/ns#tel> "+44-113-8313223" .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://xmlns.com/foaf/0.1/logo> <http://www.getgeared.co.uk/site/css_styles/GGcirclelogo.jpg> .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://xmlns.com/foaf/0.1/page> <http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313> .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://xmlns.com/foaf/0.1/logo> <http://www.getgeared.co.uk/site/css_styles/GGcirclelogo.jpg> .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://xmlns.com/foaf/0.1/page> <http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313> .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://purl.org/goodrelations/v1#legalName> "GetGeared" .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d1980c25fc9704c999dabade655da66b22dN73455 .
+<http://www.getgeared.co.uk/Draggin_Jeans_C-Evo_Kevlar_Motorcycle_Jeans?sc=39&category=313#company> <http://www.w3.org/2006/vcard/ns#tel> "+44-1372-225100" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73514 <http://www.w3.org/2006/vcard/ns#postal-code> "LS2 7QA" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73514 <http://www.w3.org/2006/vcard/ns#locality> "Leeds" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73514 <http://www.w3.org/2006/vcard/ns#street-address> "5" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73514 <http://www.w3.org/2006/vcard/ns#country-name> "GB" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73455 <http://www.w3.org/2006/vcard/ns#postal-code> "KT22 7QE" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73455 <http://www.w3.org/2006/vcard/ns#locality> "Leatherhead" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73455 <http://www.w3.org/2006/vcard/ns#street-address> "290" .
+_:genid2d1980c25fc9704c999dabade655da66b22dN73455 <http://www.w3.org/2006/vcard/ns#country-name> "GB" .
+_:genid2dac9924957c8647d9b088f04a1ca546312dN71497 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

@@ -1,0 +1,17 @@
+_:noded423c1b3c4ed6332f13dfc89387f0eb <http://schema.org/bestRating> "10" .
+_:noded423c1b3c4ed6332f13dfc89387f0eb <http://schema.org/ratingValue> "6.2727" .
+_:noded423c1b3c4ed6332f13dfc89387f0eb <http://schema.org/worstRating> "1" .
+_:nodeb677b0c8d25644bcb740f4b877e0ce8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodeb677b0c8d25644bcb740f4b877e0ce8 <http://schema.org/price> "$0" .
+_:nodeb677b0c8d25644bcb740f4b877e0ce8 <http://schema.org/priceCurrency> "USD" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/aggregateRating> _:noded423c1b3c4ed6332f13dfc89387f0eb .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/datePublished> "2009-07-23" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/SoftwareApplicationCategory> "http://schema.org/UtilitiesApplication" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/image> "http://cache.filehippo.com/img/ex/1289__grs__mydefrag_icon.png" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/offers> _:nodeb677b0c8d25644bcb740f4b877e0ce8 .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/name> "\nMyDefrag 4.1" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/softwareVersion> "MyDefrag 4.1" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/url> "http://filehippo.com/jp/download_mydefrag/5931/" .
+_:nodeb4c2960a736b494fbe293fc66c464 <http://schema.org/SoftwareApplicationSubCategory> "\u30C7\u30D5\u30E9\u30B0" .
+_:node888d74d6f89ba19a6745ebbb5ea49225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

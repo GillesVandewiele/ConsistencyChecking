@@ -1,0 +1,6 @@
+_:node3b733eb1976b81d5c0e6b614769cf974 <http://schema.org/name> "How do I defeat Octoroks?" .
+_:node3b733eb1976b81d5c0e6b614769cf974 <http://schema.org/title> "How do I defeat Octoroks?" .
+_:node3b733eb1976b81d5c0e6b614769cf974 <http://schema.org/description> "In Skyward Sword, the Octoroks behave similar to Deku Scrubs from previous games - they hide as bushes when you get too close, so you can't just slash at them with a sword.\n\nHowever, I cannot seem to " .
+_:node3b733eb1976b81d5c0e6b614769cf974 <http://schema.org/image> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:node3b733eb1976b81d5c0e6b614769cf974 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:node28dc5741ebf469c2eeb22ca04018e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .

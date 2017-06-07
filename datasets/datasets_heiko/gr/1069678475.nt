@@ -1,0 +1,16 @@
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68193 <http://rdf.data-vocabulary.org/#count> "2"@en .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68193 <http://rdf.data-vocabulary.org/#rating> "4"@en .
+<http://www.joke.co.uk/mr-t-costume-deluxe~73903/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/mr-t-costume-deluxe~73903/#main> <http://purl.org/goodrelations/v1#name> "Mr T Costume (Deluxe)"@en .
+<http://www.joke.co.uk/mr-t-costume-deluxe~73903/#main> <http://purl.org/goodrelations/v1#description> "I pity the fool who doesn't wear this outfit!  Our Mr T Costume (Deluxe) features muscle padding and a two-piece mask.  A fantastic 80s fancy dress idea that will effortlessly transform you into everyone's favourite A-Team actor!\n\nCostume includes:\n\nTop with Chains and Belt\nTrousers\nTwo-Piece Mask\n\n\nThe Mr T Costume (Deluxe) includes a camouflage top with attached muscle padded arms, attached gold chains and a brown belt.\n\nAlso included is a pair of green trousers and a two-piece Mr T mask."@en .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dN68259 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dN68259 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68259 .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68308 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.joke.co.uk/mr-t-costume-deluxe~73903/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/mr-t-costume-deluxe~73903/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68308 .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68259 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68259 <http://purl.org/goodrelations/v1#hasCurrencyValue> "39.99"@en .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dN68193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dN68193 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d56ab8dc7d554410fb694947d63aa8a512dINSIDE5fN68193 .
+_:genid2d56ab8dc7d554410fb694947d63aa8a512dN68193 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=73903> .
+<http://www.coffeeforless.com/aloha-island-estate-blend-kona-medium-roast-coffee-pods-18ct.html#UnitPriceSpecification_2784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

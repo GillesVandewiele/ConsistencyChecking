@@ -1,0 +1,20 @@
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74264 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74264 <http://rdf.data-vocabulary.org/#itemreviewed> "TYR Youth American Ace Maxback Swimsuit - Only Size 24 Left!"@en .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74243 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74243 <http://purl.org/goodrelations/v1#hasCurrencyValue> "43.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74280 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74280 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74280 <http://rdf.data-vocabulary.org/#average> "0"@en .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74264 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2d25877399fc934267ac0ec4de8c21684e2dN74264 <http://rdf.data-vocabulary.org/#count> ""@en .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d25877399fc934267ac0ec4de8c21684e2dN74243 .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mace1y-2.jpg> .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://purl.org/goodrelations/v1#description> "80% Nylon/20% Lycra.<br><br><br>"@en .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://purl.org/goodrelations/v1#name> "TYR Youth American Ace Maxback Swimsuit - Only Size 24 Left!"@en .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.triathletesports.com/clearance/swim-suits/tyr-youth-american-ace-maxback-swimsuit-only-size-24-left.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mace1y-2.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mace1y-2.jpg> .
+<http://www.surveillance-video.com/accessory-17055c.html/?revact=y#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

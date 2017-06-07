@@ -1,0 +1,11 @@
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/name> <http://fr.hotels.com/de1663628/hotel-quartier-tofino-colombie-britannique-ytp-hydroaerodrome-de-tofino-tofino-canada//> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/name> <http://fr.hotels.com/co38/hotels-en-canada/> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/name> <http://fr.hotels.com/sa53/hotels-colombie-britannique-canada/> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/name> <http://fr.hotels.com/de1633853/hotels-tofino-colombie-britannique/> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/name> "Hotel Tofino, Colombie-Britannique (YTP-Hydroa\u00E9rodrome de Tofino) - Tofino"@fr .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/breadcrumb> "H\u00F4telsHotel CanadaHotel - Colombie-BritanniqueHotel TofinoHotel Tofino, Colombie-Britannique (YTP-Hydroa\u00E9rodrome de Tofino) - Tofino"@fr .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/url> <http://fr.hotels.com/de1663628/hotel-quartier-tofino-colombie-britannique-ytp-hydroaerodrome-de-tofino-tofino-canada//> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/url> <http://fr.hotels.com/co38/hotels-en-canada/> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/url> <http://fr.hotels.com/sa53/hotels-colombie-britannique-canada/> .
+_:node116db4bb28f5623ef1e3226a1d4297 <http://schema.org/url> <http://fr.hotels.com/de1633853/hotels-tofino-colombie-britannique/> .
+_:node39c6632b1eb5b4621ef10305778d1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,5 @@
+_:nodef1e9bb44cb1715a4ad217eb1f64650 <http://schema.org/name> "\n\t\tUniv of Florida Gators Sky Classic Scrub Tops\n\t"@en .
+_:nodef1e9bb44cb1715a4ad217eb1f64650 <http://schema.org/description> "The Gelscrubs University of Florida Gators Sky Classic Scrub Top features soft brushed Poplin Fabric (65%/35% cotton/poly), V-Neck design styled for loose comfort, set-in sleeves, Gelscrubs tri-color woven label, convenient breast pocket, classic double needle felling stitch for heavy duty use, and precision computer guided embroidery with pantone matched threads."@en .
+_:nodef1e9bb44cb1715a4ad217eb1f64650 <http://schema.org/image> <http://epicsports.cachefly.net/images/44090/300/univ-of-florida-gators-sky-classic-scrub-tops.jpg> .
+_:nodef1e9bb44cb1715a4ad217eb1f64650 <http://schema.org/brand> "Gelscrubs"@en .
+_:nodec8b34ba9adf5e5be72827f6f4214969f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Arlo_Guthrie> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Arlo_Guthrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Arlo_Guthrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Arlo_Guthrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Arlo_Guthrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Cop_Rock> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/20th_Century_Fox_Television> .
+<http://dbpedia.org/resource/Cop_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/Cop_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/20th_Century_Fox_Television> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/20th_Century_Fox_Television> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/20th_Century_Fox_Television> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

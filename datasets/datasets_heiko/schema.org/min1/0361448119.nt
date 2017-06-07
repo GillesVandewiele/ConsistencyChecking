@@ -1,0 +1,90 @@
+_:noded3c0f522367490ba829d40fd172a315 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:noded3c0f522367490ba829d40fd172a315 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node585b65ef38e6172919f8a2f4bc70a7b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node585b65ef38e6172919f8a2f4bc70a7b3 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node585b65ef38e6172919f8a2f4bc70a7b3 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node8ace8c3dd40a7b9478b8ab01c9657f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8ace8c3dd40a7b9478b8ab01c9657f9 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node8ace8c3dd40a7b9478b8ab01c9657f9 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:nodeb345af9399585eea78f1efb17265364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb345af9399585eea78f1efb17265364 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:nodeb345af9399585eea78f1efb17265364 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:nodeee17dfc8eb64b29d90ea1087586d2c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeee17dfc8eb64b29d90ea1087586d2c <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:nodeee17dfc8eb64b29d90ea1087586d2c <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node2b181f9ec16cc3578e065a84f385489 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2b181f9ec16cc3578e065a84f385489 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node2b181f9ec16cc3578e065a84f385489 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node76f6162d59ea4d417a8345381385bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node76f6162d59ea4d417a8345381385bf <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node76f6162d59ea4d417a8345381385bf <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodea2bf2b52e86eef28476854f581a6271c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea2bf2b52e86eef28476854f581a6271c <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:nodea2bf2b52e86eef28476854f581a6271c <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:nodeb9fea8a8ceb2956361aac5ff89ec3b2a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb9fea8a8ceb2956361aac5ff89ec3b2a <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:nodeb9fea8a8ceb2956361aac5ff89ec3b2a <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node45c217d67e847a9ad7acd4303fdfee26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node45c217d67e847a9ad7acd4303fdfee26 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node45c217d67e847a9ad7acd4303fdfee26 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node8c173be9374175f09a9047c5f8a248 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8c173be9374175f09a9047c5f8a248 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node8c173be9374175f09a9047c5f8a248 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node591b2d3af3b0c3e0b2ac19d4dd353f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node591b2d3af3b0c3e0b2ac19d4dd353f <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node591b2d3af3b0c3e0b2ac19d4dd353f <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodec0811e22a58d31a64bbd54e2ac1c5376 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec0811e22a58d31a64bbd54e2ac1c5376 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:nodec0811e22a58d31a64bbd54e2ac1c5376 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodef0eec0a56efcc4673c6a1edf43ecf0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef0eec0a56efcc4673c6a1edf43ecf0 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:nodef0eec0a56efcc4673c6a1edf43ecf0 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node8d7ccda999448a58acdd763d8f29a2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8d7ccda999448a58acdd763d8f29a2e <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node8d7ccda999448a58acdd763d8f29a2e <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node99db74ead7da5b81e44eef92c6fe8413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node99db74ead7da5b81e44eef92c6fe8413 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node99db74ead7da5b81e44eef92c6fe8413 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node2c8d9eface9cc84473d53ff61222759a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2c8d9eface9cc84473d53ff61222759a <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node2c8d9eface9cc84473d53ff61222759a <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node35a1d8824992edd6dc693aa99992cf34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node35a1d8824992edd6dc693aa99992cf34 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node35a1d8824992edd6dc693aa99992cf34 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node1bc6e3e79bad46cb49319bafe3ce66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node1bc6e3e79bad46cb49319bafe3ce66 <http://schema.org/name> "Lambert-St Louis Intl"@ko .
+_:node1bc6e3e79bad46cb49319bafe3ce66 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KSTL> .
+_:noded12d4fcb2a2c0a9b97689eb3365f452 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded12d4fcb2a2c0a9b97689eb3365f452 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:noded12d4fcb2a2c0a9b97689eb3365f452 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodee77ce829c15a1680179faab84d7e455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee77ce829c15a1680179faab84d7e455 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:nodee77ce829c15a1680179faab84d7e455 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodec022ac14f7ba14875cd571c16a3fe5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec022ac14f7ba14875cd571c16a3fe5 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:nodec022ac14f7ba14875cd571c16a3fe5 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:nodea212727882c1ab886e1195f0abbfb129 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea212727882c1ab886e1195f0abbfb129 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:nodea212727882c1ab886e1195f0abbfb129 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node62ab9fac30bae97a8e75294b48e61a3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node62ab9fac30bae97a8e75294b48e61a3a <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node62ab9fac30bae97a8e75294b48e61a3a <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node2a9e8c5ebe961ab1dbc66239a731839f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2a9e8c5ebe961ab1dbc66239a731839f <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:node2a9e8c5ebe961ab1dbc66239a731839f <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodeb7549be363fb74a3188de83f144c9e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb7549be363fb74a3188de83f144c9e9 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:nodeb7549be363fb74a3188de83f144c9e9 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:node97eb7bdd6fa83e96f4f23765794132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node97eb7bdd6fa83e96f4f23765794132 <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node97eb7bdd6fa83e96f4f23765794132 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node549f111e3943a9611367632fdbece2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node549f111e3943a9611367632fdbece2e <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:node549f111e3943a9611367632fdbece2e <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:nodea7275c5a89f9cdcc366418ac219ed6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea7275c5a89f9cdcc366418ac219ed6 <http://schema.org/name> "\uC6CC\uC2F1\uD134 \uB35C\uB808\uC2A4 \uAD6D\uC81C\uACF5\uD56D"@ko .
+_:nodea7275c5a89f9cdcc366418ac219ed6 <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KIAD> .
+_:nodee0a9a92f9c51206cbe7d4daddcab89fc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee0a9a92f9c51206cbe7d4daddcab89fc <http://schema.org/name> "Charlotte/Douglas Intl"@ko .
+_:nodee0a9a92f9c51206cbe7d4daddcab89fc <http://schema.org/url> <http://ko.flightaware.com/live/flight/ASQ6118//live/airport/KCLT> .
+_:node762cb3d5115a8148bf6957091bdb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

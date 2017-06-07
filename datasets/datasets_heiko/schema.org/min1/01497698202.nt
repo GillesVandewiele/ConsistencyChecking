@@ -1,0 +1,12 @@
+_:nodefdfa9863061d536ed638871a1dce9fc <http://schema.org/addressRegion> "FL"@en .
+_:nodefdfa9863061d536ed638871a1dce9fc <http://schema.org/postalCode> "34209"@en .
+_:nodefdfa9863061d536ed638871a1dce9fc <http://schema.org/addressLocality> "Bradenton"@en .
+_:nodefdfa9863061d536ed638871a1dce9fc <http://schema.org/streetAddress> "2020 59th Street West"@en .
+<http://blakemedicalcenter.com/hl/?/19504/Risk-Factors-for-Gastroesophageal-Reflux-Disease--GERD-/Heartburn~Reducing-Your-Risk> <http://www.w3.org/1999/xhtml/microdata#item> <http://schema.org/Hospital> .
+<http://schema.org/Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://schema.org/Hospital> <http://schema.org/Place/address> _:nodefdfa9863061d536ed638871a1dce9fc .
+<http://schema.org/Hospital> <http://schema.org/Place/name> "Blake Medical Center"@en .
+<http://schema.org/Hospital> <http://schema.org/Place/telephone> "Phone: (941) 792-6611"@en .
+<http://schema.org/Hospital> <http://schema.org/Place/logo> <http://blakemedicalcenter.com/hl/?/19504/Risk-Factors-for-Gastroesophageal-Reflux-Disease--GERD-/Heartburn~Reducing-Your-Risk//contentAsset/raw-data/a28f6c52-7396-4fe6-b162-b97563817df1/fullColorLogo> .
+<http://schema.org/Hospital> <http://schema.org/Place/url> "http://blakemedicalcenter.com"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

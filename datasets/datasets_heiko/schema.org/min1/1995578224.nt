@@ -1,0 +1,6 @@
+_:nodebcbe71d55cf28291cd72ee13726b5da <http://schema.org/name> "Obtaining precise values from good approximation" .
+_:nodebcbe71d55cf28291cd72ee13726b5da <http://schema.org/title> "Obtaining precise values from good approximation" .
+_:nodebcbe71d55cf28291cd72ee13726b5da <http://schema.org/description> "Problem: \n\nWe would like to calculate $S=\\sum_{i=1}^{k} c_i x_i$, where $k$ is a constant, $x_i$ are some fixed algebraic numbers, $c_i=\\frac{p_i}{q_i}$ are rational numbers such that integers $p_i..." .
+_:nodebcbe71d55cf28291cd72ee13726b5da <http://schema.org/image> "http://cdn.sstatic.net/mathoverflow/img/apple-touch-icon@2.png?v=791790e97b5c" .
+_:nodebcbe71d55cf28291cd72ee13726b5da <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/mathoverflow/img/apple-touch-icon@2.png?v=791790e97b5c" .
+_:nodee795af9f1b554e4b2bd63a190872ff3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

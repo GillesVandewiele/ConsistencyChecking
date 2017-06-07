@@ -1,0 +1,49 @@
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offer_3682> <http://rdf.data-vocabulary.org/#offerurl> "http://www.therussianstore.com/western-european-pewter-knight.html"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offer_3682> <http://rdf.data-vocabulary.org/#currency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offer_3682> <http://rdf.data-vocabulary.org/#price> "45"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offer_3682> <http://rdf.data-vocabulary.org/#availability> "In stock"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d259af8bfd29944ba8652cfabfb4e3ba12dINSIDE5fN66741 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2d259af8bfd29944ba8652cfabfb4e3ba12dINSIDE5fN66741 <http://rdf.data-vocabulary.org/#hasReview> <http://www.therussianstore.com/western-european-pewter-knight.html#Review-aggregate_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#TypeAndQuantityNode_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#TypeAndQuantityNode_3682> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#TypeAndQuantityNode_3682> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#QuantitativeValue_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#QuantitativeValue_3682> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#QuantitativeValue_3682> <http://purl.org/goodrelations/v1#hasMaxValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#UnitPriceSpecification_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#UnitPriceSpecification_3682> <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#UnitPriceSpecification_3682> <http://purl.org/goodrelations/v1#hasCurrencyValue> "45"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#UnitPriceSpecification_3682> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#includesObject> <http://www.therussianstore.com/western-european-pewter-knight.html#TypeAndQuantityNode_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18 11:46:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.therussianstore.com/western-european-pewter-knight.html#Offer_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.therussianstore.com/western-european-pewter-knight.html#Product_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.therussianstore.com/western-european-pewter-knight.html#UnitPriceSpecification_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#validThrough> "2015-12-18 11:46:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#description> "This Pewter Figurine of a Western-European was imported and hand molded in Russia, ready to be painted or displayed as-is. Makes a great gift, or addition to any collection"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#name> "Western-European Pewter Knight"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Review-aggregate_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Review-aggregate_3682> <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Review-aggregate_3682> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Product_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Product> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Product_3682> <http://rdf.data-vocabulary.org/#description> "This Pewter Figurine of a Western-European was imported and hand molded in Russia, ready to be painted or displayed as-is. Makes a great gift, or addition to any collection"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Product_3682> <http://rdf.data-vocabulary.org/#name> "Western-European Pewter Knight"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Product_3682> <http://rdf.data-vocabulary.org/#image> "http://www.therussianstore.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/s/u/su00121a01.jpg"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "SU00121A01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://xmlns.com/foaf/0.1/depiction> _:genid2d259af8bfd29944ba8652cfabfb4e3ba12dN66712 .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://purl.org/goodrelations/v1#description> "This Pewter Figurine of a Western-European was imported and hand molded in Russia, ready to be painted or displayed as-is. Makes a great gift, or addition to any collection"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://purl.org/goodrelations/v1#category> "Home-Figurines-Tin soldiers-Western-European Pewter Knight"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://purl.org/goodrelations/v1#color> ""@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://purl.org/goodrelations/v1#name> "Western-European Pewter Knight"@en .
+<http://www.therussianstore.com/western-european-pewter-knight.html#SomeItems_3682> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2d259af8bfd29944ba8652cfabfb4e3ba12dN66704 .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.therussianstore.com/western-european-pewter-knight.html#QuantitativeValue_3682> .
+<http://www.therussianstore.com/western-european-pewter-knight.html#Offering_3682> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d259af8bfd29944ba8652cfabfb4e3ba12dINSIDE5fN66741 .
+<http://www.parapharmanet.com/syntholkine-gel-cryo,us,4,ZZ4892662.cfm#taqn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

@@ -1,0 +1,12 @@
+_:node5eb3852b54d725194789dc51ec7b2af <http://schema.org/name> "Sealey Power Tools Sealey Vacuum Cleaner Industrial 30ltr 1400W/230V Stainless Bin"@en-us .
+_:node5eb3852b54d725194789dc51ec7b2af <http://schema.org/image> <http://ii.alatest.com/product/190x190/0/9/Sealey-PC300SD-Vacuum-Cleaner-Industrial-30ltr-1400W-230V-Stainless-Bin-168428436.jpg> .
+_:node5eb3852b54d725194789dc51ec7b2af <http://schema.org/review> _:nodeedc2f8bd78db8db11fa2ea2d4d4382b .
+_:node2196b951f9a6288380fa338067c97e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node2196b951f9a6288380fa338067c97e <http://schema.org/ratingValue> "\u00A0"@en-us .
+_:nodeedc2f8bd78db8db11fa2ea2d4d4382b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodeedc2f8bd78db8db11fa2ea2d4d4382b <http://schema.org/reviewRating> _:node2196b951f9a6288380fa338067c97e .
+_:nodeedc2f8bd78db8db11fa2ea2d4d4382b <http://schema.org/datePublished> "Dec, 2014"@en-us .
+_:nodeedc2f8bd78db8db11fa2ea2d4d4382b <http://schema.org/name> "Amazon.co.uk review summary for Sealey Power Tools Sealey Vacuum Cleaner Industrial 30ltr 1400W/230V Stainless Bin"@en-us .
+_:nodeedc2f8bd78db8db11fa2ea2d4d4382b <http://schema.org/description> "alaTest has collected and analyzed 2 user reviews of Sealey Power Tools Sealey Vacuum Cleaner Industrial 30ltr 1400W/230V Stainless Bin from Amazon.co.uk. The average user rating for this product is 4.5/5, compared to an average user rating of 4.2/5 for other Vacuums on Amazon.co.uk."@en-us .
+_:nodeedc2f8bd78db8db11fa2ea2d4d4382b <http://schema.org/author> "(amazon.co.uk)"@en-us .
+_:nodee4fbc080c3803a517df7fa6bbc4abf4e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

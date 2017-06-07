@@ -1,0 +1,3 @@
+_:nodeedfb998992db9f8079a3789e49b9c826 <http://schema.org/name> "The Greentown Grapevine \u2013 2003-11, 10:11 :: Howard County Newspapers" .
+_:nodeedfb998992db9f8079a3789e49b9c826 <http://schema.org/image> "http://cdm16066.contentdm.oclc.org/utils/getthumbnail/collection/p1819coll9/id/2625" .
+_:node818a57dc886f339ecc64598ff1f9dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

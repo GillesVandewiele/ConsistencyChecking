@@ -1,0 +1,6 @@
+_:node2e33dd2ca0d59be95c486e5723a57 <http://schema.org/keywords> "used 2004 Honda Insight Base Hatchback prices, used 2004 Honda Insight Base Hatchback price, used 2004 Honda Insight Base Hatchback pricing"@en-us .
+_:node2e33dd2ca0d59be95c486e5723a57 <http://schema.org/image> "http://image.automotive.com/f/2004_honda_insight/38980027+w300/front-driver-side-view.jpg"@en-us .
+_:node2e33dd2ca0d59be95c486e5723a57 <http://schema.org/name> "2004 Honda Insight Price & Resale Value"@en-us .
+_:node2e33dd2ca0d59be95c486e5723a57 <http://schema.org/description> "Get prices online! See used 2004 Honda Insight price and resale value at Automotive.com."@en-us .
+_:node2e33dd2ca0d59be95c486e5723a57 <http://schema.org/url> "http://cars.automotive.com/honda/insight/2004/pricing/t3-12-2-1/"@en-us .
+_:nodee3b9c4101da436509adad64b82116d8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

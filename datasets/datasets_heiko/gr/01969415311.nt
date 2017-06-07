@@ -1,0 +1,16 @@
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dN68263 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68263 .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=62918> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=62918> .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68263 <http://purl.org/goodrelations/v1#hasCurrencyValue> "14.99"@en .
+<http://www.joke.co.uk/monster-costumes/toddler-monster-halloween-costume~62918/#main> <http://purl.org/goodrelations/v1#description> "Transform your child into a classic Halloween monster with this Toddler Monster Halloween Costume. Based on Frankenstein's monster, this costume will turn your child into a cute little monster, ready to cause mischief!\n\nCostume includes:\n\nTop\nJacket\nTrousers\nHeadpiece\nShoe Covers\n\n\nThe Toddler Monster Halloween Costume includes a black top and a green jacket with 'FRANKIE' written on the left hand side.\n\nAlso included is a pair of matching green trousers with black detailing on the leg and a green and black headpiece. The headpiece secures under the chin and leave the face exposed to allow your child to pull their scariest face.\n\nThe look is completed with a pair of brown shoe covers."@en .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#count> "2"@en .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68197 <http://rdf.data-vocabulary.org/#rating> "4.5"@en .
+<http://www.joke.co.uk/monster-costumes/toddler-monster-halloween-costume~62918/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/monster-costumes/toddler-monster-halloween-costume~62918/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68312 .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dN68197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dN68197 <http://rdf.data-vocabulary.org/#hasReview> _:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68197 .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dN68197 <http://rdf.data-vocabulary.org/#hasReview> <http://www.joke.co.uk/storefront/writereview.ajax?product_id=62918> .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dINSIDE5fN68312 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.joke.co.uk/monster-costumes/toddler-monster-halloween-costume~62918/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/monster-costumes/toddler-monster-halloween-costume~62918/#main> <http://purl.org/goodrelations/v1#name> "Toddler Monster Halloween Costume"@en .
+<http://www.theelegantoffice.com/desk-pads&filter=57?cid=c9b606696a2507f329eecb08f77dfca3&cat=30Desk%2520Padsnxtnxt10Black%2520Pads&dd=department> <http://purl.org/goodrelations/v1#site_name> "http://www.theelegantoffice.com/" .

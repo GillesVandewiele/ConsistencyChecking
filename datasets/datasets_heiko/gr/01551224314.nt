@@ -1,0 +1,15 @@
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/350061.jpg" .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://ogp.me/ns#description> "Bring a heaping helping of fun to your table with this Le Creuset 10-in. Stoneware Soup Bowl from Cooking.com. Microwave, freeze and refrigerate your bowl and its contents and enjoy delicious single servings of your favorite foods." .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/cherry-10-in-stoneware-soup-bowl-by-le-creuset_350061_11/" .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://ogp.me/ns#title> "Cherry 10-in. Stoneware Soup Bowl by Le Creuset at Cooking.com" .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/cherry-10-in-stoneware-soup-bowl-by-le-creuset_350061_11/> .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://nantucketbrand.com/shop/rope-sea-chest-handles.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-22T00:00:00-08:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .

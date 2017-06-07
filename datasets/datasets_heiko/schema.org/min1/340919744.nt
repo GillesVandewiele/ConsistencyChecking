@@ -1,0 +1,17 @@
+_:noded51489dba71f45b1129ac121e9c75893 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:noded51489dba71f45b1129ac121e9c75893 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:node973a29e33fee48d72aa69513b3245e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node973a29e33fee48d72aa69513b3245e <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:node973a29e33fee48d72aa69513b3245e <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:node8799235914ccc84e734a97267c81671 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node8799235914ccc84e734a97267c81671 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/genre> "Science, Geographic & Locales"@en .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/inLanguage> "en"@en .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/publisher> _:noded51489dba71f45b1129ac121e9c75893 .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/copyrightYear> "2014"@en .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/headline> "-storm suffix - definition, meaning, audio pronunciation, synonyms and more. What is -storm suffix? used to form words for particular types of violent weather: : See more in British English Dictionary - Cambridge Dictionaries Online"@en .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/text> "\n\t\t\t\t\t\t\n                English definition of \u201C-storm\u201D\n\t\t\t\t\t\t\t\n\n\t\t            See all translations\n\t\t\n\t\t\n\n\t\t\t -stormsuffix uk \n\t\t\t\u00A0\n\t\t\n\t\t\t/-st\u0254\u02D0m/  us \n\t\t\t\u00A0\n\t\t\n\t\t\t\u00A0/-st\u0254\u02D0rm/  \n                    \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n\t\t\t\n\t\t\t\t\t\t\u203A used to form words for particular types of violent weather: a rainstorm a sandstorm a snowstorm a thunderstorm a windstorm\n\t\t\t\t\t"@en .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:node716d1a4b8a86d21baf4b1ab165b6b3 <http://schema.org/author> _:node973a29e33fee48d72aa69513b3245e .
+_:nodef5a37498c3b37739e545f9ec3312d6b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

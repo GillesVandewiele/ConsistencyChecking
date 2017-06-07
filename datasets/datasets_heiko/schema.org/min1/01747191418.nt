@@ -1,0 +1,9 @@
+_:node9e7ea2b5bbe590b0cf80d92aba103515 <http://schema.org/name> "bmg-abi-mobile" .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://schema.org/keywords> "Eastland, Texas, Ranger, Abilene, Boil Water, Lake Leon, City of Eastland" .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://schema.org/image> "http://m.ktxs.com/image/view/-/14704122/highRes/2/-/maxh/640/maxw/640/-/yl8bj7z/-/Eastland-News---logo---27953594.jpg" .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://schema.org/name> "Eastland boil water notice lifted" .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://schema.org/description> "An emergency water conservation notice has been lifted for Eastland.\u00A0" .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://schema.org/publisher> _:node9e7ea2b5bbe590b0cf80d92aba103515 .
+_:nodeaa27533dd7c6e76c143ebad7df58a11 <http://schema.org/url> "http://m.ktxs.com/news/Eastland-boil-water-notice-lifted/18185488" .
+_:node92163fec4b37fad310c3effa25836be6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

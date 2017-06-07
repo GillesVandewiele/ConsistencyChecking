@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Operation_Torch> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Frix_Michelier> .
+<http://dbpedia.org/resource/Operation_Torch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Operation_Torch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Operation_Torch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .

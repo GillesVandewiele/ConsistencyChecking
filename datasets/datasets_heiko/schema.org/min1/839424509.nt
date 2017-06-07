@@ -1,0 +1,18 @@
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/totalTime> "PT35M"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/name> "Massa para pierogi (pastel ucraniano)"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/ingredients> "4 x\u00EDcaras (500 g) de farinha de trigo"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/ingredients> "1 colher (ch\u00E1) de sal"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/ingredients> "2 colheres (ch\u00E1) de \u00F3leo"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/ingredients> "1/4 colher (ch\u00E1) de fermento em p\u00F3"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/ingredients> "1 x\u00EDcara (240 ml) de \u00E1gua morna"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/ingredients> "1 ovo batido"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/prepTime> "PT10M"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/author> "LINDAYURKIW"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/cookTime> "PT25M"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/description> "Depois de pronta a massa, corte-a como past\u00E9is e use o seu recheio favorito. O recheio mais tradicional \u00E9 de batata."@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/interactionCount> "UserComments:0"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/image> <http://brcdn.ar-cdn.com/recipes/xlarge/6c4cd19a-0ae7-4bf3-83ef-7646af8c64cc.jpg> .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/url> "http://allrecipes.com.br/receita/1103/massa-para-pierogi--pastel-ucraniano-.aspx"@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/recipeYield> "\n                Serve:\u00A030\u00A0\n            "@pt-br .
+_:node30b51a29972e8d20add2a6514b42e6 <http://schema.org/recipeInstructions> "\n                    Em uma vasilha grande misture a farinha de trigo, o sal e o fermento em p\u00F3. Fa\u00E7a um buraco no meio dos ingredientes secos.\n                    Em uma outra vasilha, misture o \u00F3leo, a \u00E1gua morna e ovo batido. Ponha estes ingredientes  no meio dos ingredientes secos. Sove a massa durante 8 a 10 minutos.\n                    Cubra a massa e deixe-a descansando por 2 horas. Abra a massa e recheie os p\u00E3ezinhos ao seu gosto.\n    "@pt-br .
+_:nodecfcc6e57b854558d560ceb15e12757 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .

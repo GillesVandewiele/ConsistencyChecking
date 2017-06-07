@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Jetsons> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Worldvision_Enterprises> .
+<http://dbpedia.org/resource/The_Jetsons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/The_Jetsons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Worldvision_Enterprises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/Worldvision_Enterprises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Worldvision_Enterprises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

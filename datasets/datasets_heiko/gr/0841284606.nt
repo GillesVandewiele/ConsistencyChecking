@@ -1,0 +1,21 @@
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71382 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity UK" .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://rdf.data-vocabulary.org/#votes> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://purl.org/stuff/rev#rating> "4.5294117647059"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://purl.org/stuff/rev#totalRatings> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 <http://rdf.data-vocabulary.org/#average> "4.5294117647059"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71462 .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71444 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71444 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d4d9df5ed0dd7471ba1dfbf3e89b9710d2dN71444 .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "DR149-FNY-0ZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm> .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://purl.org/goodrelations/v1#description> "With its wrap detail and easy silhouette, the Emily Dress is a perennial favourite. Created in our super soft premium jersey, it features a.." .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver Emily Maternity Dress" .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-dresses/jersey/emily-maternity-dress-french-navy.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.osho.com/shop/in/audio-books/series-of-osho-talks/com-follow-to-you-4/#TypeAndQuantityNode_579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

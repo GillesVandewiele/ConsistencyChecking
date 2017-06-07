@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Speed_metal> <http://dbpedia.org/ontology/stylisticOrigin> <http://dbpedia.org/resource/New_Wave_of_British_Heavy_Metal> .
+<http://dbpedia.org/resource/Speed_metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/Speed_metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/Speed_metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .
+<http://dbpedia.org/resource/New_Wave_of_British_Heavy_Metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/New_Wave_of_British_Heavy_Metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/New_Wave_of_British_Heavy_Metal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .

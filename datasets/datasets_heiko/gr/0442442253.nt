@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71977 .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71977 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71977 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71977 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71977 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$70.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#description> "<p> This flirty and feminine Princess Mastectomy Swim Dress offers adjustable straps for maximum comfort.</p> <ul> <li> One piece swim dress.</li> <li> Allover tropical print.</li> <li> Full coverage skirt.</li> <li> Thick comfortable straps.</li> <li> 3-button adjustable straps.</li> </ul>" .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#name> "T.H.E. Mediterranean Princess Mastectomy Swim Dress" .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71929 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/t-h-e--mediterranean-princess-mastectomy-swim-dress-8113026/?color=9755#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71929 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71929 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2da173e2606f224ca49bf3cf65ec6eca9f2dN71967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.craftsman.com/craftsman-27inch-3-drawers-roller-cabinet-red-black/p-00929009000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#includes> <http://www.craftsman.com/craftsman-27inch-3-drawers-roller-cabinet-red-black/p-00929009000P?prdNo=2#product> .

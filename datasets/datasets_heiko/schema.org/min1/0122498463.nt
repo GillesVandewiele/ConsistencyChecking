@@ -1,0 +1,17 @@
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/description> "\n    \n        \n        The beautiful botanical details create interest while the clean shape and warm tones add versatility to this Lite Source table lamp. From the Jaquan Collection, this traditional table lamp features warm toned Walnut Wood finishing paired with a beautiful reverse painted glass insert and a beige fabric shade.\n    \n    \n" .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/weight> "Weight: " .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/depth> "Depth: " .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/brand> "Brand: " .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/sku> "Model#" .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/width> "Width: " .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/offers> _:node28cdd5bdc714368d4f65e82e6ad8a45 .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/image> <http://images.arcadianhome.com/C411/LS-C41160_1.305w.jpg> .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/height> "Height: " .
+_:node5483d61248f6f06261247e8fde28a4e <http://schema.org/name> "\n            Lite Source Jaquan Traditional Table Lamp - LS-C41160\n            See details." .
+_:node28cdd5bdc714368d4f65e82e6ad8a45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node28cdd5bdc714368d4f65e82e6ad8a45 <http://schema.org/priceSpecification> _:nodeb5958465d754eb32c75d34cac0d7a9a4 .
+_:nodeb5958465d754eb32c75d34cac0d7a9a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PriceSpecification> .
+_:nodeb5958465d754eb32c75d34cac0d7a9a4 <http://schema.org/price> "203" .
+_:nodeb5958465d754eb32c75d34cac0d7a9a4 <http://schema.org/itemCondition> "http://schema.org/NewCondition" .
+_:nodeb5958465d754eb32c75d34cac0d7a9a4 <http://schema.org/priceCurrency> "USD" .
+_:node7c881ed2a2d85f9ad350641a638228ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,26 @@
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66714 <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66663 <http://rdf.data-vocabulary.org/#count> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66663 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.rachaelraystore.com/#company> <http://purl.org/goodrelations/v1#offers> <http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d93977e4ad61f4304a2ce87674a5983da2dN66714 .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "254210"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://xmlns.com/foaf/0.1/depiction> <http://iweb.rachaelraystore.com/images/products/shprodde/254210.jpg> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#description> "Our largest cookie sheet is made of heavy weight carbon steel to aid in even browning. The nonstick surface makes cleanup easy and allows you to bake cookies without greasing the pan. Our cookie pan has a shallow lip around the edge of the pan, making it suitable for jobs beyond baking, such as roasting vegetables."@en .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#name> "Anolon Advanced Bakeware 14x16-in. Cookie Pan"@en .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d93977e4ad61f4304a2ce87674a5983da2dN66663 .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66688 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66688 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66688 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d93977e4ad61f4304a2ce87674a5983da2dN66688 <http://purl.org/goodrelations/v1#hasCurrencyValue> "19.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://xmlns.com/foaf/0.1/page> <http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210> .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d93977e4ad61f4304a2ce87674a5983da2dN66688 .
+<http://www.rachaelraystore.com/Product/detail/Anolon-Advanced-Bakeware-14x16-in-Cookie-Pan/254210#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

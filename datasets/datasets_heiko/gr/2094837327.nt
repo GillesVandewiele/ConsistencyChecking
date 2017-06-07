@@ -1,0 +1,51 @@
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN67019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN67019 <http://rdf.data-vocabulary.org/#url> <http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN67019 <http://rdf.data-vocabulary.org/#title> "UV Sterilisers" .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#company> <http://xmlns.com/foaf/0.1/logo> <http://www.charterhouse-aquatics.co.uk/img/Logo-big2.jpg> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#company> <http://xmlns.com/foaf/0.1/page> <http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://purl.org/goodrelations/v1#hasOpeningHoursSpecification> <http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sun> <http://purl.org/goodrelations/v1#closes> "16:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sun> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Sunday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sun> <http://purl.org/goodrelations/v1#opens> "10:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#company> <http://purl.org/goodrelations/v1#legalName> "Charterhouse Aquatics Ltd" .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dd9259017f2084a44ac8cfb18d7b850022dN69356 .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#company> <http://www.w3.org/2006/vcard/ns#tel> "+44 870 850 6138" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN67010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN67010 <http://rdf.data-vocabulary.org/#url> <http://www.charterhouse-aquatics.co.uk/index.php> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN67010 <http://rdf.data-vocabulary.org/#title> "Home" .
+<http://www.charterhouse-aquatics.co.uk#company> <http://purl.org/goodrelations/v1#hasPOS> <http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#closes> "17:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Monday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Tuesday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Wednesday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Thursday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Friday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#mon_fri> <http://purl.org/goodrelations/v1#opens> "08:30:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Location> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69415 <http://www.w3.org/2006/vcard/ns#postal-code> "E8 4ED" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69415 <http://www.w3.org/2006/vcard/ns#locality> "London" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69415 <http://www.w3.org/2006/vcard/ns#street-address> "Arches 331/330 Stean Street" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69415 <http://www.w3.org/2006/vcard/ns#country-name> "UK" .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dd9259017f2084a44ac8cfb18d7b850022dN69415 .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://www.w3.org/2006/vcard/ns#tel> "+44 870 850 6138" .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://purl.org/goodrelations/v1#name> "Charterhouse Aquatics" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dINSIDE5fN69440 <http://www.w3.org/2006/vcard/ns#longitude> "-0.07517"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dINSIDE5fN69440 <http://www.w3.org/2006/vcard/ns#latitude> "51.53810"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sat> <http://purl.org/goodrelations/v1#closes> "16:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sat> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Saturday> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sat> <http://purl.org/goodrelations/v1#opens> "10:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69356 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69356 <http://www.w3.org/2006/vcard/ns#postal-code> "E8 4ED" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69356 <http://www.w3.org/2006/vcard/ns#locality> "London" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69356 <http://www.w3.org/2006/vcard/ns#street-address> "Arches 331/330 Stean Street" .
+_:genid2dd9259017f2084a44ac8cfb18d7b850022dN69356 <http://www.w3.org/2006/vcard/ns#country-name> "UK" .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://www.w3.org/2006/vcard/ns#geo> _:genid2dd9259017f2084a44ac8cfb18d7b850022dINSIDE5fN69440 .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://xmlns.com/foaf/0.1/logo> <http://www.charterhouse-aquatics.co.uk/img/Logo-big2.jpg> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://xmlns.com/foaf/0.1/page> <http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html> .
+<http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#store> <http://purl.org/goodrelations/v1#hasOpeningHoursSpecification> <http://www.charterhouse-aquatics.co.uk/uv-sterilisers-c-30.html#sun> .
+_:genid2d701a79c9b7d94e8da7c76d8a5e53f12d2dN74857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

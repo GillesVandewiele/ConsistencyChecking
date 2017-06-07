@@ -1,0 +1,21 @@
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/shop/lizzie-maternity-dress-wine-patent.htm> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/stuff/rev#Review> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://purl.org/stuff/rev#maxRating> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://rdf.data-vocabulary.org/#votes> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://purl.org/stuff/rev#rating> "4.7647058823529"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://purl.org/stuff/rev#totalRatings> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://purl.org/stuff/rev#minRating> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71213 <http://rdf.data-vocabulary.org/#average> "4.7647058823529"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71133 <http://purl.org/goodrelations/v1#legalName> "Isabella Oliver Maternity CA" .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71195 <http://purl.org/goodrelations/v1#hasCurrency> "CAD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d7dbc8de7f210489fb6a3e43b4db020802dN71195 .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "DR159-WNE-6ZZZ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm> .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#description> "Such an endlessly versatile and elegant piece, everyone needs a more sculptured dress in their style repertoire and the Lizzie Dress is a beautiful.." .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#name> "Isabella Oliver Lizzie Maternity Dress" .
+<http://www.isabellaoliver.com/ca/shop/lizzie-maternity-dress-wine-patent.htm#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/finis-turnmaster-pro-large-29162/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d86c22dc293a74e2c8eef695b0ab5c74b2dN71192 .

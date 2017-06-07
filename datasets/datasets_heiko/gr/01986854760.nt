@@ -1,0 +1,11 @@
+<http://www.columbusclinical.com/#company> <http://xmlns.com/foaf/0.1/page> <http://www.columbusclinical.com/> .
+<http://www.columbusclinical.com/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.columbusclinical.com/#company> <http://purl.org/goodrelations/v1#legalName> "Columbus Clinical Research" .
+<http://www.columbusclinical.com/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d33fc2d51301e48fa878f52bdbc616fe92dN67017 .
+<http://www.columbusclinical.com/#company> <http://www.w3.org/2006/vcard/ns#tel> "614-501-6164" .
+_:genid2d33fc2d51301e48fa878f52bdbc616fe92dN67017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d33fc2d51301e48fa878f52bdbc616fe92dN67017 <http://www.w3.org/2006/vcard/ns#postal-code> "43213" .
+_:genid2d33fc2d51301e48fa878f52bdbc616fe92dN67017 <http://www.w3.org/2006/vcard/ns#locality> "Columbus" .
+_:genid2d33fc2d51301e48fa878f52bdbc616fe92dN67017 <http://www.w3.org/2006/vcard/ns#street-address> "99 Brice Rd N #260" .
+_:genid2d33fc2d51301e48fa878f52bdbc616fe92dN67017 <http://www.w3.org/2006/vcard/ns#country-name> "USA" .
+<http://www.warmyourfloor.com/snow-ice-melting/promelt-installation-accessories/promelt-controls-automation/promelt-cp-200-snow-melt-control-panel.html#Offering_1369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

@@ -1,0 +1,16 @@
+_:nodeebdad234f764e38f04d8412f94ce <http://schema.org/priceSpecification> _:node7b9264464b6b26d1e7965ab1e81bf26 .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/IndividualProduct> .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/description> "\n    \n        \n        Visually lyrical, the swooping forms are bound together with gold wrapped detail.\n    \n    \n        Features\n        Can be mounted up and down.View Vaxcel finish swatches \n    \n" .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/weight> "Weight: " .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/brand> "Brand: " .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/sku> "Model#" .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/width> "Width: " .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/offers> _:nodeebdad234f764e38f04d8412f94ce .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/image> <http://images.arcadianhome.com/VXBE/VX-BE-VLD003CA.305w.jpg> .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/height> "Height: " .
+_:node2f57424cf6ee34e17bc597265c8c5 <http://schema.org/name> "\n            Vaxcel Lighting Berkeley Traditional Vanity / Bathroom Light - VX-BE-VLD003CA\n            See details." .
+_:node7b9264464b6b26d1e7965ab1e81bf26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PriceSpecification> .
+_:node7b9264464b6b26d1e7965ab1e81bf26 <http://schema.org/price> "138.60" .
+_:node7b9264464b6b26d1e7965ab1e81bf26 <http://schema.org/itemCondition> "http://schema.org/NewCondition" .
+_:node7b9264464b6b26d1e7965ab1e81bf26 <http://schema.org/priceCurrency> "USD" .
+_:nodefefda4cbc1da147ffc8e9a902dd2d450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> .

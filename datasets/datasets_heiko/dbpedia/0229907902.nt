@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/National_Institutes_of_Health> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Francis_Collins> .
+<http://dbpedia.org/resource/National_Institutes_of_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/National_Institutes_of_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/National_Institutes_of_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentAgency> .
+<http://dbpedia.org/resource/Francis_Collins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Francis_Collins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Francis_Collins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,24 @@
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65688 <http://www.w3.org/2006/vcard/ns#postal-code> "67204"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65688 <http://www.w3.org/2006/vcard/ns#locality> "Wichita"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65688 <http://www.w3.org/2006/vcard/ns#street-address> "2215 W Harborlight Ct"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65688 <http://www.w3.org/2006/vcard/ns#country-name> "United States"@en .
+<http://www.ifurn.com/> <http://opengraphprotocol.org/schema/title> "iFurn.com | The online furniture store for your home or office!"@en .
+<http://www.ifurn.com/> <http://ogp.me/ns/fb#admins> "1143566572"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Address> .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65733 <http://rdf.data-vocabulary.org/#locality> "Wichita"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65733 <http://rdf.data-vocabulary.org/#street-address> "2215 W Harborlight Ct"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65733 <http://rdf.data-vocabulary.org/#country-name> "United States"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65733 <http://rdf.data-vocabulary.org/#postal-code> "67204"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65733 <http://rdf.data-vocabulary.org/#region> "KS"@en .
+<http://www.ifurn.com/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntityType> .
+<http://www.ifurn.com/#company> <http://purl.org/goodrelations/v1#Business> "Online Retailer"@en .
+<http://www.ifurn.com/#company> <http://www.w3.org/2006/vcard/ns#tel> "+8 888 888-888"@en .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65722 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Organization> .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65722 <http://rdf.data-vocabulary.org/#address> _:genid2d7fcbf365a142452bb603583c492cefd62dN65733 .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65722 <http://rdf.data-vocabulary.org/#name> "iFurn"@en .
+<http://www.ifurn.com/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.ifurn.com/#company> <http://purl.org/goodrelations/v1#legalName> "iFurn"@en .
+<http://www.ifurn.com/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d7fcbf365a142452bb603583c492cefd62dN65688 .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65722 <http://rdf.data-vocabulary.org/#url> <http://www.ifurn.com/> .
+_:genid2d7fcbf365a142452bb603583c492cefd62dN65722 <http://rdf.data-vocabulary.org/#tel> "888-888-8888"@en .
+<http://www.coffeeforless.com/new-york-coffee-guatemala-ground-coffee-1lb-bag.html#Offering_3932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

@@ -1,0 +1,6 @@
+_:node4c9bf1c0492befb3e65ee52ae179892 <http://schema.org/name> "How do you make a word like \"parent(s)\" possessive?" .
+_:node4c9bf1c0492befb3e65ee52ae179892 <http://schema.org/title> "How do you make a word like \"parent(s)\" possessive?" .
+_:node4c9bf1c0492befb3e65ee52ae179892 <http://schema.org/description> "\n  Possible Duplicate:\n  What is the correct possessive for nouns ending in s?  \n\n\n\n\n\"Please submit your and your parent(s)' federal tax returns.\"  Is the possessive of \"parent(s)'\" correctly forma..." .
+_:node4c9bf1c0492befb3e65ee52ae179892 <http://schema.org/image> "http://cdn.sstatic.net/english/img/apple-touch-icon@2.png?v=5bebfd2a0d06" .
+_:node4c9bf1c0492befb3e65ee52ae179892 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/english/img/apple-touch-icon@2.png?v=5bebfd2a0d06" .
+_:nodef51c3748c61e7539ce2924be94e6d80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

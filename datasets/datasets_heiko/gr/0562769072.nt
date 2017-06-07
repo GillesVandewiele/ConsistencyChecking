@@ -1,0 +1,12 @@
+<http://www.bestwestern.de/hotels/Frankfurt-am-Main/BEST-WESTERN-PREMIER-IB-Hotel-Friedberger-Warte/zimmer-service#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN PREMIER IB Hotel Friedberger Warte"@de .
+<http://www.bestwestern.de/hotels/Frankfurt-am-Main/BEST-WESTERN-PREMIER-IB-Hotel-Friedberger-Warte/zimmer-service#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dN69693 .
+<http://www.bestwestern.de/hotels/Frankfurt-am-Main/BEST-WESTERN-PREMIER-IB-Hotel-Friedberger-Warte/zimmer-service#company> <http://www.w3.org/2006/vcard/ns#tel> "+4969 7680640"@de .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dN69693 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dN69693 <http://www.w3.org/2006/vcard/ns#postal-code> "60389"@de .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dN69693 <http://www.w3.org/2006/vcard/ns#locality> "Frankfurt am Main"@de .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dN69693 <http://www.w3.org/2006/vcard/ns#street-address> "Homburger Landstra\u00DFe 4"@de .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dN69693 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+<http://www.bestwestern.de/hotels/Frankfurt-am-Main/BEST-WESTERN-PREMIER-IB-Hotel-Friedberger-Warte/zimmer-service> <http://www.w3.org/2006/vcard/ns#geo> _:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dINSIDE5fN69715 .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dINSIDE5fN69715 <http://www.w3.org/2006/vcard/ns#longitude> "8.697993"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d1cde1e25bf92443db6ecb1ef40ca86bd2dINSIDE5fN69715 <http://www.w3.org/2006/vcard/ns#latitude> "50.141513"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.diydoctor.org.uk/DIY-superstore/multi-purpose-pozi-screw-countersunk-st-stainless-steel-5-0-x-50mm-box-200.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .

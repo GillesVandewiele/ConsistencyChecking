@@ -1,0 +1,6 @@
+_:node496a41b8c2e8fc2111856a5929138e <http://schema.org/name> "PKCS#11 TLS Authentication" .
+_:node496a41b8c2e8fc2111856a5929138e <http://schema.org/title> "PKCS#11 TLS Authentication" .
+_:node496a41b8c2e8fc2111856a5929138e <http://schema.org/description> "I am new to PKCS#11 and Common Access Cards but as I understand it, on the card you have the certificates(s) that can be extracted and the private key(s) that can't. I am trying to write an app that " .
+_:node496a41b8c2e8fc2111856a5929138e <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node496a41b8c2e8fc2111856a5929138e <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node9e81551cb0474e531599317c2779fea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

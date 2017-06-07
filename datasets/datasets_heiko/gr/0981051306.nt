@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71596 .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#description> "Shine in the spotlight with this magnificent Mosaic Tide Butterfly Back from The Finals Funkies\u2122. <br><br>\u0095 Butterfly back style features supportive, thin, sleek straps.<br>\u0095 Less fabric for less restriction of movement.<br>\u0095 Fully lined one-piece.<br>\u0095 80% Polyester / 20% Spandex.<br>\u0095 Imported." .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#name> "The Finals Funkies Mosaic Tide Butterfly Back 1-pc" .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71548 .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/the-finals-funkies-mosaic-tide-butterfly-back-1-pc-23849/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71577 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71548 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71548 <http://rdf.data-vocabulary.org/#count> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71548 <http://rdf.data-vocabulary.org/#rating> "3.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71596 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71596 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71596 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d1197d56b8c4c432a8b6f750c864b03b82dN71596 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$8.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://mg1700-seo.maxim.web.ra/index.php/electronics/cell-phones/nokia-4-1-x-1-7-x-0-7-inches-black-2610-n2610.html#Offering_6312> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .

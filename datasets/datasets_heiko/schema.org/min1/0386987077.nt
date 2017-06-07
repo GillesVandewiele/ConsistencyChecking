@@ -1,0 +1,17 @@
+_:node59a52ae22101e73593d96779b12bc5 <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:node59a52ae22101e73593d96779b12bc5 <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:nodeaaf89f2abc5e6aa3e3b4ade4e38e89d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeaaf89f2abc5e6aa3e3b4ade4e38e89d <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:nodeaaf89f2abc5e6aa3e3b4ade4e38e89d <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:nodedcd48a51f23d3e93146226c48859ec43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodedcd48a51f23d3e93146226c48859ec43 <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/genre> "Beauty, Health & Fitness"@en .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/inLanguage> "es"@en .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/publisher> _:node59a52ae22101e73593d96779b12bc5 .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/copyrightYear> "2014"@en .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/headline> "vomit - translate into Spanish with the English-Spanish Dictionary / Diccionario Ingl\u00E9s-Espa\u00F1ol - Cambridge Dictionaries Online"@en .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/text> "\n                Spanish translation of \u201Cvomit\u201D\n                            \n        \n                    See all translations\n                \n        vomit verb /\u02C8vomit/ \n                \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n        \n\n            \u203A to throw out (the contents of the stomach or other matter) through the mouth; to be sick  \n                \n                                    \n            vomitar\n             Whenever the ship started to move, she felt like vomiting.\n                    "@en .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/copyrightHolder> "\u00A9 2013 K Dictionaries Ltd"@en .
+_:node3efd8fcd36306d7ab3b816d786ecd436 <http://schema.org/author> _:nodeaaf89f2abc5e6aa3e3b4ade4e38e89d .
+_:node4b34d1d484cc7a21eecdc1ad598638c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

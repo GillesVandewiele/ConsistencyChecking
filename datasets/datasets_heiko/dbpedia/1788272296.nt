@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Kalamazoo_College> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Eileen_Wilson-Oyelaran> .
+<http://dbpedia.org/resource/Kalamazoo_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Kalamazoo_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Kalamazoo_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> .
+<http://dbpedia.org/resource/Kalamazoo_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+<http://dbpedia.org/resource/Eileen_Wilson-Oyelaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Eileen_Wilson-Oyelaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

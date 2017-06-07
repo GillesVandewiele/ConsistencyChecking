@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/EastEnders> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/BBC_One> .
+<http://dbpedia.org/resource/EastEnders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/EastEnders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/BBC_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionStation> .
+<http://dbpedia.org/resource/BBC_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> .
+<http://dbpedia.org/resource/BBC_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/BBC_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

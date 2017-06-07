@@ -1,0 +1,34 @@
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Review-aggregate_20678> <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Review-aggregate_20678> <http://rdf.data-vocabulary.org/#rating> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#TypeAndQuantityNode_20678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#TypeAndQuantityNode_20678> <http://purl.org/goodrelations/v1#amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#TypeAndQuantityNode_20678> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#ByBankTransferInAdvance> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#hasInventoryLevel> <http://www.temperleylondon.com/shop/beatrice-belt.html#QuantitativeValue_20678> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dcdbbfb240dd245a7b88c2d6018c1edd22dINSIDE5fN67405 .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "12YBRX3315A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://xmlns.com/foaf/0.1/depiction> _:genid2dcdbbfb240dd245a7b88c2d6018c1edd22dN67392 .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://purl.org/goodrelations/v1#description> "Reminiscent of precious jewellery, the Beatrice Belt is made of mounted crystals, pearls and beads in an eye catching design and finished with pearl ended droplets. Beautifully intricate, it has a touch of 1940s Hollywood glamour and vintage feel making it both opulent and chic. This is the perfect belt to put over a simple wedding dress to add sparkle. Fabric Composition: Mixed materials Model is 5ft 10 and is wearing a size 8." .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://purl.org/goodrelations/v1#category> "Array" .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://purl.org/goodrelations/v1#color> "" .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://purl.org/goodrelations/v1#name> "Beatrice Belt" .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#SomeItems_20678> <http://purl.org/goodrelations/v1#hasManufacturer> _:genid2dcdbbfb240dd245a7b88c2d6018c1edd22dN67384 .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#UnitPriceSpecification_20678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#UnitPriceSpecification_20678> <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#UnitPriceSpecification_20678> <http://purl.org/goodrelations/v1#hasCurrencyValue> "475"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#UnitPriceSpecification_20678> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#validFrom> "2014-12-19 05:39:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.temperleylondon.com/shop/beatrice-belt.html#UnitPriceSpecification_20678> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#validThrough> "2015-12-19 05:39:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#description> "Reminiscent of precious jewellery, the Beatrice Belt is made of mounted crystals, pearls and beads in an eye catching design and finished with pearl ended droplets. Beautifully intricate, it has a touch of 1940s Hollywood glamour and vintage feel making it both opulent and chic. This is the perfect belt to put over a simple wedding dress to add sparkle. Fabric Composition: Mixed materials Model is 5ft 10 and is wearing a size 8." .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#name> "Beatrice Belt" .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#Offering_20678> <http://purl.org/goodrelations/v1#includesObject> <http://www.temperleylondon.com/shop/beatrice-belt.html#TypeAndQuantityNode_20678> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#QuantitativeValue_20678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#QuantitativeValue_20678> <http://purl.org/goodrelations/v1#hasMinValue> "1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.temperleylondon.com/shop/beatrice-belt.html#QuantitativeValue_20678> <http://purl.org/goodrelations/v1#hasMaxValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dcdbbfb240dd245a7b88c2d6018c1edd22dINSIDE5fN67405 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .
+_:genid2dcdbbfb240dd245a7b88c2d6018c1edd22dINSIDE5fN67405 <http://rdf.data-vocabulary.org/#hasReview> <http://www.temperleylondon.com/shop/beatrice-belt.html#Review-aggregate_20678> .
+_:genid2d49dc8bb7255447f6b73a12adad14e4172dINSIDE5fN67095 <http://xmlns.com/foaf/0.1/maker> <urn:mageworx:seosuite_ultimate:v2.0.0.0> .

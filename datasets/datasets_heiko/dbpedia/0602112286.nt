@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/University_of_Chicago> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Committee_on_Institutional_Cooperation> .
+<http://dbpedia.org/resource/University_of_Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/University_of_Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/University_of_Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> .
+<http://dbpedia.org/resource/University_of_Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+<http://dbpedia.org/resource/Committee_on_Institutional_Cooperation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Committee_on_Institutional_Cooperation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,3 @@
+_:node62a0b35b1657b1ea825f471399dc64 <http://schema.org/name> "Developer (Mills,  N.M.) :: New Mexico Newspapers Database" .
+_:node62a0b35b1657b1ea825f471399dc64 <http://schema.org/image> "http://econtent.unm.edu/utils/getthumbnail/collection/nmnews/id/950" .
+_:node4349c2964411be3a542be9ab6a2a402a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Residence> .

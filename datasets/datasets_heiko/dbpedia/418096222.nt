@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Wojciech_Jaruzelski> <http://dbpedia.org/ontology/otherParty> <http://dbpedia.org/resource/Polish_United_Workers'_Party> .
+<http://dbpedia.org/resource/Wojciech_Jaruzelski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Wojciech_Jaruzelski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Wojciech_Jaruzelski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Polish_United_Workers'_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Polish_United_Workers'_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Polish_United_Workers'_Party> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

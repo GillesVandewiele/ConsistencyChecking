@@ -1,0 +1,27 @@
+_:genid2d0a998c5b5ec14c25a2bf570d9ddc19812dN66841 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d0a998c5b5ec14c25a2bf570d9ddc19812dN66841 <http://purl.org/goodrelations/v1#hasCurrencyValue> "25.4900"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d0a998c5b5ec14c25a2bf570d9ddc19812dN66841 .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/10275-228x228.jpg> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#description> "File Bar Length 12" .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "10275"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#name> "Abus File Cabinet Locking Bar, 1 Drawer MKL-1/07010" .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/10275-228x228.jpg> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://purl.org/goodrelations/v1#description> "File Bar Length 12" .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "10275"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Abus File Cabinet Locking Bar, 1 Drawer MKL-1/07010" .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://purl.org/goodrelations/v1#name> "Abus File Cabinet Locking Bar, 1 Drawer MKL-1/07010" .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/abus-file-cabinet-bar-1-drawer-mkl-1-07010> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeMail> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/10275.html?id=EMcRvT4c#product> .
+<http://www.mrlock.com/10275.html?id=EMcRvT4c#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/abus-file-cabinet-bar-1-drawer-mkl-1-07010> .
+<http://logos.warszawa.pl/#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .

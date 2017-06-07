@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Islam> .
+<http://dbpedia.org/resource/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Politician> .

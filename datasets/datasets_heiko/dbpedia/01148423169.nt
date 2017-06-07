@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/John_Huston> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Evelyn_Keyes> .
+<http://dbpedia.org/resource/John_Huston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/John_Huston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Evelyn_Keyes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Evelyn_Keyes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

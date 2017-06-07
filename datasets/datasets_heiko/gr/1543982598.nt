@@ -1,0 +1,19 @@
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#product> <http://xmlns.com/foaf/0.1/depiction> <http://s.shld.net/is/image/Sears/http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_233525101?hei=&wid=&op_sharpen=&resMode=sharp&op_usm=0.9,0.5,0,0> .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#product> <http://purl.org/goodrelations/v1#description> "Used for pressure lubricated engines (most Intek&#8482; and Vanguard&#8482; OHV engines and selected L-head twin cylinder engines). Fits Briggs &amp; Stratton engines using part numbers 492932 and Tecumseh 36563 and 740057A. Contains one oil filter.<br>&nbsp;" .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#product> <http://purl.org/goodrelations/v1#name> "Craftsman Oil Filter- Briggs" .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#includes> <http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#product> .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> .
+_:genid2d6065f848f933416ab6ee81e2e49fe6612dN67630 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d6065f848f933416ab6ee81e2e49fe6612dN67630 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d6065f848f933416ab6ee81e2e49fe6612dN67630 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d6065f848f933416ab6ee81e2e49fe6612dN67630 <http://purl.org/goodrelations/v1#hasCurrencyValue> "12.99000"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d6065f848f933416ab6ee81e2e49fe6612dN67630 .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://xmlns.com/foaf/0.1/depiction> <http://s.shld.net/is/image/Sears/http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_233525101?hei=&wid=&op_sharpen=&resMode=sharp&op_usm=0.9,0.5,0,0> .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#description> "Used for pressure lubricated engines (most Intek&#8482; and Vanguard&#8482; OHV engines and selected L-head twin cylinder engines). Fits Briggs &amp; Stratton engines using part numbers 492932 and Tecumseh 36563 and 740057A. Contains one oil filter.<br>&nbsp;" .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#name> "Craftsman Oil Filter- Briggs" .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> .
+<http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-oil-filter-briggs/p-07124603000P?prdNo=2#product> .
+<http://www.swimoutlet.com/p/skye-adrift-bra-top-8116319/?color=43999#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .

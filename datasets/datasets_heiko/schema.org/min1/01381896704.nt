@@ -1,0 +1,13 @@
+<http://genius.com/artists/Curren-y> <http://schema.org/Person/name> <http://genius.com/Curren-y-montreux-lyrics//artists/Curren-y> .
+<http://genius.com/artists/Curren-y> <http://schema.org/Person/name> <http://genius.com/Curren-y-montreux-lyrics//artists/Curren-y> .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/creator> <http://genius.com/artists/Curren-y> .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/thumbnailUrl> "http://s3.amazonaws.com/rapgenius/PtIIcover.jpg"@en .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/image> "http://s3.amazonaws.com/rapgenius/PtIIcover.jpg"@en .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/genre> <http://rap.genius.com/> .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/text> "\n    \n  Kush smoke\nMoney, clothes, hoes\nHurry up before that elevator door close\nThis that 1980 Marvin Gaye live at the Montreux\nStars in the audience Al Jarreau in the third row\nParental guardian to this art for it's my baby\nLazy eye, though wise folk try to play me, I spot you points\nI prove with my every move\nRight from the beginnin' I was right and that was very crude\nThis is what I know\nMake a fool, out of you, if we were to duel\nAnd a hall player playin' pool\nRenegade bitches choose\nWord to Max Jule\nDrop jewels, diamonds different hues\nType of shit I like to do\nOrange leather in my coupe\nCarrot soup\nMy women ball, word to Sheryl Swoopes\nMinus the hoop\nShe fell through\nFell in love with the blue dream\nAnd the things she can't have\nNow she lookin' down like she trynna use a Ipad\nPro tools confiscated as evidence by the crime\nLab spyin', ain't even have to do em' like that\nKnife work on the track\nMany ya' cut and slash\nAt the neck like a sash\nBlood on my hands, me and my killin' bag\nRaw shit, Kill a gram\nHigh spinnin' ceilin' fan\nYou ain't neva seen a man, till' you seen the man\nRaw shit, Kill a gram\nHigh spinnin' ceilin' fan\nYou ain't neva seen a man, till' you seen the man\nFool\n\n\n\n\n  "@en .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/description> "\n    track 3 from Pilot talk 2.\n  "@en .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/name> "\n      Montreux\n    "@en .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/author> <http://genius.com/artists/Curren-y> .
+_:node966dfa63d0f32cc9f4c11dfbfff7d78 <http://schema.org/keywords> "\n      Rap Genius\n    "@en .
+_:node0b55b5fb62f979abdd286508ecd96a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SearchResultsPage> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Edwin_Turney> .
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Edwin_Turney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edwin_Turney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

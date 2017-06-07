@@ -1,0 +1,24 @@
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71795 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71795 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71795 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$13.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71776 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d6df61165fab342799341955cdb1e3fa82dN71795 .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71785 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#description> "\u0095 Biofuse technology allows the finger paddle to flex naturally<br>\u0095 Great for sculling and breaststroke<br>\u0095 Easy adjustable silicone straps<br>\u0095 Perfect for all swimming levels<br>\u0095 Please note that each order will come with 2 paddles<br><br>For a detailed review by Gold Medalist Mark Gangloff <a href=''http://www.swimoutlet.com/blog/top-swim-paddles-compared-the-gangloff-review''>click here</a>" .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://purl.org/goodrelations/v1#name> "Speedo Biofuse Finger Paddles" .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d6df61165fab342799341955cdb1e3fa82dN71747 .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71747 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71747 <http://rdf.data-vocabulary.org/#count> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d6df61165fab342799341955cdb1e3fa82dN71747 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/speedo-biofuse-finger-paddles-5734/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d01d2c7db20f64520acd3e82945aeaa512dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

@@ -1,0 +1,7 @@
+_:nodef340e5bb555870e1cacf34672ce59b4a <http://schema.org/offers> _:node60db3e80b51b8636e146dda71efd3e1 .
+_:nodef340e5bb555870e1cacf34672ce59b4a <http://schema.org/name> "Tights with Mesh Bows in Blue" .
+_:nodef340e5bb555870e1cacf34672ce59b4a <http://schema.org/description> "Tights with Mesh Bows in Blue " .
+_:nodef340e5bb555870e1cacf34672ce59b4a <http://schema.org/price> "$7.65" .
+_:nodef340e5bb555870e1cacf34672ce59b4a <http://schema.org/image> <http://costumecraze.com/HOSE120.html///img.costumecraze.com/images/vendors/hrc/7445-main.jpg> .
+_:node60db3e80b51b8636e146dda71efd3e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:nodebcbe71d55cf28291cd72ee13726b5da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

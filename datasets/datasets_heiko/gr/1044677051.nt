@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=75019> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=75019> .
+<http://www.joke.co.uk/roman-fancy-dress/roman-dress~75019/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/roman-fancy-dress/roman-dress~75019/#main> <http://purl.org/goodrelations/v1#name> "Roman Dress"@en .
+_:genid2dc5feec8a36504442b493ec9e93edf94a2dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2dc5feec8a36504442b493ec9e93edf94a2dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrencyValue> "32.49"@en .
+<http://www.joke.co.uk/roman-fancy-dress/roman-dress~75019/#main> <http://purl.org/goodrelations/v1#description> "Transform into an elegant empress with our stunning Roman Dress, which features a subtle dip-dyed effect, graduating from white to dark grey.\n\nCostume includes:\n\nDress with attached drape\n\n\nThe Roman Dress is sleeveless with a gold patterned band under the bust line and an attached black drape.  The dress is white at the top and graduates to a dark grey at the bottom of the skirt."@en .
+_:genid2dc5feec8a36504442b493ec9e93edf94a2dN68242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dc5feec8a36504442b493ec9e93edf94a2dN68242 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dc5feec8a36504442b493ec9e93edf94a2dINSIDE5fN68242 .
+<http://www.joke.co.uk/roman-fancy-dress/roman-dress~75019/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/roman-fancy-dress/roman-dress~75019/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2dc5feec8a36504442b493ec9e93edf94a2dINSIDE5fN68291 .
+_:genid2d04a671f856604ad99963d992158754332dN69870 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

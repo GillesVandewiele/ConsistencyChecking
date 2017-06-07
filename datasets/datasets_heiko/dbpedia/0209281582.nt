@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kid_Rock> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Percussion_instrument> .
+<http://dbpedia.org/resource/Kid_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Kid_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Kid_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Kid_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .

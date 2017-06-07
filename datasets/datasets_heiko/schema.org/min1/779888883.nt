@@ -1,0 +1,6 @@
+_:node1f72dadec152ab8b5defa3c1a0c1dd26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .
+_:node5d671943eb6cf6d2124391be3b53df2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:node5d671943eb6cf6d2124391be3b53df2 <http://schema.org/headline> "General Aviation News"@en-us .
+_:noded23eb65912660c17b10b27aaa6a9825 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodebdfd901bca94e83f9b9ed22994c5ac3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPFooter> .
+_:nodee9f8e5c936ddc0d1d7ef5ea69bad997e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSpecialty> .

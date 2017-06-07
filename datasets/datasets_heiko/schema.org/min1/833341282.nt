@@ -1,0 +1,9 @@
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/sku> "70006151222\u00A0\u00A0\u00A0\n                            " .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/name> "3M\u2122 Cushion-Mount\u2122 Plus Plate Mounting Tape 1060 White, 18 in x 50 ft 0.060 in, 1 per case Bulk" .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/gtin14> "00021200657269\u00A0\u00A0\u00A0\n                            " .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/description> "This 0.060 inch (1.52 mm) white, double coated foam tape with differential adhesion used to mount flexographic print plates." .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/description> "Provides high quality standard combination print. The adhesives remove cleanly from the print plate and the print cylinder." .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/image> <http://multimedia.3m.com/mws/media/233950P/cushion-mount-plus-plate-mounting-tape-1060.jpg?boundedSize=310> .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/image> <http://multimedia.3m.com/mws/media/233950P/cushion-mount-plus-plate-mounting-tape-1060.jpg?boundedSize=40> .
+_:node9e2c5d63b897b69c4c8822259f57665b <http://schema.org/image> <http://multimedia.3m.com/mws/media/233950P/cushion-mount-plus-plate-mounting-tape-1060.jpg?boundedSize=40> .
+_:node38a56fa7b58335afdc417a2439eade2d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

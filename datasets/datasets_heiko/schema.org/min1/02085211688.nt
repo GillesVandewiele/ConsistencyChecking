@@ -1,0 +1,16 @@
+_:nodeda457d80ea37ff7acc43b8a59486760 <http://schema.org/price> "\n          $10.99\n        "@en-us .
+_:nodeda457d80ea37ff7acc43b8a59486760 <http://schema.org/priceCurrency> "USD"@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/height> "H 19\u201D "@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/offers> _:nodeda457d80ea37ff7acc43b8a59486760 .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/name> "Ambrose Paper Lantern"@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/url> <http://fab.com/product/ambrose-paper-lantern-418766?fref=fb-like> .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/description> "\n                  Creating an\u00A0ethereal ambiance\u00A0in your home is easier than it looks.\u00A0True to Chinese tradition,\u00A0this\u00A0paper lantern\u00A0consists of white rice paper around a bamboo frame. Hang it on its own, or add a bulb to create a captivating glow.\n                "@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/width> "19\u201D "@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/image> <http://fab.com/product/ambrose-paper-lantern-418766/?ref=browse&pos=11///dnok91peocsw3.cloudfront.net/product/418766-610x610-1389639343-primary.png> .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/image> "//dnok91peocsw3.cloudfront.net/product/418766-610x610-1389639343-primary.png"@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/color> "White"@en-us .
+_:nodea96067635e285d553cb24d362b286771 <http://schema.org/brand> "Found by Fab "@en-us .
+_:node2d741c1045c38a1ec2d353c985b5363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node2d741c1045c38a1ec2d353c985b5363 <http://schema.org/url> <http://fab.com/product/ambrose-paper-lantern-418766/?ref=browse&pos=11///fab.com/> .
+_:node37a9e942fc364d5c3568751ae63ef18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .

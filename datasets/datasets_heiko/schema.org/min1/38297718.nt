@@ -1,0 +1,28 @@
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/inventoryLevel> "186" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/businessFunction> "Sell" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/price> "$59.30" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/mpn> "358347-B21" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/category> "333MHz\u00A0Genuine HP Memory" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/availability> "Null" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/warranty> "Lifetime" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/itemOffered> "358347-B21" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/itemCondition> "New" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/priceCurrency> "USD" .
+_:nodea392b548f10b7261faed8a7ae4a9 <http://schema.org/seller> "HardDrivesDirect.com" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/model> "358347-B21" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/isRelatedTo> "\n\n358347-B21 CPQ 512MB PC7200 ECC DDR MEM" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/isRelatedTo> "\n\n358348-B21 CPQ 1GB PC2700 ECC DDR MEM" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/isRelatedTo> "\n\n358349-B21 CPQ 2GB PC2700 ECC DDR MEM" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/sku> "358347-B21" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/itemCondition> "New" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/mpn> "358347-B21" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/offers> _:nodea392b548f10b7261faed8a7ae4a9 .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/name> "358347-B21 HP 512MB PC2700 (1x512MB) SDRAM" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/isAccessoryOrSparePartFor> "DL360 G4 ML150 G2 ML350 G4 " .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/description> "Description:Genuine HP Compaq 1x512MB of Advanced ECC PC2700 DDR 333 SDRAM DIMM Memory Module\n(1x512MB module)Part Number(s)Option Part# 358347-B21\n\n\n" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/productID> "141252" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/image> <http://www.serverpartsdirect.com/images/compaq_memory_1_small.gif> .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/weight> "0.25\u00A0lbs" .
+_:nodeba66d41165d6e08ba6a053bca1ea13 <http://schema.org/brand> "HP Compaq" .
+_:nodec9e7350b4dced5e696ae5ee76f7d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

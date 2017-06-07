@@ -1,0 +1,27 @@
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#FederalExpress> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#includes> <http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/jma-key-blank-kwikset-kw11-kwi-5de-br-> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/kwi5de-228x228.jpg> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://purl.org/goodrelations/v1#description> "Key blank for Kwikset/Titan 5 and 6 pin locks. Key blanks sold each. Brass key blanks. Compatible with KW11 key blanks." .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "KWI5DE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://purl.org/goodrelations/v1#category> "Home \u00BB Key blank, JMA KWI5DE for Kwikset KW11" .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://purl.org/goodrelations/v1#name> "Key blank, JMA KWI5DE for Kwikset KW11" .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#product> <http://xmlns.com/foaf/0.1/page> <http://www.mrlock.com/jma-key-blank-kwikset-kw11-kwi-5de-br-> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d709e4af793e944d4bdd3a884fdc3460e2dN66764 .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.mrlock.com/image/cache/data/ic/items/kwi5de-228x228.jpg> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#description> "Key blank for Kwikset/Titan 5 and 6 pin locks. Key blanks sold each. Brass key blanks. Compatible with KW11 key blanks." .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> "KWI5DE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#name> "Key blank, JMA KWI5DE for Kwikset KW11" .
+<http://www.mrlock.com/KWI5DE.html?id=IzID73JH#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2d709e4af793e944d4bdd3a884fdc3460e2dN66764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d709e4af793e944d4bdd3a884fdc3460e2dN66764 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d709e4af793e944d4bdd3a884fdc3460e2dN66764 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.3900"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d5ce9fd3a14374b8da5cc1b051ea9853b2dN71346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

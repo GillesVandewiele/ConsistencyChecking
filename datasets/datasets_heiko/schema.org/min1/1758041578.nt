@@ -1,0 +1,3 @@
+_:node8ef7c52fcad76c6a8797a90b4ef815d <http://schema.org/name> "Ohio Jewish Chronicle, 1984-07-12 :: Ohio Jewish Chronicle" .
+_:node8ef7c52fcad76c6a8797a90b4ef815d <http://schema.org/image> "http://cdm16007.contentdm.oclc.org/utils/getthumbnail/collection/ojc/id/38263" .
+_:nodeba1d9a2ba798ef817d21f35e7a2e714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

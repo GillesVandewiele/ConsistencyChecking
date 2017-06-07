@@ -1,0 +1,106 @@
+_:nodec075a42676d4a3eb6868ca6ca07ccf39 <http://schema.org/ratingValue> "5" .
+_:node9526977fc461656d63fd9b41fa49ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node9526977fc461656d63fd9b41fa49ff2 <http://schema.org/reviewRating> _:node9fd11b14605326bb8a1c5275dc7c82 .
+_:node9526977fc461656d63fd9b41fa49ff2 <http://schema.org/dateCreated> "Dec 18, 2003" .
+_:node9526977fc461656d63fd9b41fa49ff2 <http://schema.org/description> "Mmmm... I saw this recipe & just had to try it... I'm glad I did.  Maybe these weren't the prettiest cookie on my Christmas plates, but they were one of the tastiest!  They are time-consuming with the different steps, but well worth it." .
+_:node9526977fc461656d63fd9b41fa49ff2 <http://schema.org/author> "JLD114" .
+_:node9526977fc461656d63fd9b41fa49ff2 <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:nodec85074fd2350ee9781cec1e1dce71da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodec85074fd2350ee9781cec1e1dce71da <http://schema.org/reviewRating> _:node91a9df1bb494bb5dc59e4fccdfca41 .
+_:nodec85074fd2350ee9781cec1e1dce71da <http://schema.org/dateCreated> "Jul 06, 2006" .
+_:nodec85074fd2350ee9781cec1e1dce71da <http://schema.org/description> "My husband really, really likes these.  The \"crust\" can be a little dry if you aren't careful.  Also instead of spreading the frosting I drizzled it in zigzags or other designs and they actually looked quite nice." .
+_:nodec85074fd2350ee9781cec1e1dce71da <http://schema.org/author> "Melissa" .
+_:nodec85074fd2350ee9781cec1e1dce71da <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:nodea1ef17179bd34487eda19ec1c5fe4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:nodea1ef17179bd34487eda19ec1c5fe4 <http://schema.org/reviewRating> _:nodee9810ac159d1d259a1b3178a49dec1 .
+_:nodea1ef17179bd34487eda19ec1c5fe4 <http://schema.org/dateCreated> "Dec 18, 2003" .
+_:nodea1ef17179bd34487eda19ec1c5fe4 <http://schema.org/description> "Kids of ALL ages love this recipe! My Sister inlaw has been making this\nrecipe for over 18 years that I know of, dont know where she origionally\nfound it, but it is a delicious cookie..my favorite! We also add coconut\nto the frosting sometimes. Its best to keep these refridgerated after\nthey have been frosted, cover them with plastic wrap and they will last\nfor several days...if they arent eaten up first!  =)  Mine dont last but\na few days..cause they are so yummy!" .
+_:nodea1ef17179bd34487eda19ec1c5fe4 <http://schema.org/author> "VICTORIA HOLTMAN" .
+_:nodea1ef17179bd34487eda19ec1c5fe4 <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:node91a9df1bb494bb5dc59e4fccdfca41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node91a9df1bb494bb5dc59e4fccdfca41 <http://schema.org/ratingValue> "5" .
+_:node50cd4d571918293a531d29991a861c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node50cd4d571918293a531d29991a861c9 <http://schema.org/ratingValue> "4" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/sodiumContent> "53mg" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/carbohydrateContent> "24.9g" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/proteinContent> "1.5g" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/saturatedFatContent> "3g" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/fatContent> "5.9g" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/calories> "156" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/servingSize> "1/36 of a recipe" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/fiberContent> "0.4g" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/cholesterolContent> "24mg" .
+_:node8620a76bee1e30506939d03da8d5cdd3 <http://schema.org/sugarContent> "16g" .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/name> "Gooey Cherry Bars" .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            2 1/3 cups\n                            all-purpose flour\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            1/3 cup\n                            white sugar\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            3/4 cup\n                            butter, softened\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            2\n                            eggs, lightly beaten\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            1 cup\n                            brown sugar\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            1/2 teaspoon\n                            vanilla extract\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            1 1/2 teaspoons\n                            baking powder\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            1 (10 ounce) jar\n                            maraschino cherries, drained and juice reserved\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            1/2 cup\n                            chopped walnuts\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            2 1/2 cups\n                            confectioners' sugar\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/ingredients> "\n                            2 tablespoons\n                            butter\n                            \n                        " .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/author> "Ruthie Isaacs" .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/description> "\"Cherry and nut layer bars which are very festive for all December holidays.\"" .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:node906b59fca5091f0fe3184316d4bca5b .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:node1e1206ebf65c0fdb91cb7acf98169ae .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:node9526977fc461656d63fd9b41fa49ff2 .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:nodea1ef17179bd34487eda19ec1c5fe4 .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:nodec85074fd2350ee9781cec1e1dce71da .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:node12de7874a9b824c7d4c8f45c40b48 .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:node1c49b49304fa838f4296844526d5ce6 .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/review> _:node8fedb93758403dbb28b8574bb0cdb11f .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/image> <http://images.media-allrecipes.com/userphotos/250x250/00/00/65/6559.jpg> .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/nutrition> _:node8620a76bee1e30506939d03da8d5cdd3 .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/recipeYield> "36 bars" .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/recipeInstructions> "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPreheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIn a medium bowl, mix flour, white sugar and 3/4 cup butter until crumbly. Press into prepared pan.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBake in preheated oven 12 to 15 minutes, until light brown.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIn a food processor, combine eggs, brown sugar, vanilla and baking powder and process until smooth. Pour in cherries and walnuts and pulse until just chopped and incorporated, but not pulverized. Pour over crust.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBake 25 minutes, until center is set.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTo frost, cream together confectioners' sugar with 2 tablespoons butter and 4 tablespoons cherry juice until fluffy. Frost cooled dessert and cut into bars.\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\tKitchen-Friendly View\n\n\t\t\t\t" .
+_:nodec1d6a172a085867d5583ae2da9cb77fe <http://schema.org/aggregateRating> _:noded128aaef44def6169967a801c283173 .
+_:nodee9810ac159d1d259a1b3178a49dec1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodee9810ac159d1d259a1b3178a49dec1 <http://schema.org/ratingValue> "5" .
+_:nodec14bee4243bb512488bdf878e244109f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:nodec14bee4243bb512488bdf878e244109f <http://schema.org/ratingValue> "5" .
+_:node12de7874a9b824c7d4c8f45c40b48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node12de7874a9b824c7d4c8f45c40b48 <http://schema.org/reviewRating> _:node50cd4d571918293a531d29991a861c9 .
+_:node12de7874a9b824c7d4c8f45c40b48 <http://schema.org/dateCreated> "Dec 13, 2005" .
+_:node12de7874a9b824c7d4c8f45c40b48 <http://schema.org/description> "I made these this year as part of my Christmas cookies. They were very easy to make, and yieled quite a few cookies. One tip I have is to make sure not to process the cherry mixture in the food processor more than a few seconds, you just want the cherries to get a little chopped up. I made 2 alterations, one was that I forgot I needed the cherry juice and dumped it out, so I just used water in place of it to make a white frosting. The other is that my family doesn't really like nuts, so I just left them out. The bars are pretty sweet, especially with the powdered sugar icing, but they are sooo good and have a great texture with combination of the crust and the cherry layer. Overall, a definite winner. Try this!" .
+_:node12de7874a9b824c7d4c8f45c40b48 <http://schema.org/author> "SarahZ" .
+_:node12de7874a9b824c7d4c8f45c40b48 <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:node1e1206ebf65c0fdb91cb7acf98169ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node1e1206ebf65c0fdb91cb7acf98169ae <http://schema.org/reviewRating> _:node632e66217c265283558cf39a71eedc74 .
+_:node1e1206ebf65c0fdb91cb7acf98169ae <http://schema.org/dateCreated> "Oct 29, 2006" .
+_:node1e1206ebf65c0fdb91cb7acf98169ae <http://schema.org/description> "Sweet, buttery and rich, rich, RICH! So sweet my husband said it made his teeth \"tingle\".The shortbread base seemed overdone, I would suggest not waiting for your crust to get to the light brown stage in the first baking step, just go with the 12 minutes realizing that it's going to cook for another 25 minutes. You must definitely wait until the bars are completely cooled to frost or it will be a mess. There is another recipe on this site that I like a lot called \"Pink Ladies\" that uses a similar frosting for a chocolate base, I think I'd like to try and combine parts of each of these recipes to have a chocolate base with cherry topping." .
+_:node1e1206ebf65c0fdb91cb7acf98169ae <http://schema.org/author> "chellebelle" .
+_:node1e1206ebf65c0fdb91cb7acf98169ae <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:node632e66217c265283558cf39a71eedc74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node632e66217c265283558cf39a71eedc74 <http://schema.org/ratingValue> "3" .
+_:node4b5d4d5b64f5f29af861fc480483b8c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node4b5d4d5b64f5f29af861fc480483b8c <http://schema.org/ratingValue> "4" .
+_:node1c49b49304fa838f4296844526d5ce6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node1c49b49304fa838f4296844526d5ce6 <http://schema.org/reviewRating> _:nodec14bee4243bb512488bdf878e244109f .
+_:node1c49b49304fa838f4296844526d5ce6 <http://schema.org/dateCreated> "Jan 04, 2005" .
+_:node1c49b49304fa838f4296844526d5ce6 <http://schema.org/description> "these bars were delicious!  totally recomend them if you like the buttery taste of shortbread!  they only lasted a minute - everyone ate them up so quickly!  they aren't the most beautiful bars, but i gave them 5 stars just 'cause they taste so good!" .
+_:node1c49b49304fa838f4296844526d5ce6 <http://schema.org/author> "CARAMELNUT" .
+_:node1c49b49304fa838f4296844526d5ce6 <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:node8fedb93758403dbb28b8574bb0cdb11f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node8fedb93758403dbb28b8574bb0cdb11f <http://schema.org/reviewRating> _:node4b5d4d5b64f5f29af861fc480483b8c .
+_:node8fedb93758403dbb28b8574bb0cdb11f <http://schema.org/dateCreated> "Dec 22, 2006" .
+_:node8fedb93758403dbb28b8574bb0cdb11f <http://schema.org/description> "I got compliments on these.  I took the advice of another reviewer and drizzled the icing over the bars to make it less sweet." .
+_:node8fedb93758403dbb28b8574bb0cdb11f <http://schema.org/author> "Ker" .
+_:node8fedb93758403dbb28b8574bb0cdb11f <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:node9fd11b14605326bb8a1c5275dc7c82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:node9fd11b14605326bb8a1c5275dc7c82 <http://schema.org/ratingValue> "5" .
+_:noded128aaef44def6169967a801c283173 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:noded128aaef44def6169967a801c283173 <http://schema.org/ratingValue> "4.121212" .
+_:noded128aaef44def6169967a801c283173 <http://schema.org/reviewCount> "25" .
+_:node906b59fca5091f0fe3184316d4bca5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node906b59fca5091f0fe3184316d4bca5b <http://schema.org/reviewRating> _:nodec075a42676d4a3eb6868ca6ca07ccf39 .
+_:node906b59fca5091f0fe3184316d4bca5b <http://schema.org/dateCreated> "Dec 14, 2005" .
+_:node906b59fca5091f0fe3184316d4bca5b <http://schema.org/description> "These turned out great but i do agree that once i first iced them, they were kind of \"blah\" looking. I had some mini gingerbread men and christmas tree sprinkles and with this addition, they looked beautiful. These squares require patience when cutting them in order to get the perfect looking square. I froze mine slightly prior to cutting it.  I also did not have a food processor, but i used my pampered chef chopper and it did the cherries and nuts perfectly.  Great addition to my christmas baking." .
+_:node906b59fca5091f0fe3184316d4bca5b <http://schema.org/author> "COOKINFORFUN" .
+_:node906b59fca5091f0fe3184316d4bca5b <http://schema.org/itemReviewed> "Gooey Cherry Bars" .
+_:nodede575f34a8a44136892dbdd5e3495a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

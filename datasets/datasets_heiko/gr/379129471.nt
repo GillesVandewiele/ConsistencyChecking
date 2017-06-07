@@ -1,0 +1,90 @@
+<http://lumefilmes.com.br/#manufacturer_104> <http://www.w3.org/2000/01/rdf-schema#label> "Ecco" .
+<http://lumefilmes.com.br/#businessEntity> <http://www.w3.org/2006/vcard/ns#url> <http://lumefilmes.com.br/> .
+<http://lumefilmes.com.br/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://lumefilmes.com.br/#offering> .
+<http://lumefilmes.com.br/#manufacturer_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_122> <http://www.w3.org/2000/01/rdf-schema#label> "HTC" .
+<http://lumefilmes.com.br/#manufacturer_117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_117> <http://www.w3.org/2000/01/rdf-schema#label> "AMD" .
+<http://lumefilmes.com.br/#businessEntity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#businessEntity> <http://www.w3.org/2006/vcard/ns#fn> "Lume Filmes" .
+<http://lumefilmes.com.br/#businessEntity> <http://purl.org/goodrelations/v1#legalName> "Lume Filmes" .
+<http://lumefilmes.com.br/#businessEntity> <http://www.w3.org/2006/vcard/ns#adr> <http://lumefilmes.com.br/#address> .
+<http://lumefilmes.com.br/#businessEntity> <http://www.w3.org/2000/01/rdf-schema#label> "Lume Filmes" .
+<http://lumefilmes.com.br/#manufacturer_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_9> <http://www.w3.org/2000/01/rdf-schema#label> "Acco" .
+<http://lumefilmes.com.br/#manufacturer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_1> <http://www.w3.org/2000/01/rdf-schema#label> "LG" .
+<http://lumefilmes.com.br/#manufacturer_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_29> <http://www.w3.org/2000/01/rdf-schema#label> "Apple" .
+<http://lumefilmes.com.br/#manufacturer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_31> <http://www.w3.org/2000/01/rdf-schema#label> "Kodak" .
+<http://lumefilmes.com.br/#manufacturer_103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_103> <http://www.w3.org/2000/01/rdf-schema#label> "Kenneth Cole" .
+<http://lumefilmes.com.br/#manufacturer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_21> <http://www.w3.org/2000/01/rdf-schema#label> "BlackBerry" .
+<http://lumefilmes.com.br/#manufacturer_116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_116> <http://www.w3.org/2000/01/rdf-schema#label> "Intel" .
+<http://lumefilmes.com.br/#manufacturer_121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_121> <http://www.w3.org/2000/01/rdf-schema#label> "Logitech" .
+<http://lumefilmes.com.br/#manufacturer_118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_118> <http://www.w3.org/2000/01/rdf-schema#label> "Western Digital" .
+<http://lumefilmes.com.br/#manufacturer_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_4> <http://www.w3.org/2000/01/rdf-schema#label> "HP" .
+<http://lumefilmes.com.br/#manufacturer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_27> <http://www.w3.org/2000/01/rdf-schema#label> "Gateway" .
+<http://lumefilmes.com.br/#manufacturer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_33> <http://www.w3.org/2000/01/rdf-schema#label> "Olympus" .
+<http://lumefilmes.com.br/#manufacturer_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_32> <http://www.w3.org/2000/01/rdf-schema#label> "Argus" .
+<http://lumefilmes.com.br/#manufacturer_102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_102> <http://www.w3.org/2000/01/rdf-schema#label> "Anashria" .
+<http://lumefilmes.com.br/#address> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+<http://lumefilmes.com.br/#address> <http://www.w3.org/2006/vcard/ns#country-name> "Estados Unidos" .
+<http://lumefilmes.com.br/#manufacturer_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_28> <http://www.w3.org/2000/01/rdf-schema#label> "Acer" .
+<http://lumefilmes.com.br/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://lumefilmes.com.br/#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18T00:39:13-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lumefilmes.com.br/#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-18T00:39:13-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://lumefilmes.com.br/#offering> <http://purl.org/goodrelations/v1#description> "" .
+<http://lumefilmes.com.br/#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "BR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lumefilmes.com.br/#offering> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://lumefilmes.com.br/> .
+<http://lumefilmes.com.br/#offering> <http://purl.org/goodrelations/v1#eligibleCustomerTypes> <http://purl.org/goodrelations/v1#Enduser> .
+<http://lumefilmes.com.br/#manufacturer_105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_105> <http://www.w3.org/2000/01/rdf-schema#label> "Nine West" .
+<http://lumefilmes.com.br/#manufacturer_111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_111> <http://www.w3.org/2000/01/rdf-schema#label> "Crucial" .
+<http://lumefilmes.com.br/#manufacturer_63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_63> <http://www.w3.org/2000/01/rdf-schema#label> "CN CLogs" .
+<http://lumefilmes.com.br/#manufacturer_83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_83> <http://www.w3.org/2000/01/rdf-schema#label> "Toshiba" .
+<http://lumefilmes.com.br/#manufacturer_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_10> <http://www.w3.org/2000/01/rdf-schema#label> "Aiwa" .
+<http://lumefilmes.com.br/#manufacturer_101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_101> <http://www.w3.org/2000/01/rdf-schema#label> "At&t" .
+<http://lumefilmes.com.br/#manufacturer_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_20> <http://www.w3.org/2000/01/rdf-schema#label> "Nokia" .
+<http://lumefilmes.com.br/#manufacturer_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_7> <http://www.w3.org/2000/01/rdf-schema#label> "Yamaha" .
+<http://lumefilmes.com.br/#manufacturer_64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_64> <http://www.w3.org/2000/01/rdf-schema#label> "Asics" .
+<http://lumefilmes.com.br/#manufacturer_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_3> <http://www.w3.org/2000/01/rdf-schema#label> "Samsung" .
+<http://lumefilmes.com.br/#manufacturer_120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_120> <http://www.w3.org/2000/01/rdf-schema#label> "Microsoft" .
+<http://lumefilmes.com.br/#manufacturer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_34> <http://www.w3.org/2000/01/rdf-schema#label> "Canon" .
+<http://lumefilmes.com.br/#manufacturer_62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_62> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Madden" .
+<http://lumefilmes.com.br/#manufacturer_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_6> <http://www.w3.org/2000/01/rdf-schema#label> "Panasonic" .
+<http://lumefilmes.com.br/#manufacturer_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_2> <http://www.w3.org/2000/01/rdf-schema#label> "Sony" .
+<http://lumefilmes.com.br/#manufacturer_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_5> <http://www.w3.org/2000/01/rdf-schema#label> "JVC" .
+<http://lumefilmes.com.br/#manufacturer_119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_119> <http://www.w3.org/2000/01/rdf-schema#label> "Seagate" .
+<http://lumefilmes.com.br/#manufacturer_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_30> <http://www.w3.org/2000/01/rdf-schema#label> "Dell" .
+<http://lumefilmes.com.br/#manufacturer_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://lumefilmes.com.br/#manufacturer_8> <http://www.w3.org/2000/01/rdf-schema#label> "Philips" .
+_:genid2dda83d599020145cea8e21fe5393e1b762dN74511 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .

@@ -1,0 +1,6 @@
+_:nodecd2ce469b8164978c268aead1c9312d <http://schema.org/name> "When rendering on two different computers, the texture is glitchy" .
+_:nodecd2ce469b8164978c268aead1c9312d <http://schema.org/title> "When rendering on two different computers, the texture is glitchy" .
+_:nodecd2ce469b8164978c268aead1c9312d <http://schema.org/description> "I am using Ogre3D, and have been using it for a while. Also lately, I have been using the Opengl Rendering system that is included in Ogre, only because Directx will not compile correctly(Will post " .
+_:nodecd2ce469b8164978c268aead1c9312d <http://schema.org/image> "http://cdn.sstatic.net/gamedev/img/apple-touch-icon@2.png?v=9bca23db2259" .
+_:nodecd2ce469b8164978c268aead1c9312d <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/gamedev/img/apple-touch-icon@2.png?v=9bca23db2259" .
+_:node34a3725f2b83c3d0495f8e76442cc069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

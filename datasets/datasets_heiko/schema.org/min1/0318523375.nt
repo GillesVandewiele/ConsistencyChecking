@@ -1,0 +1,5 @@
+<http://books.google.com/books/about/Jet.html?hl=En&id=jkEDAAAAMBAJ&q=William> <http://schema.org/Book/image> <http://books.google.com/books/content?id=jkEDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70lgjMYjwAolMMaldHcGtr-a-yoftgFmTfnw49CKHiW_9BoXUTTkq-9Xlj5-C5PrjXB6xModnZtDcpEMfbtT7zo524oY7aOIfM6N1uyJpa90qyRxGGJRxHKdXl6N-BbzkWSQzDa> .
+<http://books.google.com/books/about/Jet.html?hl=En&id=jkEDAAAAMBAJ&q=William> <http://schema.org/Book/url> "http://books.google.com/books/about/Jet.html?hl=En&id=jkEDAAAAMBAJ&q=William&utm_source=gb-gplus-share" .
+<http://books.google.com/books/about/Jet.html?hl=En&id=jkEDAAAAMBAJ&q=William> <http://schema.org/Book/name> "Jet" .
+<http://books.google.com/books/about/Jet.html?hl=En&id=jkEDAAAAMBAJ&q=William> <http://schema.org/Book/description> "books.google.com - The weekly source of African American political and entertainment news...." .
+_:node8aa0d38583dee02127ab9acbfd8074b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

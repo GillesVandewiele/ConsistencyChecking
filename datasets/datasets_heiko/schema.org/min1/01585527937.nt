@@ -1,0 +1,14 @@
+_:node428650715c4a81eea63f6f6a4e3b528e <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wpvi/images/logos/header-large.png> .
+_:node428650715c4a81eea63f6f6a4e3b528e <http://schema.org/url> <http://6abc.com/> .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/name> "http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/news/national_world/9195950_1280x720.jpg"@en .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/news/national_world/9195950_1280x720.jpg"@en .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/description> "Null"@en .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/headline> "Taste test: Lab-grown hamburger short on flavor"@en .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/url> "http://cdn.abclocal.go.com/images/wpvi/cms_exf_2007/news/national_world/9195950_1280x720.jpg"@en .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/text> "Taste test: Lab-grown hamburger short on flavor"@en .
+_:node37fdb4d6eb9ca8b6dac8a1f4f72b2a9 <http://schema.org/caption> "Taste test: Lab-grown hamburger short on flavor"@en .
+_:node4643f7d2d50cc236e1d70d02c91e076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4643f7d2d50cc236e1d70d02c91e076 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wpvi/images/logos/header-large.png> .
+_:node4643f7d2d50cc236e1d70d02c91e076 <http://schema.org/url> <http://6abc.com/> .
+_:nodeb96de226cd33b2daf5dd77276d71beb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

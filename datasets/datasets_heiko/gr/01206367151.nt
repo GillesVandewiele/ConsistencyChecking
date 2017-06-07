@@ -1,0 +1,15 @@
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/169112.jpg" .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://ogp.me/ns#description> "Pare, garnish, slice, spread, and cut like a pro with the Zwilling J.A. Henckels 4-pc. Twin Grip Colorful Kitchen Knife Set from Cooking.com. Find the knives and knife blocks you've been looking for in our large inventory." .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/4-pc-twin-grip-colorful-kitchen-knife-set-by-zwilling-j-a-henckels_169112_11/0/6/" .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://ogp.me/ns#title> "4-pc. Twin Grip Colorful Kitchen Knife Set by Zwilling J.A. Henckels at Cooking.com" .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/4-pc-twin-grip-colorful-kitchen-knife-set-by-zwilling-j-a-henckels_169112_11/0/6/> .
+_:genid2db54d20de3f8645e7bf5fd944f71841212dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.isabellaoliver.com/ca/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm> <http://xmlns.com/foaf/0.1/page> <http://www.isabellaoliver.com/sale/sale-all/maternity-loungewear-hooded-tunic-ink-melange.htm> .

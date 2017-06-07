@@ -1,0 +1,3 @@
+_:node393c91a2c3dbbc796328623d37bd1 <http://schema.org/name> "Chicago Examiner Vol. 13 no. 26 :: Chicago Examiner 1908-1918" .
+_:node393c91a2c3dbbc796328623d37bd1 <http://schema.org/image> "http://digital.chipublib.org/utils/getthumbnail/collection/examiner/id/52265" .
+<http://books.google.com/books/about/Vibe.html?id=jyYEAAAAMBAJ&q=Chris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .

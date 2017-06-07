@@ -1,0 +1,12 @@
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/image> <http://res.aecdaily.com/res/i/544257/2010-Dow160px.jpg> .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/addressRegion> "MI" .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/telephone> "866-583-(BLUE) 2583" .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/postalCode> "48674" .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/addressLocality> "Midland" .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/addressCountry> "USA" .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/url> "http://www.dowbuildingsolutions.com" .
+_:node3a3390f36175e3cd76cb66dcaec4574b <http://schema.org/streetAddress> "200 Larkin Center" .
+_:nodeaf854d24a1b4bb878f115e41691b230 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LocalBusiness> .
+_:nodeaf854d24a1b4bb878f115e41691b230 <http://schema.org/name> "Dow Building Solutions" .
+_:nodeaf854d24a1b4bb878f115e41691b230 <http://schema.org/address> _:node3a3390f36175e3cd76cb66dcaec4574b .
+_:noded8728e81b8da03cd06835bdd7c657a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .

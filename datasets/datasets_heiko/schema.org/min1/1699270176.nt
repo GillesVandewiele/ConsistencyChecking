@@ -1,0 +1,3 @@
+_:node934f158d82fefbed63dfda6bfd8163 <http://schema.org/name> "Portrait of a Painter :: Chautauqua-Cattaraugus Library System" .
+_:node934f158d82fefbed63dfda6bfd8163 <http://schema.org/image> "http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/VXU/id/790" .
+_:nodeda84e1cebee4d58123fcb82846eeb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Spandrel> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bridge> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RouteOfTransportation> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://dbpedia.org/resource/Ponte_Vecchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchitecturalStructure> .

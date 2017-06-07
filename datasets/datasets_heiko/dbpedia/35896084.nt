@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/The_Land_Beyond_the_Sunset> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Martin_Fuller> .
+<http://dbpedia.org/resource/The_Land_Beyond_the_Sunset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/The_Land_Beyond_the_Sunset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/The_Land_Beyond_the_Sunset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .

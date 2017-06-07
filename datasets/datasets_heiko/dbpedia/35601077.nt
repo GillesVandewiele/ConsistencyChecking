@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/V%C3%A1clav_Havel> <http://dbpedia.org/ontology/primeMinister> <http://dbpedia.org/resource/Vladim%C3%ADr_%C5%A0pidla> .
+<http://dbpedia.org/resource/V%C3%A1clav_Havel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/V%C3%A1clav_Havel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/V%C3%A1clav_Havel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Vladim%C3%ADr_%C5%A0pidla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Vladim%C3%ADr_%C5%A0pidla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Vladim%C3%ADr_%C5%A0pidla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .

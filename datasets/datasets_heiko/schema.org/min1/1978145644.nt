@@ -1,0 +1,6 @@
+_:nodea7c648d4963d87eeea8364825915f1ab <http://schema.org/name> "ksh93 as default shell via ssh" .
+_:nodea7c648d4963d87eeea8364825915f1ab <http://schema.org/title> "ksh93 as default shell via ssh" .
+_:nodea7c648d4963d87eeea8364825915f1ab <http://schema.org/description> "I'm a big fan of ksh93.  My hosts' shell account doesn't allow me to configure .login, .profile or chsh to change my default shell. As it is, I am dropped into jailshell-3.2 and I have to invoke " .
+_:nodea7c648d4963d87eeea8364825915f1ab <http://schema.org/image> "http://cdn.sstatic.net/superuser/img/apple-touch-icon@2.png?v=e869e4459439" .
+_:nodea7c648d4963d87eeea8364825915f1ab <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/superuser/img/apple-touch-icon@2.png?v=e869e4459439" .
+_:nodec26452989681a65b95ec562d2545fdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

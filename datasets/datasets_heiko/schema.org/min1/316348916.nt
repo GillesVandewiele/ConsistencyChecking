@@ -1,0 +1,3 @@
+_:node68e51038809c3b7676b573a2587215a <http://schema.org/description> " | \u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E22\u0E48\u0E2D\u0E25\u0E30\u0E04\u0E23  By gossipstar.mthai.com" .
+_:node68e51038809c3b7676b573a2587215a <http://schema.org/name> "\u0E25\u0E30\u0E04\u0E23 \u0E21\u0E37\u0E2D\u0E19\u0E32\u0E07 \u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E22\u0E48\u0E2D\u0E25\u0E30\u0E04\u0E23 \u0E21\u0E37\u0E2D\u0E19\u0E32\u0E07" .
+_:nodef231c891d33cdbeeb1de04dda586112 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPSideBar> .

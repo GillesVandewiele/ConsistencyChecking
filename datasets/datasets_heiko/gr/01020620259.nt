@@ -1,0 +1,24 @@
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71708 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71708 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71708 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$26.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#description> "<p> The Bunker boardshort is a camouflage print suit that helps you truly blend into the water. Made out of recycled polyester, you'll be green and stylish whenever you take a swim. </p> <ul> <li> Hand Wash. </li> <li> Camo printed. </li> <li> Recycled 4 way stretch diamond dobby boardshort. </li> <li> Velcro patch pocket. </li> </ul>" .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#name> "Quiksilver Waterman's Bunker Boardshort" .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71660 .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71708 .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/quiksilver-watermans-bunker-boardshort-8115836/?color=27469#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71660 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dee55c321e7b248e8a05bc6396fc6a3562dN71660 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-tops/cami-and-tanks/ruched-maternity-tank-top-caviar-black.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2df7dda170d4484dbf90a7369d3eef2b9d2dN71949 .

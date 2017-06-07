@@ -1,0 +1,15 @@
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/387602.jpg" .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://ogp.me/ns#description> "Make every cola-drinking experience special with the Spiegelau Set of 2 Lounge Soft Drink Glasses from Cooking.com. With a capacity of 12.3 ounces, these glasses are the ideal size to hold a refreshing drink from a can, bottle or fountain." .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/set-of-2-lounge-softdrink-glass-by-spiegelau_387602_11/" .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://ogp.me/ns#title> "Set of 2 Lounge Softdrink Glass by Spiegelau at Cooking.com" .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/set-of-2-lounge-softdrink-glass-by-spiegelau_387602_11/> .
+_:genid2d5737f8db80db45c792b5069c5d122d5e2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.mrlock.com/28176.html?id=rT5zXm2K#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

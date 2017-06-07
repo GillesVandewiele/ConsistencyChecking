@@ -1,0 +1,57 @@
+_:node92b63667ae22ac74e9798b6ed51430 <http://schema.org/name> "\n\t\t\t\t\tSouthEast Aurora Book Club Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node92b63667ae22ac74e9798b6ed51430 <http://schema.org/url> <http://www.meetup.com/SouthEast-Aurora-Book-Club-Meetup/> .
+_:node4f408ef8fb225b3e13d66a7e57de1a7b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4f408ef8fb225b3e13d66a7e57de1a7b <http://schema.org/name> "\n\t\t\t\t\tWorking Moms in the Greater DTC Area\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4f408ef8fb225b3e13d66a7e57de1a7b <http://schema.org/url> <http://www.meetup.com/Working-Moms-in-the-Greater-DTC-Area/> .
+_:node4f674a1ed8768d81e9cf423fdd2dd6cd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4f674a1ed8768d81e9cf423fdd2dd6cd <http://schema.org/name> "\n\t\t\t\t\tBook Arts: From Book lovers to book binding\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4f674a1ed8768d81e9cf423fdd2dd6cd <http://schema.org/url> <http://www.meetup.com/Book-Arts-From-Book-lovers-to-book-binding/> .
+_:nodea8b76ad51d69a4cf9b143968c87458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea8b76ad51d69a4cf9b143968c87458 <http://schema.org/name> "\n\t\t\t\t\tReading Between the Wines\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea8b76ad51d69a4cf9b143968c87458 <http://schema.org/url> <http://www.meetup.com/awesomebookgroup/> .
+_:nodea5b06347c8cf4bf71d0fc45766cd1d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea5b06347c8cf4bf71d0fc45766cd1d7 <http://schema.org/name> "\n\t\t\t\t\tSE Denver Women's Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodea5b06347c8cf4bf71d0fc45766cd1d7 <http://schema.org/url> <http://www.meetup.com/SE-Denver-Womens-Book-Club/> .
+_:node45f5bc4a783f2da17e4a8fcea329d2f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node45f5bc4a783f2da17e4a8fcea329d2f <http://schema.org/name> "\n\t\t\t\t\tThe 20s/30s Book Club of Denver\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node45f5bc4a783f2da17e4a8fcea329d2f <http://schema.org/url> <http://www.meetup.com/The-Denver-Young-Professional-Book-Club/> .
+_:node37a490ea591bc8c6af8d9dc2107eae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node37a490ea591bc8c6af8d9dc2107eae <http://schema.org/name> "\n\t\t\t\t\tBlow-Your-Mind Book Club (Denver)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node37a490ea591bc8c6af8d9dc2107eae <http://schema.org/url> <http://www.meetup.com/Blow-Your-Mind-Book-Club-Denver/> .
+_:node75bfebcfa5d4b4ec98f6f1a0605f96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node75bfebcfa5d4b4ec98f6f1a0605f96 <http://schema.org/name> "\n\t\t\t\t\tNorth Denver Conversational Salon & Social Group\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node75bfebcfa5d4b4ec98f6f1a0605f96 <http://schema.org/url> <http://www.meetup.com/North-Denver-Conversational-Salon-Social-Group/> .
+_:nodebe3fefef322fbb4ccf7d9ee735a62bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodebe3fefef322fbb4ccf7d9ee735a62bc <http://schema.org/name> "\n\t\t\t\t\tMidnight in Aurora: God/spiritual topic discussion group 7pm\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodebe3fefef322fbb4ccf7d9ee735a62bc <http://schema.org/url> <http://www.meetup.com/Midnight-in-Aurora-God-spiritual-topical-discussion-group/> .
+_:nodeaafea52e32272a932b9441cbdd9ec6e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeaafea52e32272a932b9441cbdd9ec6e <http://schema.org/name> "\n\t\t\t\t\tLakewood Book Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodeaafea52e32272a932b9441cbdd9ec6e <http://schema.org/url> <http://www.meetup.com/Lakewood-Book-Club/> .
+_:nodef85317182138b59f485ea3bbe1daa50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef85317182138b59f485ea3bbe1daa50 <http://schema.org/name> "\n\t\t\t\t\t2nd Screen Radio Film Meetup\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef85317182138b59f485ea3bbe1daa50 <http://schema.org/url> <http://www.meetup.com/2ndscreenradiomeetup/> .
+_:nodef5eaf9742fef18bb85bcbe29f5efa750 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef5eaf9742fef18bb85bcbe29f5efa750 <http://schema.org/name> "\n\t\t\t\t\tHighlands Ranch Ladies Bunco\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef5eaf9742fef18bb85bcbe29f5efa750 <http://schema.org/url> <http://www.meetup.com/Highlands-Ranch-Ladies-Bunco/> .
+_:node175a77bce97359e82202f01b06a20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node175a77bce97359e82202f01b06a20 <http://schema.org/name> "\n\t\t\t\t\tDENVER FRIENDSHIP ONE\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node175a77bce97359e82202f01b06a20 <http://schema.org/url> <http://www.meetup.com/Denver-Friendship-One/> .
+_:node633fcac2769f707392dbd265177919c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node633fcac2769f707392dbd265177919c <http://schema.org/name> "\n\t\t\t\t\tTwo Drink Minimum Readers\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node633fcac2769f707392dbd265177919c <http://schema.org/url> <http://www.meetup.com/Two-Drink-Minimum-Readers/> .
+_:node18a07eadce519b0339bedf938c155eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node18a07eadce519b0339bedf938c155eb <http://schema.org/name> "\n\t\t\t\t\tBoulder Speculative Fiction Writer's Workshop\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node18a07eadce519b0339bedf938c155eb <http://schema.org/url> <http://www.meetup.com/Boulder-Speculative-Fiction-Writers-Workshop/> .
+_:nodee7f3529c33d1832eb7b21cddfb8af011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee7f3529c33d1832eb7b21cddfb8af011 <http://schema.org/name> "\n\t\t\t\t\tType and Gripe: North Denver\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodee7f3529c33d1832eb7b21cddfb8af011 <http://schema.org/url> <http://www.meetup.com/Type-and-Gripe-North-Denver/> .
+_:node4dee9684350fdc4529ed4018b9265a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node4dee9684350fdc4529ed4018b9265a <http://schema.org/name> "\n\t\t\t\t\tThirty-Something Working Moms Articles Club\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node4dee9684350fdc4529ed4018b9265a <http://schema.org/url> <http://www.meetup.com/30somethingarticlesclub/> .
+_:node143c94a5f2be78be76751d4866a15b77 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node143c94a5f2be78be76751d4866a15b77 <http://schema.org/name> "\n\t\t\t\t\tSocial Justice Articles, Arts and Ales\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:node143c94a5f2be78be76751d4866a15b77 <http://schema.org/url> <http://www.meetup.com/Social-Justice-Articles-Arts-and-Ales/> .
+_:nodecb13ad992ea778f1ee241582ca714d37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodecb13ad992ea778f1ee241582ca714d37 <http://schema.org/name> "\n\t\t\t\t\tCocktails, Sippy Cups & Family Fun in The Ranch\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodecb13ad992ea778f1ee241582ca714d37 <http://schema.org/url> <http://www.meetup.com/Cocktails-Sippy-Cups-Family-Fun-in-The-Ranch/> .
+_:node1e4cf503abaa411445c2bd785725c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

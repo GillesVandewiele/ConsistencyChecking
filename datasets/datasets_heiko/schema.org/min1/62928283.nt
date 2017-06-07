@@ -1,0 +1,6 @@
+_:nodec9e7350b4dced5e696ae5ee76f7d1 <http://schema.org/name> "What are the benefits of manning a subsystem?" .
+_:nodec9e7350b4dced5e696ae5ee76f7d1 <http://schema.org/title> "What are the benefits of manning a subsystem?" .
+_:nodec9e7350b4dced5e696ae5ee76f7d1 <http://schema.org/description> "In FTL, you can place crew members in various subsystems to gain bonuses. However, I don't know how to actually quantify those bonuses. The two that are least clear to me are:\n\n\nManning shields inc..." .
+_:nodec9e7350b4dced5e696ae5ee76f7d1 <http://schema.org/image> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:nodec9e7350b4dced5e696ae5ee76f7d1 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/gaming/img/apple-touch-icon@2.png?v=5f35bf9106a3" .
+_:node95d9ce676fdfc13d2362392764cd7de <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

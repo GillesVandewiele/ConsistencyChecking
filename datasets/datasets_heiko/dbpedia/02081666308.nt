@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Fulgencio_Batista> <http://dbpedia.org/ontology/vicePresident> <http://dbpedia.org/resource/Gustavo_Cuervo_Rubio> .
+<http://dbpedia.org/resource/Fulgencio_Batista> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fulgencio_Batista> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Fulgencio_Batista> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/President> .
+<http://dbpedia.org/resource/Fulgencio_Batista> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Politician> .
+<http://dbpedia.org/resource/Gustavo_Cuervo_Rubio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gustavo_Cuervo_Rubio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

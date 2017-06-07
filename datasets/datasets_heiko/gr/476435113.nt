@@ -1,0 +1,35 @@
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18T21:47:04+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> <http://purl.org/goodrelations/v1#validThrough> "2015-03-18T21:47:04+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> <http://purl.org/goodrelations/v1#hasCurrencyValue> "17.83"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> <http://purl.org/goodrelations/v1#valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#SomeItems> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://purl.org/goodrelations/v1#hasStockKeepingUnit> "BAHLA010"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://xmlns.com/foaf/0.1/depiction> <http://www.diydoctor.org.uk/DIY-superstore/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/placeholder-base-320x240.gif> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://purl.org/goodrelations/v1#description> "No description supplied"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://purl.org/goodrelations/v1#category> "Home, Leisure & Car Care/Torches/Work Lights and Headlamps"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://purl.org/goodrelations/v1#category> "projects/buildingregulationsg"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://purl.org/goodrelations/v1#name> "Bahco LA010 LED Lamp"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> <http://purl.org/goodrelations/v1#hasManufacturer> <http://www.diydoctor.org.uk/DIY-superstore/#manufacturer_201> .
+<http://www.diydoctor.org.uk/DIY-superstore/#businessEntity> <http://purl.org/goodrelations/v1#offers> <http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> .
+_:genid2d9798d7879af74029b032b77251a8df032dN92245 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+_:genid2d9798d7879af74029b032b77251a8df032dN92245 <http://purl.org/goodrelations/v1#hasMinValue> "0"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d9798d7879af74029b032b77251a8df032dN92245 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "GB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d9798d7879af74029b032b77251a8df032dN92245 .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://xmlns.com/foaf/0.1/maker> <urn:goodrelations_shop_extensions:msemantic:v1.2.6.5> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#description> "No description supplied"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#name> "Bahco LA010 LED Lamp"@en .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#TypeAndQuantityNode_2715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#TypeAndQuantityNode_2715> <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#TypeAndQuantityNode_2715> <http://purl.org/goodrelations/v1#amountOfThisGood> "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#TypeAndQuantityNode_2715> <http://purl.org/goodrelations/v1#typeOfGood> <http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#product_data> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#TypeAndQuantityNode_2715> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#validFrom> "2014-12-18T00:00:00+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> <http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#UnitPriceSpecification_2715> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#validThrough> "2015-03-18T21:47:04+01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://xmlns.com/foaf/0.1/page> <http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html> .
+<http://www.diydoctor.org.uk/DIY-superstore/la010-led-lamp.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.eastwood.com/sheet-metal-gauge.html#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "AL"^^<http://www.w3.org/2001/XMLSchema#string> .

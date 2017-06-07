@@ -1,0 +1,4 @@
+<http://www.joke.co.uk/peter-pan-fancy-dress/child-shimmering-tinkerbell-costume~63186/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/peter-pan-fancy-dress/child-shimmering-tinkerbell-costume~63186/#main> <http://purl.org/goodrelations/v1#description> "The Child Tinkerbell Costume includes a shimmering pink and green dress with green leaf detailing and a pink floral motif.\n\nAlso included with the fairy costume is a green fairy wand with a pink flower at the top and a pair of fairy wings."@en .
+<http://www.joke.co.uk/peter-pan-fancy-dress/child-shimmering-tinkerbell-costume~63186/#main> <http://purl.org/goodrelations/v1#name> "Child Shimmering Tinkerbell Costume"@en .
+_:genid2d4a4e9adac9d248679bd66c01dd0232932dN71426 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .

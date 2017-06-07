@@ -1,0 +1,19 @@
+_:genid2d3edfefd73e74489f9dc4c663f65eaecd2dN67614 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d3edfefd73e74489f9dc4c663f65eaecd2dN67614 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d3edfefd73e74489f9dc4c663f65eaecd2dN67614 <http://purl.org/goodrelations/v1#hasCurrencyValue> "12.99000"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#product> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3edfefd73e74489f9dc4c663f65eaecd2dN67614 .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://xmlns.com/foaf/0.1/depiction> <http://s.shld.net/is/image/Sears/http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_206429801?hei=&wid=&op_sharpen=&resMode=sharp&op_usm=0.9,0.5,0,0> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://purl.org/goodrelations/v1#description> "Add or remove socket studs of any drive size with the 3 pc. Socket Holder by Craftsman." .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://purl.org/goodrelations/v1#name> "Craftsman 3 pc. Socket Holder" .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://purl.org/goodrelations/v1#eligibleRegions> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> <http://purl.org/goodrelations/v1#includes> <http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#product> .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#offering> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#product> <http://xmlns.com/foaf/0.1/depiction> <http://s.shld.net/is/image/Sears/http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_206429801?hei=&wid=&op_sharpen=&resMode=sharp&op_usm=0.9,0.5,0,0> .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#product> <http://purl.org/goodrelations/v1#description> "Add or remove socket studs of any drive size with the 3 pc. Socket Holder by Craftsman." .
+<http://www.craftsman.com/craftsman-3-pc-socket-holder/p-00941829000P?prdNo=8#product> <http://purl.org/goodrelations/v1#name> "Craftsman 3 pc. Socket Holder" .
+<http://www.ezvacuum.com/dyson-dc14-spare-washable-lifetime-filter-replaces-90540101-aftermarket-p-1599.html#TypeAndQuantityNode_2717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

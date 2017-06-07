@@ -1,0 +1,116 @@
+_:nodea836ca79a91312ca705e558ecb93e81c <http://schema.org/name> "Laker Nation"@en-us .
+_:nodea836ca79a91312ca705e558ecb93e81c <http://schema.org/url> <http://lakernation.com> .
+_:node306a2f74118f585c221fa410aa54d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node306a2f74118f585c221fa410aa54d0 <http://schema.org/dateCreated> "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node306a2f74118f585c221fa410aa54d0 <http://schema.org/url> <http://lakernation.com/three-points-things-lakers-build-week-1/> .
+_:node306a2f74118f585c221fa410aa54d0 <http://schema.org/name> "Three Points: Things for the Lakers To Build On From Week 1"@en-us .
+_:node306a2f74118f585c221fa410aa54d0 <http://schema.org/author> "Isaiah Pavia-Cruz"@en-us .
+_:node306a2f74118f585c221fa410aa54d0 <http://schema.org/interactionCount> "UserComments:2"@en-us .
+_:node306a2f74118f585c221fa410aa54d0 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/11/hi-res-77d205659716ad2073bd2ef3e144b4d8_crop_exact-100x65.jpg> .
+_:node6dbb455deadadefc7977e94497345578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node6dbb455deadadefc7977e94497345578 <http://schema.org/dateCreated> "2014-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node6dbb455deadadefc7977e94497345578 <http://schema.org/url> <http://lakernation.com/lakers-cant-stop-warriors/> .
+_:node6dbb455deadadefc7977e94497345578 <http://schema.org/name> "Lakers Can\u2019t Stop Warriors"@en-us .
+_:node6dbb455deadadefc7977e94497345578 <http://schema.org/author> "Anna Gonda"@en-us .
+_:node6dbb455deadadefc7977e94497345578 <http://schema.org/interactionCount> "UserComments:1"@en-us .
+_:node6dbb455deadadefc7977e94497345578 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/11/458255154-100x65.jpg> .
+_:node99871f7c756f7558e061ddb161c2e822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node99871f7c756f7558e061ddb161c2e822 <http://schema.org/dateCreated> "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node99871f7c756f7558e061ddb161c2e822 <http://schema.org/url> <http://lakernation.com/kobe-will-always-laker/> .
+_:node99871f7c756f7558e061ddb161c2e822 <http://schema.org/name> "Kobe Will Always Be A Laker"@en-us .
+_:node99871f7c756f7558e061ddb161c2e822 <http://schema.org/author> "Garrett Garcia"@en-us .
+_:node99871f7c756f7558e061ddb161c2e822 <http://schema.org/interactionCount> "UserComments:5"@en-us .
+_:node99871f7c756f7558e061ddb161c2e822 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/01/kobe-326x235.jpg> .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://schema.org/dateCreated> "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://schema.org/url> <http://lakernation.com/kobe-will-always-laker/> .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://schema.org/name> "Kobe Will Always Be A Laker"@en-us .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://schema.org/author> "Garrett Garcia"@en-us .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://schema.org/interactionCount> "UserComments:5"@en-us .
+_:nodead4eb5aa1c2141a1aff261ede3fc1df <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/01/kobe-100x65.jpg> .
+_:node94faf32e1c76d76d0786cd787679e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node94faf32e1c76d76d0786cd787679e1 <http://schema.org/dateCreated> "2014-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node94faf32e1c76d76d0786cd787679e1 <http://schema.org/url> <http://lakernation.com/lakers-cant-stop-warriors/> .
+_:node94faf32e1c76d76d0786cd787679e1 <http://schema.org/name> "Lakers Can\u2019t Stop Warriors"@en-us .
+_:node94faf32e1c76d76d0786cd787679e1 <http://schema.org/author> "Anna Gonda"@en-us .
+_:node94faf32e1c76d76d0786cd787679e1 <http://schema.org/interactionCount> "UserComments:1"@en-us .
+_:node94faf32e1c76d76d0786cd787679e1 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/11/458255154-100x65.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/julius-randles-injury-brings-uncertain-future-for-lakers/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/julius-randle-suffers-fractured-tibia/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/lakers-waive-jabari-brown-roscoe-smith/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/steve-nash-ruled-2014-15-season/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/kobe-will-always-laker/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/three-points-things-lakers-build-week-1/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/julius-randles-injury-brings-uncertain-future-for-lakers/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/blatant-kobe-bryant-hit-piece-shows-journalistic-failures/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/three-points-lakers-preseason/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/lakers-cant-stop-warriors/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/lakers-lose-clippers-close-game/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/lakers-suffer-new-injury-loss-rockets/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/lakers-last-pre-season-game-goes-kings/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/old-footage-surfaces-willis-reedlakers-brawl/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/kobe-bryant-michael-jordan-completely-identical/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/kobe-bryant-rookie-chronicles-wallpaper/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/video-steve-nash-reacts-backlash-talks-future/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/poll-kobe-bryants-numbers-retired/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/win-tickets-to-lakers-vs-utah-jazz/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/first-look-nike-kobe-9-em-premium-blackmetallic-silver/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/url> <http://lakernation.com/blast-past-month-lakers-history-july/> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/ts_141028randle_injury-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/07/mitch-kupchak-julius-randle-jim-buss1.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/hi-res-e7a71bb5bb902625654c6baa9bcc56aa_crop_north-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/1356271620278.cached-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/01/kobe.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/11/hi-res-77d205659716ad2073bd2ef3e144b4d8_crop_exact-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/ts_141028randle_injury-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/08/454387717-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/154250155_10-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/11/458255154-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/458206260-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/458020968-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/457811720-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/10/raju96bmdnakvlt4k2xk-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/08/maxresdefault9-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/07/2560x1440.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/03/maxresdefault1.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/09/8vs24copy_crop_exact-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/08/Lakers-vs-Jazz-Promo-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/07/nike-kobe-ix-premium-metallic-silver-main-198x143.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/07/nba_shaq07_800.jpg> .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Julius Randle\u2019s Injury Brings Uncertain Future For Lakers"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Julius Randle Suffers Fractured Tibia"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Lakers Waive Jabari Brown and Roscoe Smith"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Steve Nash ruled out for the 2014-15 season"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Kobe Will Always Be A Laker"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Three Points: Things for the Lakers To Build On From Week 1"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Julius Randle\u2019s Injury Brings Uncertain Future For Lakers"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Blatant Kobe Bryant Hit Piece Shows Journalistic Failures"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Three Points: Lakers Preseason So Far"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Lakers Can\u2019t Stop Warriors"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Lakers Lose To Clippers In Close Game"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Lakers Suffer New Injury In Loss To Rockets"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Lakers\u2019 Last Pre-Season Game Goes To Kings"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Old Footage Surfaces of Willis Reed/Lakers Brawl"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Kobe Bryant and Michael Jordan, completely identical?"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Kobe Bryant \u2018The Rookie Chronicles\u2019 Wallpaper"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "[Video] Steve Nash reacts to backlash; talks future, money"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "Poll: Which of Kobe Bryant\u2019s Numbers should be Retired?"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "WIN Tickets to Lakers vs. Jazz"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "First Look: Nike Kobe 9 EM Premium Black/Metallic Silver"@en-us .
+_:node747a49e8cbe2bb62b6922db25aa05867 <http://schema.org/name> "A Blast from the Past: This Month in Lakers\u2019 History (July)"@en-us .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://schema.org/dateCreated> "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://schema.org/url> <http://lakernation.com/kobe-will-always-laker/> .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://schema.org/name> "Kobe Will Always Be A Laker"@en-us .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://schema.org/author> "Garrett Garcia"@en-us .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://schema.org/interactionCount> "UserComments:5"@en-us .
+_:nodefe2a97134b7c6757636df2f5115c9a36 <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/01/kobe-326x235.jpg> .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://schema.org/dateCreated> "2014-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://schema.org/url> <http://lakernation.com/three-points-things-lakers-build-week-1/> .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://schema.org/name> "Three Points: Things for the Lakers To Build On From Week 1"@en-us .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://schema.org/author> "Isaiah Pavia-Cruz"@en-us .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://schema.org/interactionCount> "UserComments:2"@en-us .
+_:nodecd4c7fd335a26c362e2ef5c53946d22c <http://schema.org/image> <http://lakernation.com/wp-content/uploads/2014/11/hi-res-77d205659716ad2073bd2ef3e144b4d8_crop_exact-100x65.jpg> .
+_:node84377b1eeddd91e9be7e48fe5b5fe9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .

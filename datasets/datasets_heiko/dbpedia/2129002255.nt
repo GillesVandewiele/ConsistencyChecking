@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Helmut_Kohl> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Centre_Party_(Germany)> .
+<http://dbpedia.org/resource/Helmut_Kohl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Helmut_Kohl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Helmut_Kohl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Centre_Party_(Germany)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> .
+<http://dbpedia.org/resource/Centre_Party_(Germany)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Centre_Party_(Germany)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

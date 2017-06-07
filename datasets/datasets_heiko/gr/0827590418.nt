@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/bad-taste-fancy-dress/hit-run-costume~74616/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/bad-taste-fancy-dress/hit-run-costume~74616/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d53589d260182417d9460eba143d80a412dINSIDE5fN68269 .
+_:genid2d53589d260182417d9460eba143d80a412dN68231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d53589d260182417d9460eba143d80a412dN68231 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d53589d260182417d9460eba143d80a412dINSIDE5fN68231 .
+_:genid2d53589d260182417d9460eba143d80a412dINSIDE5fN68231 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d53589d260182417d9460eba143d80a412dINSIDE5fN68231 <http://purl.org/goodrelations/v1#hasCurrencyValue> "54.49"@en .
+<http://www.joke.co.uk/bad-taste-fancy-dress/hit-run-costume~74616/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/bad-taste-fancy-dress/hit-run-costume~74616/#main> <http://purl.org/goodrelations/v1#name> "Hit & Run Costume"@en .
+<http://www.joke.co.uk/bad-taste-fancy-dress/hit-run-costume~74616/#main> <http://purl.org/goodrelations/v1#description> "Become a walking crime scene with our Hit & Run Costume, which will transform you into a chalk man!  An ideal fancy dress idea for fans of CSI.\n\nCostume includes:\n\nJumpsuit\n\n\nThe Hit & Run Costume includes a black jumpsuit with a printed white outline and tyre tracks.\n\nThe jumpsuit is covered with crime scene tape and has a see-through mask across the face."@en .
+_:genid2d53589d260182417d9460eba143d80a412dINSIDE5fN68269 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.charlestonnaturally.com/deep-steep-body-lotion-grapefruit-bergamot.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

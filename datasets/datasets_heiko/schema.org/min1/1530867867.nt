@@ -1,0 +1,14 @@
+_:node888c29edc7ca50d7b9822f7815fc17 <http://schema.org/price> "18.00"@en .
+_:node7018acf6039781756bff8fc9c8b571 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/91770326/ns%20dal.jpg> .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/audio> _:nodebc31709a7e4ebd3a994dc085c88c2 .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/offers> _:node888c29edc7ca50d7b9822f7815fc17 .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/genre> <http://audiojungle.net/category/music/electronica/hard-industrial> .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/description> "\n        Powerful dynamic song, piano and synth melodies.\n\n\n\tPlease rate, Thanks\n      "@en .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/discussionUrl> <http://audiojungle.net/item/hardcore/7773268?WT.ac=category_thumb&WT.z_author=Nsound//item/hardcore/7773268/comments> .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/name> "  HardCore\n"@en .
+_:node7018acf6039781756bff8fc9c8b571 <http://schema.org/interactionCount> "UserDownloads:1"@en .
+_:nodebc31709a7e4ebd3a994dc085c88c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AudioObject> .
+_:nodebc31709a7e4ebd3a994dc085c88c2 <http://schema.org/duration> "3:05"@en .
+_:nodebc31709a7e4ebd3a994dc085c88c2 <http://schema.org/contentUrl> <https://0.s3.envato.com/files/91770327/preview.mp3> .
+_:nodef839d563df569adfb6fa3e325779128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

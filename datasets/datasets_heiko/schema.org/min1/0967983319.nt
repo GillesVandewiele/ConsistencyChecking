@@ -1,0 +1,3 @@
+_:node90efba5194acab5b8f26ccf33ebae364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WPHeader> .
+_:node90efba5194acab5b8f26ccf33ebae364 <http://schema.org/description> "Home cooking rocks!" .
+_:nodeaa4c45fe4aadeb3a7b241771ee237a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

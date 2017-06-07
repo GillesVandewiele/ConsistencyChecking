@@ -1,0 +1,9 @@
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/edition> "Paperback; 2009" .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/url> <http://isbndb.com/book/the_geography_of_love> .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/author> <http://isbndb.com/author/glenda_burgess> .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/name> "\t\t\n\t\t\t\tThe Geography of Love\t\t\t" .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/bookEdition> "Paperback; 2009" .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/isbn> "1607516365" .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/isbn> "9781607516361" .
+_:node45d8f1fd982ab24a401c9a47d658a6dc <http://schema.org/publisher> <http://isbndb.com/publisher/broadway_books> .
+_:nodef9bc267e52b3794aaac42aa13b3d89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoObject> .

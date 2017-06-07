@@ -1,0 +1,6 @@
+_:nodea45bf3f8d9787380bb8fd91a51eacae <http://schema.org/alternativeHeadline> "Null"@en-us .
+_:nodea45bf3f8d9787380bb8fd91a51eacae <http://schema.org/headline> "The Zacks Analyst Blog Highlights: Microsoft, J. C. Penney, Apple, Google and Companhia de Saneamento Basico do Estado de Sao Paulo"@en-us .
+_:nodea45bf3f8d9787380bb8fd91a51eacae <http://schema.org/datePublished> "2013-04-01T11:11:56Z"@en-us .
+_:nodea45bf3f8d9787380bb8fd91a51eacae <http://schema.org/image> "Null"@en-us .
+_:nodea45bf3f8d9787380bb8fd91a51eacae <http://schema.org/description> "The Zacks Analyst Blog Highlights: Microsoft, J. C. Penney, Apple, Google and Companhia de Saneamento Basico do Estado de Sao Paulo"@en-us .
+_:node16b0a3c283316ad314579f60fd9a1a67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

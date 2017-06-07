@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Texas_Revolution> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jos%C3%A9_de_Urrea> .
+<http://dbpedia.org/resource/Texas_Revolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Texas_Revolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Texas_Revolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Jos%C3%A9_de_Urrea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryPerson> .
+<http://dbpedia.org/resource/Jos%C3%A9_de_Urrea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Jos%C3%A9_de_Urrea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

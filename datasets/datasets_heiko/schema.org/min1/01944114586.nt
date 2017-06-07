@@ -1,0 +1,98 @@
+_:node61135be6bac4d62515cccee745c6e75 <http://schema.org/addressLocality> "Vancouver, BC" .
+_:node97351a909a3bd8e0372827c33ff3ffa0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node97351a909a3bd8e0372827c33ff3ffa0 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?jk=f1f737009f3c9a03> .
+_:node97351a909a3bd8e0372827c33ff3ffa0 <http://schema.org/hiringOrganization> "Unbounce" .
+_:node97351a909a3bd8e0372827c33ff3ffa0 <http://schema.org/description> "\nYou're a strong researcher with a knack for making connections between different disciplines and industries....\n" .
+_:node97351a909a3bd8e0372827c33ff3ffa0 <http://schema.org/jobLocation> _:node7abd38e5ca4127d5898a61981f90acaf .
+_:node97351a909a3bd8e0372827c33ff3ffa0 <http://schema.org/name> "Unbounce" .
+_:node5675c742a20c51c4b7837b61bfa614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node5675c742a20c51c4b7837b61bfa614 <http://schema.org/addressLocality> "Surrey, BC" .
+_:node4b2323b761a32fa59d246a6c44b0184e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node4b2323b761a32fa59d246a6c44b0184e <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?jk=8776f90380a40016> .
+_:node4b2323b761a32fa59d246a6c44b0184e <http://schema.org/description> "\nThis position has been created to provide advanced laboratory research and group support for diverse group of researchers working with Saccharomyces cerevisiae,...\n" .
+_:node4b2323b761a32fa59d246a6c44b0184e <http://schema.org/jobLocation> _:node3bf9c7c753cc1d3f5b8d75ae13f961f .
+_:nodedc9abb13955964eb64bc5ecb1586b4df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodedc9abb13955964eb64bc5ecb1586b4df <http://schema.org/addressLocality> "Vancouver, BC" .
+_:node82fb5cee31788d4e84c31d814766e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node82fb5cee31788d4e84c31d814766e2 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?jk=4c1c11ca4a921bbc> .
+_:node82fb5cee31788d4e84c31d814766e2 <http://schema.org/hiringOrganization> "GE Corporate" .
+_:node82fb5cee31788d4e84c31d814766e2 <http://schema.org/description> "\nVulnerability Researcher Intern. As the Student Vulnerability Researcher you will be joining a challenging and engaging environment as part of the Wurldtech...\n" .
+_:node82fb5cee31788d4e84c31d814766e2 <http://schema.org/jobLocation> _:node4a443e4e2b97ea2da91061078432ff .
+_:node82fb5cee31788d4e84c31d814766e2 <http://schema.org/name> "GE Corporate" .
+_:node7abd38e5ca4127d5898a61981f90acaf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node7abd38e5ca4127d5898a61981f90acaf <http://schema.org/address> _:node59c15a20d3cbbe948129944766846 .
+_:node20e14a675844e53b89b51ee893f62547 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node20e14a675844e53b89b51ee893f62547 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?cmp=BC-Center-for-Excellence-in-HIV%2FAIDS&ti=Biostatistician&jk=c6d402afd1cb31d3> .
+_:node20e14a675844e53b89b51ee893f62547 <http://schema.org/hiringOrganization> "BC Center for Excellence in HIV/AIDS" .
+_:node20e14a675844e53b89b51ee893f62547 <http://schema.org/description> "\nAssist researchers in writing grant applications and manuscripts. BC Centre for Excellence in HIV/AIDS....\n" .
+_:node20e14a675844e53b89b51ee893f62547 <http://schema.org/jobLocation> _:nodede70dcf367b15b2876ffa7c9994e5312 .
+_:node20e14a675844e53b89b51ee893f62547 <http://schema.org/name> "BC Center for Excellence in HIV/AIDS" .
+_:node8c5e8dfeeaea10543c35b9bb1aaaed97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node8c5e8dfeeaea10543c35b9bb1aaaed97 <http://schema.org/address> _:nodedc9abb13955964eb64bc5ecb1586b4df .
+_:node9b1e231310d2aa46e872bf52412828f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node9b1e231310d2aa46e872bf52412828f4 <http://schema.org/address> _:node5675c742a20c51c4b7837b61bfa614 .
+_:node3bf9c7c753cc1d3f5b8d75ae13f961f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node3bf9c7c753cc1d3f5b8d75ae13f961f <http://schema.org/address> _:node61135be6bac4d62515cccee745c6e75 .
+_:node2b523157b323f95ac5a12b67dbb99981 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node2b523157b323f95ac5a12b67dbb99981 <http://schema.org/address> _:node741a55ec98691f28e18ebadaa2bcf6 .
+_:nodede70dcf367b15b2876ffa7c9994e5312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodede70dcf367b15b2876ffa7c9994e5312 <http://schema.org/address> _:node2beb4b185f101ab2f18655a966bcbc .
+_:noded79bdcfd7a71e8815a859437878f85e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:noded79bdcfd7a71e8815a859437878f85e3 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?jk=34f75dd4d23e52ed> .
+_:noded79bdcfd7a71e8815a859437878f85e3 <http://schema.org/hiringOrganization> "Central City Tower" .
+_:noded79bdcfd7a71e8815a859437878f85e3 <http://schema.org/description> "\nCombine your marketing and social media expertise, creativity and resourcefulness in a dynamic role where you can really make a difference! Build on your\n" .
+_:noded79bdcfd7a71e8815a859437878f85e3 <http://schema.org/jobLocation> _:node9b1e231310d2aa46e872bf52412828f4 .
+_:noded79bdcfd7a71e8815a859437878f85e3 <http://schema.org/name> "Central City Tower" .
+_:node59c15a20d3cbbe948129944766846 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node59c15a20d3cbbe948129944766846 <http://schema.org/addressLocality> "Vancouver, BC" .
+_:node2beb4b185f101ab2f18655a966bcbc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node2beb4b185f101ab2f18655a966bcbc <http://schema.org/addressLocality> "Vancouver, BC" .
+_:node8f6ebf31405abb4a8bdee49452bf2e8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node8f6ebf31405abb4a8bdee49452bf2e8e <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?cmp=BC-Center-for-Excellence-in-HIV%2FAIDS&ti=Research+Coordinator&jk=c73b18c56f6756fa> .
+_:node8f6ebf31405abb4a8bdee49452bf2e8e <http://schema.org/hiringOrganization> "BC Center for Excellence in HIV/AIDS" .
+_:node8f6ebf31405abb4a8bdee49452bf2e8e <http://schema.org/description> "\nE currently employs a team of Researchers, Statisticians, Programmers, Data Managers, Clinical Research Assistants, Data Analysts, and Data Entry Clerks who...\n" .
+_:node8f6ebf31405abb4a8bdee49452bf2e8e <http://schema.org/jobLocation> _:node8c5e8dfeeaea10543c35b9bb1aaaed97 .
+_:node8f6ebf31405abb4a8bdee49452bf2e8e <http://schema.org/name> "BC Center for Excellence in HIV/AIDS" .
+_:nodecf38eaf6259a11efc2938f1c66ba538 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodecf38eaf6259a11efc2938f1c66ba538 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?jk=94dc98792eeb6926> .
+_:nodecf38eaf6259a11efc2938f1c66ba538 <http://schema.org/hiringOrganization> "TRIUMF" .
+_:nodecf38eaf6259a11efc2938f1c66ba538 <http://schema.org/description> "\nATLAS is one of the two general-purpose detectors at the CERN Large Hadron Collider (LHC) near Geneva Switzerland, and involves several thousand researchers...\n" .
+_:nodecf38eaf6259a11efc2938f1c66ba538 <http://schema.org/jobLocation> _:nodec42c7fdedde42e91756a25858d18847c .
+_:nodecf38eaf6259a11efc2938f1c66ba538 <http://schema.org/name> "TRIUMF" .
+_:nodea55980ad451503a3d0e81f881c8b16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:nodea55980ad451503a3d0e81f881c8b16 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//cmp/D--Wave-Systems-Inc/jobs/Machine-Learning-Researcher-95e75d010fccb1dd?r=1> .
+_:nodea55980ad451503a3d0e81f881c8b16 <http://schema.org/hiringOrganization> "D-Wave Systems Inc" .
+_:nodea55980ad451503a3d0e81f881c8b16 <http://schema.org/description> "\nMachine Learning Researcher. We are seeking an experienced machine learning researcher or software engineer to join our research team and focus on the...\n" .
+_:nodea55980ad451503a3d0e81f881c8b16 <http://schema.org/jobLocation> _:node985f52bff02d27b332d4f71d90a4ea8 .
+_:nodea55980ad451503a3d0e81f881c8b16 <http://schema.org/name> "D-Wave Systems Inc" .
+_:node4a443e4e2b97ea2da91061078432ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node4a443e4e2b97ea2da91061078432ff <http://schema.org/address> _:nodef632bec39bac9c3e1116989cdea2290 .
+_:nodef11b2f77cd1045772558f54ac4e7d83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodef11b2f77cd1045772558f54ac4e7d83 <http://schema.org/address> _:nodefafe212a2756deff2269daa98ac2eb .
+_:nodef632bec39bac9c3e1116989cdea2290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodef632bec39bac9c3e1116989cdea2290 <http://schema.org/addressLocality> "Vancouver, BC" .
+_:node741a55ec98691f28e18ebadaa2bcf6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:node741a55ec98691f28e18ebadaa2bcf6 <http://schema.org/addressLocality> "Vancouver, BC" .
+_:node8f72f8b020196a30646d64a5be7e7e10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:node8f72f8b020196a30646d64a5be7e7e10 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//cmp/University-of-British-Columbia/jobs/Research-Assistant-Statistical-Analyst-1690a1b26a27c6b2?r=1> .
+_:node8f72f8b020196a30646d64a5be7e7e10 <http://schema.org/hiringOrganization> "University of British Columbia" .
+_:node8f72f8b020196a30646d64a5be7e7e10 <http://schema.org/description> "\nInteracts and works closely with the students, researchers and staff members of the Pharmacoepidemiology in MS (Pi....\n" .
+_:node8f72f8b020196a30646d64a5be7e7e10 <http://schema.org/jobLocation> _:node2b523157b323f95ac5a12b67dbb99981 .
+_:node8f72f8b020196a30646d64a5be7e7e10 <http://schema.org/name> "University of British Columbia" .
+_:node985f52bff02d27b332d4f71d90a4ea8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node985f52bff02d27b332d4f71d90a4ea8 <http://schema.org/address> _:nodec79e76cb0ac82a43336ae7131b8f243 .
+_:nodea93690538714c29e7812899232733129 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodea93690538714c29e7812899232733129 <http://schema.org/addressLocality> "Vancouver, BC" .
+_:nodefafe212a2756deff2269daa98ac2eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodefafe212a2756deff2269daa98ac2eb <http://schema.org/addressLocality> "Richmond, BC" .
+_:noded24df972cd68ca9bd3dd1bae1baa36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> .
+_:noded24df972cd68ca9bd3dd1bae1baa36 <http://schema.org/title> <http://ca.indeed.com/Researcher-jobs-in-Vancouver,-BC//rc/clk?jk=b64e7d00863a4dbc> .
+_:noded24df972cd68ca9bd3dd1bae1baa36 <http://schema.org/hiringOrganization> "Tourism Richmond" .
+_:noded24df972cd68ca9bd3dd1bae1baa36 <http://schema.org/description> "\nWork effectively with another tourism researcher under the supervision of the Operations Manager; Agree to follow the Professional Guidelines for Researchers to...\n" .
+_:noded24df972cd68ca9bd3dd1bae1baa36 <http://schema.org/jobLocation> _:nodef11b2f77cd1045772558f54ac4e7d83 .
+_:noded24df972cd68ca9bd3dd1bae1baa36 <http://schema.org/name> "Tourism Richmond" .
+_:nodec42c7fdedde42e91756a25858d18847c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:nodec42c7fdedde42e91756a25858d18847c <http://schema.org/address> _:nodea93690538714c29e7812899232733129 .
+_:nodec79e76cb0ac82a43336ae7131b8f243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .
+_:nodec79e76cb0ac82a43336ae7131b8f243 <http://schema.org/addressLocality> "Burnaby, BC" .
+_:node23be695c141d69d4048b8a2b421d8e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .

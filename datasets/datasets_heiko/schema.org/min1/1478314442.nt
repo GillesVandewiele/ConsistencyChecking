@@ -1,0 +1,18 @@
+_:node9e3e5e254d588ba726806150b59140e <http://schema.org/dateCreated> "Nov 24 2012 01:39 AM"@en .
+_:node9e3e5e254d588ba726806150b59140e <http://schema.org/name> "Richmond Water Heater Not Heating Properly"@en .
+_:node9e3e5e254d588ba726806150b59140e <http://schema.org/name> "dtarlo"@en .
+_:node9e3e5e254d588ba726806150b59140e <http://schema.org/interactionCount> "UserComments:3"@en .
+_:node9e3e5e254d588ba726806150b59140e <http://schema.org/creator> "dtarlo"@en .
+_:node747db9437cc7c0f720a7291f121d4046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node747db9437cc7c0f720a7291f121d4046 <http://schema.org/url> <http://appliantology.org/user/2247-regus-patoff/> .
+_:node747db9437cc7c0f720a7291f121d4046 <http://schema.org/image> <http://appliantology.org/uploads/av-2247.jpg?_r=0> .
+_:node747db9437cc7c0f720a7291f121d4046 <http://schema.org/name> "RegUS_PatOff"@en .
+_:node7ae79428a117db11141bb00cdcc83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node7ae79428a117db11141bb00cdcc83 <http://schema.org/url> <http://appliantology.org/user/7016-dtarlo/> .
+_:node7ae79428a117db11141bb00cdcc83 <http://schema.org/image> <http://appliantology.org/uploads/profile/photo-thumb-7016.jpg?_r=0> .
+_:node7ae79428a117db11141bb00cdcc83 <http://schema.org/name> "dtarlo"@en .
+_:node2ac5cadbfedd9b93bdf4a9cd8e8d642 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node2ac5cadbfedd9b93bdf4a9cd8e8d642 <http://schema.org/url> <http://appliantology.org/user/3755-skintdigit/> .
+_:node2ac5cadbfedd9b93bdf4a9cd8e8d642 <http://schema.org/image> <http://www.gravatar.com/avatar/06b3a13fe987f376edac389d01a248e7?s=100&d=http%3A%2F%2Fappliantology.org%2Fpublic%2Fstyle_images%2Fmaster%2Fprofile%2Fdefault_large.png> .
+_:node2ac5cadbfedd9b93bdf4a9cd8e8d642 <http://schema.org/name> "skintdigit"@en .
+_:nodececf1a65e4d8dd18fac5e67f1f8494 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .

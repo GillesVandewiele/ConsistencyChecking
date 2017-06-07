@@ -1,0 +1,5 @@
+<http://books.google.com/books/about/Vibe.html?id=jyYEAAAAMBAJ&q=Chris> <http://schema.org/Book/image> <http://books.google.com/books/content?id=jyYEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73FB6nKB6UL--R4swpaDRQuQQZ8qTsRjSyjWPYP2uaFqy9aGsVr6YjCmLO6zDfqO2vUvUe4yvfo4DQKcTVXXMqg4_-Wb6jBDjLepot1sHKfTjzKimrrfaFhPXoHT3icVwsFR0D4> .
+<http://books.google.com/books/about/Vibe.html?id=jyYEAAAAMBAJ&q=Chris> <http://schema.org/Book/url> "http://books.google.com/books/about/Vibe.html?id=jyYEAAAAMBAJ&q=Chris&utm_source=gb-gplus-share" .
+<http://books.google.com/books/about/Vibe.html?id=jyYEAAAAMBAJ&q=Chris> <http://schema.org/Book/name> "Vibe" .
+<http://books.google.com/books/about/Vibe.html?id=jyYEAAAAMBAJ&q=Chris> <http://schema.org/Book/description> "books.google.com - Vibe is the lifestyle guide to urban music and culture including celebrities, fashion, beauty, consumer electronics, automotive, personal care/grooming, and, always, music. Edited for a multicultural audience Vibe creates trends as much as records them...." .
+_:node61135be6bac4d62515cccee745c6e75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Postaladdress> .

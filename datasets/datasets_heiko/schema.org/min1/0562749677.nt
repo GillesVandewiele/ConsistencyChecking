@@ -1,0 +1,20 @@
+_:node387fa3a8253211355dff1e2727bd3abb <http://schema.org/lowPrice> "$413" .
+_:node387fa3a8253211355dff1e2727bd3abb <http://schema.org/validThrough> "14/04/2015" .
+_:node387fa3a8253211355dff1e2727bd3abb <http://schema.org/validFrom> "18/02/2015" .
+_:node387fa3a8253211355dff1e2727bd3abb <http://schema.org/name> "Save 25% on lodging" .
+_:node387fa3a8253211355dff1e2727bd3abb <http://schema.org/description> "KeystoneOro Grande" .
+_:nodecf4bef7f7b347f8a41b7e079fb1df3a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodecf4bef7f7b347f8a41b7e079fb1df3a2 <http://schema.org/bestRating> "5" .
+_:nodecf4bef7f7b347f8a41b7e079fb1df3a2 <http://schema.org/ratingValue> "1.5" .
+_:nodecf4bef7f7b347f8a41b7e079fb1df3a2 <http://schema.org/reviewCount> "1" .
+_:node1547b58f2ec186a555999f42af337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/offers> _:node387fa3a8253211355dff1e2727bd3abb .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/name> "Oro Grande" .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/description> "Oro Grande Lodge is centrally located in the heart of Keystone with easy access to year-round resort activities with breathtaking views of Keystone Ski Resort and the Arapaho National Forest. Additional amenities include; free heated garage, walking distance to dining and shopping and ski lifts, and the free shuttle route to the ski lifts and resort base area. Oro Grande also offers ski lockers, deck or patio, fully equipped kitchen, and championship golf courses and bike paths in summer.                      " .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/keystn_orogrand1.jpg> .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/keystn_orogrand2.jpg> .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/keystn_orogrand3.jpg> .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/keystn_orogrand4.jpg> .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/image> <https://s3.amazonaws.com/media.ski.com/Slideshow/keystn_orogrand5.jpg> .
+_:node1547b58f2ec186a555999f42af337 <http://schema.org/aggregateRating> _:nodecf4bef7f7b347f8a41b7e079fb1df3a2 .
+_:node15a86cc380f51e307123a9ff21cf8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

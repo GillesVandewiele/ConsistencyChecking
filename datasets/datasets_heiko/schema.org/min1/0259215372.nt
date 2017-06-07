@@ -1,0 +1,6 @@
+_:node8999e6185293956d04a96d655714433 <http://schema.org/name> "How to connect my immersion chiller to the faucet" .
+_:node8999e6185293956d04a96d655714433 <http://schema.org/title> "How to connect my immersion chiller to the faucet" .
+_:node8999e6185293956d04a96d655714433 <http://schema.org/description> "I'm trying to figure out how to connect some hose pipe to my kitchen faucet to pump water through an immersion chiller.\n\nThe faucet has a male-threaded tip which screws out, so I believe there shou..." .
+_:node8999e6185293956d04a96d655714433 <http://schema.org/image> "http://cdn.sstatic.net/homebrew/img/apple-touch-icon.png?v=6391b2fc75dd" .
+_:node8999e6185293956d04a96d655714433 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/homebrew/img/apple-touch-icon.png?v=6391b2fc75dd" .
+_:nodea6133f1ed5af8791ac9dd17d13944ac2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

@@ -1,0 +1,75 @@
+_:nodebc901341b75c4d838aba34fb803b9a7 <http://schema.org/url> <http://citizenet.com/author/ET/> .
+_:nodebc901341b75c4d838aba34fb803b9a7 <http://schema.org/name> "ET"@en-us .
+_:node3b27bf1f742e12d8274aa487d1aca371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node3b27bf1f742e12d8274aa487d1aca371 <http://schema.org/datePublished> "2014-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node3b27bf1f742e12d8274aa487d1aca371 <http://schema.org/text> "The top 5 ways to save a portion of your income during your first job:\n\nStart saving\nAvoid getting into debt for purchases that fall in value\nChallenge yourself \u2013 set some ambitious saving and investment goals\nEducation \u2013 don\u2019t stop learning\nProtect your most important asset\n\n\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:node3b27bf1f742e12d8274aa487d1aca371 <http://schema.org/headline> "Saving Money During Your First Job"@en-us .
+_:node3b27bf1f742e12d8274aa487d1aca371 <http://schema.org/author> _:nodef62d46bda44eccc787157be6758c4ce .
+_:node65327cf14a74ee1fe225ea719618b714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node65327cf14a74ee1fe225ea719618b714 <http://schema.org/datePublished> "2014-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node65327cf14a74ee1fe225ea719618b714 <http://schema.org/text> "My wife and I were talking about hair straighteners the other day. I just couldn\u2019t understand why you would want to spend so much money on a hair straightener, when there are plenty of other cheaper options available.\nI did some research and found lots of cheaper hair straighteners, all with good to excellent reviews, but it didn\u2019t seem to matter \u2013 her mind was made up.\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:node65327cf14a74ee1fe225ea719618b714 <http://schema.org/headline> "Are Expensive Hair Straighteners Worth the Money?"@en-us .
+_:node65327cf14a74ee1fe225ea719618b714 <http://schema.org/author> _:nodebc901341b75c4d838aba34fb803b9a7 .
+_:node80f3490c78b56526b244bc2a4decec6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node80f3490c78b56526b244bc2a4decec6 <http://schema.org/datePublished> "2014-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node80f3490c78b56526b244bc2a4decec6 <http://schema.org/text> "Patience is the key to saving money. Unfortunately a lack of patience is what usually stops people from accomplishing their savings goals. If you find your patience running low try these tips to speed up your savings.\n\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:node80f3490c78b56526b244bc2a4decec6 <http://schema.org/headline> "How You Can Speed Up Your Savings"@en-us .
+_:node80f3490c78b56526b244bc2a4decec6 <http://schema.org/author> _:node82cb45b502d6f42b4f8a96f49a7ece .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Blog> .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:node65327cf14a74ee1fe225ea719618b714 .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:node80f3490c78b56526b244bc2a4decec6 .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:nodeb4f01967ee62cfedabaacfbe8ab1a6da .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:node5bb9c2a7c2a9811f5a2c85f701f317b .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:nodee7e1fb5efd74f0e594b47b7f72b5c41 .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:node8bc568cbd55b49581512897e49779f2 .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:nodedd361140fbfbdb17fca2465bc814c6 .
+_:nodefe667b9a05dda42a73ba84bd415b5a5 <http://schema.org/blogPost> _:node3b27bf1f742e12d8274aa487d1aca371 .
+_:nodeaca44af2f356c9c7c970c147845c72dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodeaca44af2f356c9c7c970c147845c72dd <http://schema.org/url> <http://citizenet.com/author/ET/> .
+_:nodeaca44af2f356c9c7c970c147845c72dd <http://schema.org/name> "ET"@en-us .
+_:node47d7dc27b98c9fb72fb77c335bbfc8f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node47d7dc27b98c9fb72fb77c335bbfc8f <http://schema.org/url> <http://citizenet.com/author/kate/> .
+_:node47d7dc27b98c9fb72fb77c335bbfc8f <http://schema.org/name> "Kate Webster"@en-us .
+_:nodedd361140fbfbdb17fca2465bc814c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodedd361140fbfbdb17fca2465bc814c6 <http://schema.org/datePublished> "2014-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodedd361140fbfbdb17fca2465bc814c6 <http://schema.org/text> "No, I\u2019m not talking about your loyalty to your spouse or significant other. What I\u2019m referring to is the\u00A0companies\u00A0you regularly do business with. Your loyalty to them could be costing you a lot of money.\n\nCompanies used to reward loyalty. Take pensions, for instance. It used to be that you went to work for a company after finishing school and you worked for that company your entire career. Both my father and father-in-law have been working for the same company their entire working lifetimes. In exchange for our loyalty, the company provided us with a nice pension for retirement. Today, pensions have all but disappeared.\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:nodedd361140fbfbdb17fca2465bc814c6 <http://schema.org/headline> "Your Loyalty Could Be Costing You"@en-us .
+_:nodedd361140fbfbdb17fca2465bc814c6 <http://schema.org/author> _:nodee1ab78e5ecc0fc1b96aaa9efd626488c .
+_:nodef62d46bda44eccc787157be6758c4ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodef62d46bda44eccc787157be6758c4ce <http://schema.org/url> <http://citizenet.com/author/ET/> .
+_:nodef62d46bda44eccc787157be6758c4ce <http://schema.org/name> "ET"@en-us .
+_:node82505aba4881f17a479577848efa7992 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node82505aba4881f17a479577848efa7992 <http://schema.org/url> <http://citizenet.com/author/ET/> .
+_:node82505aba4881f17a479577848efa7992 <http://schema.org/name> "ET"@en-us .
+_:node79b9258f654dc42d5652e535120ba68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node79b9258f654dc42d5652e535120ba68 <http://schema.org/mainContentOfPage> _:nodefe667b9a05dda42a73ba84bd415b5a5 .
+_:nodee7e1fb5efd74f0e594b47b7f72b5c41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodee7e1fb5efd74f0e594b47b7f72b5c41 <http://schema.org/datePublished> "2014-09-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodee7e1fb5efd74f0e594b47b7f72b5c41 <http://schema.org/text> "What if you lost your job tomorrow?\u00A0Would you have money to live on until you found another job? What if something happened to your car and you were facing a $1,000 repair bill? What if you get sick and end up in the hospital for a few days, would your insurance cover the whole cost? These are just some of the possible uses for\u00A0an emergency fund.\n\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:nodee7e1fb5efd74f0e594b47b7f72b5c41 <http://schema.org/headline> "Build an emergency fund"@en-us .
+_:nodee7e1fb5efd74f0e594b47b7f72b5c41 <http://schema.org/author> _:nodeaca44af2f356c9c7c970c147845c72dd .
+_:nodeb4f01967ee62cfedabaacfbe8ab1a6da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:nodeb4f01967ee62cfedabaacfbe8ab1a6da <http://schema.org/datePublished> "2014-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodeb4f01967ee62cfedabaacfbe8ab1a6da <http://schema.org/text> "When I hear new ideas regarding personal finance, I have a hard time getting them out of my head. So when I read Robert Kiyosaki\u2019s theory about a home not being an asset, I had to carefully weigh both sides of the\u00A0argument.\n\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:nodeb4f01967ee62cfedabaacfbe8ab1a6da <http://schema.org/headline> "Looking a Little Closer: Is Your Home Really an Asset?"@en-us .
+_:nodeb4f01967ee62cfedabaacfbe8ab1a6da <http://schema.org/author> _:node47d7dc27b98c9fb72fb77c335bbfc8f .
+_:node5bb9c2a7c2a9811f5a2c85f701f317b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node5bb9c2a7c2a9811f5a2c85f701f317b <http://schema.org/datePublished> "2014-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node5bb9c2a7c2a9811f5a2c85f701f317b <http://schema.org/text> "Say you\u2019re standing at the checkout counter of an electronics store,\u00A0and the cashier asks if you\u2019d like to purchase an extended warranty on your new flat screen. Should you do it?\n\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:node5bb9c2a7c2a9811f5a2c85f701f317b <http://schema.org/headline> "Are extended warranties worth it?"@en-us .
+_:node5bb9c2a7c2a9811f5a2c85f701f317b <http://schema.org/author> _:node82505aba4881f17a479577848efa7992 .
+_:nodee1ab78e5ecc0fc1b96aaa9efd626488c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodee1ab78e5ecc0fc1b96aaa9efd626488c <http://schema.org/url> <http://citizenet.com/author/ET/> .
+_:nodee1ab78e5ecc0fc1b96aaa9efd626488c <http://schema.org/name> "ET"@en-us .
+_:nodea64394257042f2534762d8c9e049b24b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:nodea64394257042f2534762d8c9e049b24b <http://schema.org/url> <http://citizenet.com/author/ET/> .
+_:nodea64394257042f2534762d8c9e049b24b <http://schema.org/name> "ET"@en-us .
+_:node82cb45b502d6f42b4f8a96f49a7ece <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:node82cb45b502d6f42b4f8a96f49a7ece <http://schema.org/url> <http://citizenet.com/author/kate/> .
+_:node82cb45b502d6f42b4f8a96f49a7ece <http://schema.org/name> "Kate Webster"@en-us .
+_:node8bc568cbd55b49581512897e49779f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .
+_:node8bc568cbd55b49581512897e49779f2 <http://schema.org/datePublished> "2014-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:node8bc568cbd55b49581512897e49779f2 <http://schema.org/text> "When you shop, do you give thought to each thing that goes into your cart? Or do you walk down the aisles, mindlessly filling your cart with things you probably don\u2019t need?\n\nI\u2019ve found that putting significant thought into each thing I buy helps me in a lot of ways. For one, it saves me money. Say I\u2019m shopping at a department store and see a package of black socks that I like. I could, without thought, add them to my cart and be out about 10 dollars. Or, I could think about how many pairs of black socks I already have, what condition they\u2019re in, and whether or not I actually need black socks right now. Could that $10 be put to better use?\n [Read more\u2026]\nShare and Enjoy\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n \n\n\n"@en-us .
+_:node8bc568cbd55b49581512897e49779f2 <http://schema.org/headline> "Be mindful of your purchases"@en-us .
+_:node8bc568cbd55b49581512897e49779f2 <http://schema.org/author> _:nodea64394257042f2534762d8c9e049b24b .
+_:node8ef7c52fcad76c6a8797a90b4ef815d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,10 @@
+<http://www.okazii.ro/instalatii-sanitare/purificatoare/statie-dedurizare-atlas-filtri-atl-30-a115325627#main> <http://purl.org/goodrelations/v1#description> "Statie de productie italiana, folosita 6 luni. Are 30 kg de rasina si un debit de lucru de 1900 l apa pe ora. Consuma 3-4 kg de sare la un ciclu de spalare, programabil digital intre 3 si 99 zile. Motivul vanzarii - nu mai este necesara. Pot emite o factura de revanzare." .
+_:genid2d5f4cd6255d184f929a338f0af4b839a42dN66615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d5f4cd6255d184f929a338f0af4b839a42dN66615 <http://purl.org/goodrelations/v1#hasCurrency> "RON" .
+_:genid2d5f4cd6255d184f929a338f0af4b839a42dN66615 <http://purl.org/goodrelations/v1#validThrough> "29 Iunie 2012 13:17:00" .
+_:genid2d5f4cd6255d184f929a338f0af4b839a42dN66615 <http://purl.org/goodrelations/v1#hasCurrencyValue> "2200" .
+<http://www.okazii.ro/instalatii-sanitare/purificatoare/statie-dedurizare-atlas-filtri-atl-30-a115325627#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.okazii.ro/instalatii-sanitare/purificatoare/statie-dedurizare-atlas-filtri-atl-30-a115325627#main> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d5f4cd6255d184f929a338f0af4b839a42dN66615 .
+<http://www.okazii.ro/instalatii-sanitare/purificatoare/statie-dedurizare-atlas-filtri-atl-30-a115325627#main> <http://xmlns.com/foaf/0.1/depiction> <javascript:void(0)> .
+<http://www.okazii.ro/instalatii-sanitare/purificatoare/statie-dedurizare-atlas-filtri-atl-30-a115325627#main> <http://purl.org/goodrelations/v1#name> "Statie dedurizare ATLAS FILTRI - ATL 30" .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .

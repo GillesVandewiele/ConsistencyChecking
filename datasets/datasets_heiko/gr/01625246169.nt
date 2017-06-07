@@ -1,0 +1,9 @@
+_:genid2dea0696b7d63749d699f96a2e00d47d072dN68525 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dea0696b7d63749d699f96a2e00d47d072dN68525 <http://purl.org/goodrelations/v1#hasCurrencyValue> "14"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dea0696b7d63749d699f96a2e00d47d072dN68525 .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://xmlns.com/foaf/0.1/depiction> <http://www.pactimo.com/shop/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/r/0/r00304_cycling_cap-s14_grey-right_side_1_3.png> .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://purl.org/goodrelations/v1#description> "<ul> <li>C-Dry wicking fabric\u00A0</li> <li>No-crumple visor (machine washable)\u00A0</li> <li>Built in headband\u00A0</li> <li>Fully Sublimated</li> </ul>" .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://purl.org/goodrelations/v1#name> "Cycling Cap" .
+<http://www.pactimo.com/shop/uk/cycling-cap-1-1-1.html> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.beyondnice.com/> <http://rdf.data-vocabulary.org/#name> "BeyondNice"@en .

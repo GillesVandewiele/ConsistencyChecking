@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/roman-fancy-dress/adult-fever-roman-venus-goddess-costume~30251/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3c1eba7b3e6241bd822631fb7adbef242dINSIDE5fN68291 .
+_:genid2d3c1eba7b3e6241bd822631fb7adbef242dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d3c1eba7b3e6241bd822631fb7adbef242dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrencyValue> "17.99"@en .
+_:genid2d3c1eba7b3e6241bd822631fb7adbef242dINSIDE5fN68291 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d3c1eba7b3e6241bd822631fb7adbef242dN68242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3c1eba7b3e6241bd822631fb7adbef242dN68242 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3c1eba7b3e6241bd822631fb7adbef242dINSIDE5fN68242 .
+<http://www.joke.co.uk/roman-fancy-dress/adult-fever-roman-venus-goddess-costume~30251/#main> <http://purl.org/goodrelations/v1#description> "The Sexy Venus costume includes an ivory coloured velvet effect dress featuring a gold sequined neckline and an attached black and gold shimmering cape with a gold brooch.\n\nAlso included with the goddess costume is a coordinating gold sequined headband with an elasticated fastening and a matching gold sequined armband."@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=30251> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=30251> .
+<http://www.joke.co.uk/roman-fancy-dress/adult-fever-roman-venus-goddess-costume~30251/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/roman-fancy-dress/adult-fever-roman-venus-goddess-costume~30251/#main> <http://purl.org/goodrelations/v1#name> "Adult Fever Roman Venus Goddess Costume"@en .
+_:genid2d130aa0bf339d47198f49cf7538d2ddae2dN66850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

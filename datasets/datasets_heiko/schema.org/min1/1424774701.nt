@@ -1,0 +1,34 @@
+_:nodeacc2c9ad1cac9baea1ba72444f18aba9 <http://schema.org/logo> <http://a.abcnews.com/assets/images/navigation/abc-logo.png> .
+_:nodeacc2c9ad1cac9baea1ba72444f18aba9 <http://schema.org/url> <http://abcnews.go.com> .
+_:node6af686a4d101098f419911fbe35d70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/datemodified> "2009-07-14T20:58:21Z" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/author> "megan chuchmach, richard esposito and aaron katersky" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/identifier> "8080354" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/headline> "Bernie Madoff 'Hit the Inmate Lottery' with Butner Prison, Consultant Says" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/genre> "News" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/copyrightyear> "2009" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/associatedmedia> <http://a.abcnews.com/images/WNT/abc_wn_ross_090714_ms.jpg> .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/sourceorganization> "ABC News" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/inlanguage> "en-US" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\n'Home sweet home' has new meaning for notorious Ponzi scammer Bernie Madoff, who arrived clad in a blue jumpsuit at the Butner Federal Correctional Complex in North Carolina just before noon today to begin serving his 150-year sentence.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nMadoff, 71, who had an overnight layover at the U.S. Penitentiary in Atlanta, GA, \"hit the inmate lottery\" by being assigned to Butner's medium security lockup, said federal sentencing attorney Alan Ellis, who characterizes the facility as \"one of the crown jewels of the federal prison system.\"\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\n\"It looks and feels like a college campus,\" said Ellis, who has clients currently serving time there and says it's a popular assignment request for many white collar criminals.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nEllis, author of the \"Federal Prison Guidebook,\" said that in addition to the many graduate students from neighboring University of North Carolina and Duke University that intern at the prison, \"The staff is good there. And I always say happy staff makes for happy inmates.\"\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "Null" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "Null" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nMadoff's former life of luxury will quickly turn into a life of routine at Butner. Inmates start their day at 6 a.m. and are required to work 7.5 hours a day, as long as they're found medically fit, according to the Bureau of Prisons. Madoff will make between 12 cents and 40 cents an hour to be a groundskeeper, a food service employee or a commissary worker. Dinner is at 5 p.m., with free time afterwards until 9 p.m., during which time he can partake in recreational, religious or educational programs.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "Null" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nAs a new inmate, Madoff will first undergo a medical and psychiatric screening and will be assigned a case worker.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nVisitation is Monday, Thursday and Friday between 2:30 p.m. and 8 p.m., and Saturday and Sunday from 8:30 a.m. to 3 p.m. Approved visitors can come during visiting days and hours for a length of time determined by the prison depending on how busy it is. Madoff's wife Ruth had been a consistent jail visitor while Madoff was locked up in lower Manhattan awaiting sentencing and then a permanent assignment.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nClick here to go behind the scenes of Brian Ross' investigation into Bernie and Ruth Madoff.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "Null" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nMadoff's new neighbors at Butner range from a convicted terrorist to a mob boss. The \"Blind Sheik,\" Omar Abdel-Rahman, who was behind the 1993 World Trade Center bombing, is housed at Butner's federal medical center, and Carmine Persico, former head of a Colombo crime family, is an inmate at one of two medium security facilities there.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nAlso behind bars at Butner are former Adelphi Communications CEO John Rigas, who is at Butner's low security facility, and former Navy officer and admitted spy for Israel Jonathan Pollard, at one of the medium security buildings.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nMadoff's attorney had asked the Bureau of Prisons to place the fraudster at a facility in or close to New York. His new home is about an eight-hour drive from New York City. The Bureau does not disclose reasons behind assignments.\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/articleBody> "\nClick Here for the Blotter Homepage. " .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/description> "Ponzi scammer Bernie Madoff arrived at the Butner Federal Correctional Complex in North Carolina just before noon today to begin serving his 150-year sentence. Madoff, 71, who had an overnight layover at the U.S. Penitentiary in Atlanta, GA, \"hit the inmate lottery\" by being assigned to Butner's medium security lockup, said federal sentencing attorney Alan Ellis, who characterizes the facility as \"one of the crown jewels of the federal prison system.\"\n" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/datepublished> "2009-07-14T16:58:44Z" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/alternativeheadline> "Bernie Madoff 'Hit the Inmate Lottery' with Butner Prison, Consultant Says" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/thumbnailurl> "Null" .
+_:node6af686a4d101098f419911fbe35d70 <http://schema.org/usageterms> "http://disneytermsofuse.com/english/" .
+_:nodea832e9501c7611ae245d1e91ee88b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

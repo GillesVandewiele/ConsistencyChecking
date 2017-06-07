@@ -1,0 +1,20 @@
+<http://www.triathletesports.com/bike/bike-parts/cassettes/shimano-ultegra-9-speed-12-25-cassette.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dd968f37dd15b4fb190cf6633b7909a242dN74294 .
+<http://www.triathletesports.com/bike/bike-parts/cassettes/shimano-ultegra-9-speed-12-25-cassette.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/8/689228008229-dss3-2.jpg> .
+<http://www.triathletesports.com/bike/bike-parts/cassettes/shimano-ultegra-9-speed-12-25-cassette.html#offering> <http://purl.org/goodrelations/v1#description> "Ultegra CS6500 * Must use 9-speed chain * Reduced cog spacing: 9-speed is same overall width as 8-speed * Aluminum carrier reduces weight and increases rigidity"@en .
+<http://www.triathletesports.com/bike/bike-parts/cassettes/shimano-ultegra-9-speed-12-25-cassette.html#offering> <http://purl.org/goodrelations/v1#name> "Shimano Ultegra 9 speed 12-25 cassette"@en .
+<http://www.triathletesports.com/bike/bike-parts/cassettes/shimano-ultegra-9-speed-12-25-cassette.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.triathletesports.com/bike/bike-parts/cassettes/shimano-ultegra-9-speed-12-25-cassette.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74315 <http://rdf.data-vocabulary.org/#rating> _:genid2dd968f37dd15b4fb190cf6633b7909a242dN74331 .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74294 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74294 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74294 <http://purl.org/goodrelations/v1#hasCurrencyValue> "99.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/8/689228008229-dss3-2.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/8/689228008229-dss3-2.jpg> .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74331 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74331 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74331 <http://rdf.data-vocabulary.org/#average> "0"@en .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74315 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74315 <http://rdf.data-vocabulary.org/#itemreviewed> "Shimano Ultegra 9 speed 12-25 cassette"@en .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74315 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2dd968f37dd15b4fb190cf6633b7909a242dN74315 <http://rdf.data-vocabulary.org/#count> ""@en .
+_:genid2deac9cd67c2234418ae1905346d1162462dN66458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

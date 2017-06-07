@@ -1,0 +1,7 @@
+<http://www.nytimes.com> <http://schema.org/Organization/name> " The New York Times Company"@en .
+<http://www.nytimes.com> <http://schema.org/Organization/name> " The New York Times Company"@en .
+<http://www.nytimes.com> <http://schema.org/Organization/name> " The New York Times Company"@en .
+<http://www.nytimes.com> <http://schema.org/Organization/tickerSymbol> "NYSE NYT"@en .
+<http://www.nytimes.com> <http://schema.org/Organization/tickerSymbol> "NYSE NYT"@en .
+<http://www.nytimes.com> <http://schema.org/Organization/tickerSymbol> "NYSE NYT"@en .
+_:node09eb505158e4e1e60722d446fe7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

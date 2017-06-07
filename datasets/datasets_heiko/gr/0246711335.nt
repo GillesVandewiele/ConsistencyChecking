@@ -1,0 +1,57 @@
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67083 <http://rdf.data-vocabulary.org/#url> <http://www.charterhouse-aquatics.co.uk/seachem-c-43.html> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67083 <http://rdf.data-vocabulary.org/#title> "Seachem" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dd2f89521853f42b19c815a34d3e8261d2dN69551 .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://www.w3.org/2006/vcard/ns#tel> "+44 870 850 6138" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://purl.org/goodrelations/v1#name> "Charterhouse Aquatics" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69551 <http://www.w3.org/2006/vcard/ns#postal-code> "E8 4ED" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69551 <http://www.w3.org/2006/vcard/ns#locality> "London" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69551 <http://www.w3.org/2006/vcard/ns#street-address> "Arches 331/330 Stean Street" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69551 <http://www.w3.org/2006/vcard/ns#country-name> "UK" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://purl.org/goodrelations/v1#hasOpeningHoursSpecification> <http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sun> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://xmlns.com/foaf/0.1/page> <http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67101 <http://rdf.data-vocabulary.org/#url> <http://www.charterhouse-aquatics.co.uk/freshwater-plant-foods-c-43_2801_57.html> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67101 <http://rdf.data-vocabulary.org/#title> "Plant foods" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#company> <http://purl.org/goodrelations/v1#legalName> "Charterhouse Aquatics Ltd" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dd2f89521853f42b19c815a34d3e8261d2dN69492 .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#company> <http://www.w3.org/2006/vcard/ns#tel> "+44 870 850 6138" .
+<http://www.charterhouse-aquatics.co.uk#company> <http://purl.org/goodrelations/v1#hasPOS> <http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Location> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sun> <http://purl.org/goodrelations/v1#closes> "16:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sun> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Sunday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sun> <http://purl.org/goodrelations/v1#opens> "10:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#company> <http://xmlns.com/foaf/0.1/logo> <http://www.charterhouse-aquatics.co.uk/img/Logo-big2.jpg> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#company> <http://xmlns.com/foaf/0.1/page> <http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sat> <http://purl.org/goodrelations/v1#closes> "16:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sat> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Saturday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sat> <http://purl.org/goodrelations/v1#opens> "10:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://purl.org/goodrelations/v1#hasOpeningHoursSpecification> <http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#sat> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dINSIDE5fN69576 <http://www.w3.org/2006/vcard/ns#longitude> "-0.07517"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dINSIDE5fN69576 <http://www.w3.org/2006/vcard/ns#latitude> "51.53810"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://www.w3.org/2006/vcard/ns#geo> _:genid2dd2f89521853f42b19c815a34d3e8261d2dINSIDE5fN69576 .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://xmlns.com/foaf/0.1/logo> <http://www.charterhouse-aquatics.co.uk/img/Logo-big2.jpg> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67092 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67092 <http://rdf.data-vocabulary.org/#url> <http://www.charterhouse-aquatics.co.uk/seachem-freshwater-c-43_2801.html> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67092 <http://rdf.data-vocabulary.org/#title> "Freshwater" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#store> <http://purl.org/goodrelations/v1#hasOpeningHoursSpecification> <http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69492 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69492 <http://www.w3.org/2006/vcard/ns#postal-code> "E8 4ED" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69492 <http://www.w3.org/2006/vcard/ns#locality> "London" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69492 <http://www.w3.org/2006/vcard/ns#street-address> "Arches 331/330 Stean Street" .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN69492 <http://www.w3.org/2006/vcard/ns#country-name> "UK" .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#OpeningHoursSpecification> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#closes> "17:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Monday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Tuesday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Wednesday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Thursday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#hasOpeningHoursDayOfWeek> <http://purl.org/goodrelations/v1#Friday> .
+<http://www.charterhouse-aquatics.co.uk/seachem-flourish-comprehensive-plant-supplement-250ml-p-123.html#mon_fri> <http://purl.org/goodrelations/v1#opens> "08:30:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67074 <http://rdf.data-vocabulary.org/#url> <http://www.charterhouse-aquatics.co.uk/index.php> .
+_:genid2dd2f89521853f42b19c815a34d3e8261d2dN67074 <http://rdf.data-vocabulary.org/#title> "Home" .
+<http://www.polar-ray.com/definity-g25-led-globe-bulb.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

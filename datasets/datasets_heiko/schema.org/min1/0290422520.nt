@@ -1,0 +1,38 @@
+_:nodebb16fa7a80f58dea705a7bdfb6f78f43 <http://schema.org/startDate> "\nSeptember 26, 2015" .
+_:nodebb16fa7a80f58dea705a7bdfb6f78f43 <http://schema.org/distance> "5.0 km" .
+_:nodebb16fa7a80f58dea705a7bdfb6f78f43 <http://schema.org/exerciseType> "running" .
+_:nodebb16fa7a80f58dea705a7bdfb6f78f43 <http://schema.org/name> "Adirondack 5K" .
+_:node9664cdac5b7e56ec298cf707c6fd41b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+_:node9664cdac5b7e56ec298cf707c6fd41b <http://schema.org/geo> _:node2ab872c0c534557435b465ece70f56e .
+_:node9664cdac5b7e56ec298cf707c6fd41b <http://schema.org/address> _:nodec2f181cc4dd1d222c7a5cc6cd31d21a .
+_:node9664cdac5b7e56ec298cf707c6fd41b <http://schema.org/addressLocality> "\n          Schroon Lake \n        " .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/subEvent> _:nodebe1ff643e9922250de1691d6efff76c .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/subEvent> _:nodeb0208db2d547759a552d2c3c4187f2bd .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/subEvent> _:nodeea62c9577febd774932e9021c024a27 .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/subEvent> _:nodebb16fa7a80f58dea705a7bdfb6f78f43 .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/location> _:node9664cdac5b7e56ec298cf707c6fd41b .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/name> "Adirondack Marathon" .
+_:nodee6ca91b0d8be7015477bdeb0b30c757 <http://schema.org/startDate> "\nSeptember 26, 2015" .
+_:nodeb0208db2d547759a552d2c3c4187f2bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ExerciseAction> .
+_:nodeb0208db2d547759a552d2c3c4187f2bd <http://schema.org/startDate> "\nSeptember 27, 2015" .
+_:nodeb0208db2d547759a552d2c3c4187f2bd <http://schema.org/distance> "20.097 km" .
+_:nodeb0208db2d547759a552d2c3c4187f2bd <http://schema.org/exerciseType> "running" .
+_:nodeb0208db2d547759a552d2c3c4187f2bd <http://schema.org/name> "Adirondack Half Marathon" .
+_:nodeea62c9577febd774932e9021c024a27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ExerciseAction> .
+_:nodeea62c9577febd774932e9021c024a27 <http://schema.org/startDate> "\nSeptember 26, 2015" .
+_:nodeea62c9577febd774932e9021c024a27 <http://schema.org/distance> "10.0 km" .
+_:nodeea62c9577febd774932e9021c024a27 <http://schema.org/exerciseType> "running" .
+_:nodeea62c9577febd774932e9021c024a27 <http://schema.org/name> "Adirondack 10K" .
+_:nodebe1ff643e9922250de1691d6efff76c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ExerciseAction> .
+_:nodebe1ff643e9922250de1691d6efff76c <http://schema.org/startDate> "\nSeptember 27, 2015" .
+_:nodebe1ff643e9922250de1691d6efff76c <http://schema.org/distance> "42.195 km" .
+_:nodebe1ff643e9922250de1691d6efff76c <http://schema.org/exerciseType> "running" .
+_:nodebe1ff643e9922250de1691d6efff76c <http://schema.org/name> "Adirondack Marathon" .
+_:nodec2f181cc4dd1d222c7a5cc6cd31d21a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:nodec2f181cc4dd1d222c7a5cc6cd31d21a <http://schema.org/addressRegion> "New York" .
+_:nodec2f181cc4dd1d222c7a5cc6cd31d21a <http://schema.org/addressCountry> "USA" .
+_:node2ab872c0c534557435b465ece70f56e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+_:node2ab872c0c534557435b465ece70f56e <http://schema.org/latitude> "43.7031" .
+_:node2ab872c0c534557435b465ece70f56e <http://schema.org/longitude> "7.2661" .
+_:node4c9e7a5b6a44bd2e164f1a4aedcb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

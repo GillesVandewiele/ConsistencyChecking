@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/The_Six_Million_Dollar_Man> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Oliver_Nelson> .
+<http://dbpedia.org/resource/The_Six_Million_Dollar_Man> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> .
+<http://dbpedia.org/resource/The_Six_Million_Dollar_Man> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Oliver_Nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+<http://dbpedia.org/resource/Oliver_Nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Oliver_Nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Oliver_Nelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

@@ -1,0 +1,21 @@
+_:node1517e636ad63c9ed44dddd77a7e01d <http://schema.org/email> <mailto:charter@basinaviation.com> .
+_:node1517e636ad63c9ed44dddd77a7e01d <http://schema.org/name> "Lori Winter"@es .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/image> <http://e0.photos.flightcdn.com/photos/retriever/300370e9c4607807f0807e2f5a40d6be339628fa> .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/image> <http://e0.photos.flightcdn.com/photos/retriever/999e8a1159892727c5bfbc72ce7907dbef9fd743> .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/image> <http://e0.photos.flightcdn.com/photos/retriever/ae198f3e5db5007c4f6b54382382d2bf270fd3fb> .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/image> <http://e0.photos.flightcdn.com/photos/retriever/15213099ab028d2fc86694eb0f8c0b900daae8a9> .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/image> <http://e1.photos.flightcdn.com/photos/retriever/e9ca4ed830ae13c25ee2faaa0b922360f9a35702> .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/name> "Basin Aviation"@es .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/aggregateRating> _:node19d0855799105dd0b268b2dff9b4c .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/contactPoint> _:node1517e636ad63c9ed44dddd77a7e01d .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/description> "Null"@es .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/address> _:nodee26dcb554466bc2897fdad6abc8faca6 .
+_:nodee0d8fa58515ee7b026bee5331cf0476d <http://schema.org/url> <http://www.basinaviation.com> .
+_:node19d0855799105dd0b268b2dff9b4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node19d0855799105dd0b268b2dff9b4c <http://schema.org/bestRating> "5"@es .
+_:node19d0855799105dd0b268b2dff9b4c <http://schema.org/ratingValue> "4"@es .
+_:node19d0855799105dd0b268b2dff9b4c <http://schema.org/worstRating> "1"@es .
+_:node19d0855799105dd0b268b2dff9b4c <http://schema.org/reviewCount> "1"@es .
+_:nodee26dcb554466bc2897fdad6abc8faca6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+_:node4d51938240cd63c9cbbe90e234c7ec2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

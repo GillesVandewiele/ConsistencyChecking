@@ -1,0 +1,16 @@
+_:nodea4653c53b8ef5fcdd8da75279d6a3fc <http://schema.org/addressRegion> "TX"@en .
+_:nodea4653c53b8ef5fcdd8da75279d6a3fc <http://schema.org/postalCode> "76022"@en .
+_:nodea4653c53b8ef5fcdd8da75279d6a3fc <http://schema.org/addressLocality> "Bedford,"@en .
+_:nodea4653c53b8ef5fcdd8da75279d6a3fc <http://schema.org/streetaddress> "1600 Central Dr Ste 310"@en .
+_:node4752a6cc5c2ee716fc1e4d5062244266 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> .
+_:node4752a6cc5c2ee716fc1e4d5062244266 <http://schema.org/name> <http://doctor.webmd.com/doctor/jessica-shah-md-b6e2f902-982f-4523-9997-ad755055c825-overview?sponsor=core//hospital/texas-health-harris-methodist-hospital---hurst-euless-bedford-bedford-tx-5ff07532-d250-4924-a226-4c4850691dc3-overview> .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Physician> .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://schema.org/address> _:nodea4653c53b8ef5fcdd8da75279d6a3fc .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://schema.org/name> "Dr. Jessica P. Shah, MD"@en .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://schema.org/medicalSpecialty> _:node4641c937fd40c976eac2e0a3ac6ac4 .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://schema.org/hospitalAffiliation> _:node4752a6cc5c2ee716fc1e4d5062244266 .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://schema.org/telephone> "(817) 267-8470"@en .
+_:nodefa11e9c741d24ffc2fd7814ea72182c <http://schema.org/description> "Dr. Jessica P. Shah graduated from the University of Kentucky College of Medicine in 2004. She works in Bedford, TX and specializes in Gastroenterology. Dr. Shah is affiliated with Texas Health Harris Methodist Hospital - Hurst Euless Bedford. She speaks English and Spanish."@en .
+_:node4641c937fd40c976eac2e0a3ac6ac4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSpecialty> .
+_:node4641c937fd40c976eac2e0a3ac6ac4 <http://schema.org/name> "Gastroenterology"@en .
+_:node4ae5b149f16e57fad57de923c099f4ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .

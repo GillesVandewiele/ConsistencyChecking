@@ -1,0 +1,8 @@
+_:nodec5fd3b179caa8d5e865f67996f37a5ae <http://schema.org/name> "4 events for the weekend"@en .
+_:node54b16d1ba3a3db718b2d54b3aaa5e72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node54b16d1ba3a3db718b2d54b3aaa5e72 <http://schema.org/name> "Vacouver's wine & jazz festival - a top event in the Northwest"@en .
+_:node7d70ff478143a790a78335a49deb42fd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node7d70ff478143a790a78335a49deb42fd <http://schema.org/name> "University of Washington tops America's coolest schools"@en .
+_:node16d683ffadf54a1721b827bf46ded <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:node16d683ffadf54a1721b827bf46ded <http://schema.org/name> "Fight over video camera disrupts Everett school board meeting"@en .
+_:node91b82a9b6cb4911b6e416eeaf1dfaa8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

@@ -1,0 +1,11 @@
+_:node3ba55cb95d119f5e2b8ce0b086a725fc <http://schema.org/name> "Siemens, Smeg Freezers " .
+_:node3ba55cb95d119f5e2b8ce0b086a725fc <http://schema.org/offers> _:node91f21bdcc6a71da432781d914dce22c9 .
+_:node3ba55cb95d119f5e2b8ce0b086a725fc <http://schema.org/aggregateRating> _:nodedbeddf4f1a372b1eb38c9678a0486e76 .
+_:nodedbeddf4f1a372b1eb38c9678a0486e76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:nodedbeddf4f1a372b1eb38c9678a0486e76 <http://schema.org/ratingValue> "4.9" .
+_:nodedbeddf4f1a372b1eb38c9678a0486e76 <http://schema.org/reviewCount> "22" .
+_:node91f21bdcc6a71da432781d914dce22c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateOffer> .
+_:node91f21bdcc6a71da432781d914dce22c9 <http://schema.org/offerCount> "24" .
+_:node91f21bdcc6a71da432781d914dce22c9 <http://schema.org/highPrice> "\u00A31,429.00" .
+_:node91f21bdcc6a71da432781d914dce22c9 <http://schema.org/lowPrice> "\u00A3314.00" .
+_:nodeb67691ee6f1f870d7c138ffc25260a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

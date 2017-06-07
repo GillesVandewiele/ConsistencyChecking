@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Cordelia_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Richard_J._Terrile> .
+<http://dbpedia.org/resource/Cordelia_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Cordelia_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Richard_J._Terrile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Richard_J._Terrile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Katharine_Hepburn> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Houghton_family> .
+<http://dbpedia.org/resource/Katharine_Hepburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Katharine_Hepburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

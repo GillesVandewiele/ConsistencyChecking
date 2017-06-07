@@ -1,0 +1,446 @@
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444870_1280x720.jpg"@en .
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444870_1280x720.jpg"@en .
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/description> "With the holidays in full swing, making healthy eating choices can be difficult."@en .
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/headline> "How to eat healthy during the holidays"@en .
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444870_1280x720.jpg"@en .
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/text> "How to eat healthy during the holidays"@en .
+_:node3ec7c88839a050a7cd80587fbfb1cd <http://schema.org/caption> "How to eat healthy during the holidays"@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/445052_1280x720.jpg"@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/445052_1280x720.jpg"@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/description> "Santa and Mrs. Claus received a police escort as they delivered gifts to the children of Chicago officers killed or seriously injured on the job."@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/headline> "'Operation Santa' delivers toys to children of CPD officers"@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/445052_1280x720.jpg"@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/text> "'Operation Santa' delivers toys to children of CPD officers"@en .
+_:node3c3a5d80e11247c67a42b2c2b3e26578 <http://schema.org/caption> "'Operation Santa' delivers toys to children of CPD officers"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/419167_1280x720.jpg"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/419167_1280x720.jpg"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/description> "Null"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/headline> "Spirit of Giving: Helping Fight Hunger"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/419167_1280x720.jpg"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/text> "Spirit of Giving: Helping Fight Hunger"@en .
+_:node9ea64db2912c36f1665273d989ef3f2 <http://schema.org/caption> "Spirit of Giving: Helping Fight Hunger"@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/444490_1280x720.jpg"@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/444490_1280x720.jpg"@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/description> "Police are searching for a man who tried to sexually assault a woman during an attempted armed robbery Thursday morning. "@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/headline> "Man tried to sexually assault, rob woman in Logan Square, police say"@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/444490_1280x720.jpg"@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/text> "Man tried to sexually assault, rob woman in Logan Square, police say"@en .
+_:nodec999d1fc17c36e1db8a92d9862a54968 <http://schema.org/caption> "Man tried to sexually assault, rob woman in Logan Square, police say"@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/445095_1280x720.jpg"@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/445095_1280x720.jpg"@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/description> "Dozens of bikes, televisions and other toys were given to families in need during Saturday's \"Christmas in the Wards\" celebration."@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/headline> "'Christmas in Wards' doles out toys, bikes"@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/445095_1280x720.jpg"@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/text> "'Christmas in Wards' doles out toys, bikes"@en .
+_:noded4555ecf667d7a71b062717285bc16 <http://schema.org/caption> "'Christmas in Wards' doles out toys, bikes"@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/443576_1280x720.jpg"@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/443576_1280x720.jpg"@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/description> "(FILE) Caramel apples."@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/headline> "Caramel apples linked to listeria outbreak; CDC warns consumers not to eat them"@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/443576_1280x720.jpg"@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/text> "Caramel apples linked to listeria outbreak; CDC warns consumers not to eat them"@en .
+_:nodeea1b16dec3c6b9bdde01d541846644f <http://schema.org/caption> "Caramel apples linked to listeria outbreak; CDC warns consumers not to eat them"@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/432858_1280x720.jpg"@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/432858_1280x720.jpg"@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/description> "Null"@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/headline> "Oxford a cappella group covers \"All I Want For Christmas Is You\""@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/432858_1280x720.jpg"@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/text> "Oxford a cappella group covers \"All I Want For Christmas Is You\""@en .
+_:node44c99670358aeb90fc20ab906117f394 <http://schema.org/caption> "Oxford a cappella group covers \"All I Want For Christmas Is You\""@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/444157_1280x720.jpg"@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/444157_1280x720.jpg"@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/description> "Null"@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/headline> "Woman wins Jenga in one insanely difficult move"@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/444157_1280x720.jpg"@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/text> "Woman wins Jenga in one insanely difficult move"@en .
+_:noded71a5fb5bd171063ca515a73265862 <http://schema.org/caption> "Woman wins Jenga in one insanely difficult move"@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/445269_1280x720.jpg"@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/445269_1280x720.jpg"@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/description> "Dozens of artists help to kick off a holiday fundraiser Saturday night on Chicago's Near North Side."@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/headline> "Artists help kick off \"Holidazed' fundraiser "@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/445269_1280x720.jpg"@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/text> "Artists help kick off \"Holidazed' fundraiser "@en .
+_:nodea389c742b8319a1d85fc3c736ab38ce2 <http://schema.org/caption> "Artists help kick off \"Holidazed' fundraiser "@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/444732_1280x720.jpg"@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/444732_1280x720.jpg"@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/description> "Null"@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/headline> "Chicago firefighter injured in South Side blaze"@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/444732_1280x720.jpg"@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/text> "Chicago firefighter injured in South Side blaze"@en .
+_:node2e12d0c2532c8eefdc4a72887f304bf3 <http://schema.org/caption> "Chicago firefighter injured in South Side blaze"@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/350552_1280x720.jpg"@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/350552_1280x720.jpg"@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/description> "See the Eyewitness News Team in whole new light."@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/headline> "ABC7 Chicago Eyewitness News Team"@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/350552_1280x720.jpg"@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/text> "ABC7 Chicago Eyewitness News Team"@en .
+_:node35212cdc3035f6f024c28d53857c534f <http://schema.org/caption> "ABC7 Chicago Eyewitness News Team"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/440310_1280x720.jpg"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/440310_1280x720.jpg"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/description> "Null"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/headline> "'Doggie!' Watch Santa's elves deliver puppy to new home"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/440310_1280x720.jpg"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/text> "'Doggie!' Watch Santa's elves deliver puppy to new home"@en .
+_:nodea69fbbaf71ff45a0b156327a803dd029 <http://schema.org/caption> "'Doggie!' Watch Santa's elves deliver puppy to new home"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/380385_1280x720.jpg"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/380385_1280x720.jpg"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/description> "Null"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/headline> "ABC 7 Holiday Toy Drive Presented By IHOP Restaurant"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/380385_1280x720.jpg"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/text> "ABC 7 Holiday Toy Drive Presented By IHOP Restaurant"@en .
+_:node391ca0c5e7ab586ebc48b2792d6597a8 <http://schema.org/caption> "ABC 7 Holiday Toy Drive Presented By IHOP Restaurant"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/444782_1280x720.jpg"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/444782_1280x720.jpg"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/description> "Null"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/headline> "Gold bar found inside Salvation Army red kettle"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/444782_1280x720.jpg"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/text> "Gold bar found inside Salvation Army red kettle"@en .
+_:nodedb87fc6f281bcc388bbfcf92192a166b <http://schema.org/caption> "Gold bar found inside Salvation Army red kettle"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/283656_1280x720.jpg"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/283656_1280x720.jpg"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/description> "Null"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/headline> "Weather Sketchers Whiz Kid Sweepstakes"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/283656_1280x720.jpg"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/text> "Weather Sketchers Whiz Kid Sweepstakes"@en .
+_:node53ed55fa193b69a1bcf12e5e1bfdf368 <http://schema.org/caption> "Weather Sketchers Whiz Kid Sweepstakes"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/441970_1280x720.jpg"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/441970_1280x720.jpg"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/description> "Null"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/headline> "Holiday App-tacular: FREE ABC7 Apps for your new device"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/441970_1280x720.jpg"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/text> "Holiday App-tacular: FREE ABC7 Apps for your new device"@en .
+_:node37dcb5f97e6e53f73d82f685723c549 <http://schema.org/caption> "Holiday App-tacular: FREE ABC7 Apps for your new device"@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/name> "http://cdn.abclocal.go.com/content/ktrk/images/cms/220056_1280x720.jpg"@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/ktrk/images/cms/220056_1280x720.jpg"@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/description> "The McDonald's logo shown on a wall."@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/headline> "McDonald's violated worker rights, National Labor Relations Board says"@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/url> "http://cdn.abclocal.go.com/content/ktrk/images/cms/220056_1280x720.jpg"@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/text> "McDonald's violated worker rights, National Labor Relations Board says"@en .
+_:node2d775c71c526df3433959c4b971b25e1 <http://schema.org/caption> "McDonald's violated worker rights, National Labor Relations Board says"@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/445270_1280x720.jpg"@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/445270_1280x720.jpg"@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/description> "A program called \"Proactive Kids\" is working to teach children and their families in west suburban Melrose Park how to make healthy changes.  "@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/headline> "'Proactive Kids' teaching families to make healthy choices"@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/445270_1280x720.jpg"@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/text> "'Proactive Kids' teaching families to make healthy choices"@en .
+_:node38cc5048f4fb6a81822dda8c35c999 <http://schema.org/caption> "'Proactive Kids' teaching families to make healthy choices"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/444996_1280x720.jpg"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/444996_1280x720.jpg"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/description> "Null"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/headline> "2 NYPD officers killed in Brooklyn shooting ambush"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/444996_1280x720.jpg"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/text> "2 NYPD officers killed in Brooklyn shooting ambush"@en .
+_:nodefe3d882054f488fd953f514eef762 <http://schema.org/caption> "2 NYPD officers killed in Brooklyn shooting ambush"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/382564_1280x720.jpg"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/382564_1280x720.jpg"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/description> "Null"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/headline> "Operation Save A Life"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/382564_1280x720.jpg"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/text> "Operation Save A Life"@en .
+_:node5bcfd8fec49969ac159ce52dd7e1634 <http://schema.org/caption> "Operation Save A Life"@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/name> "http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/444179_1280x720.jpg"@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/444179_1280x720.jpg"@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/description> "Rob Powers has the story."@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/headline> "New Ray Rice video shows what happens after NFL star, fiancee taken into custody"@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/url> "http://cdn.abclocal.go.com/content/wabc/images/cms/automation/vod/444179_1280x720.jpg"@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/text> "New Ray Rice video shows what happens after NFL star, fiancee taken into custody"@en .
+_:node1c3876f4b6752086c84dd0f391be3aa <http://schema.org/caption> "New Ray Rice video shows what happens after NFL star, fiancee taken into custody"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/440310_1280x720.jpg"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/440310_1280x720.jpg"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/description> "Null"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/headline> "'Doggie!' Watch Santa's elves deliver puppy to new home"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/440310_1280x720.jpg"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/text> "'Doggie!' Watch Santa's elves deliver puppy to new home"@en .
+_:node90393b67c2da327ca16e44953373d89e <http://schema.org/caption> "'Doggie!' Watch Santa's elves deliver puppy to new home"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/438404_1280x720.jpg"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/438404_1280x720.jpg"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/description> "Null"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/headline> "DAD PRANK: Kids get healthy food as early Christmas 'presents'"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/438404_1280x720.jpg"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/text> "DAD PRANK: Kids get healthy food as early Christmas 'presents'"@en .
+_:noded8cfcab42f10c95ea8bbc02939eab68c <http://schema.org/caption> "DAD PRANK: Kids get healthy food as early Christmas 'presents'"@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/412332_1280x720.jpg"@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/412332_1280x720.jpg"@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/description> "Video surfaced of a woman fending off Ferguson looters in front of a Papa John's during protests on Monday."@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/headline> "Prosecutor: Some Ferguson witnesses clearly lied"@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/412332_1280x720.jpg"@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/text> "Prosecutor: Some Ferguson witnesses clearly lied"@en .
+_:node8e7ec2666db0a39b9057262bc9237962 <http://schema.org/caption> "Prosecutor: Some Ferguson witnesses clearly lied"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/434668_1280x720.jpg"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/434668_1280x720.jpg"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/description> "Null"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/headline> "Google's Santa Tracker is the most fun way to countdown to Christmas"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/434668_1280x720.jpg"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/text> "Google's Santa Tracker is the most fun way to countdown to Christmas"@en .
+_:nodefd7203ca9eba77e6712bf7227da14b1 <http://schema.org/caption> "Google's Santa Tracker is the most fun way to countdown to Christmas"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/445123_1280x720.jpg"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/445123_1280x720.jpg"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/description> "There are only five days left until Christmas and Hanukkah is already underway, which means the rush is on for holiday shopping on ?Super Saturday.?"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/headline> "Holiday shopping rush on 'Super Saturday'"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/445123_1280x720.jpg"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/text> "Holiday shopping rush on 'Super Saturday'"@en .
+_:node9fc174bda7bb992c8ac09063ddab17f2 <http://schema.org/caption> "Holiday shopping rush on 'Super Saturday'"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/422560_1280x720.jpg"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/422560_1280x720.jpg"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/description> "Null"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/headline> "Visit the Chicago Travel and Adventure Show"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/422560_1280x720.jpg"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/text> "Visit the Chicago Travel and Adventure Show"@en .
+_:node802eff2f9b44bf9651463b28f2a4888 <http://schema.org/caption> "Visit the Chicago Travel and Adventure Show"@en .
+_:node2234b127e196f175906743f9ede8b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444132_1280x720.jpg"@en .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444132_1280x720.jpg"@en .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/description> "Jerry Stermer will succeed the late Judy Baar Topinka as Illinois comptroller, Gov. Pat Quinn announced on Friday."@en .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/headline> "Jerry Stermer appointed Ill. comptroller by Gov. Quinn"@en .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444132_1280x720.jpg"@en .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/text> "Jerry Stermer appointed Ill. comptroller by Gov. Quinn"@en .
+_:node2234b127e196f175906743f9ede8b9 <http://schema.org/caption> "Jerry Stermer appointed Ill. comptroller by Gov. Quinn"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/440952_1280x720.jpg"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/440952_1280x720.jpg"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/description> "Null"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/headline> "ABC7 - Red Cross 100th Anniversary Blood Drive"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/440952_1280x720.jpg"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/text> "ABC7 - Red Cross 100th Anniversary Blood Drive"@en .
+_:nodec1a5a7dda4bb3aaac45a9fde267dde56 <http://schema.org/caption> "ABC7 - Red Cross 100th Anniversary Blood Drive"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/name> "http://cdn.abclocal.go.com/content/ktrk/images/cms/automation/images/444334_1280x720.jpg"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/ktrk/images/cms/automation/images/444334_1280x720.jpg"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/description> "Null"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/headline> "Staples security breach exposes customer data, company says"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/url> "http://cdn.abclocal.go.com/content/ktrk/images/cms/automation/images/444334_1280x720.jpg"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/text> "Staples security breach exposes customer data, company says"@en .
+_:node9a6d3f8e2ea63e9742da823220d89b74 <http://schema.org/caption> "Staples security breach exposes customer data, company says"@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/445053_1280x720.jpg"@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/445053_1280x720.jpg"@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/description> "Tuba Christmas is a Chicago holiday tradition that started at New York's Rockefeller Center back in 1974."@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/headline> "Tuba Christmas going strong at Chicago's Palmer house"@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/445053_1280x720.jpg"@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/text> "Tuba Christmas going strong at Chicago's Palmer house"@en .
+_:node66ffa0e4b99b79e31b4e98126e3a360 <http://schema.org/caption> "Tuba Christmas going strong at Chicago's Palmer house"@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/445118_1280x720.jpg"@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/445118_1280x720.jpg"@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/description> "Chicago Police are investigating a robbery near Mayor Rahm Emanuel's home and the victim was Emanuel's son."@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/headline> "Mayor's son Zach Emanuel assaulted, robbed near Ravenswood home"@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/445118_1280x720.jpg"@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/text> "Mayor's son Zach Emanuel assaulted, robbed near Ravenswood home"@en .
+_:node74228bfabd63c4bd906fe2aa912271d9 <http://schema.org/caption> "Mayor's son Zach Emanuel assaulted, robbed near Ravenswood home"@en .
+_:node576214758c07df147f8f09df6eb566 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/445260_1280x720.jpg"@en .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/445260_1280x720.jpg"@en .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/description> "A vigil was held in suburban Bellwood Saturday for a Cook County Sheriff's officer who was remembered as an \"outright good guy.\" "@en .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/headline> "Vigil held for slain off-duty Sheriff's officer Cuauhtemoc Estrada"@en .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/445260_1280x720.jpg"@en .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/text> "Vigil held for slain off-duty Sheriff's officer Cuauhtemoc Estrada"@en .
+_:node576214758c07df147f8f09df6eb566 <http://schema.org/caption> "Vigil held for slain off-duty Sheriff's officer Cuauhtemoc Estrada"@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/399482_1280x720.jpg"@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/399482_1280x720.jpg"@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/description> "Vegan golden beet soup with roasted garlic cashew cream from With Food and Love."@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/headline> "Gluten-free and vegan side dishes for your holiday table"@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/399482_1280x720.jpg"@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/text> "Gluten-free and vegan side dishes for your holiday table"@en .
+_:nodec1e84fffcb20986af240ee2fe85366b <http://schema.org/caption> "Gluten-free and vegan side dishes for your holiday table"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/306433_1280x720.jpg"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/306433_1280x720.jpg"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/description> "Null"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/headline> "New Daytime lineup on ABC7"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/306433_1280x720.jpg"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/text> "New Daytime lineup on ABC7"@en .
+_:node84ec4d69efe270698929881948ec2854 <http://schema.org/caption> "New Daytime lineup on ABC7"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/283656_1280x720.jpg"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/283656_1280x720.jpg"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/description> "Null"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/headline> "Weather Sketchers Whiz Kid Sweepstakes"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/283656_1280x720.jpg"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/text> "Weather Sketchers Whiz Kid Sweepstakes"@en .
+_:node5e12fec5f09cff7fddaf91b4698ff4eb <http://schema.org/caption> "Weather Sketchers Whiz Kid Sweepstakes"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/112818_1280x720.jpg"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/112818_1280x720.jpg"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/description> "Null"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/headline> "FREE Printable Coupons"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/112818_1280x720.jpg"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/text> "FREE Printable Coupons"@en .
+_:node27b97fb22c62f1e292f9ae3beb3251da <http://schema.org/caption> "FREE Printable Coupons"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/433861_1280x720.jpg"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/433861_1280x720.jpg"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/description> "Null"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/headline> "ABC7 to televise 25 Cubs games in 2015"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/433861_1280x720.jpg"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/text> "ABC7 to televise 25 Cubs games in 2015"@en .
+_:node2c93852bff7bd6cebf9839b66530c94f <http://schema.org/caption> "ABC7 to televise 25 Cubs games in 2015"@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444733_1280x720.jpg"@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444733_1280x720.jpg"@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/description> "If you still have to finish your holiday shopping - or you haven't even started yet - no need to panic."@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/headline> "Last-minute gift ideas for under $100"@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444733_1280x720.jpg"@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/text> "Last-minute gift ideas for under $100"@en .
+_:nodebae8f013befe1ea44918b03f14cbcbb <http://schema.org/caption> "Last-minute gift ideas for under $100"@en .
+_:nodeec638b7ef644f7cc375914ce76aac0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodeec638b7ef644f7cc375914ce76aac0 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wls/images/logos/header-large.png> .
+_:nodeec638b7ef644f7cc375914ce76aac0 <http://schema.org/url> <http://abc7chicago.com/> .
+_:nodefadb94b327948941225076cec7089 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/444508_1280x720.jpg"@en .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/444508_1280x720.jpg"@en .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/description> "The staff and residents at the South Suburban Nursing and Rehab in Homewood took up a holiday collection to help pay for an inventory of layaway items. "@en .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/headline> "'Layaway angels' surprise Lansing shoppers who couldn't afford gifts "@en .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/444508_1280x720.jpg"@en .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/text> "'Layaway angels' surprise Lansing shoppers who couldn't afford gifts "@en .
+_:nodefadb94b327948941225076cec7089 <http://schema.org/caption> "'Layaway angels' surprise Lansing shoppers who couldn't afford gifts "@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wpvi/images/cms/444532_1280x720.jpg"@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wpvi/images/cms/444532_1280x720.jpg"@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/description> "Null"@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/headline> "Chrysler expands air bag recall after government demands"@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wpvi/images/cms/444532_1280x720.jpg"@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/text> "Chrysler expands air bag recall after government demands"@en .
+_:nodea15a87d6d8c7fbe3542d95de8fd0a8e1 <http://schema.org/caption> "Chrysler expands air bag recall after government demands"@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444544_1280x720.jpg"@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444544_1280x720.jpg"@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/description> "A 20-year-old store security guard was shot in the leg during an apparent attempted robbery in the city's Washington Heights neighborhood."@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/headline> "Security guard shot outside Washington Heights cell phone store"@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444544_1280x720.jpg"@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/text> "Security guard shot outside Washington Heights cell phone store"@en .
+_:node2a127eacf5bdcad304ac7baba2f32cf <http://schema.org/caption> "Security guard shot outside Washington Heights cell phone store"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/429091_1280x720.jpg"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/429091_1280x720.jpg"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/description> "Null"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/headline> "The RoomPlace New Year's Eve $10,000 Furniture Giveaway"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/429091_1280x720.jpg"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/text> "The RoomPlace New Year's Eve $10,000 Furniture Giveaway"@en .
+_:nodebb1271811ba682dd30839d1ee1e7b918 <http://schema.org/caption> "The RoomPlace New Year's Eve $10,000 Furniture Giveaway"@en .
+_:node11bb26b4a23c694e71ab591851206c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/444009_1280x720.jpg"@en .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/444009_1280x720.jpg"@en .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/description> "A disabled tortoise was given the ability to move with the help of a LEGO wheelchair."@en .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/headline> "Turtle moves with help of LEGO wheelchair"@en .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/444009_1280x720.jpg"@en .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/text> "Turtle moves with help of LEGO wheelchair"@en .
+_:node11bb26b4a23c694e71ab591851206c <http://schema.org/caption> "Turtle moves with help of LEGO wheelchair"@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444801_1280x720.jpg"@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444801_1280x720.jpg"@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/description> "At Swapadventure's donation event, gifts are donated to children in need so they can have fun celebrating the season too."@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/headline> "Swapadventure hosts holiday donation event"@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444801_1280x720.jpg"@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/text> "Swapadventure hosts holiday donation event"@en .
+_:nodef853d5bee2b6874b49a70a4201e9173 <http://schema.org/caption> "Swapadventure hosts holiday donation event"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/423988_1280x720.jpg"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/423988_1280x720.jpg"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/description> "Null"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/headline> "ABC-7 Spirit of Giving: Ways to Give"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/423988_1280x720.jpg"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/text> "ABC-7 Spirit of Giving: Ways to Give"@en .
+_:nodea2fa6a5898915d5a62ccafa474a4efd <http://schema.org/caption> "ABC-7 Spirit of Giving: Ways to Give"@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/name> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/443712_1280x720.jpg"@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/443712_1280x720.jpg"@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/description> "Kermit the Frog sings \"It Feels Like Christmas\" from \"The Muppet Christmas Carol.\""@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/headline> "Kermit the Frog sings \"It Feels Like Christmas\""@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/url> "http://cdn.abclocal.go.com/content/creativecontent/images/cms/443712_1280x720.jpg"@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/text> "Kermit the Frog sings \"It Feels Like Christmas\""@en .
+_:node774b857aa3f9a4b4705cafa6d86f159 <http://schema.org/caption> "Kermit the Frog sings \"It Feels Like Christmas\""@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/444927_1280x720.jpg"@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/444927_1280x720.jpg"@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/description> "David Ramirez-Martinez."@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/headline> "Colorado man charged in 1994 fatal stabbing near North Center"@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/444927_1280x720.jpg"@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/text> "Colorado man charged in 1994 fatal stabbing near North Center"@en .
+_:node5750b6ebd66836fb251ff95616303b31 <http://schema.org/caption> "Colorado man charged in 1994 fatal stabbing near North Center"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/385622_1280x720.jpg"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/385622_1280x720.jpg"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/description> "Null"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/headline> "Magnificent Mile Lights Festival 2014"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/images/385622_1280x720.jpg"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/text> "Magnificent Mile Lights Festival 2014"@en .
+_:nodef9ce16f1493038ccb5b835f45c8d952 <http://schema.org/caption> "Magnificent Mile Lights Festival 2014"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wpvi/images/cms/445007_1280x720.jpg"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wpvi/images/cms/445007_1280x720.jpg"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/description> "Madonna releases 6 songs after leak"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/headline> "Madonna releases 6 songs after leak"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wpvi/images/cms/445007_1280x720.jpg"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/text> "Madonna releases 6 songs after leak"@en .
+_:node22ed8f9f3d9e1f688290a1d574dcb7e7 <http://schema.org/caption> "Madonna releases 6 songs after leak"@en .
+_:node3dc8167883bdd4c8149274b1c44a9a66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3dc8167883bdd4c8149274b1c44a9a66 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/wls/images/logos/header-large.png> .
+_:node3dc8167883bdd4c8149274b1c44a9a66 <http://schema.org/url> <http://abc7chicago.com/> .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/52979_1280x720.jpg"@en .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/52979_1280x720.jpg"@en .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/description> "Null"@en .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/headline> "Watch the show then come play Jeopardy! EXP"@en .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/52979_1280x720.jpg"@en .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/text> "Watch the show then come play Jeopardy! EXP"@en .
+_:node5a9ec4c131345af386ff5336b37bf398 <http://schema.org/caption> "Watch the show then come play Jeopardy! EXP"@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/61238_1280x720.jpg"@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/61238_1280x720.jpg"@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/description> "Null"@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/headline> "Northwestern Memorial Health notifying patients after employee laptop stolen  "@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/61238_1280x720.jpg"@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/text> "Northwestern Memorial Health notifying patients after employee laptop stolen  "@en .
+_:node5461a54b508bbb8a9692f6479c8693 <http://schema.org/caption> "Northwestern Memorial Health notifying patients after employee laptop stolen  "@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444825_1280x720.jpg"@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444825_1280x720.jpg"@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/description> "All the young stars of "@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/headline> "\"A Christmas Story\" reunion comes to Naperville"@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444825_1280x720.jpg"@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/text> "\"A Christmas Story\" reunion comes to Naperville"@en .
+_:node4dd699ca3d1c3e126773b6c16b91423 <http://schema.org/caption> "\"A Christmas Story\" reunion comes to Naperville"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/name> "http://cdn.abclocal.go.com/content/kgo/images/cms/444917_1280x720.jpg"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/kgo/images/cms/444917_1280x720.jpg"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/description> "The exterior of the Sony Pictures Plaza building is seen in Culver City, Calif., Friday, Dec. 19, 2014. (AP Photo/Damian Dovarganes)"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/headline> "Noth Korea proposes joint probe over Sony hacking"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/url> "http://cdn.abclocal.go.com/content/kgo/images/cms/444917_1280x720.jpg"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/text> "Noth Korea proposes joint probe over Sony hacking"@en .
+_:nodeb1ce203d4b2f55d615372d51af65e75 <http://schema.org/caption> "Noth Korea proposes joint probe over Sony hacking"@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/name> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444575_1280x720.jpg"@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444575_1280x720.jpg"@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/description> "Clarence Moore proposed to his girlfriend Melody Maney and got a standing ovation from the audience at the Chicago Theatre."@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/headline> "Man proposes to girlfriend on stage at Chicago Theatre "@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/url> "http://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/444575_1280x720.jpg"@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/text> "Man proposes to girlfriend on stage at Chicago Theatre "@en .
+_:nodedf271d2fb4c06685cff7897c96bb11 <http://schema.org/caption> "Man proposes to girlfriend on stage at Chicago Theatre "@en .
+_:node42d242da56e5a2f1a5ceaf8a52d41a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

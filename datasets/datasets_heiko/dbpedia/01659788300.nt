@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Quercus_prinus> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Carl_Linnaeus> .
+<http://dbpedia.org/resource/Quercus_prinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Quercus_prinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Quercus_prinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Carl_Linnaeus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .
+<http://dbpedia.org/resource/Carl_Linnaeus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Carl_Linnaeus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

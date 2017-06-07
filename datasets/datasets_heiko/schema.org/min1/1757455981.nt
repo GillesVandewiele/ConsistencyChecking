@@ -1,0 +1,15 @@
+_:node8e9dfadc4838b5d38edbc52790d6fb11 <http://schema.org/price> "\n          $29\n        "@en-us .
+_:node8e9dfadc4838b5d38edbc52790d6fb11 <http://schema.org/priceCurrency> "USD"@en-us .
+_:nodefdff925348eafa8ec983e4ccdd627639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodefdff925348eafa8ec983e4ccdd627639 <http://schema.org/url> <http://fab.com/product/dye-pillow-18x18-gray-yellow-439324/?ref=reco%7Chome%7Cpop-pop%7C3%7C3%7C2309///fab.com/> .
+_:noded7db412d52b95349f55196b1292c836 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/height> "L 18\u201D W 18\u201D "@en-us .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/offers> _:node8e9dfadc4838b5d38edbc52790d6fb11 .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/name> "Dye Pillow 18x18 Gray Yellow"@en-us .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/url> <http://fab.com/product/dye-pillow-18x18-gray-yellow-439324?fref=fb-like> .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/description> "\n                  You know what\u2019s far out? Colorful dyed wool and cotton come together to create a space-dyed effect in this funky throw pillow cover. Each one is handwoven by craftsmen in India and exclusive to Fab. Nap time\u2019s about to get so groovy.\u00A0\n                "@en-us .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/image> <http://fab.com/product/dye-pillow-18x18-gray-yellow-439324/?ref=reco%7Chome%7Cpop-pop%7C3%7C3%7C2309///dnok91peocsw3.cloudfront.net/product/439324-610x610-1393351062-primary.png> .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/image> "//dnok91peocsw3.cloudfront.net/product/439324-610x610-1393351062-primary.png"@en-us .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/color> "Multi"@en-us .
+_:noded7db412d52b95349f55196b1292c836 <http://schema.org/brand> "BERGAMOT "@en-us .
+_:node65073f1206be1aef953f8bd54945169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .

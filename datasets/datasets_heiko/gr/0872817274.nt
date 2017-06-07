@@ -1,0 +1,22 @@
+<http://www.xtreme-media.in/digital-signage/models.html#company> <http://xmlns.com/foaf/0.1/page> <http://www.xtreme-media.in/digital-signage/models.html> .
+<http://www.xtreme-media.in/digital-signage/models.html#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.xtreme-media.in/digital-signage/models.html#company> <http://purl.org/goodrelations/v1#legalName> "Xtreme Media Pvt Ltd" .
+<http://www.xtreme-media.in/digital-signage/models.html#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dca42e62afb33499cadd284ec5db6586b2dN67729 .
+<http://www.xtreme-media.in/digital-signage/models.html#company> <http://www.w3.org/2006/vcard/ns#tel> "+91-22-24120398" .
+_:genid2dca42e62afb33499cadd284ec5db6586b2dN67729 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dca42e62afb33499cadd284ec5db6586b2dN67729 <http://www.w3.org/2006/vcard/ns#postal-code> "400031" .
+_:genid2dca42e62afb33499cadd284ec5db6586b2dN67729 <http://www.w3.org/2006/vcard/ns#locality> "Mumbai" .
+_:genid2dca42e62afb33499cadd284ec5db6586b2dN67729 <http://www.w3.org/2006/vcard/ns#country-name> "India" .
+_:genid2dca42e62afb33499cadd284ec5db6586b2dN67729 <http://www.w3.org/2006/vcard/ns#street-address> "B-21, Shri Ram Industrial Estate, G.D. Ambekar Marg" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/title> "Digital Signage, LED Video Wall, LED Display Providers in India." .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/title> "SaaS / Server" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/description> "There are two type of models - First SaaS model,Second One-time purchase(Server) model. Find more details for purchase digital signage and LED video wall" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/site_name> "Xtreme Media" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/site_name> "Xtreme Media" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/locale> "en_US" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/type> "article" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/type> "article" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/image> "/wp-content/uploads/2014/12/Xm-logo-30.png" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/url> "http://www.xtreme-media.in/digital-signage/models.html" .
+<http://www.xtreme-media.in/digital-signage/models.html> <http://opengraphprotocol.org/schema/url> "http://www.xtreme-media.in/digital-signage/models.html" .
+<http://www.kenmore.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.kenmore.com/kenmore-36inch-updraft-range-hood-5271/p-02252713000P?prdNo=13#offering> .

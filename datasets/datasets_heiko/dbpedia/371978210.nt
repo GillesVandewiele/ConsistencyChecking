@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/AFC_Ajax__Ruben_Ligeon__2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/AFC_Ajax> .
+<http://dbpedia.org/resource/AFC_Ajax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> .
+<http://dbpedia.org/resource/AFC_Ajax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> .
+<http://dbpedia.org/resource/AFC_Ajax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/AFC_Ajax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

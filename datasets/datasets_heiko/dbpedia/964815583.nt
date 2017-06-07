@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Carmen_Jones> <http://dbpedia.org/ontology/lyrics> <http://dbpedia.org/resource/Oscar_Hammerstein_II> .
+<http://dbpedia.org/resource/Carmen_Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Carmen_Jones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Musical> .
+<http://dbpedia.org/resource/Oscar_Hammerstein_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .
+<http://dbpedia.org/resource/Oscar_Hammerstein_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Oscar_Hammerstein_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Oscar_Hammerstein_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

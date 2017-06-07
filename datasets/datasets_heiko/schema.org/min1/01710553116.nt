@@ -1,0 +1,14 @@
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/name> "http://cdn.abclocal.go.com/images/kgo/cms_exf_2007/news/entertainment/8818326_1280x720.jpg"@en .
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/contentUrl> "http://cdn.abclocal.go.com/images/kgo/cms_exf_2007/news/entertainment/8818326_1280x720.jpg"@en .
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/description> "Null"@en .
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/headline> "Popinator popcorn machine turns out to be hoax"@en .
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/url> "http://cdn.abclocal.go.com/images/kgo/cms_exf_2007/news/entertainment/8818326_1280x720.jpg"@en .
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/text> "Popinator popcorn machine turns out to be hoax"@en .
+_:node8d296425a36d346f35c6b8c7ea942c <http://schema.org/caption> "Popinator popcorn machine turns out to be hoax"@en .
+_:node842969fdbb1a432bc8a6cdac5b4840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node842969fdbb1a432bc8a6cdac5b4840 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/kgo/images/logos/header-large.png> .
+_:node842969fdbb1a432bc8a6cdac5b4840 <http://schema.org/url> <http://abc7news.com/> .
+_:node20386813b953ad4f626b8151c1de974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node20386813b953ad4f626b8151c1de974 <http://schema.org/logo> <http://cdn.abclocal.go.com/assets/news/kgo/images/logos/header-large.png> .
+_:node20386813b953ad4f626b8151c1de974 <http://schema.org/url> <http://abc7news.com/> .
+_:node1c88be6bf5271a4a70a25b4dfaa1744 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

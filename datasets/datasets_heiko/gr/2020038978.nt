@@ -1,0 +1,15 @@
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/593869.jpg" .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://ogp.me/ns#description> "Serve your casseroles with a touch of style in the Rachael Ray 4.25-qt. Fennel Stoneware Casseroval from Cooking.com. The dish's brilliant glaze is sure to impress your dinner guests just as much as the delicious meal that you prepare for them." .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/fennel-4-25-qt-stoneware-casseroval-by-rachael-ray_593869_11/0/0/" .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://ogp.me/ns#title> "Fennel 4.25-qt. Stoneware Casseroval by Rachael Ray at Cooking.com" .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/fennel-4-25-qt-stoneware-casseroval-by-rachael-ray_593869_11/0/0/> .
+_:genid2d1afae91b07464e95a851ce89b536c4602dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.craftsman.com/shc/s/> <http://purl.org/goodrelations/v1#offers> <http://www.craftsman.com/craftsman-1-in-easy-to-read-pinless-swivel/p-00915808000P?prdNo=36#product> .

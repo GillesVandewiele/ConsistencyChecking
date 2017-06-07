@@ -1,0 +1,11 @@
+_:genid2dee6fb8c7894041d498c7e2c39d6de9912dN66211 <http://www.w3.org/2006/vcard/ns#postal-code> "37539" .
+_:genid2dee6fb8c7894041d498c7e2c39d6de9912dN66211 <http://www.w3.org/2006/vcard/ns#locality> "Bad Grund" .
+_:genid2dee6fb8c7894041d498c7e2c39d6de9912dN66211 <http://www.w3.org/2006/vcard/ns#street-address> "Hilfe Gottes 1" .
+_:genid2dee6fb8c7894041d498c7e2c39d6de9912dN66211 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland" .
+<http://www.zirbus.de/service/gebrauchte.html#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.zirbus.de/service/gebrauchte.html#company> <http://purl.org/goodrelations/v1#legalName> "Zirbus technology GmbH" .
+<http://www.zirbus.de/service/gebrauchte.html#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dee6fb8c7894041d498c7e2c39d6de9912dN66211 .
+<http://www.zirbus.de/service/gebrauchte.html#company> <http://www.w3.org/2006/vcard/ns#tel> "+49 5327 83800" .
+<http://www.zirbus.de/service/gebrauchte.html#company> <http://xmlns.com/foaf/0.1/logo> <http://www.zirbus.de/cid1/img/basic_layout/zirbus_logo.png> .
+<http://www.zirbus.de/service/gebrauchte.html#company> <http://xmlns.com/foaf/0.1/page> <http://www.zirbus.de/service/gebrauchte.html> .
+_:genid2d7cdb01d9b4f049e98d3b4ee4b35ff2662dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

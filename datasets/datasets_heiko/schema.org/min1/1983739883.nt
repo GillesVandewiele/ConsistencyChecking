@@ -1,0 +1,11 @@
+_:nodecdf4f9ee6c78f4cbdba2f5dd3d26550 <http://schema.org/postalCode> "\n PR4 1XE"@en .
+_:nodecdf4f9ee6c78f4cbdba2f5dd3d26550 <http://schema.org/addressLocality> "\nPreston"@en .
+_:nodecdf4f9ee6c78f4cbdba2f5dd3d26550 <http://schema.org/addressCountry> "\nUnited Kingdom"@en .
+_:nodecdf4f9ee6c78f4cbdba2f5dd3d26550 <http://schema.org/streetAddress> "\nLytham Road; Warton"@en .
+_:node62c9edba558284eba83b047fc6cdc33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Library> .
+_:node62c9edba558284eba83b047fc6cdc33 <http://schema.org/address> _:nodecdf4f9ee6c78f4cbdba2f5dd3d26550 .
+_:node62c9edba558284eba83b047fc6cdc33 <http://schema.org/telephone> "\n 01772632605\n"@en .
+_:node62c9edba558284eba83b047fc6cdc33 <http://schema.org/description> "Warton (Fylde) Library is a Public library.  This library is affiliated with Lancashire Libraries  (view map)\n.  \n"@en .
+_:node62c9edba558284eba83b047fc6cdc33 <http://schema.org/legalName> "\nWarton (Fylde) Library"@en .
+_:node62c9edba558284eba83b047fc6cdc33 <http://schema.org/url> <http://www.lancashire.gov.uk/libraries/> .
+_:node2bbef3f2e9aecebff636924d369ca969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

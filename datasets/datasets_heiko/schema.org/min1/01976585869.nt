@@ -1,0 +1,4 @@
+_:nodeecd14d3f094377133ff602b449579a <http://schema.org/name> "Instagram photos tagged ignation" .
+_:nodeecd14d3f094377133ff602b449579a <http://schema.org/description> "Browse all Instagram photos with a specific hastag. Via Iconosquare - Best Instagram web viewer." .
+_:nodeecd14d3f094377133ff602b449579a <http://schema.org/image> "http://static.iconosquare.com/images/picto-share-iconosquare.png" .
+_:noded183f41362428c86a09c1911a4164a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

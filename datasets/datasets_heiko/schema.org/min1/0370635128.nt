@@ -1,0 +1,6 @@
+_:nodeee539680c0a937e5add47218052d06e <http://schema.org/name> "Is it possible to send push notification request from device to server?" .
+_:nodeee539680c0a937e5add47218052d06e <http://schema.org/title> "Is it possible to send push notification request from device to server?" .
+_:nodeee539680c0a937e5add47218052d06e <http://schema.org/description> "currently i am thinking about using push notification service as an alternative to SMS in my applications. \n\nWhat i need to do, is to send request (with data - e.g. user fills in text field on devi..." .
+_:nodeee539680c0a937e5add47218052d06e <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodeee539680c0a937e5add47218052d06e <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node65fde19c7621956754cbdc8653a69fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

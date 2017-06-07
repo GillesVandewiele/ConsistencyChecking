@@ -1,0 +1,6 @@
+_:nodeb9f8afb93cfa211e7bb098a488fd1f23 <http://schema.org/name> "Does the word \"return\" means we were there before?" .
+_:nodeb9f8afb93cfa211e7bb098a488fd1f23 <http://schema.org/title> "Does the word \"return\" means we were there before?" .
+_:nodeb9f8afb93cfa211e7bb098a488fd1f23 <http://schema.org/description> "Somebody told me an interpretation of this verse and I feel it's not correct. \n\n\n  Ecclesiastes 12:7 (NIV)  \n  \n  7 and the dust returns to the ground it came from,\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..." .
+_:nodeb9f8afb93cfa211e7bb098a488fd1f23 <http://schema.org/image> "http://cdn.sstatic.net/hermeneutics/img/apple-touch-icon.png?v=46638cb8165d" .
+_:nodeb9f8afb93cfa211e7bb098a488fd1f23 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/hermeneutics/img/apple-touch-icon.png?v=46638cb8165d" .
+_:nodecf8c8a4fd81e12d7972540d2fdab5725 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

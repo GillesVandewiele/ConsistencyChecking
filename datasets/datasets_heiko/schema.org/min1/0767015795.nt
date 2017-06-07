@@ -1,0 +1,90 @@
+_:node333d618cf3b517112ce0d2c535d3e <http://schema.org/name> "Miami Intl"@en .
+_:node333d618cf3b517112ce0d2c535d3e <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:nodef1626c16a81cf6465534d2385b3729fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodef1626c16a81cf6465534d2385b3729fa <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:nodef1626c16a81cf6465534d2385b3729fa <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node44279fc746ad2761f7f6c361b3e2dfb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node44279fc746ad2761f7f6c361b3e2dfb6 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node44279fc746ad2761f7f6c361b3e2dfb6 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:nodea91a7249592364df8853ffe6dbde96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodea91a7249592364df8853ffe6dbde96 <http://schema.org/name> "Miami Intl"@en .
+_:nodea91a7249592364df8853ffe6dbde96 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node8f9c80e914ee362d4f6a80d0827da96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node8f9c80e914ee362d4f6a80d0827da96 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node8f9c80e914ee362d4f6a80d0827da96 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:nodeb245b0a545cc3a7f78c8f1a91c8fb2c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb245b0a545cc3a7f78c8f1a91c8fb2c0 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:nodeb245b0a545cc3a7f78c8f1a91c8fb2c0 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node7dc67ad36947e5a2fe567dc1bf38ea80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7dc67ad36947e5a2fe567dc1bf38ea80 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node7dc67ad36947e5a2fe567dc1bf38ea80 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node7366ccd854a48a4856241545bb96b064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node7366ccd854a48a4856241545bb96b064 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node7366ccd854a48a4856241545bb96b064 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:nodec5e47dc7e66564f9bc69a7fea771d3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodec5e47dc7e66564f9bc69a7fea771d3 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:nodec5e47dc7e66564f9bc69a7fea771d3 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node4bb87cce4c696279e52643dd1ef792c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node4bb87cce4c696279e52643dd1ef792c <http://schema.org/name> "Miami Intl"@en .
+_:node4bb87cce4c696279e52643dd1ef792c <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:nodeee62f7bc43b9cecb992c3ffe340f0e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeee62f7bc43b9cecb992c3ffe340f0e4 <http://schema.org/name> "Miami Intl"@en .
+_:nodeee62f7bc43b9cecb992c3ffe340f0e4 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node294b829024e53c139438c042aee03974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node294b829024e53c139438c042aee03974 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node294b829024e53c139438c042aee03974 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:nodee65a4e397e9b5e9ea4dc560eab6abd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee65a4e397e9b5e9ea4dc560eab6abd5 <http://schema.org/name> "Miami Intl"@en .
+_:nodee65a4e397e9b5e9ea4dc560eab6abd5 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:nodecd8b67a61d3b3252194384e425a77dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodecd8b67a61d3b3252194384e425a77dc <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:nodecd8b67a61d3b3252194384e425a77dc <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node48fa29399223fb892b7c4e3ee512912 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node48fa29399223fb892b7c4e3ee512912 <http://schema.org/name> "Miami Intl"@en .
+_:node48fa29399223fb892b7c4e3ee512912 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:noded2f461973073b0f136285ad29f64c189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:noded2f461973073b0f136285ad29f64c189 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:noded2f461973073b0f136285ad29f64c189 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node0687ce4ca67e61f6bbe16f3e76375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node0687ce4ca67e61f6bbe16f3e76375 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node0687ce4ca67e61f6bbe16f3e76375 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node96bd23bf99d2de3139b5be47a2629e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node96bd23bf99d2de3139b5be47a2629e7 <http://schema.org/name> "Miami Intl"@en .
+_:node96bd23bf99d2de3139b5be47a2629e7 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node2cb2ce38c3ffbc873aa58ce78110b9f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node2cb2ce38c3ffbc873aa58ce78110b9f9 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node2cb2ce38c3ffbc873aa58ce78110b9f9 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:nodefe8a66cd77db8238ba6034b8e15262e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodefe8a66cd77db8238ba6034b8e15262e <http://schema.org/name> "Miami Intl"@en .
+_:nodefe8a66cd77db8238ba6034b8e15262e <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node113653ba26b7d9ecb3ca635cb3ae67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node113653ba26b7d9ecb3ca635cb3ae67 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node113653ba26b7d9ecb3ca635cb3ae67 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:nodee09f4fb6e991ed6a90365e5d74122bdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodee09f4fb6e991ed6a90365e5d74122bdf <http://schema.org/name> "Miami Intl"@en .
+_:nodee09f4fb6e991ed6a90365e5d74122bdf <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:nodedae91bd7c639399539fd9c977a27d4d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodedae91bd7c639399539fd9c977a27d4d <http://schema.org/name> "Miami Intl"@en .
+_:nodedae91bd7c639399539fd9c977a27d4d <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node5fab7d14988dd0d055ae2b2eea54825b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5fab7d14988dd0d055ae2b2eea54825b <http://schema.org/name> "Miami Intl"@en .
+_:node5fab7d14988dd0d055ae2b2eea54825b <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node27e2cf279b273fec85853e9abbf415b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node27e2cf279b273fec85853e9abbf415b <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node27e2cf279b273fec85853e9abbf415b <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node96e0596d8b68fde835f150136465d3c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node96e0596d8b68fde835f150136465d3c0 <http://schema.org/name> "Miami Intl"@en .
+_:node96e0596d8b68fde835f150136465d3c0 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node222e66aef8732dad391eaecdad6483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node222e66aef8732dad391eaecdad6483 <http://schema.org/name> "Managua Int'l (Augusto Cesar Sandino Int'l)"@en .
+_:node222e66aef8732dad391eaecdad6483 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MNMG> .
+_:node5369dafe603b4c76b876526b18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node5369dafe603b4c76b876526b18 <http://schema.org/name> "El Salvador Int'l"@en .
+_:node5369dafe603b4c76b876526b18 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/MSLP> .
+_:node6234fca42052c591e4b3f2f022d6c7a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:node6234fca42052c591e4b3f2f022d6c7a1 <http://schema.org/name> "Miami Intl"@en .
+_:node6234fca42052c591e4b3f2f022d6c7a1 <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:nodeb05e3eddb6a928c4ced8f7b077cc4f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .
+_:nodeb05e3eddb6a928c4ced8f7b077cc4f <http://schema.org/name> "Miami Intl"@en .
+_:nodeb05e3eddb6a928c4ced8f7b077cc4f <http://schema.org/url> <http://flightaware.com/live/flight/TAI397/history/20130630/2007Z/KMIA/MNMG//live/airport/KMIA> .
+_:node8075a6edd91761a165a94a5e15e6c62b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

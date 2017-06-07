@@ -1,0 +1,15 @@
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://ogp.me/ns#image> "http://iweb.cooking.com/images/products/shprodde/229696.jpg" .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://ogp.me/ns#description> "Learn the art of preserving to make your dishes more delectable with the Ball \"Blue Book Guide to Preserving,\" available at Cooking.com. With 125 pages of essential information, this book provides everything you need to know about preserving." .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://ogp.me/ns#site_name> "Cooking.com" .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://www.facebook.com/2008/fbmladmins> "1459658868" .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://ogp.me/ns#url> "http://www.cooking.com/blue-book-guide-to-preserving-by-ball_229696_11/" .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DinersClub> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://ogp.me/ns#title> "Blue Book Guide to Preserving by Ball\u00AE at Cooking.com" .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://xmlns.com/foaf/0.1/page> <http://www.cooking.com/blue-book-guide-to-preserving-by-ball_229696_11/> .
+_:genid2d6c5eba82975e4765afc253cb3b23b57b2dN65537 <http://www.facebook.com/2008/fbmlapp_id> "105638258758" .
+<http://www.warmyourfloor.com/floor-heating-cables/nexan-in-slab-cable/nexans2-240v-2100w-406ft-cable.html#Offering_1399> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#UPS> .

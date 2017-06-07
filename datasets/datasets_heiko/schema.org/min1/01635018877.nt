@@ -1,0 +1,6 @@
+_:nodecc6e3d85a66424884d68b6faccaf87f0 <http://schema.org/givenName> "Hiroki" .
+_:nodecc6e3d85a66424884d68b6faccaf87f0 <http://schema.org/familyName> "Tani" .
+_:nodecc6e3d85a66424884d68b6faccaf87f0 <http://schema.org/gender> "male" .
+_:nodecc6e3d85a66424884d68b6faccaf87f0 <http://schema.org/birthDate> "1985-12-15" .
+_:nodecc6e3d85a66424884d68b6faccaf87f0 <http://schema.org/name> "\n\t\t\tHiroki\n\t\t\t Tani\n\t\t\t" .
+_:node6db38ef51cdd4cd111c979b50a079c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71971 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71971 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71971 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71971 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$5.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#description> "Easy to carry and easy to use, The Finals\u2122 Sport Towel is the perfect sport towel to get you dryer, faster. <br><br>\u0095 13'' x 17'', with imported case. <br>\u0095 Easy to wring out. <br>\u0095 Imported." .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#name> "The Finals Sport Towel" .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71923 .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/the-finals-sport-towel-26482/?color=26290#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71971 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71923 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71923 <http://rdf.data-vocabulary.org/#count> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71923 <http://rdf.data-vocabulary.org/#rating> "4.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d31858e9ad6af4f4cac8d2c67039cfe892dN71952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.beyondnice.com/review/product/list/id/2001/category/81/#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.productontology.org/id/Hot_tub> .

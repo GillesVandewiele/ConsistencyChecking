@@ -1,0 +1,24 @@
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71750 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71750 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71750 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$27.55"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#description> "<p>The Ultimate Wide Leg Pant allows you to dash to the finishing line in a comfortable design.</p> <ul> <li> Wide leg running pant.</li> <li> Black spandex for reduced shine.</li> <li> Power mesh internal waistband for support.</li> <li> Internal waistband pocket.</li> <li> Contoured back yoke and waistband.</li> <li> Antimicrobial finish.</li> <li> Gusset.</li> <li> Mid-rise.</li> <li> Semi-fitted.</li> <li> 31.5'' inseam.</li> <li> Body Composition: 88% Polyester / 12% Spandex.</li> <li> Mesh Composition: 81% Nylon / 19% Spandex.</li> </ul>" .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#name> "New Balance Women's Ultimate Wide Leg Running Pant" .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71702 .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71750 .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71702 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71702 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71702 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d9c1e30cc0f6047648fa66337f1b51c042dN71731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/new-balance-womens-ultimate-wide-leg-running-pant-7530395/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d1fad2e97f8314defb6d5d4a32309fd0c2dN67570 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "during shows"@en .

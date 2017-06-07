@@ -1,0 +1,49 @@
+_:nodea1f7e7f31b3853af4146fdb3c7afdd74 <http://schema.org/reviewRating> "4" .
+_:nodea1f7e7f31b3853af4146fdb3c7afdd74 <http://schema.org/dateCreated> "2004-01-25" .
+_:nodea1f7e7f31b3853af4146fdb3c7afdd74 <http://schema.org/reviewBody> "I make these and then put on a cookie sheet to freeze, then transfer to freezer bag. Pop in the toaster oven to heat (350 for about 15 minutes). Makes a good am or afternoon snack. I have also made with beef (or turkey) added so that there are equal parts pork, beef, and processed cheese." .
+_:nodea1f7e7f31b3853af4146fdb3c7afdd74 <http://schema.org/interactionCount> "45" .
+_:nodea1f7e7f31b3853af4146fdb3c7afdd74 <http://schema.org/author> "LJBEASLEY" .
+_:nodea1f7e7f31b3853af4146fdb3c7afdd74 <http://schema.org/itemReviewed> "Hanky Pankies" .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://schema.org/reviewRating> "4" .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://schema.org/dateCreated> "2004-01-25" .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://schema.org/reviewBody> "This recipe is a keeper!  My family loves these, they make a great appetizer.  When making them, I use equal parts of lean ground beef and sausage. My family prefers the meat mixture over using just sausage." .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://schema.org/interactionCount> "36" .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://schema.org/author> "MARGE ARMAN" .
+_:node9e39f259f1cf67a136e7dd052a4ad40 <http://schema.org/itemReviewed> "Hanky Pankies" .
+_:node8c7cd6b5765435bcfcbfb5cd6da085f7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node8c7cd6b5765435bcfcbfb5cd6da085f7 <http://schema.org/ratingValue> "4.43" .
+_:node8c7cd6b5765435bcfcbfb5cd6da085f7 <http://schema.org/reviewCount> "44" .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://schema.org/reviewRating> "4" .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://schema.org/dateCreated> "2004-02-06" .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://schema.org/reviewBody> "I haven't heard of Hanky Pankies in years!  I make mine with one pound ground beef, one pound sausage, Velveeta cheese, various spices, then spread on rye cocktail bread.  Great to freeze and pop under the broiler when company comes (like the Crabbies recipe on this site, too.)" .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://schema.org/interactionCount> "51" .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://schema.org/author> "KOALAGIRL" .
+_:node1c609cb8fe5fee7168e02a34374c76 <http://schema.org/itemReviewed> "Hanky Pankies" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/name> "Hanky Pankies" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/ingredients> "1 pound fresh, ground pork sausage" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/ingredients> "3 tablespoons minced onion" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/ingredients> "1/2 teaspoon garlic powder" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/ingredients> "1/4 teaspoon ground black pepper" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/ingredients> "1 cup process cheese sauce" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/ingredients> "16 ounces cocktail rye bread" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/author> "RENE1959" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/description> "\nThese rye slices topped with sausage and cheese are so easy and so delicious that they are sure to please. In fact, my husband loves them so much that I sometimes make them on regular-sized rye bread for dinner.            " .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/review> _:node1c609cb8fe5fee7168e02a34374c76 .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/review> _:nodea1f7e7f31b3853af4146fdb3c7afdd74 .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/review> _:node9e39f259f1cf67a136e7dd052a4ad40 .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/image> <http://images.media-allrecipes.com/userphotos/250x250/959299.jpg> .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/nutrition> _:node4991b38ba51a65fd025018395f8a0 .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/recipeYield> "10" .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/recipeInstructions> "\n                In a large skillet, cook sausage over a medium heat until it is browned and cooked through. Stir onion, garlic powder, black pepper, and process cheese into the skillet. Stir until the cheese is melted and the ingredients are well combined.\n                Spread 1 tablespoon of mixture onto each slice of cocktail rye.  Serve warm.\n            All done! Now take a photo, rate it, and share your accomplishments!\n    " .
+_:nodec6bedb9e9638195393254efcacc649d7 <http://schema.org/aggregateRating> _:node8c7cd6b5765435bcfcbfb5cd6da085f7 .
+_:node4991b38ba51a65fd025018395f8a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:node4991b38ba51a65fd025018395f8a0 <http://schema.org/sodiumContent> "1032 mg" .
+_:node4991b38ba51a65fd025018395f8a0 <http://schema.org/carbohydrateContent> "25.2g" .
+_:node4991b38ba51a65fd025018395f8a0 <http://schema.org/proteinContent> "12.4 g" .
+_:node4991b38ba51a65fd025018395f8a0 <http://schema.org/fatContent> "25.3 g" .
+_:node4991b38ba51a65fd025018395f8a0 <http://schema.org/calories> "381 kcal" .
+_:node4991b38ba51a65fd025018395f8a0 <http://schema.org/cholesterolContent> "51 mg" .
+_:node85cc5a43d8f23bc55c13e9da04f9a2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserComments> .

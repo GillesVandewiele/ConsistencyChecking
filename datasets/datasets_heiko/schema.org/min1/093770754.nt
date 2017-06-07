@@ -1,0 +1,2 @@
+_:node2bf55d635ff8a345ce61a49dbe51c49 <http://schema.org/image> "http://img.beckett.com/images/beckett_logo_128x128.png"@en .
+_:nodefae4424df0d0a96a9b1efb7c0f6e2c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .

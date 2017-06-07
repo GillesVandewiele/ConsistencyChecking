@@ -1,0 +1,6 @@
+_:node8075a6edd91761a165a94a5e15e6c62b <http://schema.org/name> "How to remove background image to a button" .
+_:node8075a6edd91761a165a94a5e15e6c62b <http://schema.org/title> "How to remove background image to a button" .
+_:node8075a6edd91761a165a94a5e15e6c62b <http://schema.org/description> "I added 10 buttons to a view (example view name is \"menuView\"), now I want to remove the background image for 2nd, 3rd, 4th buttons. I wrote the code like this\n\nfor(id btn in [menuView subViews]){\n..." .
+_:node8075a6edd91761a165a94a5e15e6c62b <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node8075a6edd91761a165a94a5e15e6c62b <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node5cac4b5f27c7e7dbe203a1c14af3aa0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

@@ -1,0 +1,6 @@
+_:nodea636ce0cfe28a139d059ed94b812a <http://schema.org/datePublished> "Mon, 23 Feb 1998 18:56:26 +0000 (GMT)" .
+_:nodea636ce0cfe28a139d059ed94b812a <http://schema.org/articleBody> "> Seriously. One cannot do direct rendering OpenGL-in-a-window under X> without GGI. The issue is multiple threads accessing the hw> simultanously with hw graphics context switching. You don't want the X> server to handle that.You do. It is far cheaper to put GLX in the server. Then worry about optimisingthe calls. You don't want every S3 chip access going via a syscall. KGI hassome of the right ideas in bulking them. Even with a KGI MESA should go viaGLXAlan-To unsubscribe from this list: send the line \"unsubscribe linux-kernel\" inthe body of a message to majordomo@vger.rutgers.edu" .
+_:nodea636ce0cfe28a139d059ed94b812a <http://schema.org/editor> "Jasper Spaans" .
+_:nodea636ce0cfe28a139d059ed94b812a <http://schema.org/name> "Re: GGI, EGCS/PGCC, Kernel source" .
+_:nodea636ce0cfe28a139d059ed94b812a <http://schema.org/author> "(Alan Cox)" .
+_:nodea6d4667c1196cef47720dba110b9eb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .

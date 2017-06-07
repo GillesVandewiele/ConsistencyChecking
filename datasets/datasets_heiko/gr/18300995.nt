@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/70s-fancy-dress/adult-hairy-shirt~80029/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/70s-fancy-dress/adult-hairy-shirt~80029/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dINSIDE5fN68279 .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dN68157 <http://purl.org/goodrelations/v1#description> "If you're looking for a unique 1970s look, why not try our Adult Hairy Shirt? This comical costume is perfect for those who enjoy standing out from the crowd at parties.\n\nIncludes:\n\nShirt\n\n\nThis unique long sleeved light blue shirt has a large flared collar and open neckline. To create the appearance of a truly hairy chest, the shirt has an attached faux hair chest piece which is revealed by the open neckline."@en .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dN68242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dN68242 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dINSIDE5fN68242 .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dINSIDE5fN68242 <http://purl.org/goodrelations/v1#hasCurrencyValue> "9.45"@en .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dINSIDE5fN68279 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dN68157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d9d1e5891debd4f8e8f6462f66f0e40b62dN68157 <http://purl.org/goodrelations/v1#name> "Adult Hairy Shirt"@en .
+<http://www.surveillance-video.com/accessory-502.html/?askq=y#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .

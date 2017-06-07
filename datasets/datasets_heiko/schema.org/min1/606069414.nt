@@ -1,0 +1,6 @@
+_:node27dde37fce51e7203dd09521a39fec4 <http://schema.org/name> "Unanswered &#39;sealing&#39; Questions" .
+_:node27dde37fce51e7203dd09521a39fec4 <http://schema.org/title> "Unanswered &#39;sealing&#39; Questions" .
+_:node27dde37fce51e7203dd09521a39fec4 <http://schema.org/description> "Q&A for contractors and serious DIYers" .
+_:node27dde37fce51e7203dd09521a39fec4 <http://schema.org/image> "http://cdn.sstatic.net/diy/img/apple-touch-icon@2.png?v=13c04ccda0b9" .
+_:node27dde37fce51e7203dd09521a39fec4 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/diy/img/apple-touch-icon@2.png?v=13c04ccda0b9" .
+_:node4e8187312116d062cba717276f823287 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

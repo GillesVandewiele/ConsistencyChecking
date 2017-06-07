@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Minestrone> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Celery> .
+<http://dbpedia.org/resource/Minestrone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> .
+<http://dbpedia.org/resource/Celery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Celery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Celery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .

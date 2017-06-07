@@ -1,0 +1,22 @@
+<http://www.beyondnice.com/hot-tub-covers-by-spa-make/alps-spas.html?dir=desc&mode=list&order=bn_sort_order#company> <http://purl.org/goodrelations/v1#legalName> "BeyondNice"@en .
+<http://www.beyondnice.com/hot-tub-covers-by-spa-make/alps-spas.html?dir=desc&mode=list&order=bn_sort_order#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66950 .
+<http://www.beyondnice.com/hot-tub-covers-by-spa-make/alps-spas.html?dir=desc&mode=list&order=bn_sort_order#company> <http://www.w3.org/2006/vcard/ns#tel> "970-703-3074"@en .
+<http://www.beyondnice.com/> <http://rdf.data-vocabulary.org/#name> "BeyondNice"@en .
+<http://www.beyondnice.com/hot-tub-covers-by-spa-make/alps-spas.html?dir=desc&mode=list&order=bn_sort_order#company> <http://xmlns.com/foaf/0.1/logo> <http://www.beyondnice.com/media/email/logo/default/beyond-nice-logo-brown.png> .
+<http://www.beyondnice.com/hot-tub-covers-by-spa-make/alps-spas.html?dir=desc&mode=list&order=bn_sort_order#company> <http://xmlns.com/foaf/0.1/page> <http://www.beyondnice.com/> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66065 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66065 <http://rdf.data-vocabulary.org/#title> "Home"@en .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66083 <http://rdf.data-vocabulary.org/#url> <http://www.beyondnice.com/hot-tub-covers-by-spa-make.html> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66083 <http://rdf.data-vocabulary.org/#title> "Hot Tub Covers by Spa Make"@en .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66101 <http://rdf.data-vocabulary.org/#title> "Alps Spas"@en .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66101 <http://rdf.data-vocabulary.org/#child> _:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66105 .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Organization> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66950 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66950 <http://www.w3.org/2006/vcard/ns#postal-code> "33434"@en .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66950 <http://www.w3.org/2006/vcard/ns#locality> "Boca Raton"@en .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66950 <http://www.w3.org/2006/vcard/ns#street-address> "9325 Glades Road, Suite 104"@en .
+_:genid2d5f61025ac39e4c01b3f84a6ee2e3aec12dN66950 <http://www.w3.org/2006/vcard/ns#country-name> "USA"@en .
+<http://www.craftsman.com/craftsman-120v-portable-inflator/p-02875121000P?prdNo=33#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

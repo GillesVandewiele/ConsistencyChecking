@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rugby_School> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Public_school_(United_Kingdom)> .
+<http://dbpedia.org/resource/Rugby_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Rugby_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Rugby_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> .
+<http://dbpedia.org/resource/Rugby_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/School> .

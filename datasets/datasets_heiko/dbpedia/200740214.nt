@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Olof_Palme> <http://dbpedia.org/ontology/primeMinister> <http://dbpedia.org/resource/Thorbj%C3%B6rn_F%C3%A4lldin> .
+<http://dbpedia.org/resource/Olof_Palme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .
+<http://dbpedia.org/resource/Olof_Palme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Olof_Palme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Thorbj%C3%B6rn_F%C3%A4lldin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Thorbj%C3%B6rn_F%C3%A4lldin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Thorbj%C3%B6rn_F%C3%A4lldin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> .

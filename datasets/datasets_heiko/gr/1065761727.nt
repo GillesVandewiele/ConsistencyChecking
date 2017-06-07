@@ -1,0 +1,12 @@
+<http://www.bestwestern.de/hotels/Nuernberg/BEST-WESTERN-Hotel-Nuernberg-am-Hauptbahnhof/angebote-arrangements#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN Hotel N\u00FCrnberg am Hauptbahnhof"@de .
+<http://www.bestwestern.de/hotels/Nuernberg/BEST-WESTERN-Hotel-Nuernberg-am-Hauptbahnhof/angebote-arrangements#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2db5352be741ba4c24befd80f3b789b9192dN69730 .
+<http://www.bestwestern.de/hotels/Nuernberg/BEST-WESTERN-Hotel-Nuernberg-am-Hauptbahnhof/angebote-arrangements#company> <http://www.w3.org/2006/vcard/ns#tel> "+49911 94440"@de .
+<http://www.bestwestern.de/hotels/Nuernberg/BEST-WESTERN-Hotel-Nuernberg-am-Hauptbahnhof/angebote-arrangements> <http://www.w3.org/2006/vcard/ns#geo> _:genid2db5352be741ba4c24befd80f3b789b9192dINSIDE5fN69752 .
+_:genid2db5352be741ba4c24befd80f3b789b9192dN69730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2db5352be741ba4c24befd80f3b789b9192dN69730 <http://www.w3.org/2006/vcard/ns#postal-code> "90461"@de .
+_:genid2db5352be741ba4c24befd80f3b789b9192dN69730 <http://www.w3.org/2006/vcard/ns#locality> "N\u00FCrnberg"@de .
+_:genid2db5352be741ba4c24befd80f3b789b9192dN69730 <http://www.w3.org/2006/vcard/ns#street-address> "Allersberger Stra\u00DFe 34"@de .
+_:genid2db5352be741ba4c24befd80f3b789b9192dN69730 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+_:genid2db5352be741ba4c24befd80f3b789b9192dINSIDE5fN69752 <http://www.w3.org/2006/vcard/ns#longitude> "11.086456"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2db5352be741ba4c24befd80f3b789b9192dINSIDE5fN69752 <http://www.w3.org/2006/vcard/ns#latitude> "49.443744"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://mg1700-seo.maxim.web.ra/index.php/electronics/cell-phones/nokia-4-1-x-1-7-x-0-7-inches-black-2610-n2610.html#Offering_4996> <http://purl.org/goodrelations/v1#availableDeliveryMethods> <http://purl.org/goodrelations/v1#DeliveryModeFreight> .

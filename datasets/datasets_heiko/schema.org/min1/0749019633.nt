@@ -1,0 +1,9 @@
+_:node52053c1c519b2f2c1a1db53604b7cb7 <http://schema.org/name> "Note de"@fr .
+_:node52053c1c519b2f2c1a1db53604b7cb7 <http://schema.org/aggregateRating> _:node964349fde47fb83060ca8bfe176b681e .
+_:node964349fde47fb83060ca8bfe176b681e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:node964349fde47fb83060ca8bfe176b681e <http://schema.org/ratingCount> "640,650"@fr .
+_:node964349fde47fb83060ca8bfe176b681e <http://schema.org/ratingValue> "4.8"@fr .
+_:node79f187ba1a5b30dbeed2159f9ae878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node79f187ba1a5b30dbeed2159f9ae878 <http://schema.org/logo> <http://fr.depositphotos.com/category/vintage-retro-st351040.html///static.depositphotos.com/img/depositphotos-logo.png> .
+_:node79f187ba1a5b30dbeed2159f9ae878 <http://schema.org/url> <http://fr.depositphotos.com/> .
+_:nodeed98dd56f0869f66434ad7d9ea33e8b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

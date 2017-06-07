@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/David_Hilbert> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematician> .
+<http://dbpedia.org/resource/David_Hilbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/David_Hilbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/David_Hilbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> .

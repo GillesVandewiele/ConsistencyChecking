@@ -1,0 +1,6 @@
+_:node14bbd0bbf87e1deda26fe859d2d5efb <http://schema.org/name> "how to add document Listener to the JTextFields inside a panel?" .
+_:node14bbd0bbf87e1deda26fe859d2d5efb <http://schema.org/title> "how to add document Listener to the JTextFields inside a panel?" .
+_:node14bbd0bbf87e1deda26fe859d2d5efb <http://schema.org/description> "I have a class which extends JPanel, inside this panel i have added a lot of textField.\nI want to add DocumentListener to every textField to detect changes to the text and change the bachground of " .
+_:node14bbd0bbf87e1deda26fe859d2d5efb <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node14bbd0bbf87e1deda26fe859d2d5efb <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodee147a9a05357bd2b31db5ddf0c6b577 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

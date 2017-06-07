@@ -1,0 +1,11 @@
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/keywords> "Tim Kaine, Egypt, violence" .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/video> "https://cdnapisec.kaltura.com/index.php/kwidget/wid/_557781/uiconf_id/27054322/entry_id/1_nejr1726" .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/image> "http://m.wdbj7.com/image/view/-/20887468/medRes/1/-/maxh/640/maxw/640/-/14e7qtsz/-/Senator-Tim-Kaine-talks-about-Violence-in-Egypt.jpg" .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/name> "Senator Tim Kaine talks about Violence in Egypt" .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/description> "U.S. Senator Tim Kaine is just back from a trip to the Middle East.\nHe didn't visit Egypt, but says the developing situation there was an issue at every stop." .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/publisher> _:node1959bdaef5dd934fd3be307054d917 .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/headline> "Senator Tim Kaine talks about Violence in Egypt" .
+_:node8dbc15a32263c3c8b10d02395248a68 <http://schema.org/url> "http://m.wdbj7.com/video/Senator-Tim-Kaine-talks-about-Violence-in-Egypt/20887466" .
+_:node1959bdaef5dd934fd3be307054d917 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node1959bdaef5dd934fd3be307054d917 <http://schema.org/name> "sci-wdbjtv-mobile" .
+_:nodee2f4931f6c911d6d9f99f366611b3b92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

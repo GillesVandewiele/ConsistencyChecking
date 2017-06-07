@@ -1,0 +1,6 @@
+_:node19702b7e0248fea1c98c49fe7fe192f <http://schema.org/keywords> "used 1995 Toyota Supra Base Liftback prices, used 1995 Toyota Supra Base Liftback price, used 1995 Toyota Supra Base Liftback pricing"@en-us .
+_:node19702b7e0248fea1c98c49fe7fe192f <http://schema.org/image> "http://static.automotive.com/_SiteConfigs/automotive_com/images/fb_logo.png"@en-us .
+_:node19702b7e0248fea1c98c49fe7fe192f <http://schema.org/name> "1995 Toyota Supra Price & Resale Value"@en-us .
+_:node19702b7e0248fea1c98c49fe7fe192f <http://schema.org/description> "Get prices online! See used 1995 Toyota Supra price and resale value at Automotive.com."@en-us .
+_:node19702b7e0248fea1c98c49fe7fe192f <http://schema.org/url> "http://cars.automotive.com/toyota/supra/1995/pricing/t3-12-2-1/"@en-us .
+_:nodefeb2e2771f164ca5656b3d6fa3a8d76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .

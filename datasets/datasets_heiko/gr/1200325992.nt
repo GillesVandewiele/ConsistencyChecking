@@ -1,0 +1,11 @@
+<http://www.joke.co.uk/storybook-sweetheart-costume-plus-size~30130/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/storybook-sweetheart-costume-plus-size~30130/#main> <http://purl.org/goodrelations/v1#name> "Storybook Sweetheart Costume (Plus Size)"@en .
+_:genid2db5a898e7ad374712b5519e1edb40169b2dINSIDE5fN68226 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2db5a898e7ad374712b5519e1edb40169b2dINSIDE5fN68226 <http://purl.org/goodrelations/v1#hasCurrencyValue> "25.99"@en .
+_:genid2db5a898e7ad374712b5519e1edb40169b2dN68226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2db5a898e7ad374712b5519e1edb40169b2dN68226 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2db5a898e7ad374712b5519e1edb40169b2dINSIDE5fN68226 .
+<http://www.joke.co.uk/storybook-sweetheart-costume-plus-size~30130/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/storybook-sweetheart-costume-plus-size~30130/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2db5a898e7ad374712b5519e1edb40169b2dINSIDE5fN68275 .
+_:genid2db5a898e7ad374712b5519e1edb40169b2dINSIDE5fN68275 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.joke.co.uk/storybook-sweetheart-costume-plus-size~30130/#main> <http://purl.org/goodrelations/v1#description> "The fuller figure Adult Storybook Sweetheart Costume includes a blue and white checked dress with a white neckline and sleeves and an attached white apron with a black dog printed on the front.\n\nThe dress also features a blue ribbon lace-up front and an attached white crinoline petticoat with a white lace trim.  The garment fastens at the back with a zipper."@en .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .

@@ -1,0 +1,39 @@
+_:node69e66e9fb883a6c4291a2ce1c5cedd <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/item/14291> .
+_:node69e66e9fb883a6c4291a2ce1c5cedd <http://schema.org/name> "Arachnidian Bracelets"@en-gb .
+_:node30fe8aa6333c1db2393c44dbc9f72974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node30fe8aa6333c1db2393c44dbc9f72974 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/media/> .
+_:node30fe8aa6333c1db2393c44dbc9f72974 <http://schema.org/name> "Media"@en-gb .
+_:node2f90299d11e2bd85a64951f33ccbf740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node2f90299d11e2bd85a64951f33ccbf740 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/community/> .
+_:node2f90299d11e2bd85a64951f33ccbf740 <http://schema.org/name> "Community"@en-gb .
+_:node4c34c28bce6d16d2dda613ba1f42392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node4c34c28bce6d16d2dda613ba1f42392 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/forum/> .
+_:node4c34c28bce6d16d2dda613ba1f42392 <http://schema.org/name> "Forums"@en-gb .
+_:nodeacecd92237367cad94b18b0685b2caf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodeacecd92237367cad94b18b0685b2caf <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/item/?classId=4> .
+_:nodeacecd92237367cad94b18b0685b2caf <http://schema.org/name> "Armor"@en-gb .
+_:node14965de37179c8572fa116f4049a0f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node14965de37179c8572fa116f4049a0f5 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/game/> .
+_:node14965de37179c8572fa116f4049a0f5 <http://schema.org/name> "Game Guide"@en-gb .
+_:nodeace6192953bac7365f40e8ced8d352 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodeace6192953bac7365f40e8ced8d352 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/item/?classId=4&subClassId=1> .
+_:nodeace6192953bac7365f40e8ced8d352 <http://schema.org/name> "Cloth"@en-gb .
+_:nodea6c75457324e1ea454cc828a93a45f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodea6c75457324e1ea454cc828a93a45f <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/shop/> .
+_:nodea6c75457324e1ea454cc828a93a45f <http://schema.org/name> "Shop"@en-gb .
+_:node16743d66d6ea761a146d7dac229cc57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node16743d66d6ea761a146d7dac229cc57 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/item/> .
+_:node16743d66d6ea761a146d7dac229cc57 <http://schema.org/name> "Items"@en-gb .
+_:nodee1a35fc9d8f321fc966f260a89482 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodee1a35fc9d8f321fc966f260a89482 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/> .
+_:nodee1a35fc9d8f321fc966f260a89482 <http://schema.org/name> "World of Warcraft"@en-gb .
+_:node93320ffa0e2fd9e6bc4d2f22defa9a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node93320ffa0e2fd9e6bc4d2f22defa9a <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/game/> .
+_:node93320ffa0e2fd9e6bc4d2f22defa9a <http://schema.org/name> "Game Guide"@en-gb .
+_:node4ea8cbe677c0547e923ab5689485d7f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:node4ea8cbe677c0547e923ab5689485d7f2 <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/item/?classId=4&subClassId=1&invType=9> .
+_:node4ea8cbe677c0547e923ab5689485d7f2 <http://schema.org/name> "Wrists"@en-gb .
+_:nodedefeb74fc0b3641c82cc2d5a4cb7accf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SiteNavigationElement> .
+_:nodedefeb74fc0b3641c82cc2d5a4cb7accf <http://schema.org/url> <http://eu.battle.net/wow/en/item/14291//wow/en/> .
+_:nodedefeb74fc0b3641c82cc2d5a4cb7accf <http://schema.org/name> "Home"@en-gb .
+_:nodeb9e81d79e5412f983c5da8d1a54cfa2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .

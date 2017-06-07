@@ -1,0 +1,6 @@
+_:node888d74d6f89ba19a6745ebbb5ea49225 <http://schema.org/name> "RMI Registry lifetime, GC etc" .
+_:node888d74d6f89ba19a6745ebbb5ea49225 <http://schema.org/title> "RMI Registry lifetime, GC etc" .
+_:node888d74d6f89ba19a6745ebbb5ea49225 <http://schema.org/description> "I've been working on an internal Java RMI tutorial exercise, after looking at the Sun RMI tutorial, and I only kind of understand what's going on. There are a few things that seem strange to me and..." .
+_:node888d74d6f89ba19a6745ebbb5ea49225 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node888d74d6f89ba19a6745ebbb5ea49225 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node10efd01bdb1732435e9377ec4e3208b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Airport> .

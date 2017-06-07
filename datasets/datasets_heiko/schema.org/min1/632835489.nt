@@ -1,0 +1,13 @@
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/keywords> "Horse Racing"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/about> "Horse Racing"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/name> "Big Brown's Half Brother Wins in Europe"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/author> "\n     \n        \n            From\n            \n                ThoroughBredTimes.com\n            \n        \n    \n\n    \n        Jul 27, 2012\n    \n"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/headline> "Big Brown's Half Brother Wins in Europe"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/articleBody> "\n              \n    Afonso de Sousa, a half brother to dual classic winner and 2008 champion three-year-old male Big Brown, cruised by nine lengths against seven opponents at Leopardstown to secure his initial victory in his third start.\n\nTrained by Aidan O'Brien for the partnership of Derrick Smith, Susan Magnier, and Michael Tabor, Afonso de Sousa completed the six furlongs on turf rated good in 1:15.26.\n    \n        Continue Reading on ThoroughBredTimes.com \u00BB\n    \n\n            "@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/interactionCount> "UserComments:0"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/interactionCount> "Null"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/interactionCount> "Null"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/isFamilyFriendly> "true"@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/description> "Afonso de Sousa, a half brother to dual classic winner and 2008 champion three-year-old male Big Brown, cruised by nine lengths against seven opponents at Leopardstown to secure his initial victory in his third start..."@en .
+_:nodecc47b35befb64358b664fc8187b46df <http://schema.org/associatedMedia> "\n      \n                  \n              \n          \n\n          \n              \n          \n        \n        \n          \n            Michael Heiman/Getty Images \n            \n          \n        \n\n        \n      \n    "@en .
+_:nodef54f65fe7ff5f8abf639ccc12dde7e2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

@@ -1,0 +1,24 @@
+_:genid2d802726a7fff24a6a8114be275ef764002dN71084 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71084 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71084 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$449.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#description> "Paddlebuoy\u2122's Pro Rescue Board with Mooring Eye allows for classic paddle board use as well as more versatile tethering and attaching option.<br><br>\u0095 Mooring eye allows paddle boards to be equipped with a tether, secured to a mooring or attached to other boards.<br>\u0095 Supports up to 380 lb.<br>\u0095 Board is yellow and features a red starburst graphic.<br>\u0095 Extremely durable and dent-resistant.<br>\u0095 Hard surface for better rigidity in the water.<br>\u0095 Doubles as a stand-up paddle board.<br>\u0095 Can be used as a recreational board or a professional rescue tool.<br>\u0095 15 lbs.<br>\u0095 9'6'' L x 24'' W x 4'' T.<br>\u0095 Internal framework of 3 1'' aluminum tubes.<br>\u0095 Made of high density expanded Polstyrene.<br>\u0095 Includes yellow ABS plastic skin that is finished with PVC rub rail." .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#name> "Paddlebuoy Pro Rescue Board with Mooring Eye" .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d802726a7fff24a6a8114be275ef764002dN71036 .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71036 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d802726a7fff24a6a8114be275ef764002dN71036 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> .
+<http://www.swimoutlet.com/p/paddlebuoy-pro-rescue-board-with-mooring-eye-30095/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d802726a7fff24a6a8114be275ef764002dN71084 .
+<http://www.isabellaoliver.com/uk/shop/maternity-clothes/maternity-tops/round-neck/cap-scoop-maternity-top-caviar-black.htm#offering> <http://purl.org/stuff/rev#hasReview> _:genid2dc80d1dd1ccf140b69c482a1bdf7b5b542dN71980 .

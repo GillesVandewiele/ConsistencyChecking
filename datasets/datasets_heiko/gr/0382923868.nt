@@ -1,0 +1,11 @@
+_:genid2d3a1cf5c51f054751a9cdea8d607cce112dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrency> "GBP"@en .
+_:genid2d3a1cf5c51f054751a9cdea8d607cce112dINSIDE5fN68236 <http://purl.org/goodrelations/v1#hasCurrencyValue> "25.99"@en .
+_:genid2d3a1cf5c51f054751a9cdea8d607cce112dN68236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3a1cf5c51f054751a9cdea8d607cce112dN68236 <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3a1cf5c51f054751a9cdea8d607cce112dINSIDE5fN68236 .
+<http://www.joke.co.uk/fairytale-halloween-costumes/horror-doll-costume~71164/#main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.joke.co.uk/fairytale-halloween-costumes/horror-doll-costume~71164/#main> <http://purl.org/goodrelations/v1#name> "Horror Doll Costume"@en .
+<http://www.joke.co.uk/storefront/productimage?type=medium&product_id=71164> <http://xmlns.com/foaf/0.1/depiction> <http://www.joke.co.uk/storefront/productimage?type=medium&product_id=71164> .
+<http://www.joke.co.uk/fairytale-halloween-costumes/horror-doll-costume~71164/#stocklevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .
+<http://www.joke.co.uk/fairytale-halloween-costumes/horror-doll-costume~71164/#stocklevel> <http://purl.org/goodrelations/v1#hasInventoryLevel> _:genid2d3a1cf5c51f054751a9cdea8d607cce112dINSIDE5fN68285 .
+_:genid2d3a1cf5c51f054751a9cdea8d607cce112dINSIDE5fN68285 <http://purl.org/goodrelations/v1#hasMinValue> "1"@en .
+<http://www.swimoutlet.com/p/asics-womens-core-short-sleeve-37549/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2de3342aaceed54da984574b6d778116492dN71425 .

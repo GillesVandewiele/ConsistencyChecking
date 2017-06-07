@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Association_football> <http://dbpedia.org/ontology/equipment> <http://dbpedia.org/resource/Football_(association_football)> .
+<http://dbpedia.org/resource/Association_football> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Sport> .
+<http://dbpedia.org/resource/Association_football> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Bus_rapid_transit> .
+<http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PublicTransitSystem> .

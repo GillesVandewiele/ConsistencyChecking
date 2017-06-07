@@ -1,0 +1,16 @@
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#Discover> .
+_:genid2d128445fb2f194a5f84f43a8a2ec386dc2dN67616 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d128445fb2f194a5f84f43a8a2ec386dc2dN67616 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d128445fb2f194a5f84f43a8a2ec386dc2dN67616 <http://purl.org/goodrelations/v1#hasCurrencyValue> "0.00"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d128445fb2f194a5f84f43a8a2ec386dc2dN67616 .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://img2.tvszone.com/product/75x75/963e598a0511156ab19c056b3b8e5500.jpg> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#hasEAN_UCC-13> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#name> "99286EL Tensioned Cosmopolitan Electrol Motorized Projection Screen 144x192&quot; With 240&quot; Diagonal Image Size, 4:3 Aspect Ratio, Dual Vision Finish &amp; In Video Format - Wall or Ceiling Mount" .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://www.w3.org/2000/01/rdf-schema#comment> "The Dalite 144 x 192\" Cosmopolitan Electrol Front or Rear Projection Screen is a good, solid and reliable choice for school, business or even home use. This screen is a good choice when either your site, budget or demands do not require a permanently recessed installation." .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://www.w3.org/2000/01/rdf-schema#label> "Da-Lite 99286EL Projector Screens" .
+<http://www.tvszone.com/da-lite-99286el-i163819.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.eastwood.com/johnsen-s-dot-5-brake-fluid-12oz-7012-6.html#offering> <http://purl.org/goodrelations/v1#includesObject> <http://www.eastwood.com/johnsen-s-dot-5-brake-fluid-12oz-7012-6.html#TypeAndQuantityNode_49577> .

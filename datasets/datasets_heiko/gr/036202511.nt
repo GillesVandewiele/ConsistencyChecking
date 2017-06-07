@@ -1,0 +1,12 @@
+<http://www.bestwestern.de/hotels/Boppard/BEST-WESTERN-PREMIER-Bellevue-Rheinhotel/lage-anfahrt#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN PREMIER Bellevue Rheinhotel"@de .
+<http://www.bestwestern.de/hotels/Boppard/BEST-WESTERN-PREMIER-Bellevue-Rheinhotel/lage-anfahrt#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2dda45822f1e2145cfaebc2453e3ca53dd2dN69490 .
+<http://www.bestwestern.de/hotels/Boppard/BEST-WESTERN-PREMIER-Bellevue-Rheinhotel/lage-anfahrt#company> <http://www.w3.org/2006/vcard/ns#tel> "+496742 1020"@de .
+<http://www.bestwestern.de/hotels/Boppard/BEST-WESTERN-PREMIER-Bellevue-Rheinhotel/lage-anfahrt> <http://www.w3.org/2006/vcard/ns#geo> _:genid2dda45822f1e2145cfaebc2453e3ca53dd2dINSIDE5fN69512 .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dINSIDE5fN69512 <http://www.w3.org/2006/vcard/ns#longitude> "7.590354"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dINSIDE5fN69512 <http://www.w3.org/2006/vcard/ns#latitude> "50.232698"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dN69490 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dN69490 <http://www.w3.org/2006/vcard/ns#postal-code> "56154"@de .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dN69490 <http://www.w3.org/2006/vcard/ns#locality> "Boppard"@de .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dN69490 <http://www.w3.org/2006/vcard/ns#street-address> "Rheinallee 41/42"@de .
+_:genid2dda45822f1e2145cfaebc2453e3ca53dd2dN69490 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+<http://www.warmyourfloor.com/warmwire-180-sq-ft-240v-radiant-floor-heating-cable.html#QuantitativeValue_1262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

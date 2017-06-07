@@ -1,0 +1,11 @@
+<http://www.theelegantoffice.com/desk-pads&filter=57?cid=548278c3ffcde3d4b6367b9afdfa764c&index=true&showall=on> <http://purl.org/goodrelations/v1#name> "Desk Pads" .
+<http://www.theelegantoffice.com/desk-pads&filter=57?cid=548278c3ffcde3d4b6367b9afdfa764c&index=true&showall=on> <http://purl.org/goodrelations/v1#type> "category" .
+<http://www.theelegantoffice.com/desk-pads&filter=57?cid=548278c3ffcde3d4b6367b9afdfa764c&index=true&showall=on> <http://purl.org/goodrelations/v1#url> "http://www.theelegantoffice.com/desk-pads" .
+<http://www.theelegantoffice.com/desk-pads&filter=57?cid=548278c3ffcde3d4b6367b9afdfa764c&index=true&showall=on> <http://purl.org/goodrelations/v1#title> "Desk Pads" .
+_:genid2db61884e2c3744679b8b1500a05f8f73a2dN68967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2db61884e2c3744679b8b1500a05f8f73a2dN68967 <http://rdf.data-vocabulary.org/#url> <http://www.theelegantoffice.com/> .
+_:genid2db61884e2c3744679b8b1500a05f8f73a2dN68967 <http://rdf.data-vocabulary.org/#title> "Home" .
+_:genid2db61884e2c3744679b8b1500a05f8f73a2dN68975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2db61884e2c3744679b8b1500a05f8f73a2dN68975 <http://rdf.data-vocabulary.org/#url> <http://www.theelegantoffice.com/desk-pads> .
+_:genid2db61884e2c3744679b8b1500a05f8f73a2dN68975 <http://rdf.data-vocabulary.org/#title> "Desk Pads" .
+_:genid2d8e7e0203fed04528b54cc66511c09cf42dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

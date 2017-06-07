@@ -1,0 +1,6 @@
+_:node152873df1dd528c5742e3e77cfd231ab <http://schema.org/name> "Ubuntu 12.04 installation hangs after first two screens" .
+_:node152873df1dd528c5742e3e77cfd231ab <http://schema.org/title> "Ubuntu 12.04 installation hangs after first two screens" .
+_:node152873df1dd528c5742e3e77cfd231ab <http://schema.org/description> "I'm having a strange issue while trying to install Ubuntu 12.04.4 (64bit) to my system (preferably to the SSD).\n\nWhen I boot from DVD/USB i get to the Installer, after choosing my language and choo..." .
+_:node152873df1dd528c5742e3e77cfd231ab <http://schema.org/image> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:node152873df1dd528c5742e3e77cfd231ab <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/askubuntu/img/apple-touch-icon@2.png?v=c492c9229955" .
+_:nodef6ed2df99202cad5b5488b357e68e14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

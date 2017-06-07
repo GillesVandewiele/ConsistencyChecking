@@ -1,0 +1,14 @@
+_:node80cec8c65130f97b3549957c12258a38 <http://schema.org/price> "14.00"@en .
+_:nodec58a7a2f8c31c1c556dd6a93d6ec6997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AudioObject> .
+_:nodec58a7a2f8c31c1c556dd6a93d6ec6997 <http://schema.org/duration> "Null"@en .
+_:nodec58a7a2f8c31c1c556dd6a93d6ec6997 <http://schema.org/contentUrl> <https://0.s3.envato.com/files/148581/preview.mp3> .
+_:node31c079296fcf8393e350f0541d5d6553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/1272613/meGD.jpg> .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/audio> _:nodec58a7a2f8c31c1c556dd6a93d6ec6997 .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/offers> _:node80cec8c65130f97b3549957c12258a38 .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/genre> <http://audiojungle.net/category/music/funk-groove> .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/description> "\n        Cop Show loop. Slap bass and some jazz guitar and other good cop show stuff. =)\n      "@en .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/discussionUrl> <http://audiojungle.net/item/city-loop/51231?sso?WT.ac=portfolio_item&WT.seg_1=portfolio_item&WT.z_author=robGD//item/city-loop/51231/comments> .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/name> "  City Loop\n"@en .
+_:node31c079296fcf8393e350f0541d5d6553 <http://schema.org/interactionCount> "UserDownloads:7"@en .
+_:node2840de95c071ae339c8a4d67c8e446e8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

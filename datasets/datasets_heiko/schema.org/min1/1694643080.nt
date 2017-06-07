@@ -1,0 +1,6 @@
+_:node5960894b3f4a3823a60b1b4413daaa6 <http://schema.org/name> "Accessing the UI thread for Windows Forms after background worker?" .
+_:node5960894b3f4a3823a60b1b4413daaa6 <http://schema.org/title> "Accessing the UI thread for Windows Forms after background worker?" .
+_:node5960894b3f4a3823a60b1b4413daaa6 <http://schema.org/description> "For my windows forms application, it is a subscriber of a wcf service and i uses a background worker class to do the subscribing codes so that when i click the \"subscribe\" button, the UI doesn't hang " .
+_:node5960894b3f4a3823a60b1b4413daaa6 <http://schema.org/image> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:node5960894b3f4a3823a60b1b4413daaa6 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon@2.png?v=fde65a5a78c6" .
+_:nodef2c8d8f069530ea1bbfa20b49ff9b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .

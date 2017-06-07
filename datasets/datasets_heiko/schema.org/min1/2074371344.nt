@@ -1,0 +1,6 @@
+_:nodef7196ac79fc9ae1b3914ca2ef699fe8 <http://schema.org/name> "\n\t\t\t\t\tWomen in Web Practice Sessions\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef7196ac79fc9ae1b3914ca2ef699fe8 <http://schema.org/url> <http://www.meetup.com/Women-in-Web-Practice-Sessions/> .
+_:nodef37476bec92514be1058f3c429d6be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodef37476bec92514be1058f3c429d6be <http://schema.org/name> "\n\t\t\t\t\tPhilly Design Guild\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t"@en .
+_:nodef37476bec92514be1058f3c429d6be <http://schema.org/url> <http://www.meetup.com/PhillyDesignGuild/> .
+_:node8999e6185293956d04a96d655714433 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QAPage> .

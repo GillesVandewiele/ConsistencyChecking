@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Robert_Falcon_Scott> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Ross_Ice_Shelf> .
+<http://dbpedia.org/resource/Robert_Falcon_Scott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Robert_Falcon_Scott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

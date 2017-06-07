@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Volleyball> <http://dbpedia.org/ontology/sportGoverningBody> <http://dbpedia.org/resource/F%C3%A9d%C3%A9ration_Internationale_de_Volleyball> .
+<http://dbpedia.org/resource/Volleyball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Sport> .
+<http://dbpedia.org/resource/Volleyball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> .
+<http://dbpedia.org/resource/F%C3%A9d%C3%A9ration_Internationale_de_Volleyball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/F%C3%A9d%C3%A9ration_Internationale_de_Volleyball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

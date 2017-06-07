@@ -1,0 +1,24 @@
+_:genid2d3e04ce7f218847e08a251118101569092dN71421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d3e04ce7f218847e08a251118101569092dN71431 .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71383 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71383 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#description> "<p> Part of the Sidewinder Series, the Striker is a tight carver that features a little bit of camber and a kicktail for added functionality.</p> <ul> <li> Dimensions: <ol> <li> 36.5''L.</li> <li> 9.5''W.</li> <li> 22.75''WB.</li> </ol> </li> <li> Construction: <ol> <li> Vertically laminated bamboo core sandwiched in fiberglass.</li> <li> Camber kick mold.</li> <li> CNC drop through.</li> </ol> </li> <li> Components: <ol> <li> 10.0'' Gullwing Sidewinder II Trucks.</li> <li> 69mm 78a Offset TS Wheels.</li> <li> Abec 5 PDP Bearings.</li> <li> 1.0'' Flush Mount Steel Bolts.</li> <li> Clear grip.</li> </ol> </li> <li> Top shelf Urethane.</li> <li> Windowpane Clear Grip.</li> </ul>" .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#name> "Sector 9 Striker Sidewinder Complete Skateboard" .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d3e04ce7f218847e08a251118101569092dN71383 .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71431 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71431 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d3e04ce7f218847e08a251118101569092dN71431 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$152.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/sector-9-striker-sidewinder-complete-skateboard-7532366/#offering> .
+<http://www.whittard.co.uk/tea/type/fruit-herbal-tea/acai-and-goji-berry-caffeine-free-fruit-infusion.htm> <http://xmlns.com/foaf/0.1/page> <http://www.whittard.co.uk/tea/type/fruit-herbal-tea/acai-and-goji-berry-caffeine-free-fruit-infusion.htm> .

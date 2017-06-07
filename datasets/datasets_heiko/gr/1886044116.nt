@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#description> "<p> 32829 Shimano\u00A0SPD-SL\u00A0SM-SH11 Cleats Increase your pedal's efficiency with these Shimano\u2122 cleats.<br /> <br /> \u2022 3-degree variance.<br /> \u2022 Sturdy, durable construction.<br /> \u2022 Imported.</p>" .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#name> "Shimano SPD-SL SM-SH11 Cycling Cleats" .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71229 .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71267 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71277 .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71277 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71277 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71277 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71277 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$27.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/shimano-spd-sl-sm-sh11-cycling-cleats-32829/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71229 <http://rdf.data-vocabulary.org/#count> ""^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d454ec82356b9425a8c60f6d3ed6f944e2dN71229 <http://rdf.data-vocabulary.org/#rating> ""^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d051a9289173d46b8a14c0040f61d50952dN68236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

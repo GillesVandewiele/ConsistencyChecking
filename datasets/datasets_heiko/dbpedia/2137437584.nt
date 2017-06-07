@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.__Iago_Falqu%C3%A9__1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> .
+<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> .
+<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> .
+<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

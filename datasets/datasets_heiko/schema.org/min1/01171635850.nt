@@ -1,0 +1,3 @@
+_:node15e49bd82a4d1fc7b4dd49493b07d <http://schema.org/name> "Engraved portrait of Sir John Eliot (1592\u20131632) :: Fairclough Portrait Collection" .
+_:node15e49bd82a4d1fc7b4dd49493b07d <http://schema.org/image> "http://cdm16445.contentdm.oclc.org/utils/getthumbnail/collection/p16445coll5/id/97" .
+_:nodea4d803cddf3de4464c331f978382814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

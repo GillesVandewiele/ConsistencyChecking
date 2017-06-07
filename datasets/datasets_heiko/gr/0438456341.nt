@@ -1,0 +1,24 @@
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN72039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN72039 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN72039 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN72039 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$15.96"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#description> "<p> Feel free and unrestricted with this Heathered VentX Surf Tee, made to protect you from the sun with a slim fit that allows you to always perform your best.</p> <ul> <li> Features: <ol> <li> UPF 30 blocks 95% of harmful UVA/UVB radiation.</li> <li> Slim fit.</li> <li> V- neck.</li> <li> Trimmer cut through the body.</li> <li> Short sleeve.</li> </ol> </li> <li> Made of VentX fabric: <ol> <li> Breathable.</li> <li> Moisture wicking.</li> <li> Quick-drying.</li> <li> 4-Way Stretch for in and out of the water performance.</li> <li> Designed and tested to ensure the highest possible UltraViolet Protection Factor (UPF).</li> </ol> </li> </ul>" .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#name> "Xcel Women's Heathered VentX Slim S/S Surf Tee" .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2df2bebbb0893040d4a5d1e150ac742ef92dN71991 .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2df2bebbb0893040d4a5d1e150ac742ef92dN72039 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN71991 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN71991 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN71991 <http://rdf.data-vocabulary.org/#rating> "5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/xcel-womens-heathered-ventx-slim-s-s-surf-tee-48402/?color=9476#offering> .
+_:genid2df2bebbb0893040d4a5d1e150ac742ef92dN72029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d416db4f7e4514532bbb421748d8d61032dN74163 <http://rdf.data-vocabulary.org/#rating> _:genid2d416db4f7e4514532bbb421748d8d61032dN74179 .

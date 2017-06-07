@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Samhain> <http://dbpedia.org/ontology/similar> <http://dbpedia.org/resource/All_Souls'_Day> .
+<http://dbpedia.org/resource/Samhain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Holiday> .
+<http://dbpedia.org/resource/All_Souls'_Day> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Holiday> .

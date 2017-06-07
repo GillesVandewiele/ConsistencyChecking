@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Holy_See> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Ecclesiology> .
+<http://dbpedia.org/resource/Holy_See> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> .
+<http://dbpedia.org/resource/Holy_See> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Holy_See> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Holy_See> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

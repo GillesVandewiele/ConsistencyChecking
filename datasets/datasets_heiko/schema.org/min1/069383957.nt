@@ -1,0 +1,17 @@
+_:nodefe69f61352e3254663d7d2668c0f7fb <http://schema.org/name> "Cambridge Dictionaries Online"@en .
+_:nodefe69f61352e3254663d7d2668c0f7fb <http://schema.org/url> "https://plus.google.com/108790671280639180398"@en .
+_:node3ce3858aef19f7fc1dad54e2233b1e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:node3ce3858aef19f7fc1dad54e2233b1e <http://schema.org/name> "\u00A9 Cambridge University Press "@en .
+_:node3ce3858aef19f7fc1dad54e2233b1e <http://schema.org/url> "https://plus.google.com/112563436639321822653"@en .
+_:nodef631097ea9070b5f21af46918b443f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> .
+_:nodef631097ea9070b5f21af46918b443f <http://schema.org/image> <http://cambridgewords.files.wordpress.com/2011/01/cdo-logo.png?w=140&h=50> .
+_:node86f3c4a2353381c08fef282046c3163 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/genre> "Science, Geographic & Locales"@en .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/inLanguage> "tr"@en .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/publisher> _:node3ce3858aef19f7fc1dad54e2233b1e .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/copyrightYear> "2014"@en .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/headline> "vaccinate: to give someone a vaccine to stop them from getting a disease \u0130ngilizce T\u00FCrk\u00E7e \u00C7eviri - Cambridge Dict ionary Online"@en .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/text> "\n                Turkish translation of \u201Cvaccinate\u201D\n                            \n        \n                    See all translations\n                \n        vaccinate verb [T] \u00A0\n        \n            \u00A0\n        \n            /\u02C8v\u00E6ks\u026Ane\u026At/ \n                \n            \n            \n            \n            \n            \n            \n            \n            \n            \n        \n        \n        Email this entry\n        \n        \n            \n        \n            \n            \n        \n            \n            \n            \n            \n            \n            \n        \n    \n    \n        \n\n            \n                        \u203A to give someone a vaccine to stop them from getting a disease  \n                \n                        \n            a\u015F\u0131 yapmak\n             Have you been vaccinated against polio?Immunology and vaccination vaccination \u00A0\n        \n            \u00A0\n        \n            /\u02CCv\u00E6ks\u026A\u02C8ne\u026A\u0283\u0259n/ noun [C, U] \u203A  \n                \n                        \n            a\u015F\u0131lama, a\u015F\u0131\n            \n                    "@en .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/copyrightHolder> "\u00A9 Cambridge University Press"@en .
+_:node86f3c4a2353381c08fef282046c3163 <http://schema.org/author> _:nodefe69f61352e3254663d7d2668c0f7fb .
+_:node33bf71dc122f8b792dd77e152fa284f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/> .

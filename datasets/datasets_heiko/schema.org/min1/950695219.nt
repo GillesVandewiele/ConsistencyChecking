@@ -1,0 +1,7 @@
+_:node46966e5953f54382a0ac471d20c2ea2f <http://schema.org/name> "\u5E93\u5B58\u56FE\u7247: \u5149\u8292\u5934\u9AA8x" .
+_:node46966e5953f54382a0ac471d20c2ea2f <http://schema.org/author> <http://cn.dreamstime.com/distinctiveimages_info> .
+_:node46966e5953f54382a0ac471d20c2ea2f <http://schema.org/description> "\n\u5F71\u7247\u4EBA\u529B\u8D1F\u5149\u8292\u5934\u9AA8x\n" .
+_:nodea860f8e99c9050205da6f6d2d3f8a02c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:nodea860f8e99c9050205da6f6d2d3f8a02c <http://schema.org/logo> <http://cn.dreamstime.com/%E5%BA%93%E5%AD%98%E5%9B%BE%E7%89%87-%E5%85%89%E8%8A%92-%E9%AA%A8x-image8594771///thumbs.dreamstime.com/images2012/logo.png> .
+_:nodea860f8e99c9050205da6f6d2d3f8a02c <http://schema.org/url> <http://cn.dreamstime.com/> .
+_:node1ac4d53c13251a6761fd502552c2fbdb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> .

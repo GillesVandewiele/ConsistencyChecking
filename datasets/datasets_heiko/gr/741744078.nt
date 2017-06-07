@@ -1,0 +1,12 @@
+_:genid2d6b64ed45da234facac1ccbf104ff93322dN69851 <http://www.w3.org/2006/vcard/ns#postal-code> "85435"@de .
+_:genid2d6b64ed45da234facac1ccbf104ff93322dN69851 <http://www.w3.org/2006/vcard/ns#locality> "Erding"@de .
+_:genid2d6b64ed45da234facac1ccbf104ff93322dN69851 <http://www.w3.org/2006/vcard/ns#street-address> "Am Bahnhof 3"@de .
+_:genid2d6b64ed45da234facac1ccbf104ff93322dN69851 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@de .
+<http://www.bestwestern.de/hotels/Erding/BEST-WESTERN-Parkhotel-Erding/gastronomie> <http://www.w3.org/2006/vcard/ns#geo> _:genid2d6b64ed45da234facac1ccbf104ff93322dINSIDE5fN69873 .
+<http://www.bestwestern.de/hotels/Erding/BEST-WESTERN-Parkhotel-Erding/gastronomie#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.bestwestern.de/hotels/Erding/BEST-WESTERN-Parkhotel-Erding/gastronomie#company> <http://purl.org/goodrelations/v1#legalName> "BEST WESTERN Parkhotel Erding"@de .
+<http://www.bestwestern.de/hotels/Erding/BEST-WESTERN-Parkhotel-Erding/gastronomie#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d6b64ed45da234facac1ccbf104ff93322dN69851 .
+<http://www.bestwestern.de/hotels/Erding/BEST-WESTERN-Parkhotel-Erding/gastronomie#company> <http://www.w3.org/2006/vcard/ns#tel> "+498122 4990"@de .
+_:genid2d6b64ed45da234facac1ccbf104ff93322dINSIDE5fN69873 <http://www.w3.org/2006/vcard/ns#longitude> "11.913292"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d6b64ed45da234facac1ccbf104ff93322dINSIDE5fN69873 <http://www.w3.org/2006/vcard/ns#latitude> "48.304798"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/sun-n-sand-ambrosia-animal-scarf-straw-hat-36484/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

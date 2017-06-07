@@ -1,0 +1,11 @@
+<http://otleyrunfancydress.co.uk/#company> <http://purl.org/goodrelations/v1#legalName> "Otley Run Fancy Dress Leeds Fancy Dress Costumes Shop" .
+<http://otleyrunfancydress.co.uk/#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d024a3f086e9f433b8d34d303e6d435d82dN66420 .
+<http://otleyrunfancydress.co.uk/#company> <http://www.w3.org/2006/vcard/ns#tel> "07542914077" .
+<http://otleyrunfancydress.co.uk/#company> <http://xmlns.com/foaf/0.1/depiction> <http://www.otleyrunfancydress.co.uk/img/logo.jpg> .
+<http://otleyrunfancydress.co.uk/#company> <http://xmlns.com/foaf/0.1/page> <http://www.otleyrunfancydress.co.uk/> .
+_:genid2d024a3f086e9f433b8d34d303e6d435d82dN66420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:genid2d024a3f086e9f433b8d34d303e6d435d82dN66420 <http://www.w3.org/2006/vcard/ns#postal-code> "LS12 3QY" .
+_:genid2d024a3f086e9f433b8d34d303e6d435d82dN66420 <http://www.w3.org/2006/vcard/ns#locality> "Leeds" .
+_:genid2d024a3f086e9f433b8d34d303e6d435d82dN66420 <http://www.w3.org/2006/vcard/ns#street-address> "12 Aberdeen Grove" .
+_:genid2d024a3f086e9f433b8d34d303e6d435d82dN66420 <http://www.w3.org/2006/vcard/ns#country-name> "United Kingdom" .
+_:genid2d7f2a3fb8bf9f43f78eadfc1cd1079e5a2dN68263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .

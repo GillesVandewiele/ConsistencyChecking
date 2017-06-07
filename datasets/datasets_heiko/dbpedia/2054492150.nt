@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Lothair_III,_Holy_Roman_Emperor> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Gebhard_of_Supplinburg> .
+<http://dbpedia.org/resource/Gebhard_of_Supplinburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Gebhard_of_Supplinburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Gebhard_of_Supplinburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Noble> .

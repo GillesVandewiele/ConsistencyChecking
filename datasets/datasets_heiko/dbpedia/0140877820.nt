@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Daugava_River> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/Valdai_Hills> .
+<http://dbpedia.org/resource/Daugava_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Daugava_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Daugava_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/River> .
+<http://dbpedia.org/resource/Daugava_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stream> .
+<http://dbpedia.org/resource/Daugava_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BodyOfWater> .
+<http://dbpedia.org/resource/Daugava_River> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> .

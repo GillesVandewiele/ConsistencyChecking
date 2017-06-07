@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Nine_Inch_Nails> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/List_of_Nine_Inch_Nails_band_members> .
+<http://dbpedia.org/resource/Nine_Inch_Nails> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Nine_Inch_Nails> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Nine_Inch_Nails> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/List_of_Nine_Inch_Nails_band_members> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/List_of_Nine_Inch_Nails_band_members> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/List_of_Nine_Inch_Nails_band_members> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .

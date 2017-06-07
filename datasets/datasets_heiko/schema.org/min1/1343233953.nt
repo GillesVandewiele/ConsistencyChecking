@@ -1,0 +1,7 @@
+_:nodebfb4cb2bc25a5c1aebf6fdb6a5210a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .
+_:nodebfb4cb2bc25a5c1aebf6fdb6a5210a4 <http://schema.org/author> _:nodeb63112f9c7d2ec2bb479b7d84dbcfb8 .
+_:nodebfb4cb2bc25a5c1aebf6fdb6a5210a4 <http://schema.org/headline> "069"@en-us .
+_:nodebfb4cb2bc25a5c1aebf6fdb6a5210a4 <http://schema.org/articleSection> <http://abcnewspapers.com/category/> .
+_:nodebfb4cb2bc25a5c1aebf6fdb6a5210a4 <http://schema.org/datePublished> "2012-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:nodebfb4cb2bc25a5c1aebf6fdb6a5210a4 <http://schema.org/articleBody> "Null"@en-us .
+_:noded5a864a7b120ea4d59395999c547d7bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .

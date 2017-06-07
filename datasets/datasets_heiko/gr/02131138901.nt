@@ -1,0 +1,24 @@
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71912 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71874 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71874 <http://rdf.data-vocabulary.org/#rating> "3"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#description> "<p> The Love N Surf 7'' Boardshort has a longer length for extra bottom coverage in the water.</p> <ul> <li> Longer length.</li> <li> 7'' boardshort.</li> <li> Drawcord at waist.</li> <li> Solid print.</li> <li> 100% Polyester.</li> </ul>" .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#name> "Rip Curl Women's Love N Surf 7" .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d7e0ba80d9d8349e897618fced263b3f12dN71874 .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71922 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71922 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71922 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d7e0ba80d9d8349e897618fced263b3f12dN71922 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$24.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/rip-curl-womens-love-n-surf-7-boardshort-45098/#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2de86e804d29a0437b9a41535c27c73c632dN65537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .

@@ -1,0 +1,6 @@
+<http://yago-knowledge.org/resource/Zawisza_(Szare_Szeregi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://yago-knowledge.org/resource/Zawisza_(Szare_Szeregi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_abstraction_100002137> .
+<http://yago-knowledge.org/resource/Zawisza_(Szare_Szeregi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_measure_100033615> .
+<http://yago-knowledge.org/resource/Zawisza_(Szare_Szeregi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_definite_quantity_113576101> .
+<http://yago-knowledge.org/resource/Zawisza_(Szare_Szeregi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wordnet_unit_of_measurement_113583724> .
+<http://yago-knowledge.org/resource/Zawisza_(Szare_Szeregi)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://yago-knowledge.org/resource/wikicategory_Units_and_formations_of_Armia_Krajowa> .

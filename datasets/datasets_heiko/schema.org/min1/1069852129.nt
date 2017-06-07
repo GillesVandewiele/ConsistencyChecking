@@ -1,0 +1,4 @@
+_:node87d49d486d5fb397e830691f7fa2f67f <http://schema.org/keywords> "brown rice,diet,diet food,health,health foods,health news,health tips,healthy diet,is rice good for health,sify health,vitamins and minerals,nutrition"@en-us .
+_:node87d49d486d5fb397e830691f7fa2f67f <http://schema.org/image> "http://health.sify.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"@en-us .
+_:node87d49d486d5fb397e830691f7fa2f67f <http://schema.org/description> "Researchers have shown that consumers can improve their diets simply by enjoying white or brown rice as part of their daily meals. In a study, lead author"@en-us .
+_:nodeff7dbc246e7cf90cdf2f3957865d5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .

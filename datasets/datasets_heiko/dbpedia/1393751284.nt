@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Space_Cadet> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Red_Planet_(novel)> .
+<http://dbpedia.org/resource/Space_Cadet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Space_Cadet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Space_Cadet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Red_Planet_(novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Red_Planet_(novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Red_Planet_(novel)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

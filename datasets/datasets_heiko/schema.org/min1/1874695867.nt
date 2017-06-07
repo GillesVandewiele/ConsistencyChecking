@@ -1,0 +1,7 @@
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://schema.org/image> "Null" .
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://schema.org/url> "http://games.disney.com/disneyxd-marvel-draw-your-hero" .
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://schema.org/description> "Create your own Avengers drawing in the Marvel activity, Draw Your Hero." .
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://schema.org/applicationCategory> "Game" .
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://schema.org/applicationSubCategory> "Activity Game" .
+_:nodeda1bbf8389a8cd74daa7e7fce6e74e6 <http://schema.org/name> "Marvel - Draw Your Hero" .
+_:node4b3421626194e997b6b558496ec990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .

@@ -1,0 +1,11 @@
+_:node4f24d7d99ef274ff76b6c64cd5d4284b <http://schema.org/name> "pns-jax-mobile" .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/keywords> "crash" .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/dateCreated> "2014-04-01T03:49:31" .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/image> "http://m.news4jax.com/image/view/-/4591128/medRes/1/-/maxh/640/maxw/640/-/cdfts7/-/Car-Tire--Car-Accident--Auto-Ped-Crash---generic--031003---29343978.jpg" .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/name> "Driver dies in single-car crash near NAS Jax" .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/description> "Troopers say it was raining just before 3 a.m. when a driver lost control of a car going south on U.S. 17, just north of Birmingham Gate of NAS Jacksonville." .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/publisher> _:node4f24d7d99ef274ff76b6c64cd5d4284b .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/url> "http://m.news4jax.com/news/deadly-accident-on-us-17-near-birmingham-gate-under-investigation/26380414" .
+_:noded3fa41cb6bcced682a2b77306994e66 <http://schema.org/dateModified> "Null" .
+_:node9be424966c68ae3639f1fee0f8f9da8e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

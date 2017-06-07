@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Simon_Templar> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Brian_Aherne> .
+<http://dbpedia.org/resource/Simon_Templar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Simon_Templar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Simon_Templar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> .
+<http://dbpedia.org/resource/Brian_Aherne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Brian_Aherne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

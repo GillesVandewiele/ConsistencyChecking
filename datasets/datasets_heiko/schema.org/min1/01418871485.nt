@@ -1,0 +1,6 @@
+_:nodef6ed2df99202cad5b5488b357e68e14 <http://schema.org/name> "Problem connecting Nexus 7 as mass storage device on Windows 7" .
+_:nodef6ed2df99202cad5b5488b357e68e14 <http://schema.org/title> "Problem connecting Nexus 7 as mass storage device on Windows 7" .
+_:nodef6ed2df99202cad5b5488b357e68e14 <http://schema.org/description> "I have an Asus Nexus 7 tablet, and was trying to connecting it in MTP (Media Transfer Protocol) mode to my Samsung Series 5 laptop running Windows 7 SP1 Home Premium Edition. I have a bunch of Andr..." .
+_:nodef6ed2df99202cad5b5488b357e68e14 <http://schema.org/image> "http://cdn.sstatic.net/android/img/apple-touch-icon@2.png?v=8f2d3ecfa663" .
+_:nodef6ed2df99202cad5b5488b357e68e14 <http://schema.org/primaryImageOfPage> "http://cdn.sstatic.net/android/img/apple-touch-icon@2.png?v=8f2d3ecfa663" .
+_:node1464d6c63bb978814dad3e1cb5518e97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> .

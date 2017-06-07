@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Blade_Runner_2:_The_Edge_of_Human> .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Do_Androids_Dream_of_Electric_Sheep%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Blade_Runner_2:_The_Edge_of_Human> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Blade_Runner_2:_The_Edge_of_Human> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Blade_Runner_2:_The_Edge_of_Human> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .

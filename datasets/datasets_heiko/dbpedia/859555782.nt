@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Around_the_World_in_Eighty_Days> <http://dbpedia.org/ontology/illustrator> <http://dbpedia.org/resource/Alphonse-Marie-Adolphe_de_Neuville> .
+<http://dbpedia.org/resource/Around_the_World_in_Eighty_Days> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Around_the_World_in_Eighty_Days> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> .
+<http://dbpedia.org/resource/Around_the_World_in_Eighty_Days> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> .
+<http://dbpedia.org/resource/Alphonse-Marie-Adolphe_de_Neuville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Alphonse-Marie-Adolphe_de_Neuville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .

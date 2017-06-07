@@ -1,0 +1,65 @@
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67544 <http://rdf.data-vocabulary.org/#reviewer> "Alibi Staff"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67544 <http://rdf.data-vocabulary.org/#description> "One of the most beautiful patios in town. Benavidez is way the hell up there in the North Valley, but if you\u2019re looking for a good breakfast burrito, or simply someplace to sit and have some chips, queso and a mind-erasing Bloody Mary, this place is worth your time."@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67544 <http://rdf.data-vocabulary.org/#itemreviewed> "Casa de Benavidez"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#description> "Casa de Benavidez (New Mexican) at 8032 Fourth Street NW: 1 critical review. One of the most beautiful patios in town..."@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#site_name> "alibi"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#url> "http://alibi.com/restaurants/entity/257/Casa-de-Benavidez.html"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#longitude> "-106.63307462"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#image> "http://alibi.com/image/pix_id/20112/Sopaipilla-burger.jpg"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "100000498461812"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "1060594646"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "1209235353"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <https://www.facebook.com/2008/fbmladmins> "1230390133"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#street-address> "8032 Fourth Street NW"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#region> "NM"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#country-name> "US"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#locality> "Albuquerque"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#latitude> "35.1739833861"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#type> "restaurant"@en .
+<http://alibi.com/bars/entity/257/editorial/includes/quick_forms.php?form_switch=rss> <http://ogp.me/ns#title> "Casa de Benavidez"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67175 <http://rdf.data-vocabulary.org/#votes> "25"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67175 <http://rdf.data-vocabulary.org/#rating> "4.04"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66499 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/restaurants/city/Albuquerque/32/10/restaurants.html> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66499 <http://rdf.data-vocabulary.org/#title> "North Valley"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66477 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66477 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/bars/bars.html> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66477 <http://rdf.data-vocabulary.org/#title> "Bars"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66477 <http://rdf.data-vocabulary.org/#child> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66488 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67258 <http://rdf.data-vocabulary.org/#latitude> "35.1739833861"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67258 <http://rdf.data-vocabulary.org/#longitude> "-106.63307462"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://purl.org/goodrelations/v1#legalName> "Casa de Benavidez"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#address> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#address> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://purl.org/goodrelations/v1#hasPOS> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#name> "Casa de Benavidez"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66488 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66488 <http://rdf.data-vocabulary.org/#url> <http://alibi.com/bars/city/Albuquerque/bars.html> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66488 <http://rdf.data-vocabulary.org/#title> "Albuquerque"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66488 <http://rdf.data-vocabulary.org/#child> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN66499 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/priceRange> "$$$"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://purl.org/goodrelations/v1#ProductOrService> "New Mexican"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/serviceOptions> "Take Out / To-Go"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#category> "New Mexican"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/seatingOptions> "Outdoor Patio"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://purl.org/goodrelations/v1#OpeningHoursSpecification> "Mon-Thu 10:30 am-8 pm Fri: 9 am-9 pm Sat: 8 am-9 pm Sun: 8 am-3 pm"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#pricerange> "$$$"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "New Mexican"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/cuisine> "Booze Served"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/hoursOfOperation> "Mon-Thu 10:30 am-8 pm Fri: 9 am-9 pm Sat: 8 am-9 pm Sun: 8 am-3 pm"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Breakfast"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Brunch"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Lunch"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://search.yahoo.com/searchmonkey/commerce/mealOptions> "Dinner"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#geo> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67258 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 <http://rdf.data-vocabulary.org/#geo> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67258 .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 <http://rdf.data-vocabulary.org/#locality> "Albuquerque"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 <http://rdf.data-vocabulary.org/#street-address> "8032 Fourth Street NW"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dINSIDE5fN67214 <http://rdf.data-vocabulary.org/#region> "NM"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67175 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67175 <http://rdf.data-vocabulary.org/#count> "1"@en .
+_:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67175 <http://rdf.data-vocabulary.org/#itemreviewed> _:genid2d5abca548b9b143e38a6cdb3ea4ae87002dN67189 .
+<http://alibi.com/image/pix_id/20112/Sopaipilla-burger.jpg?image_height=94&image_width=94&orig_crop_bottom=109&orig_crop_top=108> <http://rdf.data-vocabulary.org/#photo> "http://alibi.com/image/pix_id/20112/Sopaipilla-burger.jpg"@en .
+_:genid2d20223f74da8643b7ad6c183f131686782dN66490 <http://rdf.data-vocabulary.org/#child> _:genid2d20223f74da8643b7ad6c183f131686782dN66534 .

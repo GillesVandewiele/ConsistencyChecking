@@ -1,0 +1,24 @@
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2dc11440d2e1874659a98e3bff331caec02dN71347 .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71299 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Review-aggregate> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71299 <http://rdf.data-vocabulary.org/#count> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71299 <http://rdf.data-vocabulary.org/#rating> "3"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71347 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71347 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71347 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71347 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$14.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:genid2dc11440d2e1874659a98e3bff331caec02dN71337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#description> "<p> Strengthen your legs in the water with the Advanced Trainer Kickboard.</p> <ul> <li> Larger size for more advanced training.</li> <li> Integrated handles for ideal swim training aid.</li> <li> Made of unbreakable polyethylene.</li> <li> Size: 21.75'' Long x 12.25'' Wide.</li> <li> Age: 8+ years.</li> </ul>" .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#name> "Poolmaster Advanced Trainer Swim And Kickboard" .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2dc11440d2e1874659a98e3bff331caec02dN71299 .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/ProductDetails.asp?ProductCode=7531309#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.kenmore.com/kenmore-elite-30inch-slide-in-electric-range-black/p-02241059000P?prdNo=20#product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bonnie_Tyler> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/West_Glamorgan> .
+<http://dbpedia.org/resource/Bonnie_Tyler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bonnie_Tyler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Bonnie_Tyler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Bonnie_Tyler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> .

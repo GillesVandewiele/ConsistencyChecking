@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Cypress_Hill> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rap_rock> .
+<http://dbpedia.org/resource/Cypress_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Cypress_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Cypress_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> .
+<http://dbpedia.org/resource/Rap_rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicGenre> .
+<http://dbpedia.org/resource/Rap_rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> .
+<http://dbpedia.org/resource/Rap_rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TopicalConcept> .

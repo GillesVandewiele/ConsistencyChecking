@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Bobby_Robson> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Bobby_Robson__7> .
+<http://dbpedia.org/resource/Bobby_Robson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Bobby_Robson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Bobby_Robson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerManager> .
+<http://dbpedia.org/resource/Bobby_Robson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsManager> .
+<http://dbpedia.org/resource/Bobby_Robson__7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .

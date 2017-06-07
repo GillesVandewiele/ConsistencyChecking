@@ -1,0 +1,11 @@
+_:genid2d78ca98a0e60c4a95829b9a3ec2956f8d2dN65669 <http://www.w3.org/2006/vcard/ns#postal-code> "89231"@en .
+_:genid2d78ca98a0e60c4a95829b9a3ec2956f8d2dN65669 <http://www.w3.org/2006/vcard/ns#locality> "Neu-Ulm"@en .
+_:genid2d78ca98a0e60c4a95829b9a3ec2956f8d2dN65669 <http://www.w3.org/2006/vcard/ns#street-address> "Finninger Stra\u00DFe 61"@en .
+_:genid2d78ca98a0e60c4a95829b9a3ec2956f8d2dN65669 <http://www.w3.org/2006/vcard/ns#country-name> "Deutschland"@en .
+<http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein#company> <http://xmlns.com/foaf/0.1/logo> <http://www.woelpert.de/images/layout/logo.png> .
+<http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein#company> <http://xmlns.com/foaf/0.1/page> <http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein> .
+<http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein#company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+<http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein#company> <http://purl.org/goodrelations/v1#legalName> "Theodor W\u00F6lpert GmbH & Co. KG"@en .
+<http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein#company> <http://www.w3.org/2006/vcard/ns#adr> _:genid2d78ca98a0e60c4a95829b9a3ec2956f8d2dN65669 .
+<http://www.woelpert.de/tag.php?tag=Garten+%26+Naturstein#company> <http://www.w3.org/2006/vcard/ns#tel> "+49-731-97660"@en .
+_:genid2d5dbce724254244f8928673f388b6f59f2dN67308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#QuantitativeValue> .

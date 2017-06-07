@@ -1,0 +1,20 @@
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74682 <http://rdf.data-vocabulary.org/#itemreviewed> "Pearl Izumi Men's ELITE LTD Bib Short - Only Size XXL Left!"@en .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2de6605d4e6a34432da54acd9a419f11142dN74661 .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://xmlns.com/foaf/0.1/depiction> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/2/0283.jpg> .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://purl.org/goodrelations/v1#description> "<p>The Pearl Izumi ELITE LTD Bib Short uses team- inspired construction and materials combined with original Pearl Izumi sublimated graphics. This short is the Pearl Izumi lunch ride favorite with gripper-less hem, silky moisture moving fabrics and the Tour de France proven ELITE 3D Chamois. </p> <p> </p><ul><li>ELITE Transfer fabric provides superior moisture transfer</li><li>Direct-Vent panels provide superior ventilation</li><li>Anatomic multi-panel design</li><li>Flatlock seams</li><li>ELITE 3D Chamois</li><li>9\" inseam [size medium]</li></ul>"@en .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://purl.org/goodrelations/v1#name> "Pearl Izumi Men's ELITE LTD Bib Short - Only Size XXL Left!"@en .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74682 <http://rdf.data-vocabulary.org/#votes> ""@en .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74682 <http://rdf.data-vocabulary.org/#count> ""@en .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74682 <http://rdf.data-vocabulary.org/#rating> _:genid2de6605d4e6a34432da54acd9a419f11142dN74698 .
+<http://www.triathletesports.com/pearl-izumi-men-s-elite-ltd-bib-short-2012.html#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74661 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74661 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74661 <http://purl.org/goodrelations/v1#hasCurrencyValue> "95.99"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Rating> .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74698 <http://rdf.data-vocabulary.org/#worst> "1"@en .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74698 <http://rdf.data-vocabulary.org/#best> "5"@en .
+_:genid2de6605d4e6a34432da54acd9a419f11142dN74698 <http://rdf.data-vocabulary.org/#average> "0"@en .
+<http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/2/0283.jpg> <http://rdf.data-vocabulary.org/#photo> <http://www.triathletesports.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/0/2/0283.jpg> .
+<http://www.californiadelicious.com/veuve-clicquot-champagne-gift-basket.html#TypeAndQuantityNode_312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#TypeAndQuantityNode> .

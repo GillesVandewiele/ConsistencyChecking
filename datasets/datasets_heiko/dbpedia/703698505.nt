@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Christopher_Reeve> <http://dbpedia.org/ontology/board> <http://dbpedia.org/resource/Christopher_and_Dana_Reeve_Foundation> .
+<http://dbpedia.org/resource/Christopher_Reeve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Christopher_Reeve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Christopher_and_Dana_Reeve_Foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Non-ProfitOrganisation> .
+<http://dbpedia.org/resource/Christopher_and_Dana_Reeve_Foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/Christopher_and_Dana_Reeve_Foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .

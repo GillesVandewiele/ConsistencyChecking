@@ -1,0 +1,24 @@
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71371 <http://rdf.data-vocabulary.org/#count> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71371 <http://rdf.data-vocabulary.org/#rating> "4"^^<http://www.w3.org/2001/XMLSchema#float> .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71419 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#UnitPriceSpecification> .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71419 <http://purl.org/goodrelations/v1#hasCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71419 <http://purl.org/goodrelations/v1#hasUnitOfMeasurement> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71419 <http://purl.org/goodrelations/v1#hasCurrencyValue> "$8.95"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#SKU> "" .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+_:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/xhtml> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#description> "A stylized take on the standard Silicone swim cap. Great for training and competition.<br><br>\u0095 Tear-resistant Silicone<br>\u0095 Non-slip interior surface" .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#name> "Zoot SWIMfit Silicone Cap" .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://rdf.data-vocabulary.org/#hasReview> _:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71371 .
+<http://purl.org/goodrelations/v1#Sell> <http://purl.org/goodrelations/v1#Brand> "" .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#PayPal> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#AmericanExpress> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#MasterCard> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#VISA> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#acceptedPaymentMethods> <http://purl.org/goodrelations/v1#DISCOVER> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#identifier> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#hasBusinessFunction> <http://purl.org/goodrelations/v1#Sell> .
+<http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> <http://purl.org/goodrelations/v1#hasPriceSpecification> _:genid2d2f8ea07dfe934da9a9c81606764c7b8e2dN71419 .
+<http://www.surfoutlet.com//#company> <http://purl.org/goodrelations/v1#offers> <http://www.swimoutlet.com/p/zoot-swimfit-silicone-cap-16227/?color=41662#offering> .
+_:genid2d32c5bb4701e84b7bb4f2bf8587d4b9bd2dN66127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdf.data-vocabulary.org/#Breadcrumb> .

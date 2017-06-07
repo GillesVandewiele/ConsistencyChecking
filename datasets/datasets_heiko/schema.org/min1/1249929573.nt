@@ -1,0 +1,7 @@
+_:nodeebab23f826ba6f34a82896c0e173eb <http://schema.org/name> "Green Beans With Almonds"@en .
+_:nodeebab23f826ba6f34a82896c0e173eb <http://schema.org/ingredients> "1 pound green beans, trimmed and washed"@en .
+_:nodeebab23f826ba6f34a82896c0e173eb <http://schema.org/ingredients> "4 tablespoons butter"@en .
+_:nodeebab23f826ba6f34a82896c0e173eb <http://schema.org/ingredients> "1/4 cup sliced almonds"@en .
+_:nodeebab23f826ba6f34a82896c0e173eb <http://schema.org/recipeYield> "Yield:"@en .
+_:nodeebab23f826ba6f34a82896c0e173eb <http://schema.org/recipeInstructions> "\n          \n                          1 pound green beans, trimmed and washed                          4 tablespoons butter                          1/4 cup sliced almonds                       \n        "@en .
+_:node50b9bab4cc8229460fc93bd7733120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .

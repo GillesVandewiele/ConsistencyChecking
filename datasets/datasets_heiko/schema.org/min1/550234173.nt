@@ -1,0 +1,11 @@
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/thumbnailUrl> <https://0.s3.envato.com/files/43205112/Thumbnail.jpg> .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/image> <https://0.s3.envato.com/files/43205111/Preview.jpg> .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/offers> _:node85fac4346929114f4e2f82d9c817fe .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/genre> <http://graphicriver.net/category/graphics/backgrounds> .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/description> "\n        Exquisite Backgrounds \u2013 Vol 6\nFeatures:\n\n10 High detailed backgrounds\nJPG Files\nJPG Resolution: 2600\u00D71600px\n\n\n\tDon\u2019t forget to rate this item, it helps a lot. Thanks \n      "@en .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/discussionUrl> <http://graphicriver.net/item/exquisite-backgrounds-vol-6/3605518//item/exquisite-backgrounds-vol-6/3605518/comments> .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/name> "  Exquisite Backgrounds - Vol 6\n"@en .
+_:node367ad0b8e1832b6902e289d232d1da <http://schema.org/interactionCount> "UserDownloads:2"@en .
+_:node85fac4346929114f4e2f82d9c817fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> .
+_:node85fac4346929114f4e2f82d9c817fe <http://schema.org/price> "4.00"@en .
+_:node44cd9d5bd6e61217ee556c3b9d655010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .

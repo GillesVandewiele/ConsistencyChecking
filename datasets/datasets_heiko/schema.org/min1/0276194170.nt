@@ -1,0 +1,7 @@
+_:node77f0706be9c1c4f7959fce1a71b3b <http://schema.org/name> "Fotografia Stock Libera da Diritti: Leonessa" .
+_:node77f0706be9c1c4f7959fce1a71b3b <http://schema.org/author> <http://it.dreamstime.com/ewanchesser_info> .
+_:node77f0706be9c1c4f7959fce1a71b3b <http://schema.org/description> "\nLeonessa che riposa nella tonalit\u00E0\n" .
+_:noded94a6c15a23888aa5a39e79cf04ec8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:noded94a6c15a23888aa5a39e79cf04ec8 <http://schema.org/logo> <http://it.dreamstime.com/fotografia-stock-libera-da-diritti-leonessa-image5322817///thumbs.dreamstime.com/images2012/logo.png> .
+_:noded94a6c15a23888aa5a39e79cf04ec8 <http://schema.org/url> <http://it.dreamstime.com/> .
+_:node2a80ac752c90641f1353af75ded5c199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
